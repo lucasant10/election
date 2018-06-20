@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../')
 import configparser
 import json
 import os
@@ -17,7 +15,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
 def load_file():
     tweets = list()
-    xl = pd.ExcelFile("/home/lucas/Dropbox/UFMG/Benevenuto/Dados Rotulados.xlsx")
+    xl = pd.ExcelFile("Dados Rotulados.xlsx")
     df = xl.parse("Sheet1")
 
     tweets = [tw for tw in df.iloc[:,1]]
@@ -27,7 +25,7 @@ def load_file():
 if __name__ == "__main__":
     
     cf = configparser.ConfigParser()
-    cf.read("../file_path.properties")
+    cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
     dir_in = path['dir_in']
 

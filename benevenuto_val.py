@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../')
 import argparse
 import configparser
 import numpy as np
@@ -17,7 +15,7 @@ EMBEDDING_DIM = 300
 
 def load_file():
     tweets = list()
-    xl = pd.ExcelFile("/home/lucas/Dropbox/UFMG/Benevenuto/Dados Rotulados.xlsx")
+    xl = pd.ExcelFile("Dados Rotulados.xlsx")
     df = xl.parse("Sheet1")
 
     tweets = [tw for tw in df.iloc[:,1]]
@@ -49,7 +47,7 @@ if __name__ == "__main__":
     MODEL_FILE = args.model
     
     cf = configparser.ConfigParser()
-    cf.read("../file_path.properties")
+    cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']

@@ -1,5 +1,4 @@
 import sys
-sys.path.append('../')
 import argparse
 import configparser
 import numpy as np
@@ -165,7 +164,7 @@ if __name__ == "__main__":
     print('Embedding Dimension: %d' % (EMBEDDING_DIM))
 
     cf = configparser.ConfigParser()
-    cf.read("../file_path.properties")
+    cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']
