@@ -5,7 +5,6 @@ from political_classification import PoliticalClassification
 from sklearn.metrics import classification_report, precision_recall_fscore_support
 from text_processor import TextProcessor
 import pandas as pd
-from sklearn.grid_search import GridSearchCV
 from sklearn.externals import joblib
 import gensim
 
@@ -14,13 +13,13 @@ W2VEC_MODEL_FILE = ''
 EMBEDDING_DIM = 300
 
 def load_file():
-    tweets = list()
+    texts = list()
     xl = pd.ExcelFile("Dados Rotulados.xlsx")
     df = xl.parse("Sheet1")
 
-    tweets = [tw for tw in df.iloc[:,1]]
+    texts = [tw for tw in df.iloc[:,1]]
     y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
-    return tweets, y_true
+    return texts, y_true
 
 def gen_data(texts):
     X = []

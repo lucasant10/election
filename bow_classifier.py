@@ -54,46 +54,46 @@ MAX_NB_WORDS = None
 # vocab generation
 vocab, reverse_vocab = {}, {}
 freq = defaultdict(int)
-tweets = {}
+texts = {}
 
 
 word2vec_model = None
 
 
-def gen_data(tweets, tw_class):
+def gen_data(texts, tx_class):
     y_map = dict()
-    for i, v in enumerate(sorted(set(tw_class))):
+    for i, v in enumerate(sorted(set(tx_class))):
         y_map[v] = i
     print(y_map)
 
     X, y = [], []
-    for i, tweet in enumerate(tweets):
+    for i, text in enumerate(texts):
         emb = np.zeros(EMBEDDING_DIM)
-        for word in tweet:
+        for word in text:
             try:
                 emb += word2vec_model[word]
             except:
                 pass
-        emb /= len(tweet)
+        emb /= len(text)
         X.append(emb)
-        y.append(y_map[tw_class[i]])
+        y.append(y_map[tx_class[i]])
     return X, y
 
 
-def select_tweets(tweets):
-    # selects the tweets as in mean_glove_embedding method
+def select_texts(texts):
+    # selects the texts as in mean_glove_embedding method
     # Processing
     X, Y = [], []
-    tweet_return = []
-    for tweet in tweets:
+    text_return = []
+    for text in texts:
         _emb = 0
-        for w in tweet:
+        for w in text:
             if w in word2vec_model:  # Check if embeeding there in GLove model
                 _emb += 1
-        if _emb:   # Not a blank tweet
-            tweet_return.append(tweet)
-    print('Tweets selected:', len(tweet_return))
-    return tweet_return
+        if _emb:   # Not a blank text
+            text_return.append(text)
+    print('texts selected:', len(text_return))
+    return text_return
 
 
 def get_model(m_type=None):
@@ -145,7 +145,7 @@ def classification_model(X, Y, model_type=None):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(
-        description='BagOfWords model for politics twitter')
+        description='BagOfWords model for politics texts')
     parser.add_argument('-m', '--model', choices=[
                         'logistic', 'gradient_boosting', 'random_forest', 'svm', 'svm_linear'], required=True)
     parser.add_argument('-f', '--embeddingfile', required=True)
@@ -173,24 +173,24 @@ if __name__ == "__main__":
                                                                      binary=False,
                                                                      unicode_errors="ignore")
     client = pymongo.MongoClient("mongodb://localhost:27017")
-    db = client.twitterdb
+    db = client.txitterdb
 
-    tweets = list()
-    tw_class = list()
+    texts = list()
+    tx_class = list()
 
     tmp = db.politics.find()
-    for tw in tmp:
-        tweets.append(tw['text_processed'].split(' '))
-        tw_class.append('politics')
+    for tx in tmp:
+        texts.append(tx['text_processed'].split(' '))
+        tx_class.append('politics')
 
     tmp = db.non_politics.find()
-    for tw in tmp:
-        tweets.append(tw['text_processed'].split(' '))
-        tw_class.append('non-politics')
+    for tx in tmp:
+        texts.append(tx['text_processed'].split(' '))
+        tx_class.append('non-politics')
 
-    tweets = select_tweets(tweets)
+    texts = select_texts(texts)
 
-    X, Y = gen_data(tweets, tw_class)
+    X, Y = gen_data(texts, tx_class)
 
     model = classification_model(X, Y, MODEL_TYPE)
     joblib.dump(model, dir_in + MODEL_TYPE + '_ben.skl')
