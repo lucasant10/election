@@ -19,7 +19,6 @@ import sklearn
 from collections import defaultdict
 from text_processor import TextProcessor
 from sklearn.grid_search import GridSearchCV
-import pymongo
 
 param_grid = {
     'random_forest': {
@@ -81,14 +80,14 @@ def gen_data(texts, tx_class):
 
 
 def select_texts(texts):
-    # selects the texts as in mean_glove_embedding method
+    # selects the texts as in embedding method
     # Processing
     X, Y = [], []
     text_return = []
     for text in texts:
         _emb = 0
         for w in text:
-            if w in word2vec_model:  # Check if embeeding there in GLove model
+            if w in word2vec_model:  # Check if embeeding there in embedding model
                 _emb += 1
         if _emb:   # Not a blank text
             text_return.append(text)
@@ -172,21 +171,27 @@ if __name__ == "__main__":
     word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v + W2VEC_MODEL_FILE,
                                                                      binary=False,
                                                                      unicode_errors="ignore")
-    client = pymongo.MongoClient("mongodb://localhost:27017")
-    db = client.txitterdb
+
+    tp = TextProcessor()
 
     texts = list()
     tx_class = list()
 
-    tmp = db.politics.find()
-    for tx in tmp:
-        texts.append(tx['text_processed'].split(' '))
-        tx_class.append('politics')
+    tmp = list()
+    with open(dir_in + 'politics.txt') as l_file:
+        for line in l_file:
+            tmp.append(line)
+            tx_class.append('politics')
+    
+    texts += tp.text_process(tmp, text_only=True)
 
-    tmp = db.non_politics.find()
-    for tx in tmp:
-        texts.append(tx['text_processed'].split(' '))
-        tx_class.append('non-politics')
+    tmp = list()
+    with open('non-politics.txt') as l_file:
+        for line in l_file:
+            tmp.append(line)
+            tx_class.append('non-politics')
+
+    texts += tp.text_process(tmp, text_only=True)
 
     texts = select_texts(texts)
 
@@ -195,8 +200,7 @@ if __name__ == "__main__":
     model = classification_model(X, Y, MODEL_TYPE)
     joblib.dump(model, dir_in + MODEL_TYPE + '_ben.skl')
 
-    # python BoW_benevenuto.py --model logistic --seed 42 -f cbow_s300.txt -d 300
-    # python BoW_benevenuto.py --model gradient_boosting --seed 42 -f cbow_s300.txt -d 300
-    # python BoW_benevenuto.py --model random_forest --seed 42 -f cbow_s300.txt -d 300
-    # python BoW_benevenuto.py --model svm_linear --seed 42 -f cbow_s300.txt -d 300
-    # python BoW_benevenuto.py --model svm --seed 42 -f cbow_s300.txt -d 300
+    # python bow_classifier.py --model logistic --seed 42 -f cbow_s300.txt -d 300
+    # python bow_classifier.py --model gradient_boosting --seed 42 -f cbow_s300.txt -d 300
+    # python bow_classifier.py --model random_forest --seed 42 -f cbow_s300.txt -d 300
+    # python bow_classifier.py --model svm --seed 42 -f cbow_s300.txt -d 300
