@@ -1,9 +1,6 @@
 import configparser
-import json
 import os
-from collections import defaultdict
 import math
-import pymongo
 import numpy as np
 from political_classification import PoliticalClassification
 from sklearn.metrics import classification_report, precision_recall_fscore_support
@@ -32,7 +29,7 @@ if __name__ == "__main__":
     tweets, y_true = load_file()
     tp = TextProcessor()
 
-    pc = PoliticalClassification('cnn_s300.h5', 'cnn_s300.npy', 18)
+    pc = PoliticalClassification('cnn_model.h5', 'cnn_dict.npy', 25)
 
     pol = ''
     n_pol = ''
@@ -50,10 +47,10 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     print(precision_recall_fscore_support(y_true, y_pred))
 
-    f =  open(dir_in + "CSCW/politics.txt", 'w')
-    f.write(pol)
-    f.close()
+    # f =  open(dir_in + "CSCW/politics.txt", 'w')
+    # f.write(pol)
+    # f.close()
 
-    f =  open(dir_in + "CSCW/non_politics.txt", 'w')
-    f.write(n_pol)
-    f.close()
+    # f =  open(dir_in + "CSCW/non_politics.txt", 'w')
+    # f.write(n_pol)
+    # f.close()

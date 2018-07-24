@@ -1,7 +1,6 @@
 import argparse
 import configparser
 import numpy as np
-from political_classification import PoliticalClassification
 from sklearn.metrics import classification_report, precision_recall_fscore_support
 from text_processor import TextProcessor
 import pandas as pd
@@ -65,20 +64,20 @@ if __name__ == "__main__":
     y_pred = model.predict(X)
     print(classification_report(y_true, y_pred))
     
-    for i, tx in enumerate(texts):
-        text = ' '.join(tx)
-        if y_pred[i]: 
-            pol += text + '\n'
-        else:
-            n_pol += text + '\n'
+    # for i, tx in enumerate(texts):
+    #     text = ' '.join(tx)
+    #     if y_pred[i]: 
+    #         pol += text + '\n'
+    #     else:
+    #         n_pol += text + '\n'
 
-    f =  open(dir_in + "CSCW/politics.txt", 'w')
-    f.write(pol)
-    f.close()
+    # f =  open(dir_in + "CSCW/politics.txt", 'w')
+    # f.write(pol)
+    # f.close()
 
-    f =  open(dir_in + "CSCW/non_politics.txt", 'w')
-    f.write(n_pol)
-    f.close()
+    # f =  open(dir_in + "CSCW/non_politics.txt", 'w')
+    # f.write(n_pol)
+    # f.close()
 
 
-# python benevenuto_val.py -m random_forest_ben.skl -f cbow_s300.txt
+# python bow_validation.py -m random_forest_ben.skl -f cbow_s300.txt
