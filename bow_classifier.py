@@ -6,7 +6,7 @@ def warn(*args, **kwargs):
     pass
 
 warnings.warn = warn
-
+import gc
 import datetime
 import sys
 import argparse
@@ -135,7 +135,7 @@ def get_model(m_type=None):
 
     return logreg
 
-def generate_roc_curve (classifier, X, y, model_type=MODEL_TYPE):
+def generate_roc_curve (classifier, X, y):
     cv = StratifiedKFold(n_splits=NO_OF_FOLDS)
     tprs = []
     aucs = []
@@ -183,11 +183,20 @@ def generate_roc_curve (classifier, X, y, model_type=MODEL_TYPE):
     plt.ylim([-0.05, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-    plt.title('ROC Curve for '+POLITICS_FILE+' - Classifier: '+ ' '.join(model_type.split('_')).capitalize())
+    model_name = MODEL_TYPE.split('_')
+    
+    if model_name is None:
+        model_name = MODEL_TYPE
+    else:
+        model_name = ' '.join (model_name)
+
+    input_file = POLITICS_FILE.replace('tmp/', '')
+
+    plt.title('ROC Curve for '+ input_file +' - Classifier: '+ model_name.capitalize())
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig("plots/roc_curve_"+model_type + POLITICS_FILE +".png")
+    plt.savefig("plots/roc_curve_" + model_name + '_' + input_file +".png")
     plt.clf()
 
 
@@ -284,7 +293,14 @@ if __name__ == "__main__":
     X, Y = gen_data(texts, tx_class)
 
     model = classification_model(X, Y, MODEL_TYPE)
-    joblib.dump(model, dir_in + MODEL_TYPE + POLITICS_FILE+'_ben.skl')
+
+    input_file = POLITICS_FILE.replace('tmp/', '')
+
+    joblib.dump(model, dir_in + MODEL_TYPE + input_file+'_ben.skl')
+
+    gc.collect()
+
+    exit(0)
 
     # python bow_classifier.py --model logistic --seed 42 -f cbow_s300.txt -d 300
     # python bow_classifier.py --model gradient_boosting --seed 42 -f cbow_s300.txt -d 300

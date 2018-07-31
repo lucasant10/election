@@ -39,7 +39,7 @@ for k in range(1, len(files)+1):
 
 
 
-        for model in ['logistic', 'random_forest', 'gradient_boosting', 'svm']:
+        for model in ['logistic', 'gradient_boosting', 'svm']:
             print ('->>>> Running for {}'.format(('_'.join(features))))
             call (["python", 
                 "bow_classifier.py", 
