@@ -6,7 +6,11 @@ from gensim import corpora, matutils
 import gensim
 import re
 from unicodedata import normalize
+import matplotlib
+matplotlib.use("agg")
+
 import matplotlib.pyplot as plt
+
 import numpy as np
 import math
 

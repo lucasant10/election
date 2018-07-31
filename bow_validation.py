@@ -1,15 +1,27 @@
+import warnings
+warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore", message="numpy.dtype size changed")
+warnings.filterwarnings("ignore", message="numpy.ufunc size changed")
+import matplotlib
+matplotlib.use("agg")
+import matplotlib.pyplot as plt
+
 import argparse
+import seaborn as sn
 import configparser
 import numpy as np
-from sklearn.metrics import classification_report, precision_recall_fscore_support
+from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
 
+
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
 EMBEDDING_DIM = 300
+
+
 
 def load_file():
     texts = list()
@@ -17,11 +29,38 @@ def load_file():
     df = xl.parse("Sheet1")
 
     texts = [tw for tw in df.iloc[:,1]]
+    
     y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
+    
     return texts, y_true
+def plot_confusion_matrix (confusion_matrix_array):
+
+    df_cm = pd.DataFrame(confusion_matrix_array, range(2), range(2))
+
+    #plt.figure(figsize = (10,7))
+
+    plot = df_cm.plot()
+    fig = plot.get_figure()
+    
+
+    ax = plt.subplot()
+    
+    sn.heatmap(df_cm, annot=True, fmt='g', ax = ax, annot_kws={"size": 16})# font size
+    
+    # labels, title and ticks
+    ax.set_xlabel('Predicted')
+    ax.set_ylabel('Real')
+    ax.set_title('Confusion Matrix '+ MODEL_FILE)
+    ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
+    ax.xaxis.set_ticklabels(['Non Political', 'Political'])
+
+    fig.add_subplot(ax)
+    
+    fig.savefig('plots/confusion_matrix_'+MODEL_FILE + '.png', dpi=400)
 
 def gen_data(texts):
     X = []
+    i = 0
     for text in texts:
         emb = np.zeros(EMBEDDING_DIM)
         for word in text:
@@ -29,6 +68,11 @@ def gen_data(texts):
                 emb += word2vec_model[word]
             except:
                 pass
+        if not len (text):
+            print (texts[i-1])
+            print (i)
+            exit(0)
+        i +=1
         emb /= len(text)
         X.append(emb)
     return X
@@ -50,10 +94,14 @@ if __name__ == "__main__":
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']
 
+    print ('Loading word2vec model...')
     word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v + W2VEC_MODEL_FILE,
                                                                      binary=False,
                                                                      unicode_errors="ignore")
+    print ('Loading excel validation file...')
     texts, y_true = load_file()
+
+    print ('Loading '+MODEL_FILE+' file...')
     model = joblib.load(dir_in + MODEL_FILE)
     pol = ''
     n_pol = ''
@@ -61,8 +109,21 @@ if __name__ == "__main__":
     tp = TextProcessor()
     texts = tp.text_process(texts, text_only=True)
     X = gen_data(texts)
+
+    print ('Predicting...')
+
     y_pred = model.predict(X)
+
+    print ('Classification Report')
     print(classification_report(y_true, y_pred))
+
+    print ('Confusion Matrix')
+    y_true = pd.Series(y_true)
+    y_pred = pd.Series(y_pred)
+
+    print(pd.crosstab (y_true, y_pred, rownames=['Real'], colnames=['Predict'], margins=True))
+
+    plot_confusion_matrix (confusion_matrix(y_true, y_pred))
     
     # for i, tx in enumerate(texts):
     #     text = ' '.join(tx)

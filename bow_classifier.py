@@ -1,12 +1,25 @@
+
+import warnings
+
+warnings.simplefilter("ignore")
+def warn(*args, **kwargs):
+    pass
+
+warnings.warn = warn
+
+import datetime
 import sys
 import argparse
 import configparser
 import numpy as np
+import matplotlib
+matplotlib.use("agg")
+import matplotlib.pyplot as plt
 from sklearn.metrics import make_scorer, f1_score, accuracy_score, recall_score, precision_score, classification_report, precision_recall_fscore_support
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
-from sklearn.model_selection import cross_val_score, cross_val_predict
+from sklearn.model_selection import cross_val_score, cross_val_predict, StratifiedKFold, train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import make_scorer, f1_score, accuracy_score, recall_score, precision_score, classification_report, precision_recall_fscore_support
+from sklearn.metrics import make_scorer, f1_score, accuracy_score, recall_score, precision_score, classification_report, precision_recall_fscore_support, roc_curve, auc
 from sklearn.utils import shuffle
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
 from sklearn.svm import SVC, LinearSVC
@@ -14,11 +27,17 @@ from sklearn.model_selection import KFold
 from sklearn.linear_model import LogisticRegression
 from sklearn.externals import joblib
 from sklearn.utils import shuffle
+from scipy import interp
 import gensim
 import sklearn
 from collections import defaultdict
 from text_processor import TextProcessor
 from sklearn.grid_search import GridSearchCV
+
+from time import gmtime, strftime
+
+def log (text):
+    print('{} -> {}'.format(strftime("%Y-%m-%d %H:%M:%S", gmtime()), text) ) 
 
 param_grid = {
     'random_forest': {
@@ -31,7 +50,7 @@ param_grid = {
     },
     'logistic': {},
     'gradient_boosting': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
-    'svm':{'kernel': ['rbf', 'linear'], 'C': [1, 10], 'gamma': [0.001, 0.0001]}
+    'svm':{'kernel': ['rbf', 'linear'], 'C': [1, 10], 'gamma': [0.001, 0.0001], 'probability':[True, True]}
 }
 
 # Preparing the text data
@@ -48,7 +67,8 @@ TOKENIZER = None
 NO_OF_FOLDS = 10
 SEED = 42
 MAX_NB_WORDS = None
-
+POLITICS_FILE = 'politics.txt' 
+NON_POLITICS_FILE = 'non-politics.txt' 
 
 # vocab generation
 vocab, reverse_vocab = {}, {}
@@ -115,16 +135,74 @@ def get_model(m_type=None):
 
     return logreg
 
+def generate_roc_curve (classifier, X, y, model_type=MODEL_TYPE):
+    cv = StratifiedKFold(n_splits=NO_OF_FOLDS)
+    tprs = []
+    aucs = []
+    mean_fpr = np.linspace(0, 1, 100)
+
+    i = 0
+
+    for train, test in cv.split(X, y):
+        x_train = np.array([X[i] for i in train])
+        y_train = np.array([y[i] for i in train])
+
+        x_test = np.array([X[i] for i in test])
+        y_test = np.array([y[i] for i in test])
+
+        probas_ = classifier.fit(x_train, y_train).predict_proba(x_test)
+        # Compute ROC curve and area the curve
+        fpr, tpr, thresholds = roc_curve(y_test, probas_[:, 1])
+        tprs.append(interp(mean_fpr, fpr, tpr))
+        tprs[-1][0] = 0.0
+        roc_auc = auc(fpr, tpr)
+        aucs.append(roc_auc)
+        plt.plot(fpr, tpr, lw=1, alpha=0.3,
+                label='ROC fold %d (AUC = %0.2f)' % (i, roc_auc))
+
+        i += 1
+
+    plt.plot([0, 1], [0, 1], linestyle='--', lw=2, color='r',
+            label='Luck', alpha=.8)
+
+    mean_tpr = np.mean(tprs, axis=0)
+    mean_tpr[-1] = 1.0
+    mean_auc = auc(mean_fpr, mean_tpr)
+    std_auc = np.std(aucs)
+    plt.plot(mean_fpr, mean_tpr, color='b',
+            label=r'Mean ROC (AUC = %0.2f $\pm$ %0.2f)' % (mean_auc, std_auc),
+            lw=2, alpha=.8)
+
+    std_tpr = np.std(tprs, axis=0)
+    tprs_upper = np.minimum(mean_tpr + std_tpr, 1)
+    tprs_lower = np.maximum(mean_tpr - std_tpr, 0)
+    plt.fill_between(mean_fpr, tprs_lower, tprs_upper, color='grey', alpha=.2,
+                    label=r'$\pm$ 1 std. dev.')
+
+    plt.xlim([-0.05, 1.05])
+    plt.ylim([-0.05, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('ROC Curve for '+POLITICS_FILE+' - Classifier: '+ ' '.join(model_type.split('_')).capitalize())
+    plt.legend(loc="lower right")
+
+    #plt.show()
+    plt.savefig("plots/roc_curve_"+model_type + POLITICS_FILE +".png")
+    plt.clf()
+
 
 def classification_model(X, Y, model_type=None):
     X, Y = shuffle(X, Y, random_state=SEED)
     print("Model Type:", model_type)
     #predictions = cross_val_predict(logreg, X, Y, cv=NO_OF_FOLDS)
     model = GridSearchCV(estimator=get_model(model_type),
-                         param_grid=param_grid[model_type], n_jobs=-1, verbose=2)
+                         param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
 
-    scores1 = cross_val_score(model.fit(X, Y), X, Y,
-                              cv=NO_OF_FOLDS, scoring='precision_weighted')
+    scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
+    
+    generate_roc_curve (model, X, Y)
+    
+
     print("Precision(avg): %0.3f (+/- %0.3f)" %
           (scores1.mean(), scores1.std() * 2))
 
@@ -138,6 +216,7 @@ def classification_model(X, Y, model_type=None):
     print("F1-score(avg): %0.3f (+/- %0.3f)" %
           (scores3.mean(), scores3.std() * 2))
 
+    
     return model
 
 
@@ -151,6 +230,8 @@ if __name__ == "__main__":
     parser.add_argument('-d', '--dimension', required=True)
     parser.add_argument('-s', '--seed', default=SEED)
     parser.add_argument('--folds', default=NO_OF_FOLDS)
+    parser.add_argument('--politicsfile', default=POLITICS_FILE)
+    parser.add_argument('--nonpoliticsfile', default=NON_POLITICS_FILE)
 
     args = parser.parse_args()
     MODEL_TYPE = args.model
@@ -158,9 +239,14 @@ if __name__ == "__main__":
     EMBEDDING_DIM = int(args.dimension)
     SEED = int(args.seed)
     NO_OF_FOLDS = int(args.folds)
+    POLITICS_FILE = args.politicsfile
+    NON_POLITICS_FILE = args.nonpoliticsfile
 
-    print('Word2Vec embedding: %s' % (W2VEC_MODEL_FILE))
-    print('Embedding Dimension: %d' % (EMBEDDING_DIM))
+    print ('################ {} ##############'.format(MODEL_TYPE))
+    log('Running {} with Word2Vec embedding: {}'.format(MODEL_TYPE, W2VEC_MODEL_FILE))
+    log('Embedding Dimension: {}'.format (EMBEDDING_DIM))
+    log('Politics File: {}'.format(POLITICS_FILE))
+    log('Non-politics File: {}'.format (NON_POLITICS_FILE))
 
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
@@ -178,7 +264,7 @@ if __name__ == "__main__":
     tx_class = list()
 
     tmp = list()
-    with open(dir_in + 'politics.txt') as l_file:
+    with open(POLITICS_FILE) as l_file:
         for line in l_file:
             tmp.append(line)
             tx_class.append('politics')
@@ -186,7 +272,7 @@ if __name__ == "__main__":
     texts += tp.text_process(tmp, text_only=True)
 
     tmp = list()
-    with open('non-politics.txt') as l_file:
+    with open(NON_POLITICS_FILE) as l_file:
         for line in l_file:
             tmp.append(line)
             tx_class.append('non-politics')
@@ -198,7 +284,7 @@ if __name__ == "__main__":
     X, Y = gen_data(texts, tx_class)
 
     model = classification_model(X, Y, MODEL_TYPE)
-    joblib.dump(model, dir_in + MODEL_TYPE + '_ben.skl')
+    joblib.dump(model, dir_in + MODEL_TYPE + POLITICS_FILE+'_ben.skl')
 
     # python bow_classifier.py --model logistic --seed 42 -f cbow_s300.txt -d 300
     # python bow_classifier.py --model gradient_boosting --seed 42 -f cbow_s300.txt -d 300

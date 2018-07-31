@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import sys
 import argparse
 from keras.preprocessing.sequence import pad_sequences
@@ -258,6 +259,7 @@ if __name__ == "__main__":
     tmp = list()
     with open(dir_in + 'politics.txt') as l_file:
         for line in l_file:
+            line = unicode(line, "utf-8")
             tmp.append(line)
             tx_class.append('politics')
     
@@ -266,6 +268,7 @@ if __name__ == "__main__":
     tmp = list()
     with open('non-politics.txt') as l_file:
         for line in l_file:
+            line = unicode(line, "utf-8")
             tmp.append(line)
             tx_class.append('non-politics')
 
