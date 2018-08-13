@@ -1,4 +1,12 @@
 # -*- coding: utf-8 -*-
+import warnings
+
+warnings.simplefilter("ignore")
+def warn(*args, **kwargs):
+    pass
+
+warnings.warn = warn
+
 import sys
 import argparse
 from keras.preprocessing.sequence import pad_sequences
@@ -19,6 +27,9 @@ import json
 import h5py
 import math
 import os
+from utils import save_report_to_csv
+
+from bow_classifier import generate_roc_curve
 from text_processor import TextProcessor
 #os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
@@ -46,7 +57,8 @@ BATCH_SIZE = 30
 SCALE_LOSS_FUN = None
 MODEL_NAME = 'cnn_model'
 DICT_NAME = 'cnn_dict'
-
+POLITICS_FILE = 'politics.txt' 
+NON_POLITICS_FILE = 'non-politics.txt' 
 word2vec_model = None
 
 def get_embedding_weights():
@@ -194,9 +206,9 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
 
         y_pred = model.predict_on_batch(X_test)
         y_pred = np.argmax(y_pred, axis=1)
-        print(classification_report(y_test, y_pred))
-        print(precision_recall_fscore_support(y_test, y_pred))
-        print(y_pred)
+        #print(classification_report(y_test, y_pred))
+        #print(precision_recall_fscore_support(y_test, y_pred))
+        #print(y_pred)
         p += precision_score(y_test, y_pred, average='weighted')
         p1 += precision_score(y_test, y_pred, average='micro')
         r += recall_score(y_test, y_pred, average='weighted')
@@ -208,6 +220,8 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
     print("average precision is %f" % (p / NO_OF_FOLDS))
     print("average recall is %f" % (r / NO_OF_FOLDS))
     print("average f1 is %f" % (f1 / NO_OF_FOLDS))
+
+    
 
     print("micro results are")
     print("average precision is %f" % (p1 / NO_OF_FOLDS))
@@ -226,6 +240,9 @@ if __name__ == "__main__":
     parser.add_argument('--learn-embeddings', action='store_true', default=False)
     parser.add_argument('--initialize-weights', choices=['random', 'word2vec'], required=True)
     parser.add_argument('--scale-loss-function', action='store_true', default=False)
+    parser.add_argument('--politicsfile', default=POLITICS_FILE)
+    parser.add_argument('--nonpoliticsfile', default=NON_POLITICS_FILE)
+
     args = parser.parse_args()
 
     W2VEC_MODEL_FILE = args.embeddingfile
@@ -235,7 +252,9 @@ if __name__ == "__main__":
     EPOCHS = int(args.epochs)
     BATCH_SIZE = int(args.batch_size)
     SCALE_LOSS_FUN = args.scale_loss_function
-    
+    POLITICS_FILE = args.politicsfile
+    NON_POLITICS_FILE = args.nonpoliticsfile
+
     np.random.seed(SEED)
     print('W2VEC embedding: %s' % (W2VEC_MODEL_FILE))
     print('Embedding Dimension: %d' % (EMBEDDING_DIM))
@@ -257,18 +276,16 @@ if __name__ == "__main__":
     tx_class = list()
 
     tmp = list()
-    with open(dir_in + 'politics.txt') as l_file:
+    with open(POLITICS_FILE) as l_file:
         for line in l_file:
-            line = unicode(line, "utf-8")
             tmp.append(line)
             tx_class.append('politics')
     
     texts += tp.text_process(tmp, text_only=True)
 
     tmp = list()
-    with open('non-politics.txt') as l_file:
+    with open(NON_POLITICS_FILE) as l_file:
         for line in l_file:
-            line = unicode(line, "utf-8")
             tmp.append(line)
             tx_class.append('non-politics')
 
@@ -285,8 +302,11 @@ if __name__ == "__main__":
     W = get_embedding_weights()
     model = cnn_model(data.shape[1], EMBEDDING_DIM)
     p, r, f1 = train_CNN(data, y, EMBEDDING_DIM, model, W)
-    model.save(dir_in + MODEL_NAME + ".h5")
-    np.save(dir_in + DICT_NAME + '.npy', vocab)
+
+    input_file = POLITICS_FILE.replace('tmp/', '')
+
+    model.save(dir_in + MODEL_NAME + input_file + ".h5")
+    np.save(dir_in + DICT_NAME + input_file +'.npy', vocab)
     
 
 #python cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec --scale-loss-function

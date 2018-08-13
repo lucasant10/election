@@ -2,10 +2,11 @@
 import itertools
 import glob
 from subprocess import call
-
-#filenames = ['file1.txt', 'file2.txt']
-
+import os
 out = glob.glob("in/*.txt")
+
+if os.path.isfile("./training_report.csv"):
+    os.remove("./training_report.csv")
 
 files = set([i.replace('in/', '').replace('_non-politics.txt', '').replace('_politics.txt', '') for i in out])
 for k in range(1, len(files)+1):
@@ -39,8 +40,8 @@ for k in range(1, len(files)+1):
 
 
 
-        for model in ['logistic', 'gradient_boosting', 'svm']:
-            print ('->>>> Running for {}'.format(('_'.join(features))))
+        for model in ['logistic', 'gradient_boosting', 'random_forest', 'svm']:
+            print ('->>>> Running {} for {}'.format(model, ('_'.join(features))))
             call (["python", 
                 "bow_classifier.py", 
                 "--model", model, 
@@ -50,3 +51,30 @@ for k in range(1, len(files)+1):
                 "--politicsfile", file_in_politics,
                 "--nonpoliticsfile", file_in_non_politics
             ])
+
+            #python bow_validation.py -m random_forest_ben.skl -f cbow_s300.txt
+
+            skl_file = model + '_'+ file_in_politics.replace('tmp/', '') +'_ben.skl'
+            
+            print ('->>>> Running validation process for {} with {}'.format(model, skl_file))
+
+            call (["python", 
+                "bow_validation.py", 
+                "-m", skl_file,
+                "-f", "cbow_s300.txt"
+            ])
+
+        print ('->>>> Running CNN for {}'.format(('_'.join(features))))
+        # python3 cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec 
+        call (["python", 
+                "cnn.py", 
+                "-f", "cbow_s300.txt",
+                "--epochs", "10",
+                "-d", "300",
+                "--batch-size", "30",
+                "--initialize-weights", "word2vec",
+                "--politicsfile", file_in_politics,
+                "--nonpoliticsfile", file_in_non_politics
+            ])
+    
+# python3 run.py

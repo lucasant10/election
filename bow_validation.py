@@ -15,7 +15,9 @@ from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
-
+import gc
+from bow_classifier import generate_roc_curve
+from utils import report2dict
 
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
@@ -110,12 +112,14 @@ if __name__ == "__main__":
     texts = tp.text_process(texts, text_only=True)
     X = gen_data(texts)
 
+    generate_roc_curve (model, X, y_true, MODEL_FILE)
+    
     print ('Predicting...')
 
     y_pred = model.predict(X)
 
     print ('Classification Report')
-    print(classification_report(y_true, y_pred))
+    print(report2dict(classification_report(y_true, y_pred)))
 
     print ('Confusion Matrix')
     y_true = pd.Series(y_true)
@@ -142,3 +146,6 @@ if __name__ == "__main__":
 
 
 # python bow_validation.py -m random_forest_ben.skl -f cbow_s300.txt
+
+gc.collect()
+exit(0)

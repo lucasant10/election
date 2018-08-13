@@ -33,7 +33,7 @@ import sklearn
 from collections import defaultdict
 from text_processor import TextProcessor
 from sklearn.grid_search import GridSearchCV
-
+from utils import save_report_to_csv
 from time import gmtime, strftime
 
 def log (text):
@@ -135,7 +135,7 @@ def get_model(m_type=None):
 
     return logreg
 
-def generate_roc_curve (classifier, X, y):
+def generate_roc_curve (classifier, X, y, model_name=None):
     cv = StratifiedKFold(n_splits=NO_OF_FOLDS)
     tprs = []
     aucs = []
@@ -150,7 +150,8 @@ def generate_roc_curve (classifier, X, y):
         x_test = np.array([X[i] for i in test])
         y_test = np.array([y[i] for i in test])
 
-        probas_ = classifier.fit(x_train, y_train).predict_proba(x_test)
+        #probas_ = classifier.fit(x_train, y_train).predict_proba(x_test)
+        probas_ = classifier.predict_proba(x_test)
         # Compute ROC curve and area the curve
         fpr, tpr, thresholds = roc_curve(y_test, probas_[:, 1])
         tprs.append(interp(mean_fpr, fpr, tpr))
@@ -183,7 +184,9 @@ def generate_roc_curve (classifier, X, y):
     plt.ylim([-0.05, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-    model_name = MODEL_TYPE.split('_')
+    
+    if model_name is None:
+        model_name = MODEL_TYPE.split('_')
     
     if model_name is None:
         model_name = MODEL_TYPE
@@ -199,6 +202,8 @@ def generate_roc_curve (classifier, X, y):
     plt.savefig("plots/roc_curve_" + model_name + '_' + input_file +".png")
     plt.clf()
 
+    return mean_auc, std_auc
+
 
 def classification_model(X, Y, model_type=None):
     X, Y = shuffle(X, Y, random_state=SEED)
@@ -209,23 +214,37 @@ def classification_model(X, Y, model_type=None):
 
     scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
-    generate_roc_curve (model, X, Y)
+    #mean_auc, std_auc = generate_roc_curve (model, X, Y)
     
 
     print("Precision(avg): %0.3f (+/- %0.3f)" %
           (scores1.mean(), scores1.std() * 2))
+    precision_score_mean = scores1.mean()
+    precision_score_mean = scores1.std() * 2
 
     scores2 = cross_val_score(
         model, X, Y, cv=NO_OF_FOLDS, scoring='recall_weighted')
     print("Recall(avg): %0.3f (+/- %0.3f)" %
           (scores2.mean(), scores2.std() * 2))
 
+    recall_score_mean = scores2.mean()
+    recall_score_std = scores2.std() * 2
+
     scores3 = cross_val_score(
         model, X, Y, cv=NO_OF_FOLDS, scoring='f1_weighted')
     print("F1-score(avg): %0.3f (+/- %0.3f)" %
           (scores3.mean(), scores3.std() * 2))
 
-    
+    f1_score_mean = scores3.mean()
+    f1_score_std = scores3.std() * 2
+
+    save_report_to_csv ('training_report.csv', [
+        POLITICS_FILE,
+        precision_score_mean,precision_score_mean,
+        recall_score_mean,recall_score_std,
+        f1_score_mean,f1_score_std,
+    ])
+
     return model
 
 
@@ -296,7 +315,7 @@ if __name__ == "__main__":
 
     input_file = POLITICS_FILE.replace('tmp/', '')
 
-    joblib.dump(model, dir_in + MODEL_TYPE + input_file+'_ben.skl')
+    joblib.dump(model, dir_in + MODEL_TYPE + '_'+ input_file+'_ben.skl')
 
     gc.collect()
 

@@ -3,11 +3,15 @@ import os
 import math
 import numpy as np
 from political_classification import PoliticalClassification
-from sklearn.metrics import classification_report, precision_recall_fscore_support
+from sklearn.metrics import roc_curve, auc, classification_report, precision_recall_fscore_support
 from text_processor import TextProcessor
 import pandas as pd
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+
+import matplotlib
+matplotlib.use("agg")
+import matplotlib.pyplot as plt
 
 
 def load_file():
@@ -46,6 +50,31 @@ if __name__ == "__main__":
 
     print(classification_report(y_true, y_pred))
     print(precision_recall_fscore_support(y_true, y_pred))
+
+    fpr_keras, tpr_keras, thresholds_keras = roc_curve(y_true, y_pred)
+    auc_keras = auc(fpr_keras, tpr_keras)
+
+    plt.figure(1)
+    plt.plot([0, 1], [0, 1], 'k--')
+    plt.plot(fpr_keras, tpr_keras, label='CNN (AUC = {:.3f})'.format(auc_keras))
+    #plt.plot(fpr_rf, tpr_rf, label='RF (area = {:.3f})'.format(auc_rf))
+    plt.xlabel('False positive rate')
+    plt.ylabel('True positive rate')
+    plt.title('ROC curve')
+    plt.legend(loc='best')
+    plt.savefig('plots/cnn_roc_curve.png', dpi=400)
+    # Zoom in view of the upper left corner.
+    plt.figure(2)
+    plt.xlim(0, 0.2)
+    plt.ylim(0.8, 1)
+    plt.plot([0, 1], [0, 1], 'k--')
+    plt.plot(fpr_keras, tpr_keras, label='CNN (AUC = {:.3f})'.format(auc_keras))
+    #plt.plot(fpr_rf, tpr_rf, label='RF (area = {:.3f})'.format(auc_rf))
+    plt.xlabel('False positive rate')
+    plt.ylabel('True positive rate')
+    plt.title('ROC curve (zoomed in at top left)')
+    plt.legend(loc='best')
+    plt.savefig('plots/cnn_roc_curve_zoom.png', dpi=400)
 
     # f =  open(dir_in + "CSCW/politics.txt", 'w')
     # f.write(pol)
