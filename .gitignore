@@ -12,6 +12,8 @@ doc3
 in
 tmp
 plots
+*.h5
+*.npy
 *.skl
 
 # Distribution / packaging
