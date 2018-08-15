@@ -55,8 +55,8 @@ LEARN_EMBEDDINGS = None
 EPOCHS = 10
 BATCH_SIZE = 30
 SCALE_LOSS_FUN = None
-MODEL_NAME = 'cnn_model'
-DICT_NAME = 'cnn_dict'
+MODEL_NAME = 'cnn_model_'
+DICT_NAME = 'cnn_dict_'
 POLITICS_FILE = 'politics.txt' 
 NON_POLITICS_FILE = 'non-politics.txt' 
 word2vec_model = None
@@ -303,7 +303,7 @@ if __name__ == "__main__":
     model = cnn_model(data.shape[1], EMBEDDING_DIM)
     p, r, f1 = train_CNN(data, y, EMBEDDING_DIM, model, W)
 
-    input_file = POLITICS_FILE.replace('tmp/', '')
+    input_file = POLITICS_FILE.replace('tmp/', '').strip()
 
     model.save(dir_in + MODEL_NAME + input_file + ".h5")
     np.save(dir_in + DICT_NAME + input_file +'.npy', vocab)

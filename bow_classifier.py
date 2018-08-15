@@ -193,6 +193,7 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     else:
         model_name = ' '.join (model_name)
 
+    model_name = model_name.strip()
     input_file = POLITICS_FILE.replace('tmp/', '')
 
     plt.title('ROC Curve for '+ input_file +' - Classifier: '+ model_name.capitalize())
@@ -239,7 +240,8 @@ def classification_model(X, Y, model_type=None):
     f1_score_std = scores3.std() * 2
 
     save_report_to_csv ('training_report.csv', [
-        POLITICS_FILE,
+        model_type, 
+        POLITICS_FILE.replace('tmp/', ''),
         precision_score_mean,precision_score_mean,
         recall_score_mean,recall_score_std,
         f1_score_mean,f1_score_std,

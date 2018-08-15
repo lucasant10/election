@@ -17,7 +17,7 @@ from sklearn.externals import joblib
 import gensim
 import gc
 from bow_classifier import generate_roc_curve
-from utils import report2dict
+from utils import save_report_to_csv
 
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
@@ -119,7 +119,16 @@ if __name__ == "__main__":
     y_pred = model.predict(X)
 
     print ('Classification Report')
-    print(report2dict(classification_report(y_true, y_pred)))
+    print(classification_report(y_true, y_pred))
+    p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
+
+    save_report_to_csv ('validation_report.csv', [
+        MODEL_FILE, 
+        p,
+        r, 
+        f1,
+        s
+    ])
 
     print ('Confusion Matrix')
     y_true = pd.Series(y_true)

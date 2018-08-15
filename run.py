@@ -8,6 +8,9 @@ out = glob.glob("in/*.txt")
 if os.path.isfile("./training_report.csv"):
     os.remove("./training_report.csv")
 
+if os.path.isfile("./validation_report.csv"):
+    os.remove("./validation_report.csv")
+
 files = set([i.replace('in/', '').replace('_non-politics.txt', '').replace('_politics.txt', '') for i in out])
 for k in range(1, len(files)+1):
     inputs = list(itertools.combinations (files, k))
@@ -67,14 +70,22 @@ for k in range(1, len(files)+1):
         print ('->>>> Running CNN for {}'.format(('_'.join(features))))
         # python3 cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec 
         call (["python", 
-                "cnn.py", 
-                "-f", "cbow_s300.txt",
-                "--epochs", "10",
-                "-d", "300",
-                "--batch-size", "30",
-                "--initialize-weights", "word2vec",
-                "--politicsfile", file_in_politics,
-                "--nonpoliticsfile", file_in_non_politics
-            ])
+            "cnn.py", 
+            "-f", "cbow_s300.txt",
+            "--epochs", "10",
+            "-d", "300",
+            "--batch-size", "30",
+            "--initialize-weights", "word2vec",
+            "--politicsfile", file_in_politics,
+            "--nonpoliticsfile", file_in_non_politics
+        ])
+        
+        print ('->>>> Running CNN Validation for {}'.format(('_'.join(features))))
+        # python3 nn_validation.py -h5 h5_file_name -npy npy_file_name 
+        call (["python", 
+            "nn_validation.py", 
+            "-h5", 'cnn_model_' + file_in_politics.replace('tmp/', '').strip() + ".h5",
+            "-npy",'cnn_dict_' + file_in_politics.replace('tmp/', '').strip() + ".npy"
+        ])
     
 # python3 run.py

@@ -1,18 +1,22 @@
 import configparser
 import os
+import argparse
 import math
 import numpy as np
 from political_classification import PoliticalClassification
 from sklearn.metrics import roc_curve, auc, classification_report, precision_recall_fscore_support
 from text_processor import TextProcessor
 import pandas as pd
-import os
+from utils import save_report_to_csv
+
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
 import matplotlib
 matplotlib.use("agg")
 import matplotlib.pyplot as plt
 
+H5_FILE = 'cnn_model.h5'
+NPY_FILE = 'cnn_model.npy'
 
 def load_file():
     tweets = list()
@@ -25,6 +29,11 @@ def load_file():
 
 if __name__ == "__main__":
     
+    parser = argparse.ArgumentParser(
+        description='Validation political CNN model')
+    parser.add_argument('-h5',  default=H5_FILE)
+    parser.add_argument('-npy', default=NPY_FILE)
+
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
@@ -33,7 +42,7 @@ if __name__ == "__main__":
     tweets, y_true = load_file()
     tp = TextProcessor()
 
-    pc = PoliticalClassification('cnn_model.h5', 'cnn_dict.npy', 25)
+    pc = PoliticalClassification(H5_FILE, NPY_FILE, 25)
 
     pol = ''
     n_pol = ''
@@ -49,10 +58,22 @@ if __name__ == "__main__":
             y_pred.append(0)
 
     print(classification_report(y_true, y_pred))
-    print(precision_recall_fscore_support(y_true, y_pred))
+    p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
+
+    save_report_to_csv ('validation_report.csv', [ 
+        'CNN',
+        H5_FILE,
+        p,
+        r, 
+        f1,
+        s
+    ])
 
     fpr_keras, tpr_keras, thresholds_keras = roc_curve(y_true, y_pred)
     auc_keras = auc(fpr_keras, tpr_keras)
+
+    
+
 
     plt.figure(1)
     plt.plot([0, 1], [0, 1], 'k--')
