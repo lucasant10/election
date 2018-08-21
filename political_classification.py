@@ -29,3 +29,22 @@ class PoliticalClassification:
         y_pred = np.argmax(y_pred, axis=1)
         return True if y_pred == 1 else False
     
+    def get_xy(self, tweets):
+        X_out = list()
+        for tweet in tweets:
+            tweet = ' '.join(tweet)
+            X = list()
+            seq = list()
+            for word in tweet.split(' '):
+                seq.append(self.vocab.get(word, self.vocab['UNK']))
+            X.append(seq)
+
+            data = pad_sequences(X, maxlen= self.maxlen)
+            X_out.append(data)
+        
+        return X_out
+    
+    def get_classifier (self):
+        return self.model
+        
+    

@@ -52,7 +52,7 @@ def plot_confusion_matrix (confusion_matrix_array):
     # labels, title and ticks
     ax.set_xlabel('Predicted')
     ax.set_ylabel('Real')
-    ax.set_title('Confusion Matrix '+ MODEL_FILE)
+    ax.set_title(MODEL_FILE)
     ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
     ax.xaxis.set_ticklabels(['Non Political', 'Political'])
 
@@ -112,7 +112,7 @@ if __name__ == "__main__":
     texts = tp.text_process(texts, text_only=True)
     X = gen_data(texts)
 
-    generate_roc_curve (model, X, y_true, MODEL_FILE)
+    mean_auc, std_auc = generate_roc_curve (model, X, y_true, MODEL_FILE)
     
     print ('Predicting...')
 
@@ -127,7 +127,9 @@ if __name__ == "__main__":
         p,
         r, 
         f1,
-        s
+        s,
+        mean_auc, 
+        std_auc
     ])
 
     print ('Confusion Matrix')

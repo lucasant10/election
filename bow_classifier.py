@@ -151,7 +151,9 @@ def generate_roc_curve (classifier, X, y, model_name=None):
         y_test = np.array([y[i] for i in test])
 
         #probas_ = classifier.fit(x_train, y_train).predict_proba(x_test)
+        
         probas_ = classifier.predict_proba(x_test)
+        
         # Compute ROC curve and area the curve
         fpr, tpr, thresholds = roc_curve(y_test, probas_[:, 1])
         tprs.append(interp(mean_fpr, fpr, tpr))
@@ -191,16 +193,17 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     if model_name is None:
         model_name = MODEL_TYPE
     else:
-        model_name = ' '.join (model_name)
+        model_name = ''.join (model_name)
 
     model_name = model_name.strip()
-    input_file = POLITICS_FILE.replace('tmp/', '')
+    
+    model_name = model_name.replace ('politics_ben.skl', '')
 
-    plt.title('ROC Curve for '+ input_file +' - Classifier: '+ model_name.capitalize())
+    plt.title('ROC Curve: '+ model_name.capitalize())
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig("plots/roc_curve_" + model_name + '_' + input_file +".png")
+    plt.savefig("plots/roc_curve_" + model_name + ".png")
     plt.clf()
 
     return mean_auc, std_auc
@@ -221,7 +224,7 @@ def classification_model(X, Y, model_type=None):
     print("Precision(avg): %0.3f (+/- %0.3f)" %
           (scores1.mean(), scores1.std() * 2))
     precision_score_mean = scores1.mean()
-    precision_score_mean = scores1.std() * 2
+    precision_score_std = scores1.std() * 2
 
     scores2 = cross_val_score(
         model, X, Y, cv=NO_OF_FOLDS, scoring='recall_weighted')
@@ -242,7 +245,7 @@ def classification_model(X, Y, model_type=None):
     save_report_to_csv ('training_report.csv', [
         model_type, 
         POLITICS_FILE.replace('tmp/', ''),
-        precision_score_mean,precision_score_mean,
+        precision_score_mean,precision_score_std,
         recall_score_mean,recall_score_std,
         f1_score_mean,f1_score_std,
     ])
