@@ -91,10 +91,6 @@ if __name__ == "__main__":
 
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
-
-    
-
-    X = pc.get_xy (tweets)
     
     #try:
     #generate_roc_curve (pc.get_classifier(), X, y_true,  model_name='CNN')
@@ -108,15 +104,14 @@ if __name__ == "__main__":
     
     i = 0
 
-    for train, test in cv.split(X, y_true):
+    for train, test in cv.split(tweets, y_true):
 
-        x_test = np.array([X[i] for i in test])
+        x_test = np.array([tweets[i] for i in test])
         y_test = np.array([y_true[i] for i in test])
 
-        
         y_probas = list()
         for x_ in x_test:
-            y_probas.append(np.argmax(pc.get_classifier().predict(x_), axis=1))
+            y_probas.append(pc.is_political_prob(x_))
 
         # Compute ROC curve and area the curve
         fpr, tpr, thresholds = roc_curve(y_test, y_probas)
