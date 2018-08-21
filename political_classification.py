@@ -37,4 +37,4 @@ class PoliticalClassification:
         X.append(seq)
         data = pad_sequences(X, maxlen= self.maxlen)
         y_pred = self.model.predict(data)
-        return y_pred[0,0]
+        return y_pred[0,1]

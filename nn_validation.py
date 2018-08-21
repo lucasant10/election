@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
         y_probas = list()
         for x_ in x_test:
-            y_probas.append(pc.is_political_prob(x_))
+            y_probas.append(pc.is_political_prob(' '.join(x_)))
 
         # Compute ROC curve and area the curve
         fpr, tpr, thresholds = roc_curve(y_test, y_probas)
