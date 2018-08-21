@@ -94,6 +94,7 @@ def generate_roc_curve (X, y_true):
     plt.savefig("plots/roc_curve_CNN.png")
     plt.clf()
 
+    return mean_auc, std_auc
 
 
 if __name__ == "__main__":
