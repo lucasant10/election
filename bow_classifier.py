@@ -126,7 +126,7 @@ def get_model(m_type=None):
     elif m_type == "random_forest":
         logreg = RandomForestClassifier()
     elif m_type == "svm":
-        logreg = SVC()
+        logreg = SVC(probability=True)
     elif m_type == "svm_linear":
         logreg = LinearSVC()
     else:
