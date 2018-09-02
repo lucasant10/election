@@ -29,8 +29,11 @@ if __name__ == "__main__":
     parser.add_argument('--rootfolder', default=ROOT_FOLDER)
 
     args = parser.parse_args()
-    print (args)
+    
     ROOT_FOLDER = args.rootfolder    
+
+    if os.environ.get('ROOT_ELECTION'):
+        ROOT_FOLDER = os.environ.get('ROOT_ELECTION')
 
     if not os.path.isdir (ROOT_FOLDER):
         print ('Root Folder {} does not exist!'.format(ROOT_FOLDER))
@@ -84,6 +87,9 @@ if __name__ == "__main__":
             """
             " Pro Publica Classifier
             """
+            
+            print ('Running ProPublica Classifier:{}'.format(file_in_politics))
+
             call (["python", 
                 "prop_classifier.py", 
                 "--politicsfile", file_in_politics,
@@ -93,6 +99,8 @@ if __name__ == "__main__":
             input_file = file_in_politics.replace(TMP_FOLDER, '').strip()
 
             skl_file = SKL_FOLDER + 'propublica_'+ input_file+'_ben.skl'
+
+            print ('Running ProPublica Validation:{}'.format(file_in_politics))
 
             call (["python", 
                 "prop_validation.py", 
