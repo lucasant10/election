@@ -3,6 +3,7 @@ import itertools
 import glob
 from subprocess import call
 import os
+import argparse
 
 ROOT_FOLDER = '/Volumes/Data/eleicoes/'
 INPUT_FOLDER = ROOT_FOLDER + 'input/'
@@ -22,6 +23,18 @@ TMP_FOLDER = ROOT_FOLDER + 'tmp/'
 " S4 = Official Facebook Political Ads
 """
 if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(
+        description='Probublica model for politics texts')
+    parser.add_argument('--rootfolder', default=ROOT_FOLDER)
+
+    args = parser.parse_args()
+    ROOT_FOLDER = args.rootfolder    
+
+    if not os.path.isdir (ROOT_FOLDER):
+        print ('Root Folder {} does not exist!'.format(ROOT_FOLDER))
+        exit(0)
+
     out = glob.glob(INPUT_FOLDER + "*.txt")
 
     if os.path.isfile(REPORT_FOLDER + "training_report.csv"):
