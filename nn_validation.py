@@ -18,6 +18,9 @@ import pandas as pd
 from sklearn.model_selection import StratifiedKFold
 from utils import save_report_to_csv
 from bow_classifier import generate_roc_curve
+from bow_classifier import SEED
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER
+
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 import matplotlib
 matplotlib.use("agg")
@@ -37,13 +40,14 @@ def load_file():
 
 
 def generate_roc_curve (X, y_true):
-    cv = StratifiedKFold(n_splits=10)
+    cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
     mean_fpr = np.linspace(0, 1, 100)
     
     i = 0
 
+    
     for train, test in cv.split(X, y_true):
 
         x_test = np.array([X[i] for i in test])
@@ -91,7 +95,9 @@ def generate_roc_curve (X, y_true):
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig("plots/roc_curve_CNN.png")
+    cnn_curve_plot = H5_FILE.replace('.h5', '')
+    cnn_curve_plot = cnn_curve_plot.replace(H5_FOLDER, '')
+    plt.savefig(PLOT_FOLDER + 'roc_curve_' + cnn_curve_plot + '.png')
     plt.clf()
 
     return mean_auc, std_auc
@@ -136,7 +142,7 @@ if __name__ == "__main__":
     
     mean_auc, std_auc = generate_roc_curve (X, y_true)
 
-    save_report_to_csv ('validation_report.csv', [ 
+    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [ 
         'CNN',
         H5_FILE,
         p,

@@ -13,9 +13,9 @@ class PoliticalClassification:
         path = dict(cf.items("file_path"))
         self.dir_model = path['dir_model']
         self.maxlen = maxlen
-        self.model = load_model(self.dir_model + arg_model)
+        self.model = load_model( arg_model)
         self.model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
-        self.vocab = np.load(self.dir_model + dictfile).item()
+        self.vocab = np.load( dictfile).item()
         
 
     def is_political(self, tweet):

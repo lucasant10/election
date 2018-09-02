@@ -35,6 +35,8 @@ from text_processor import TextProcessor
 from sklearn.grid_search import GridSearchCV
 from utils import save_report_to_csv
 from time import gmtime, strftime
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
+
 
 def log (text):
     print('{} -> {}'.format(strftime("%Y-%m-%d %H:%M:%S", gmtime()), text) ) 
@@ -136,7 +138,7 @@ def get_model(m_type=None):
     return logreg
 
 def generate_roc_curve (classifier, X, y, model_name=None):
-    cv = StratifiedKFold(n_splits=NO_OF_FOLDS)
+    cv = StratifiedKFold(n_splits=NO_OF_FOLDS, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
     mean_fpr = np.linspace(0, 1, 100)
@@ -197,13 +199,14 @@ def generate_roc_curve (classifier, X, y, model_name=None):
 
     model_name = model_name.strip()
     
-    model_name = model_name.replace ('politics_ben.skl', '')
+    model_name = model_name.replace ('.politics_ben.skl', '')
+    model_name = model_name.replace (SKL_FOLDER, '')
 
     plt.title('ROC Curve: '+ model_name.capitalize())
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig("plots/roc_curve_" + model_name + ".png")
+    plt.savefig(PLOT_FOLDER + "roc_curve_" + model_name + ".png")
     plt.clf()
 
     return mean_auc, std_auc
@@ -242,12 +245,15 @@ def classification_model(X, Y, model_type=None):
     f1_score_mean = scores3.mean()
     f1_score_std = scores3.std() * 2
 
-    save_report_to_csv ('training_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + 'training_report.csv', [
         model_type, 
-        POLITICS_FILE.replace('tmp/', ''),
-        precision_score_mean,precision_score_std,
-        recall_score_mean,recall_score_std,
-        f1_score_mean,f1_score_std,
+        POLITICS_FILE.replace(TMP_FOLDER, ''),
+        precision_score_mean,
+        precision_score_std,
+        recall_score_mean,
+        recall_score_std,
+        f1_score_mean,
+        f1_score_std,
     ])
 
     return model
@@ -318,9 +324,9 @@ if __name__ == "__main__":
 
     model = classification_model(X, Y, MODEL_TYPE)
 
-    input_file = POLITICS_FILE.replace('tmp/', '')
+    input_file = POLITICS_FILE.replace(TMP_FOLDER, '')
 
-    joblib.dump(model, dir_in + MODEL_TYPE + '_'+ input_file+'_ben.skl')
+    joblib.dump(model, SKL_FOLDER + MODEL_TYPE + '_'+ input_file+'_ben.skl')
 
     gc.collect()
 
