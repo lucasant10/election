@@ -58,17 +58,18 @@ def plot_confusion_matrix (confusion_matrix_array):
     # labels, title and ticks
     ax.set_xlabel('Predicted')
     ax.set_ylabel('Real')
-    ax.set_title(MODEL_FILE)
+    
     ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
     ax.xaxis.set_ticklabels(['Non Political', 'Political'])
-
-    fig.add_subplot(ax)
-    
 
     model_name = MODEL_FILE
     
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
+    
+    ax.set_title(model_name.replace ('_', ' ').upper())
+
+    fig.add_subplot(ax)
 
     fig.savefig(PLOT_FOLDER + 'confusion_matrix_publica_'+ model_name + '.png', dpi=400)
 
@@ -128,7 +129,7 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
 
-    plt.title('ROC Curve: '+ model_name.capitalize())
+    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper())
     plt.legend(loc="lower right")
 
     #plt.show()

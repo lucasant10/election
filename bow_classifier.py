@@ -202,7 +202,7 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
 
-    plt.title('ROC Curve: '+ model_name.replace('_', '').capitalize())
+    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper())
     plt.legend(loc="lower right")
 
     #plt.show()
@@ -221,9 +221,6 @@ def classification_model(X, Y, model_type=None):
 
     scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
-    #mean_auc, std_auc = generate_roc_curve (model, X, Y)
-    
-
     print("Precision(avg): %0.3f (+/- %0.3f)" %
           (scores1.mean(), scores1.std() * 2))
     precision_score_mean = scores1.mean()

@@ -89,15 +89,12 @@ def generate_roc_curve (X, y_true):
     plt.ylim([-0.05, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-
-
     
     plt.legend(loc="lower right")
-
-    #plt.show()
+    
     cnn_curve_plot = H5_FILE.replace('.h5', '')
     cnn_curve_plot = cnn_curve_plot.replace(H5_FOLDER, '')
-    plt.title('ROC Curve: '+ cnn_curve_plot.replace('_', '').capitalize())
+    plt.title('ROC Curve: '+ cnn_curve_plot.replace('_', ' ').upper())
 
     plt.savefig(PLOT_FOLDER + 'roc_curve_' + cnn_curve_plot + '.png')
     plt.clf()
