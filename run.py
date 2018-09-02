@@ -29,6 +29,7 @@ if __name__ == "__main__":
     parser.add_argument('--rootfolder', default=ROOT_FOLDER)
 
     args = parser.parse_args()
+    print (args)
     ROOT_FOLDER = args.rootfolder    
 
     if not os.path.isdir (ROOT_FOLDER):
