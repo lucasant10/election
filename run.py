@@ -32,6 +32,7 @@ if __name__ == "__main__":
     
     ROOT_FOLDER = args.rootfolder    
 
+    print ("Environment: {}".format(os.environ.get('ROOT_ELECTION')))
     if os.environ.get('ROOT_ELECTION'):
         ROOT_FOLDER = os.environ.get('ROOT_ELECTION')
 
