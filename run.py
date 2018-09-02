@@ -35,6 +35,14 @@ if __name__ == "__main__":
     print ("Environment: {}".format(os.environ.get('ROOT_ELECTION')))
     if os.environ.get('ROOT_ELECTION'):
         ROOT_FOLDER = os.environ.get('ROOT_ELECTION')
+        INPUT_FOLDER = ROOT_FOLDER + 'input/'
+        OUTPUT_FOLDER = ROOT_FOLDER + 'output/'
+        PLOT_FOLDER =  OUTPUT_FOLDER +'plot/'
+        SKL_FOLDER =  OUTPUT_FOLDER +'skl/'
+        H5_FOLDER =  OUTPUT_FOLDER + 'h5/'
+        NPY_FOLDER =  OUTPUT_FOLDER + 'npy/'
+        REPORT_FOLDER = ROOT_FOLDER + 'report/'
+        TMP_FOLDER = ROOT_FOLDER + 'tmp/' 
 
     if not os.path.isdir (ROOT_FOLDER):
         print ('Root Folder {} does not exist!'.format(ROOT_FOLDER))
