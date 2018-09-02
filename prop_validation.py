@@ -1,7 +1,12 @@
+
 import warnings
-warnings.filterwarnings("ignore")
-warnings.filterwarnings("ignore", message="numpy.dtype size changed")
-warnings.filterwarnings("ignore", message="numpy.ufunc size changed")
+
+warnings.simplefilter("ignore")
+def warn(*args, **kwargs):
+    pass
+
+warnings.warn = warn
+
 import matplotlib
 matplotlib.use("agg")
 import matplotlib.pyplot as plt
@@ -20,10 +25,11 @@ import gc
 from utils import save_report_to_csv
 from prop_classifier import get_vectorizer
 from scipy import interp
-
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
+from bow_classifier import NO_OF_FOLDS, SEED
 
 MODEL_FILE = ''
-NO_OF_FOLDS = 10
+
 
 def load_file():
     texts = list()
@@ -58,11 +64,17 @@ def plot_confusion_matrix (confusion_matrix_array):
 
     fig.add_subplot(ax)
     
-    fig.savefig('plots/confusion_matrix_'+MODEL_FILE + '.png', dpi=400)
+
+    model_name = MODEL_FILE
+    
+    model_name = model_name.replace ('.politics_ben.skl', '')
+    model_name = model_name.replace (SKL_FOLDER, '')
+
+    fig.savefig(PLOT_FOLDER + 'confusion_matrix_publica_'+ model_name + '.png', dpi=400)
 
 
 def generate_roc_curve (classifier, X, y, model_name=None):
-    cv = StratifiedKFold(n_splits=NO_OF_FOLDS)
+    cv = StratifiedKFold(n_splits=NO_OF_FOLDS, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
     mean_fpr = np.linspace(0, 1, 100)
@@ -110,23 +122,17 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
     
-    if model_name is None:
-        model_name = MODEL_TYPE.split('_')
     
-    if model_name is None:
-        model_name = MODEL_TYPE
-    else:
-        model_name = ''.join (model_name)
-
-    model_name = model_name.strip()
+    model_name = MODEL_FILE
     
-    model_name = model_name.replace ('politics_ben.skl', '')
+    model_name = model_name.replace ('.politics_ben.skl', '')
+    model_name = model_name.replace (SKL_FOLDER, '')
 
     plt.title('ROC Curve: '+ model_name.capitalize())
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig("plots/roc_curve_" + model_name + ".png")
+    plt.savefig(PLOT_FOLDER + "roc_curve_propublica_" + model_name + ".png")
     plt.clf()
 
     return mean_auc, std_auc
@@ -149,7 +155,7 @@ if __name__ == "__main__":
     texts, y_true = load_file()
 
     print ('Loading '+MODEL_FILE+' file...')
-    model = joblib.load(dir_in + MODEL_FILE)
+    model = joblib.load(MODEL_FILE)
     vectorizer = get_vectorizer()
     pol = ''
     n_pol = ''
@@ -167,7 +173,7 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
 
-    save_report_to_csv ('validation_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         MODEL_FILE, 
         p,
         r, 

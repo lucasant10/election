@@ -202,7 +202,7 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
 
-    plt.title('ROC Curve: '+ model_name.capitalize())
+    plt.title('ROC Curve: '+ model_name.replace('_', '').capitalize())
     plt.legend(loc="lower right")
 
     #plt.show()

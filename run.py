@@ -14,6 +14,13 @@ NPY_FOLDER =  OUTPUT_FOLDER + 'npy/'
 REPORT_FOLDER = ROOT_FOLDER + 'report/'
 TMP_FOLDER = ROOT_FOLDER + 'tmp/' 
 
+"""
+" Sources
+" S1 = Political Tweets
+" S2 = Annotated political Ads
+" S3 = Facebook Ads Explanation
+" S4 = Official Facebook Political Ads
+"""
 if __name__ == "__main__":
     out = glob.glob(INPUT_FOLDER + "*.txt")
 
@@ -60,7 +67,24 @@ if __name__ == "__main__":
                             outfile.write(line)
 
 
+            """
+            " Pro Publica Classifier
+            """
+            call (["python", 
+                "prop_classifier.py", 
+                "--politicsfile", file_in_politics,
+                "--nonpoliticsfile", file_in_non_politics
+            ])
 
+            input_file = file_in_politics.replace(TMP_FOLDER, '').strip()
+
+            skl_file = SKL_FOLDER + 'propublica_'+ input_file+'_ben.skl'
+
+            call (["python", 
+                "prop_validation.py", 
+                "-m", skl_file
+            ])
+            
             for model in ['svm', 'logistic', 'gradient_boosting', 'random_forest']:
                 print ('->>>> Running {} for {}'.format(model, ('_'.join(features))))
 

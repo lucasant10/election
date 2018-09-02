@@ -8,6 +8,8 @@ import gc
 from sklearn.externals import joblib
 import argparse
 import configparser
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
+from bow_classifier import SEED
 
 POLITICS_FILE = 'politics.txt' 
 NON_POLITICS_FILE = 'non-politics.txt' 
@@ -32,7 +34,7 @@ def get_vectorizer():
     )
 
 def train_classifier(classifier, vectorizer, data):
-    train, test = train_test_split(data, test_size=0.1)
+    train, test = train_test_split(data, test_size=0.1, random_state=SEED, shuffle=True)
     x_train, y_train = zip(*train)
     x_test, y_test = zip(*test)
     x_train = vectorizer.transform(x_train)
@@ -49,6 +51,11 @@ if __name__ == "__main__":
         description='Probublica model for politics texts')
     parser.add_argument('--politicsfile', default=POLITICS_FILE)
     parser.add_argument('--nonpoliticsfile', default=NON_POLITICS_FILE)
+
+    args = parser.parse_args()
+
+    POLITICS_FILE = args.politicsfile
+    NON_POLITICS_FILE = args.nonpoliticsfile
 
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
@@ -70,8 +77,9 @@ if __name__ == "__main__":
     vectorizer = get_vectorizer()
     model = train_classifier(classifier, vectorizer, data)
 
-    input_file = POLITICS_FILE.replace('tmp/', '').strip()
-    joblib.dump(model, dir_in + 'propublica_'+ input_file+'_ben.skl')
+    input_file = POLITICS_FILE.replace(TMP_FOLDER, '').strip()
+
+    joblib.dump(model, SKL_FOLDER + 'propublica_'+ input_file+'_ben.skl')
 
     gc.collect()
     exit(0) 
