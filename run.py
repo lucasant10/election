@@ -110,20 +110,20 @@ if __name__ == "__main__":
 
                 skl_file = SKL_FOLDER + model + '_'+ file_in_politics.replace(TMP_FOLDER ,  '') +'_ben.skl'
 
-                if not os.path.isfile (skl_file):
-                    print ("Building {}".format(skl_file))
+                #if not os.path.isfile (skl_file):
+                print ("Building {}".format(skl_file))
 
-                    
+                
 
-                    call (["python", 
-                        "bow_classifier.py", 
-                        "--model", model, 
-                        "-f", "cbow_s300.txt",
-                        "--seed", "42",
-                        "-d", "300",
-                        "--politicsfile", file_in_politics,
-                        "--nonpoliticsfile", file_in_non_politics
-                    ])
+                call (["python", 
+                    "bow_classifier.py", 
+                    "--model", model, 
+                    "-f", "cbow_s300.txt",
+                    "--seed", "42",
+                    "-d", "300",
+                    "--politicsfile", file_in_politics,
+                    "--nonpoliticsfile", file_in_non_politics
+                ])
 
                 #python bow_validation.py -m random_forest_ben.skl -f cbow_s300.txt
 
@@ -146,18 +146,18 @@ if __name__ == "__main__":
             print ('Loading H5 file: {}'.format(h5_file))
             print ('Loading NPY file: {}'.format(npy_file))
 
-            if not os.path.isfile (h5_file):
+            #if not os.path.isfile (h5_file):
                 # python3 cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec 
-                call (["python", 
-                    "cnn.py", 
-                    "-f", "cbow_s300.txt",
-                    "--epochs", "10",
-                    "-d", "300",
-                    "--batch-size", "30",
-                    "--initialize-weights", "word2vec",
-                    "--politicsfile", file_in_politics,
-                    "--nonpoliticsfile", file_in_non_politics
-                ])
+            call (["python", 
+                "cnn.py", 
+                "-f", "cbow_s300.txt",
+                "--epochs", "10",
+                "-d", "300",
+                "--batch-size", "30",
+                "--initialize-weights", "word2vec",
+                "--politicsfile", file_in_politics,
+                "--nonpoliticsfile", file_in_non_politics
+            ])
                 
             
             print ('->>>> Running CNN Validation for {}'.format(('_'.join(features))))
