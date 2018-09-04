@@ -169,6 +169,7 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
     
+    generate_normal(X,y_true)
     mean_auc, std_auc = generate_roc_curve (X, y_true)
 
     save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [ 
