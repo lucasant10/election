@@ -18,6 +18,7 @@ import gensim
 import gc
 from bow_classifier import generate_roc_curve
 from utils import save_report_to_csv
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
@@ -52,13 +53,17 @@ def plot_confusion_matrix (confusion_matrix_array):
     # labels, title and ticks
     ax.set_xlabel('Predicted')
     ax.set_ylabel('Real')
-    ax.set_title(MODEL_FILE)
+    
     ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
     ax.xaxis.set_ticklabels(['Non Political', 'Political'])
 
-    fig.add_subplot(ax)
+    model_name = MODEL_FILE.replace (SKL_FOLDER, '')
+    model_name = model_name.replace ('.politics_ben.skl', '')
     
-    fig.savefig('plots/confusion_matrix_'+MODEL_FILE + '.png', dpi=400)
+    ax.set_title(model_name.replace('_', ' ').upper())
+    fig.add_subplot(ax)
+
+    fig.savefig(PLOT_FOLDER + 'confusion_matrix_' + model_name + '.png', dpi=400)
 
 def gen_data(texts):
     X = []
@@ -94,7 +99,7 @@ if __name__ == "__main__":
     cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
     dir_w2v = path['dir_w2v']
-    dir_in = path['dir_in']
+    
 
     print ('Loading word2vec model...')
     word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v + W2VEC_MODEL_FILE,
@@ -103,8 +108,8 @@ if __name__ == "__main__":
     print ('Loading excel validation file...')
     texts, y_true = load_file()
 
-    print ('Loading '+MODEL_FILE+' file...')
-    model = joblib.load(dir_in + MODEL_FILE)
+    print ('Loading ' + MODEL_FILE + ' file...')
+    model = joblib.load( MODEL_FILE)
     pol = ''
     n_pol = ''
     y_pred = list()
@@ -122,7 +127,7 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
 
-    save_report_to_csv ('validation_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         MODEL_FILE, 
         p,
         r, 

@@ -28,6 +28,7 @@ import h5py
 import math
 import os
 from utils import save_report_to_csv
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER, NPY_FOLDER
 
 from bow_classifier import generate_roc_curve
 from text_processor import TextProcessor
@@ -303,10 +304,10 @@ if __name__ == "__main__":
     model = cnn_model(data.shape[1], EMBEDDING_DIM)
     p, r, f1 = train_CNN(data, y, EMBEDDING_DIM, model, W)
 
-    input_file = POLITICS_FILE.replace('tmp/', '').strip()
+    input_file = POLITICS_FILE.replace(TMP_FOLDER, '').strip()
 
-    model.save(dir_in + MODEL_NAME + input_file + ".h5")
-    np.save(dir_in + DICT_NAME + input_file +'.npy', vocab)
+    model.save(H5_FOLDER + MODEL_NAME + input_file + ".h5")
+    np.save(NPY_FOLDER + DICT_NAME + input_file +'.npy', vocab)
     
 
 #python cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec --scale-loss-function

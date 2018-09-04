@@ -37,7 +37,7 @@ def load_file():
 
 
 def generate_roc_curve (X, y_true):
-    cv = StratifiedKFold(n_splits=10)
+    cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
     mean_fpr = np.linspace(0, 1, 100)
@@ -85,13 +85,14 @@ def generate_roc_curve (X, y_true):
     plt.ylim([-0.05, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-
-
-    plt.title('ROC Curve: CNN')
+    
     plt.legend(loc="lower right")
+    
+    cnn_curve_plot = H5_FILE.replace('.h5', '')
+    cnn_curve_plot = cnn_curve_plot.replace(H5_FOLDER, '')
+    plt.title('ROC Curve: '+ cnn_curve_plot.replace('_', ' ').upper())
 
-    #plt.show()
-    plt.savefig("plots/roc_curve_CNN.png")
+    plt.savefig(PLOT_FOLDER + 'roc_curve_' + cnn_curve_plot + '.png')
     plt.clf()
 
     return mean_auc, std_auc
@@ -169,7 +170,7 @@ if __name__ == "__main__":
     
     mean_auc, std_auc = generate_roc_curve (X, y_true)
 
-    save_report_to_csv ('validation_report.csv', [ 
+    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [ 
         'CNN',
         H5_FILE,
         p,
