@@ -16,7 +16,7 @@ import pandas as pd
 from sklearn.externals import joblib
 import gensim
 import gc
-from bow_classifier import generate_roc_curve
+from bow_classifier import generate_roc_curve, generate_normal
 from utils import save_report_to_csv
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 
@@ -118,6 +118,7 @@ if __name__ == "__main__":
     X = gen_data(texts)
 
     mean_auc, std_auc = generate_roc_curve (model, X, y_true, MODEL_FILE)
+    generate_normal(model, X, y_true, MODEL_FILE)
     
     print ('Predicting...')
 

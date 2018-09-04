@@ -120,12 +120,12 @@ def generate_normal(X, y_true):
     plot_save(f1, "F1-Score")
 
 def plot_save(dist, label):
-    plt.clf()
     sns.distplot(dist, fit=norm, kde=False, bins=8)
     plt.xlabel(label)
     plt.ylabel('Frequency')
     plt.title('Accuracy of CNN classifier')
     plt.savefig(PLOT_FOLDER + "pred_%s_CNN.png" % label)
+    plt.clf()
     save_report_to_csv (REPORT_FOLDER + 'acc_validation_report.csv', [ 
         'CNN',
         label,

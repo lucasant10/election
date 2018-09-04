@@ -36,7 +36,8 @@ from sklearn.grid_search import GridSearchCV
 from utils import save_report_to_csv
 from time import gmtime, strftime
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
-
+from scipy.stats import norm
+import seaborn as sns
 
 def log (text):
     print('{} -> {}'.format(strftime("%Y-%m-%d %H:%M:%S", gmtime()), text) ) 
@@ -254,6 +255,39 @@ def classification_model(X, Y, model_type=None):
     ])
 
     return model
+
+def generate_normal(classifier, X, y_true, model_name):
+    cv = StratifiedKFold(n_splits=10)
+    precision = list()
+    recall = list()
+    f1 = list()
+    for _ in range(4):
+        for _, test in cv.split(X, y_true):
+            x_test = np.array([X[i] for i in test])
+            y_test = np.array([y_true[i] for i in test])
+            y_pred = classifier.predict(x_test)
+            precision.append(precision_score(y_test, y_pred, average='weighted'))
+            recall.append(recall_score(y_test, y_pred, average='weighted'))
+            f1.append(f1_score(y_test, y_pred, average='weighted'))
+    plot_save(precision, "Precision", model_name)
+    plot_save(recall, "Recall", model_name)
+    plot_save(f1, "F1-Score", model_name)
+
+def plot_save(dist, label, model_name):
+    plt.clf()
+    sns.distplot(dist, fit=norm, kde=False, bins=8)
+    plt.xlabel(label)
+    plt.ylabel('Frequency')
+    plt.title('Classifier Accuracy:' + model_name.replace('_', ' ').upper() )
+    plt.savefig(PLOT_FOLDER + "pred_%s_%s.png" % (label, model_name))
+    plt.clf()
+    save_report_to_csv (REPORT_FOLDER + 'acc_validation_report.csv', [ 
+        model_name,
+        label,
+        np.mean(dist),
+        np.std(dist), 
+    ])    
+
 
 
 if __name__ == "__main__":
