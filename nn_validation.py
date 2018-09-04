@@ -26,6 +26,7 @@ from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER
 from bow_classifier import SEED
 H5_FILE = 'cnn_model.h5'
 NPY_FILE = 'cnn_model.npy'
+from scipy.stats import norm
 
 def load_file():
     texts = list()
@@ -120,11 +121,11 @@ def generate_normal(X, y_true):
 
 def plot_save(dist, label):
     plt.clf()
-    sns.distplot(dist)
+    sns.distplot(dist, fit=norm, kde=False, bins=8)
     plt.xlabel(label)
     plt.ylabel('Frequency')
     plt.title('Accuracy of CNN classifier')
-    plt.savefig(PLOT_FOLDER + "plots/pred_%s_CNN.png" % label)
+    plt.savefig(PLOT_FOLDER + "pred_%s_CNN.png" % label)
     save_report_to_csv (REPORT_FOLDER + 'acc_validation_report.csv', [ 
         'CNN',
         label,
