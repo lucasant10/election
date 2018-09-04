@@ -112,3 +112,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Dados Rotulados.xlsx
+file_path.properties
+non-political_fb.txt
+resultado.txt
+training_report.csv
+validation_report.csv
