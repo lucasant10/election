@@ -12,16 +12,16 @@ import argparse
 import numpy as np
 from scipy import interp
 from political_classification import PoliticalClassification
-from sklearn.metrics import roc_curve, auc, classification_report, precision_recall_fscore_support
+from sklearn.metrics import roc_curve, auc, classification_report, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.model_selection import StratifiedKFold
 from utils import save_report_to_csv
-from bow_classifier import generate_roc_curve
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 import matplotlib
 matplotlib.use("agg")
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 H5_FILE = 'cnn_model.h5'
 NPY_FILE = 'cnn_model.npy'
@@ -44,7 +44,7 @@ def generate_roc_curve (X, y_true):
     
     i = 0
 
-    for train, test in cv.split(X, y_true):
+    for _, test in cv.split(X, y_true):
 
         x_test = np.array([X[i] for i in test])
         y_test = np.array([y_true[i] for i in test])
@@ -97,6 +97,39 @@ def generate_roc_curve (X, y_true):
     return mean_auc, std_auc
 
 
+def generate_normal(X, y_true):
+    cv = StratifiedKFold(n_splits=10)
+    precision = list()
+    recall = list()
+    f1 = list()
+    for _ in range(4):
+        for _, test in cv.split(X, y_true):
+            x_test = np.array([X[i] for i in test])
+            y_test = np.array([y_true[i] for i in test])
+            y_pred = list()
+            for x_ in x_test:
+                y_pred.append(pc.is_political(' '.join(x_)))
+            precision.append(precision_score(y_test, y_pred, average='weighted'))
+            recall.append(recall_score(y_test, y_pred, average='weighted'))
+            f1.append(f1_score(y_test, y_pred, average='weighted'))
+    plot_save(precision, "Precision")
+    plot_save(recall, "Recall")
+    plot_save(f1, "F1-Score")
+
+def plot_save(dist, label):
+    plt.clf()
+    sns.distplot(dist)
+    plt.xlabel(label)
+    plt.ylabel('Frequency')
+    plt.title('Accuracy of CNN classifier')
+    plt.savefig("plots/pred_%s_CNN.png" % label)
+    save_report_to_csv ('acc_validation_report.csv', [ 
+        'CNN',
+        label,
+        np.mean(dist),
+        np.std(dist), 
+    ])    
+
 if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(
@@ -145,13 +178,4 @@ if __name__ == "__main__":
         s,
         mean_auc,
         std_auc
-    ])    
-    
-    
-    # f =  open(dir_in + "CSCW/politics.txt", 'w')
-    # f.write(pol)
-    # f.close()
-
-    # f =  open(dir_in + "CSCW/non_politics.txt", 'w')
-    # f.write(n_pol)
-    # f.close()
+    ])  
