@@ -1,0 +1,2196 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQHDmZey1F3p:AQF1bmm5S5Y1",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591215044225229773",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfbwAZSugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp3GYU8eLQB8AGsAugCpAPgAwA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "233668717339332",
+                "adid": "6104173827515",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104166481915,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que gratificante esse depoimento do V\u00edtor sobre a Escola Integral - um formato que tive o prazer de implantar em Pernambuco, quando fui vice-governador, e expandir para todo Brasil \u00e0 frente do MEC.<br /> <br /> Investir em educa\u00e7\u00e3o de qualidade faz toda diferen\u00e7a na vida de jovens como ele, que saem da escola prontos para a vida e para o mercado de trabalho. Iniciei minha trajet\u00f3ria com essa convic\u00e7\u00e3o, que carrego at\u00e9 hoje."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523904,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39275744_295499911031774_19446478044921856_n.jpg?_nc_cat=0&oh=8db88e9e38a30557ac37c18373d42515&oe=5C051F71",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306564_295499907698441_606339778924773376_n.jpg?_nc_cat=0&oh=fe09f90d0cff2ae7afd13545b1f834fb&oe=5C06439E",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "V\u00edtor",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39245224_322055045199924_3633665890035171328_n.mp4?_nc_cat=0&oh=ddc8838f36d47aeb5b5109d969e10c92&oe=5B78E836",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39268374_295499917698440_6204262941210968064_n.jpg?_nc_cat=0&oh=284927516cafcd3f0dd883c517ef788d&oe=5BFFE679",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39188078_2120015574919959_6814789613169672192_n.mp4?_nc_cat=1&oh=5451165cf23d48aae8fa5ead928aa784&oe=5B78E124"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "898482553673178",
+                "adid": "6104173829315",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104166481915,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que gratificante esse depoimento do V\u00edtor sobre a Escola Integral - um formato que tive o prazer de implantar em Pernambuco, quando fui vice-governador, e expandir para todo Brasil \u00e0 frente do MEC.<br /> <br /> Investir em educa\u00e7\u00e3o de qualidade faz toda diferen\u00e7a na vida de jovens como ele, que saem da escola prontos para a vida e para o mercado de trabalho. Iniciei minha trajet\u00f3ria com essa convic\u00e7\u00e3o, que carrego at\u00e9 hoje."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523904,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39275744_295499911031774_19446478044921856_n.jpg?_nc_cat=0&oh=8db88e9e38a30557ac37c18373d42515&oe=5C051F71",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306564_295499907698441_606339778924773376_n.jpg?_nc_cat=0&oh=fe09f90d0cff2ae7afd13545b1f834fb&oe=5C06439E",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "V\u00edtor",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39245224_322055045199924_3633665890035171328_n.mp4?_nc_cat=0&oh=ddc8838f36d47aeb5b5109d969e10c92&oe=5B78E836",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39268374_295499917698440_6204262941210968064_n.jpg?_nc_cat=0&oh=284927516cafcd3f0dd883c517ef788d&oe=5BFFE679",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39188078_2120015574919959_6814789613169672192_n.mp4?_nc_cat=1&oh=5451165cf23d48aae8fa5ead928aa784&oe=5B78E124"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "354650738406817",
+                "adid": "6091699657130",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "138598029627098",
+                "pageName": "Dr. Ronis Silva",
+                "snapshot": {
+                    "ad_creative_id": 6091699651930,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Dia de votar no 45.145.<br /> <br /> Dia de votar no Dr. Ronis Silva.  <br /> <br /> Dia de votar no futuro deputado estadual.<br /> <br /> Dia de votar no candidato que vai gastar apenas R$ 20 mil na campanha.<br /> <br /> Dia de votar no candidato que n\u00e3o vai usar dinheiro do fundo partid\u00e1rio  na campanha.<br /> <br /> Dia de votar no candidato que fez acordo apenas com os tocantinenses de bem.<br /> <br /> Dia de votar no candidato que vai fiscalizar e auditar a assembl\u00e9ia.<br /> <br /> Dia de votar no candidato que vai combater a imoralidade e a ilegalidade."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Ronis Ferreira da Silva",
+                    "caption": "Dia de votar no Dr. Ronis Silva.",
+                    "cards": [],
+                    "creation_time": 1534545503,
+                    "cta_text": "View Event",
+                    "cta_type": "Visualizar evento",
+                    "current_page_name": "Dr. Ronis Silva",
+                    "disclaimer_label": 1,
+                    "display_format": "event",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {
+                        "event_end_timestamp": 1538942400,
+                        "event_location": "Dr. Ronis Silva",
+                        "event_promoted_type": "event",
+                        "event_start_timestamp": 1538910000,
+                        "event_timezone": "America/Araguaina"
+                    },
+                    "images": [
+                        {
+                            "image_crops": {},
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341934_354650751740149_67744179857391616_n.jpg?_nc_cat=0&oh=a4a942414b20fa7a995c8d7b36f9a506&oe=5C0F8BD3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39284360_354650755073482_8245909416692416512_n.jpg?_nc_cat=0&oh=71dcdf30de10e298f4b7b1c0d77047e6&oe=5BEFF1B5"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Dia de votar no  4\u20e3 5\u20e3. 1\u20e3 4\u20e3 5\u20e3\n\nDia de votar no Dr. Ronis Silva.  \n\nDia de votar no futuro deputado estadual.\n\nDia de votar no candidato que vai gastar apenas R$ 20 mil na campanha.\n\nDia de votar no candidato que n\u00e3o vai usar dinheiro do fundo partid\u00e1rio  na campanha.\n\nDia de votar no candidato que fez acordo apenas com os tocantinenses de bem.\n\nDia de votar no candidato que vai fiscalizar e auditar a assembl\u00e9ia.\n\nDia de votar no candidato que vai combater a imoralidade e a ilegalidade.",
+                    "link_url": "https://www.facebook.com/events/278580346071313/",
+                    "page_categories": {
+                        "228143393877753": "Medical Center"
+                    },
+                    "page_id": 138598029627098,
+                    "page_is_deleted": false,
+                    "page_like_count": 49964,
+                    "page_name": "Dr. Ronis Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349911_354650748406816_7563880180729511936_n.jpg?_nc_cat=0&oh=3161573a77c16d85d1fa06a8377be38e&oe=5C0CD103",
+                    "page_profile_uri": "https://www.facebook.com/DR.RONIS/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Dia de votar no Dr. Ronis Silva.",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1115741545249431",
+                "adid": "6091699573730",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "138598029627098",
+                "pageName": "Dr. Ronis Silva",
+                "snapshot": {
+                    "ad_creative_id": 6091699573530,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Finalmente saiu o n\u00famero do futuro deputado estadual.<br /> <br /> Saiu o n\u00famero do <a href=\"https://www.facebook.com/DR.RONIS/\" data-hovercard=\"/ajax/hovercard/page.php?id=138598029627098&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Dr. Ronis Silva</a>.<br /> <br /> Saiu o n\u00famero do candidato que vai gastar apenas R$ 20 mil na campanha.<br /> <br /> Saiu o n\u00famero do candidato que fez acordo apenas com os tocantinenses de bem.<br /> <br /> Saiu o n\u00famero do candidato que vai fiscalizar e auditar a assembl\u00e9ia.<br /> <br /> Saiu o n\u00famero do candidato que vai combater a #imoralidade e a #ilegalidade.<br /> <br /> Decore esse n\u00famero:  4\u20e3 5\u20e3. 1\u20e3 4\u20e3 5\u20e3<br /> <br /> FA\u00c7A PARTE DESSE PROJETO.<br /> <br /> ________________<br /> Se puder falar comigo via zap, posso passar detalhes a respeito do que penso e do que pretendo fazer.<br /> <br /> Bastar clicar no SAIBA MAIS.<br /> <br /> Quem sabe n\u00e3o possa me ajudar nesse projeto."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Ronis Ferreira da Silva",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529763,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Dr. Ronis Silva",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39221344_1106488179504740_6460816679424229376_n.jpg?_nc_cat=0&oh=9010aab7c0d407ff1509157e9da75c5f&oe=5C02317D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39253332_1106488182838073_1692706736600776704_n.jpg?_nc_cat=0&oh=65fa0e54522f9e6fc8bc0abb0af26e9b&oe=5BF5E5A0"
+                        }
+                    ],
+                    "instagram_actor_name": "Dr. Ronis Silva",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507283_1115741558582763_8491797415374880768_n.jpg?_nc_cat=0&oh=779475df6dc3c5b64c9f62457f0b1d8a&oe=5BF9F174",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://api.whatsapp.com/send?phone=5563981181819&text",
+                    "page_categories": {
+                        "228143393877753": "Medical Center"
+                    },
+                    "page_id": 138598029627098,
+                    "page_is_deleted": false,
+                    "page_like_count": 49964,
+                    "page_name": "Dr. Ronis Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39237070_1115741555249430_1489112285904371712_n.jpg?_nc_cat=0&oh=c3b519789289a4563c9529913428f2ec&oe=5C0AD146",
+                    "page_profile_uri": "https://www.facebook.com/DR.RONIS/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "250605398994930",
+                "adid": "6108750435508",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "151722774951683",
+                "pageName": "Alexandre Cardoso",
+                "snapshot": {
+                    "ad_creative_id": 6108750434908,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quem fala a verdade sabe o que diz. <br /> Veja por qu\u00ea..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31135298000170",
+                    "byline": "ALEXANDRE CARDOSO ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534530591,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Alexandre Cardoso",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 151722774951683,
+                    "page_is_deleted": false,
+                    "page_like_count": 23031,
+                    "page_name": "Alexandre Cardoso",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39327696_250605408994929_5627392899999072256_n.jpg?_nc_cat=0&oh=229290173c2ae7845a519aeebc43a593&oe=5BED1C8E",
+                    "page_profile_uri": "https://www.facebook.com/alexandrecardosooficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Alexandre Cardoso 5540",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_269474520537853_6652748236622659584_n.mp4?_nc_cat=0&oh=e7dcac8c5ff72f5faf9e6018f113d70c&oe=5B78DF65",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308062_250605412328262_7749186510355693568_n.jpg?_nc_cat=0&oh=8faa2fe1bc9c2a478a1b81f51f64ebe7&oe=5C39B3E2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39189883_1081355958710721_5157039400642674688_n.mp4?_nc_cat=0&oh=f206e6daf7ce5caf1ee9658b9002cc13&oe=5B78E8F1"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "297412877508218",
+                "adid": "6094766786799",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1069477603133660",
+                "pageName": "Maria Giovana Fortunato",
+                "snapshot": {
+                    "ad_creative_id": 6094766782999,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83c\udfe5 A Corrup\u00e7\u00e3o na Sa\u00fade P\u00fablica Precisa Acabar !\ud83c\udfe5<br /> \u2705Sou defensora do SUS e sempre vou lutar pela Sa\u00fade da popula\u00e7\u00e3o. N\u00e3o podemos aceitar que os pol\u00edticos roubem dinheiro da sa\u00fade enquanto o povo morre nas filas de hospitais Brasil a fora...<br /> Voc\u00ea j\u00e1 ouviu falar sobre a terceiriza\u00e7\u00e3o na sa\u00fade? Neste epis\u00f3dio vou explicar como funcionam as OS&#039;s e a corrup\u00e7\u00e3o na Sa\u00fade.<br /> Vimos casos em Americana, Campinas e em todo Brasil.<br /> \u27a1Se voc\u00ea \u00e9 a favor do SUS, compartilhe este v\u00eddeo e marque seus amigos!<br /> #MariaGiovana #OSUS\u00e9Poss\u00edvel #SUS #Sa\u00fadeP\u00fablica #ContraACorrup\u00e7\u00e3o #CoragemParaMudar #MariaGiovanaFortunato"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31235282000130",
+                    "byline": "ELEICAO 2018 MARIA GIOVANA LUCHIARI PISONI DUARTE FORTUNATO DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534536312,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Maria Giovana Fortunato",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 1069477603133660,
+                    "page_is_deleted": false,
+                    "page_like_count": 215355,
+                    "page_name": "Maria Giovana Fortunato",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335654_297412917508214_90358977967161344_n.jpg?_nc_cat=0&oh=4327c3f2994f301a1c4b2c997c8b994a&oe=5C0E6692",
+                    "page_profile_uri": "https://www.facebook.com/mariagiovanafortunato/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Maria Giovana - Sa\u00fade P\u00fablica sem Corrup\u00e7\u00e3o",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1040749552759608_7524946731688001536_n.mp4?_nc_cat=0&oh=3a0a4c7761292c96c3df851fa396a06c&oe=5B78DFC7",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39171107_297412940841545_4816087411874332672_n.jpg?_nc_cat=0&oh=fd59117ad10a0b08f66aa2ac81acb6ce&oe=5BEE2A12",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38698255_303642683728528_391782720558071808_n.mp4?_nc_cat=1&oh=2de9316f9713c8b46bd164d666a0694c&oe=5B78E40B"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "259360701349194",
+                "adid": "6104172479115",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104172478715,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que gratificante esse depoimento do V\u00edtor sobre a Escola Integral - um formato que tive o prazer de implantar em Pernambuco, quando fui vice-governador, e expandir para todo Brasil \u00e0 frente do MEC.<br /> <br /> Investir em educa\u00e7\u00e3o de qualidade faz toda diferen\u00e7a na vida de jovens como ele, que saem da escola prontos para a vida e para o mercado de trabalho. Iniciei minha trajet\u00f3ria com essa convic\u00e7\u00e3o, que carrego at\u00e9 hoje."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534532250,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306631_259360721349192_1744626642032001024_n.jpg?_nc_cat=0&oh=b2ebd83b3208cb34464f00f9d7e39eec&oe=5BFD94BB",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39404765_259360718015859_3358083367936458752_n.jpg?_nc_cat=0&oh=c05818fe907dfabef5ea221e87047b76&oe=5BFB80EC",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39363462_878518165692303_6152148095804112896_n.mp4?_nc_cat=0&oh=66d4e1c3423d5c74a55b5bf58374dff7&oe=5B78E91F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282035_259360728015858_6139822291283869696_n.jpg?_nc_cat=0&oh=0d1e62a3eff6afafe2963fca4d0969b4&oe=5BF69613",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39323418_336751453535497_6588512538239959040_n.mp4?_nc_cat=1&oh=dd462a6da4f4c33e519b5c8f63a68dd2&oe=5B78E6ED"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "258912874750423",
+                "adid": "23842984587020691",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1113424338770664",
+                "pageName": "Gabriel Santos",
+                "snapshot": {
+                    "ad_creative_id": "23842984587010691",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Oi, me chamo Gabriel. Tenho 24 anos, sou advogado e membro do movimento Acredito. Em 2016, fui candidato a vice-prefeito de Rio Branco.<br /> <br /> De l\u00e1 pra c\u00e1 entrei em muitas brigas: em favor do Uber, contra os atrasos nos sal\u00e1rios dos estagi\u00e1rios e terceirizados e contra o aumento da tarifa de \u00f4nibus.<br /> <br /> Mesmo sem mandato venho fazendo meu papel de cidad\u00e3o, cobrando, propondo e discutindo meios para um Acre melhor. Hoje sou candidato a Deputado Estadual para ampliar nossa atua\u00e7\u00e3o em favor da sociedade.<br /> <br /> Conto com seu voto e apoio! #Gabriel18000 \u25b6 Propaganda Eleitoral. CNPJ: 31.123.043/0001-98"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31123043000198",
+                    "byline": "Gabriel Santos de Souza",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534530922,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Gabriel Santos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39526115_258912904750420_1347583007443124224_n.jpg?_nc_cat=0&oh=f44daa48d49476a9aff431a81f5926bf&oe=5BEEADB9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39333485_258912901417087_4287034499994222592_n.jpg?_nc_cat=0&oh=865de5a59b694bf55776adb3f7026b7b&oe=5BFC299B"
+                        }
+                    ],
+                    "instagram_actor_name": "Gabriel Santos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280034_258912894750421_7130576967643955200_n.jpg?_nc_cat=0&oh=f60effe7898bc71822870f20576f6657&oe=5C01EF5E",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "842783295865930": "Political Candidate"
+                    },
+                    "page_id": 1113424338770664,
+                    "page_is_deleted": false,
+                    "page_like_count": 7095,
+                    "page_name": "Gabriel Santos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39388574_258912891417088_5460379085194657792_n.jpg?_nc_cat=0&oh=2f759bdafd6cb1f965f98f2dff4d1fcd&oe=5BF505F1",
+                    "page_profile_uri": "https://www.facebook.com/GABRIELRBCO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2159726457635148",
+                "adid": "6103113540559",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "366980073448840",
+                "pageName": "George Hilton",
+                "snapshot": {
+                    "ad_creative_id": 6103113540359,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Minhas andan\u00e7as por Minas Gerais nestes 20 anos de vida p\u00fablica, me fizeram conhecer a realidade da nossa popula\u00e7\u00e3o. Com isso pude contribuir com recursos importantes para todo o estado, em mais de R$ 200 milh\u00f5es investidos em sa\u00fade, educa\u00e7\u00e3o, esporte, infraestrutura, gerando melhor qualidade de vida aos mineiros. <br /> #Agora\u00e92020 #elei\u00e7\u00f5es2018 #elei\u00e7\u00f5es #MinasGerais #mineiros #UmDeputadoDiferenciado #VoteCerto #coragem #Lealdade #Compet\u00eancia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209597000102",
+                    "byline": "George Hilton - Elei\u00e7\u00f5es 2018",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534547925,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "George Hilton",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39289245_1551177548362414_6149695733902606336_n.png?_nc_cat=0&oh=284dd1d9712145ccde6ff02402ea6d65&oe=5BF65D66",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39281907_1551177551695747_5939008372350124032_n.png?_nc_cat=0&oh=c25efec4ba9de97447008f3fe7c48182&oe=5BFDF0D9"
+                        }
+                    ],
+                    "instagram_actor_name": "George Hilton",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289525_2159726487635145_8006299706713964544_n.jpg?_nc_cat=0&oh=436da0ca1bc256e29c4d585f3cf7db16&oe=5BF7ED29",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 366980073448840,
+                    "page_is_deleted": false,
+                    "page_like_count": 15825,
+                    "page_name": "George Hilton",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306054_2159726490968478_2696880656025124864_n.jpg?_nc_cat=0&oh=db88f4213da1316bc3041aa73cd8c572&oe=5BF7D5E0",
+                    "page_profile_uri": "https://www.facebook.com/GeorgeHilton20/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1167053873459731",
+                "adid": "23842984546180691",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1113424338770664",
+                "pageName": "Gabriel Santos",
+                "snapshot": {
+                    "ad_creative_id": "23842984546170691",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O Portal <a href=\"https://www.facebook.com/UOL/\" data-hovercard=\"/ajax/hovercard/page.php?id=21539158238&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">UOL</a> publicou uma mat\u00e9ria chamada  \u201cO futuro da Pol\u00edtica\u201d. Nela, eu sou 1 dos 15 jovens entrevistados como protagonistas da nova pol\u00edtica que est\u00e1 surgindo no Brasil ap\u00f3s in\u00fameros esc\u00e2ndalos de corrup\u00e7\u00e3o. <br /> <br /> Fico muito feliz da nossa candidatura a Deputado Estadual ser reconhecida e virar refer\u00eancia positiva para o Acre nacionalmente. #EuAcredito #OAcreTemJeito"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31123043000198",
+                    "byline": "Gabriel Santos de Souza",
+                    "caption": "www.uol",
+                    "cards": [],
+                    "creation_time": 1534564860,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Gabriel Santos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39397566_1167053913459727_913458295962861568_n.jpg?_nc_cat=0&oh=91842c53511f3672939c16cb9a7debdb&oe=5C020CE1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39308100_1167053910126394_5298327722848681984_n.jpg?_nc_cat=0&oh=faefaca5f4ebc698f70ca132e2e13c1b&oe=5C0217F2"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Quem s\u00e3o os jovens de at\u00e9 24 anos que se filiaram a partidos ap\u00f3s \"debandada\" causada pela Lava Jato",
+                    "link_url": "https://www.uol/eleicoes/especiais/jovens-filiados-politica-eleicao.htm#os-partidos-politicos-nao-tem-o-monopolio-da-politica",
+                    "page_categories": {
+                        "842783295865930": "Political Candidate"
+                    },
+                    "page_id": 1113424338770664,
+                    "page_is_deleted": false,
+                    "page_like_count": 7095,
+                    "page_name": "Gabriel Santos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39576318_1167053900126395_7628197401886457856_n.jpg?_nc_cat=0&oh=1cceaa725e67e53ff6662667f6d3c3d4&oe=5C10F2D0",
+                    "page_profile_uri": "https://www.facebook.com/GABRIELRBCO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "O futuro da pol\u00edtica",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "867341666722926",
+                "adid": "23842925636300609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925603620609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma das principais propostas de <a href=\"https://www.facebook.com/guilhermeboulos.oficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=398845206932703&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Guilherme Boulos</a> \u00e9 justamente taxar as grandes fortunas para que os trabalhadores e a classe m\u00e9dia sejam aliviados. Quem tem mais paga mais, quem tem menos paga menos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529648,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245197_2084151881629683_8831829688436391936_n.png?_nc_cat=0&oh=60ca1a9713347ea1cc5df3fc2431a126&oe=5BF7F0AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273621_2084151884963016_1740811508482310144_n.png?_nc_cat=0&oh=87320bef1c9a7ed04eb522a849c998ce&oe=5C3BB883"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416438,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306100_287542095364101_8352379667390398464_n.jpg?_nc_cat=0&oh=c64bf54fc79b97d373bf8b90a52ca17e&oe=5BF9D017",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "568638153551910",
+                "adid": "23842932453070399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534489200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932453060399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Hoje comemoramos o Dia do Patrim\u00f4nio Hist\u00f3rico! Desde 1998, ano do centen\u00e1rio de Rodrigo Melo Franco de Andrade, o dia 17 de agosto \u00e9 dedicado ao Dia do Patrim\u00f4nio Hist\u00f3rico Nacional. Nascido em Belo Horizonte, o advogado, jornalista, escritor e primeiro presidente do Instituto do Patrim\u00f4nio Hist\u00f3rico e Art\u00edstico Nacional (Iphan), criou a Revista do Patrim\u00f4nio Hist\u00f3rico e Art\u00edstico Nacional, uma das principais publica\u00e7\u00f5es do pa\u00eds sobre preserva\u00e7\u00e3o do patrim\u00f4nio cultural brasileiro. Entre 1934 e 1945, per\u00edodo em que Gustavo Capanema era ministro da Educa\u00e7\u00e3o, Rodrigo Melo Franco de Andrade integrou o grupo formado por intelectuais e artistas herdeiros dos ideais da Semana de 1922, quando se tornou o maior respons\u00e1vel pela consolida\u00e7\u00e3o jur\u00eddica do tema Patrim\u00f4nio Cultural no Brasil. As a\u00e7\u00f5es com o intuito de preservar o patrim\u00f4nio hist\u00f3rico tiverem in\u00edcio no s\u00e9culo XIX e ganharam destaque logo ap\u00f3s o t\u00e9rmino das guerras Mundiais, devido \u00e0 necessidade de restaura\u00e7\u00e3o dos monumentos que eram destru\u00eddos nos confrontos. <br /> <br /> No estado de Santa Catarina, a cultura \u00e9 repleta de influ\u00eancias trazidas pelos imigrantes que se instalaram em diferentes regi\u00f5es, a partir do s\u00e9culo XIX. Em decorr\u00eancia da imigra\u00e7\u00e3o, \u00e9 grande a diversidade da arquitetura nos bens tombados pelo Iphan, como a estrutura enxaimel (madeira e tijolos aparentes) trazida pelos alem\u00e3es que se instalaram na regi\u00e3o, al\u00e9m da heran\u00e7a da coloniza\u00e7\u00e3o italiana, a\u00e7oriana, polonesa, ucraniana e austr\u00edaca. A Ilha do Campeche e outros locais com sambaquis, s\u00edtios l\u00edticos e cer\u00e2micos formam um dos mais importantes patrim\u00f4nios arqueol\u00f3gicos da Regi\u00e3o Sul. Os bens imateriais est\u00e3o sendo inventariados por meio dos invent\u00e1rios nacionais de Refer\u00eancias Culturais (INRC) e de Diversidade Lingu\u00edstica (INDL)."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523427,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359990_568638213551904_6781825743467839488_n.jpg?_nc_cat=0&oh=089b24533896b68e5b8068b9bd53c9a6&oe=5BF7B81F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39390251_1809455919103110_6125710497628028928_n.jpg?_nc_cat=0&oh=3fe2e147c629d22df8e61f94357cd7bb&oe=5C04A275"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39354861_568638206885238_8522862896646979584_n.jpg?_nc_cat=0&oh=3574ec6dcd2cc58e653b30434ada9463&oe=5BECC119",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39397686_1809455855769783_792573331860619264_n.jpg?_nc_cat=0&oh=534e47638f20341b82cdd73506185b0a&oe=5C097537"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37543055_568638210218571_6925469047781851136_n.jpg?_nc_cat=0&oh=f5261a4d40812b736bc9d23a12c1f796&oe=5BEE4E13",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39468038_1809455959103106_3821313337614925824_n.jpg?_nc_cat=0&oh=171ea0fa9d3d512b5b384311c796a2b7&oe=5C005FD9"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39276068_568638203551905_5920282950594723840_n.jpg?_nc_cat=0&oh=671f1694ba6e521b13d1c63e9cbaf144&oe=5BFEA433",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39284455_1809455809103121_335752595849084928_n.jpg?_nc_cat=0&oh=2e2001d852ca3e96ad8979acc2c2261d&oe=5BED7FE1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39255785_568638216885237_5705282862056472576_n.jpg?_nc_cat=0&oh=01206f5104290c5cf3cca31de61e3a5b&oe=5BF70ADF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442041_1809455832436452_4685217739730583552_n.jpg?_nc_cat=0&oh=892bb0f0734967a4bc65ac739cd8fba0&oe=5BFBE25B"
+                        }
+                    ],
+                    "instagram_actor_name": "Jo\u00e3o Amin",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39331013_568638186885240_7836080643715891200_n.jpg?_nc_cat=0&oh=1ebe552c977ae7dfecdeeeeaa0770dde&oe=5C3B740F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56107,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39344490_568638190218573_141285474642690048_n.jpg?_nc_cat=0&oh=3ac635cdf53b7ee588fc2d598af97ab0&oe=5C04ED35",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "287542075364103",
+                "adid": "23842925618090609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925603620609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma das principais propostas de <a href=\"https://www.facebook.com/guilhermeboulos.oficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=398845206932703&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Guilherme Boulos</a> \u00e9 justamente taxar as grandes fortunas para que os trabalhadores e a classe m\u00e9dia sejam aliviados. Quem tem mais paga mais, quem tem menos paga menos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529648,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245197_2084151881629683_8831829688436391936_n.png?_nc_cat=0&oh=60ca1a9713347ea1cc5df3fc2431a126&oe=5BF7F0AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273621_2084151884963016_1740811508482310144_n.png?_nc_cat=0&oh=87320bef1c9a7ed04eb522a849c998ce&oe=5C3BB883"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416438,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306100_287542095364101_8352379667390398464_n.jpg?_nc_cat=0&oh=c64bf54fc79b97d373bf8b90a52ca17e&oe=5BF9D017",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "843046219417276",
+                "adid": "6097718616373",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "608861729146626",
+                "pageName": "Maia Filho",
+                "snapshot": {
+                    "ad_creative_id": 6097718514973,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Hoje vivi a emo\u00e7\u00e3o de ser homenageado com a maior honraria de Teresina. Recebi a Medalha do M\u00e9rito Conselheiro Jos\u00e9 Ant\u00f4nio Saraiva no Grau Grande Oficial e considero essa honraria um presente de Teresina, cidade que eu tenho no meu cora\u00e7\u00e3o e por quem tamb\u00e9m trabalho com dedica\u00e7\u00e3o. Ao prefeito <a href=\"https://www.facebook.com/firmino.filho/\" data-hovercard=\"/ajax/hovercard/page.php?id=181607882048327&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Firmino Filho</a> e ao ilustre Conselho que institui a comenda os meus sinceros agradecimentos por terem me reconhecido como um filho de cora\u00e7\u00e3o de nossa ilustre TERESINA.<br /> .<br /> Divido com todos que acompanham a minha hist\u00f3ria e com a minha fam\u00edlia amada a alegria deste momento. Obrigado, Teresina e parab\u00e9ns pelos seus 166 anos!<br /> #mainha #VamosJuntos #mainha1144 #homenagem #Teresina166anos"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31215071000135",
+                    "byline": "Maia Filho",
+                    "caption": "Hoje vivi a emo\u00e7\u00e3o de ser homenageado com a maior honraria de Teresina. Recebi a Medalha do M\u00e9rito Conselheiro Jos\u00e9 Ant\u00f4nio Saraiva no Grau Grande Oficial e considero essa honraria um presente de Teresina, cidade que eu tenho no meu cora\u00e7\u00e3o e por quem tamb\u00e9m trabalho com dedica\u00e7\u00e3o. Ao prefeito @firminosfilho e ao ilustre Conselho que institui a comenda os meus sinceros agradecimentos por terem me reconhecido como um filho de cora\u00e7\u00e3o de nossa ilustre TERESINA.\n.\nDivido com todos que acompanham a minha hist\u00f3ria e com a minha fam\u00edlia amada a alegria deste momento. Obrigado, Teresina e parab\u00e9ns pelos seus 166 anos!\n#mainha #VamosJuntos #mainha1144 #homenagem #Teresina166anos",
+                    "cards": [],
+                    "creation_time": 1534524104,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Maia Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347184_843046269417271_1813613192719368192_n.jpg?_nc_cat=0&oh=cbd802bc41a0b9a8c5b4e3cfc217147a&oe=5C3ABD96",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39393132_2028347953864656_4980016907584274432_n.jpg?_nc_cat=0&oh=3aa132881c0d41e89860dd48538851e7&oe=5C118E37"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39279453_843046252750606_8697286462044897280_n.jpg?_nc_cat=0&oh=888c048b821d2241a039a074e8f17195&oe=5BF9D5A9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39404717_2028348033864648_5129229341372186624_n.jpg?_nc_cat=0&oh=05f527aa4371dc07f4616e02516310f0&oe=5BF6BA2F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308100_843046276083937_3131970064404709376_n.jpg?_nc_cat=0&oh=62ae69135180275cbd1ca0fd164a13e2&oe=5BEEC1FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39263800_2028348150531303_3214082090983227392_n.jpg?_nc_cat=0&oh=07f2a70a02ad2604214560a9df289ed0&oe=5BF27B8C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39276657_843046266083938_5445170331121614848_n.jpg?_nc_cat=0&oh=9e8176e7bf326e361e13b95e79e58ce2&oe=5C097BC8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39298703_2028348223864629_442265534227021824_n.jpg?_nc_cat=0&oh=c3f7e3560b76c2f559453b3ef5f2964b&oe=5C0E406C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39324333_843046272750604_3192534944433831936_n.jpg?_nc_cat=0&oh=f8e0655220580436aa02b65ccd926be8&oe=5BEDA446",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39409355_2028348303864621_2175490695945519104_n.jpg?_nc_cat=0&oh=47736e9f2226b59843b384bee22de3f7&oe=5BF50861"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39406877_843046249417273_6411860614959857664_n.jpg?_nc_cat=0&oh=4674652a7b3ec26c81c3526dec55a4a8&oe=5C042A5D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39341419_2028348357197949_1762541496084463616_n.jpg?_nc_cat=0&oh=99aedb2ae75af71b80ace3a11f13ed4b&oe=5BF0EA63"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320069_843046259417272_5999298593515634688_n.jpg?_nc_cat=0&oh=ae27191213fd8fe3d5244db9036fe2ae&oe=5BF640D3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39265646_2028348460531272_2902828607065817088_n.jpg?_nc_cat=0&oh=101b493036a7eecab27bf9169ef20f0c&oe=5BFE6B81"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39279288_843046279417270_727316204355584000_n.jpg?_nc_cat=0&oh=251f1da8f78c7209513a0ebc9da63bb3&oe=5BEE4836",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39339085_2028348560531262_6823744615686864896_n.jpg?_nc_cat=0&oh=3b2835efb4f4dc94c1acaa2c11a17c11&oe=5BF9A1E3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39279295_843046289417269_7206761041705828352_n.jpg?_nc_cat=0&oh=7a6ff86315574123769b18b4cb30b27a&oe=5BF18B3C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39468240_2028348623864589_3039626244611112960_n.jpg?_nc_cat=0&oh=21b9f1114fec0f4599c89e9813f9bf79&oe=5C0C4E80"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295092_843046292750602_6584331550786060288_n.jpg?_nc_cat=0&oh=c7b648e36e87ed0e96a239d3bfafe157&oe=5C0D9AEA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39277145_2028348733864578_2507945323846959104_n.jpg?_nc_cat=0&oh=a87c9b92795b8aa97564738bfd82a0c6&oe=5C3A417D"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39394472_843046256083939_1506274897909776384_n.jpg?_nc_cat=0&oh=72b9d3be5788667c49854f8329650249&oe=5C0CCBBA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39404436_2028348893864562_4124074876619194368_n.jpg?_nc_cat=0&oh=bac4264156d4a29de24e5c7e4aaf8ee4&oe=5C0CEF49"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39303630_843046296083935_6081034685901701120_n.jpg?_nc_cat=0&oh=75de7f99587a60c3b383b31ee4112eb6&oe=5BFA247D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39310504_2028348997197885_7670564535547199488_n.jpg?_nc_cat=0&oh=32b85afa1883047c5a5cc094a2241b68&oe=5BFAC76A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471118_843046286083936_1008556405268938752_n.jpg?_nc_cat=0&oh=0f74c4576834edfc0ef983f90ada8f72&oe=5C3A61E4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453370_2028349107197874_3821307792812146688_n.jpg?_nc_cat=0&oh=87265f2943da6de7765dcb412c3e91a1&oe=5BFAA4DF"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39326475_843046262750605_5982561913416974336_n.jpg?_nc_cat=0&oh=4cafcdc963375131072fcffac72aaa59&oe=5BF443BB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39401689_2028349210531197_7452188289181679616_n.jpg?_nc_cat=0&oh=d6dd57d900238216f594a150590f94e4&oe=5C395888"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 608861729146626,
+                    "page_is_deleted": false,
+                    "page_like_count": 14002,
+                    "page_name": "Maia Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471218_843046239417274_8956977587968540672_n.jpg?_nc_cat=0&oh=5c33d018736a89c4af97dc47ecad47c1&oe=5BFC8B65",
+                    "page_profile_uri": "https://www.facebook.com/mainhapi/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "290845984804827",
+                "adid": "23842925615900609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925603620609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma das principais propostas de <a href=\"https://www.facebook.com/guilhermeboulos.oficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=398845206932703&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Guilherme Boulos</a> \u00e9 justamente taxar as grandes fortunas para que os trabalhadores e a classe m\u00e9dia sejam aliviados. Quem tem mais paga mais, quem tem menos paga menos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529648,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245197_2084151881629683_8831829688436391936_n.png?_nc_cat=0&oh=60ca1a9713347ea1cc5df3fc2431a126&oe=5BF7F0AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273621_2084151884963016_1740811508482310144_n.png?_nc_cat=0&oh=87320bef1c9a7ed04eb522a849c998ce&oe=5C3BB883"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416438,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306100_287542095364101_8352379667390398464_n.jpg?_nc_cat=0&oh=c64bf54fc79b97d373bf8b90a52ca17e&oe=5BF9D017",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2197219630535939",
+                "adid": "23842925609490609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925603620609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma das principais propostas de <a href=\"https://www.facebook.com/guilhermeboulos.oficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=398845206932703&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Guilherme Boulos</a> \u00e9 justamente taxar as grandes fortunas para que os trabalhadores e a classe m\u00e9dia sejam aliviados. Quem tem mais paga mais, quem tem menos paga menos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529648,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245197_2084151881629683_8831829688436391936_n.png?_nc_cat=0&oh=60ca1a9713347ea1cc5df3fc2431a126&oe=5BF7F0AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273621_2084151884963016_1740811508482310144_n.png?_nc_cat=0&oh=87320bef1c9a7ed04eb522a849c998ce&oe=5C3BB883"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416438,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306100_287542095364101_8352379667390398464_n.jpg?_nc_cat=0&oh=c64bf54fc79b97d373bf8b90a52ca17e&oe=5BF9D017",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "295499891031776",
+                "adid": "6104166482915",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104166481915,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que gratificante esse depoimento do V\u00edtor sobre a Escola Integral - um formato que tive o prazer de implantar em Pernambuco, quando fui vice-governador, e expandir para todo Brasil \u00e0 frente do MEC.<br /> <br /> Investir em educa\u00e7\u00e3o de qualidade faz toda diferen\u00e7a na vida de jovens como ele, que saem da escola prontos para a vida e para o mercado de trabalho. Iniciei minha trajet\u00f3ria com essa convic\u00e7\u00e3o, que carrego at\u00e9 hoje."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523904,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39275744_295499911031774_19446478044921856_n.jpg?_nc_cat=0&oh=8db88e9e38a30557ac37c18373d42515&oe=5C051F71",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306564_295499907698441_606339778924773376_n.jpg?_nc_cat=0&oh=fe09f90d0cff2ae7afd13545b1f834fb&oe=5C06439E",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "V\u00edtor",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39245224_322055045199924_3633665890035171328_n.mp4?_nc_cat=0&oh=ddc8838f36d47aeb5b5109d969e10c92&oe=5B78E836",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39268374_295499917698440_6204262941210968064_n.jpg?_nc_cat=0&oh=284927516cafcd3f0dd883c517ef788d&oe=5BFFE679",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39188078_2120015574919959_6814789613169672192_n.mp4?_nc_cat=1&oh=5451165cf23d48aae8fa5ead928aa784&oe=5B78E124"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "231086174219623",
+                "adid": "6104166421515",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161960715,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Meu compromisso como futuro senador \u00e9 trabalhar ainda mais pela Educa\u00e7\u00e3o de Pernambuco. <br /> <br /> E saber que contribu\u00ed, como Ministro da Educa\u00e7\u00e3o, para melhorar a vida de tantos outros jovens \u00e9 o que me motiva a seguir em frente.<br /> <br /> Feliz Dia do Estudante para todos."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523449,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359993_231086187552955_7822216201521594368_n.jpg?_nc_cat=0&oh=90feecbb3638715018c2370172cf8aeb&oe=5C07EE48",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39369377_231086190886288_363305983578996736_n.jpg?_nc_cat=0&oh=b09fcf0bf07677bb2e340541119f8886&oe=5C3A6A59",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Uma mensagem para todos os estudantes",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38670898_201056597430018_2772145263488270336_n.mp4?_nc_cat=0&oh=86e578e32382e5692649510982ca424e&oe=5B78E5C5",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39501692_231086197552954_4371950676360560640_n.jpg?_nc_cat=0&oh=eb3a9cb1c4f2ffe12e625a26604c7009&oe=5C047BC7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38798488_1023628324486157_2453584713055469568_n.mp4?_nc_cat=1&oh=e61a91a9eec8d7f52e158afd513f8644&oe=5B78F944"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "288196885097834",
+                "adid": "6104166417115",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161930915,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quando fui Ministro da Educa\u00e7\u00e3o, eu acreditei na import\u00e2ncia do PIBID e trabalhei para resgatar esse programa, que oferece mais qualifica\u00e7\u00e3o para professores em forma\u00e7\u00e3o. Por isso, fico feliz de saber que o trabalho fez a diferen\u00e7a para jovens como Waldomiro, que contou com o apoio de uma bolsa de estudos para concluir a sua licenciatura. <br /> <br /> Agora, a miss\u00e3o \u00e9 continuar trabalhando para fazer mais pela Educa\u00e7\u00e3o e pelos pernambucanos."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534526344,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282055_288196905097832_8079523135264653312_n.jpg?_nc_cat=0&oh=3db5139b2375606c9fafbfecf2804e63&oe=5C11049E",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39189180_288196908431165_5443503364119724032_n.jpg?_nc_cat=0&oh=72b41cae32bede9076a4a07fa17d1807&oe=5C0F8313",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Waldomiro",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39045437_2154287748231911_8889905106636505088_n.mp4?_nc_cat=0&oh=3fd322542812ea46224efa55e387d74d&oe=5B78E994",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39326476_288196928431163_6446541651241336832_n.jpg?_nc_cat=0&oh=0da41071b67feff647faa9b72a6c5bda&oe=5C0681F4",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39151870_218947675631389_8692010996664893440_n.mp4?_nc_cat=0&oh=bb9e2a968d4473bd3872a43c22eb5682&oe=5B78E18A"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "321907755246256",
+                "adid": "6104166417315",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161954715,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quando fui Ministro da Educa\u00e7\u00e3o, eu acreditei na import\u00e2ncia do PIBID e trabalhei para resgatar esse programa, que oferece mais qualifica\u00e7\u00e3o para professores em forma\u00e7\u00e3o. Por isso, fico feliz de saber que o trabalho fez a diferen\u00e7a para jovens como Valdomiro, que contou com o apoio de uma bolsa de estudos para concluir a sua licenciatura. <br /> Agora, a miss\u00e3o \u00e9 continuar trabalhando para fazer mais pela Educa\u00e7\u00e3o e pelos pernambucanos."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534539107,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39337898_321907771912921_7131227251462373376_n.jpg?_nc_cat=0&oh=38ff0df15ea8f1e14855b5b522ca7f88&oe=5C025531",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39546465_321907768579588_5633069322050994176_n.jpg?_nc_cat=0&oh=89d887e70406ddf7c4f562ece9f2d33d&oe=5C01DEAA",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39181891_259582921322398_2203160206706212864_n.mp4?_nc_cat=0&oh=3e2ce8c09cd4d453554fce7055be546c&oe=5B78DF9B",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289518_321907778579587_5137157361374330880_n.jpg?_nc_cat=0&oh=5c00f20a080728af104c1a5822adc60d&oe=5BEEC6EE",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39004941_238630910323065_8371162495678676992_n.mp4?_nc_cat=1&oh=3d783775c23db03f5f28b22e9f331eff&oe=5B78E294"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1882999761749047",
+                "adid": "6104166417515",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161937915,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "No Dia do Estudante, convidamos o Gerson para falar como a sua vida mudou a partir da Escola em Tempo Integral. Uma pol\u00edtica p\u00fablica de qualidade e um modelo de ensino que Mendon\u00e7a ajudou a implantar quando foi vice-governador de Pernambuco, e que foi nacionalizado na sua gest\u00e3o como ministro da Educa\u00e7\u00e3o. #EquipeMF"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534525145,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39205850_1882999818415708_8064230161177903104_n.jpg?_nc_cat=0&oh=eaeebc27e426840eb1b58b6aadbe6e92&oe=5C3A1B7C",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37539921_1882999821749041_1991491591155482624_n.jpg?_nc_cat=0&oh=de48f0b1e20fd3183d4459d5b20bc55c&oe=5BFB4004",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Dia do Estudante - Gerson",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38805596_2144870669101877_5960333413255741440_n.mp4?_nc_cat=0&oh=33a6cfa8028fa4fd86c490a9280c4a04&oe=5B78E79F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39348743_1882999828415707_4213079917685899264_n.jpg?_nc_cat=0&oh=41a34054346d40c69031cf78b5a7979c&oe=5BFF742A",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38852897_938440846339106_7745577835883921408_n.mp4?_nc_cat=1&oh=786a44bdc4ce4016db0a8798e3fddfc3&oe=5B78E5E1"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2110694365670011",
+                "adid": "6104166418115",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161942715,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O tempo das mentiras acabou. Minha hist\u00f3ria \u00e9 limpa.\u2800<br /> \u2800<br /> O povo pernambucano sabe quem est\u00e1 por tr\u00e1s desses ataques. \u00c9 gente que a Lava Jato conhece muito bem.<br /> <br /> Saiba mais no &#064;blogdomagno: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2F4sFdsN&amp;h=AT3sb8ZQ7NHVS45UPcB7scG9fu3jznbCWG3NusFJm3HfFqgJD0_5KJRLPvSMwd-uGLBMm2iqVraEoyMnBr072FTUPsPpyOxxsFl1sAiwB6X1dABj_TBDZ9CNwoDQ99TpSybnRDK_p5g\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/4sFdsN</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534526024,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37539341_2005045969535075_7338046861820821504_n.jpg?_nc_cat=0&oh=ccb437f202e5ceee07036f4a504af5e8&oe=5BF50566",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39169721_2005045972868408_8166182063330820096_n.jpg?_nc_cat=0&oh=2411db093013adb9d0002a83c322007d&oe=5BEF8D51"
+                        }
+                    ],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335653_2110694399003341_3884896548860985344_n.jpg?_nc_cat=0&oh=84ba15a0375ed0d088559a20bdff516f&oe=5C000485",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://goo.gl/4sFdsN",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471320_2110694402336674_5927073628897148928_n.jpg?_nc_cat=0&oh=eafbb2ea7a8dae29b1b9a51dc1098d70&oe=5BF34382",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2150435181870285",
+                "adid": "6104166417915",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho",
+                "snapshot": {
+                    "ad_creative_id": 6104161947315,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O tempo das mentiras acabou. Minha hist\u00f3ria \u00e9 limpa.<br /> <br /> O povo pernambucano sabe quem est\u00e1 por tr\u00e1s desses ataques. \u00c9 gente que a Lava Jato conhece muito bem.<br /> <br /> Saiba mais: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2F4sFdsN&amp;h=AT3RGy2HkZ6xNQsmjpE3KITOq7wTyZtavz07UtiQy3I7YrEE_gHY49Kt94xqrT72CTcu3FfpW1ze65oNJ3cPOodjK02H4Lm3WJFw4uJftgN4qyP_YIlHF-HVIAdU5DCy-fdwwWTQFeo\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/4sFdsN</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177463000157",
+                    "byline": "ELEICAO 2018 JOSE MENDONCA BEZERRA FILHO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534546904,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mendon\u00e7a Filho",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39007524_2003182796388059_5808883580679487488_n.jpg?_nc_cat=0&oh=38c49ce601ebc976450ff24e685fde0e&oe=5BED2C87",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38928863_2003182793054726_3818436173383073792_n.jpg?_nc_cat=0&oh=6cfda60c49830f35042be0c30c107250&oe=5C01A416"
+                        }
+                    ],
+                    "instagram_actor_name": "Mendon\u00e7a Filho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39369374_2150435198536950_8414092257170292736_n.jpg?_nc_cat=0&oh=07bfb117c7897f541d06a381229504ab&oe=5BECD852",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://goo.gl/4sFdsN",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 406398442733177,
+                    "page_is_deleted": false,
+                    "page_like_count": 219502,
+                    "page_name": "Mendon\u00e7a Filho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39303611_2150435195203617_274921152969703424_n.jpg?_nc_cat=0&oh=00c2b86d590164cd223a160617d0f483&oe=5BECEE06",
+                    "page_profile_uri": "https://www.facebook.com/mendoncafilhoPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2022344888077336",
+                "adid": "23842925603630609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925603620609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma das principais propostas de <a href=\"https://www.facebook.com/guilhermeboulos.oficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=398845206932703&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Guilherme Boulos</a> \u00e9 justamente taxar as grandes fortunas para que os trabalhadores e a classe m\u00e9dia sejam aliviados. Quem tem mais paga mais, quem tem menos paga menos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529648,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245197_2084151881629683_8831829688436391936_n.png?_nc_cat=0&oh=60ca1a9713347ea1cc5df3fc2431a126&oe=5BF7F0AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273621_2084151884963016_1740811508482310144_n.png?_nc_cat=0&oh=87320bef1c9a7ed04eb522a849c998ce&oe=5C3BB883"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416438,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306100_287542095364101_8352379667390398464_n.jpg?_nc_cat=0&oh=c64bf54fc79b97d373bf8b90a52ca17e&oe=5BF9D017",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "231714667491595",
+                "adid": "23842942441540487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942441390487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529076,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335646_231714684158260_5792476848558440448_n.jpg?_nc_cat=0&oh=a220ac14491df41c2e1a7cf8d968df1c&oe=5BFE79BE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39391991_231714687491593_5974285687531241472_n.jpg?_nc_cat=0&oh=88c3de8982ccf98378f170fdc2fb96a1&oe=5C0F90D7"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471321_231714677491594_3039327654189727744_n.jpg?_nc_cat=0&oh=d6ba88bb27d2a86d1afb3fe410765629&oe=5C0832C4",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39348355_231714680824927_6083886226358665216_n.jpg?_nc_cat=0&oh=2824daf430b73886505cf622a4d8a47d&oe=5BEF5E23",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "511961205916282",
+                "adid": "23842942441410487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942441400487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529065,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295075_511961245916278_6398078975440060416_n.jpg?_nc_cat=0&oh=81b3ead2cf20d7a765f2acdecb8c8068&oe=5BED204A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39267580_511961242582945_3358139447324442624_n.jpg?_nc_cat=0&oh=712557c6f7df86181b7cba26e51c7766&oe=5C07D24D"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39274429_511961219249614_3391260353915518976_n.jpg?_nc_cat=0&oh=4d6c61bfbc5e7d1566952179ca8b8028&oe=5BF95BCD",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347163_511961222582947_5059380975432105984_n.jpg?_nc_cat=0&oh=40125285ad3de23442d12920724f7f94&oe=5BEF7BAF",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2182074278684067",
+                "adid": "23842942441210487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942441120487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529064,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289444_2182074308684064_6882287837429891072_n.jpg?_nc_cat=0&oh=b9a81d3514d756473632fa7c3f3d24ca&oe=5C0A333F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39279294_2182074312017397_5572154118719406080_n.jpg?_nc_cat=0&oh=5e1b138bb68e485ea8006b3cccfff52b&oe=5BFB8AFF"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39226347_2182074302017398_3435406858167255040_n.jpg?_nc_cat=0&oh=6ccd14997f8d83b25db3a997305108a4&oe=5BF12DD6",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37546877_2182074298684065_5181684017476403200_n.jpg?_nc_cat=0&oh=9964d53776a5cb0b46449ed7943c3cb6&oe=5C04E581",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "458966591286307",
+                "adid": "23842942440820487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942440810487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529065,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471266_458966631286303_2957276749290799104_n.jpg?_nc_cat=0&oh=41c10755412be3226d4e0cdfbff329e5&oe=5BF90E9A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39389341_458966627952970_7524715658152509440_n.jpg?_nc_cat=0&oh=3372e8cbe75a5fe663932706d50c4ad5&oe=5C0F9E17"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39383098_458966617952971_7064875560131887104_n.jpg?_nc_cat=0&oh=3ec11ce0ab78560a5600aad70bc2b754&oe=5BF08879",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39238211_458966621286304_704230759434551296_n.jpg?_nc_cat=0&oh=5c9a6caf17babf7c3861e90064a90e58&oe=5C0822E6",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1664437413685013",
+                "adid": "23842942441100487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942441080487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523922,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395180_1664437450351676_4436752163670065152_n.jpg?_nc_cat=0&oh=e29467b61e7cca7abc6a6359dd672959&oe=5C09146C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39255823_1664437447018343_3781427750158467072_n.jpg?_nc_cat=0&oh=6104f1bc62e0d26238d106929fa01d85&oe=5C0F39E5"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280053_1664437430351678_7574273885621714944_n.jpg?_nc_cat=0&oh=318d6c303a837cf1c69a0375f84c4e30&oe=5C07CDA8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39319583_1664437433685011_2951486244317560832_n.jpg?_nc_cat=0&oh=cb39ff988e91ec22e24060e117661085&oe=5C096F9F",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "262131097843139",
+                "adid": "23842942440950487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942440800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "06172468405",
+                    "byline": "Lucas Ramos",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534529072,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306588_262131121176470_6273936201334390784_n.jpg?_nc_cat=0&oh=d13d29c86658b69c646ef17b0035628f&oe=5C0D4D9C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39301700_262131117843137_788689328510337024_n.jpg?_nc_cat=0&oh=3a683bcb6d012af2a9f3bc8be4370207&oe=5C097417"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289489_262131107843138_1167182952103149568_n.jpg?_nc_cat=0&oh=cc64bed923a89dcc1fa9e45c7ad9afac&oe=5C05163F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46525,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_262131111176471_1144683254821945344_n.jpg?_nc_cat=0&oh=b4c23cc691a9fbffec2407b3453c36b6&oe=5C3A8F57",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 429,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

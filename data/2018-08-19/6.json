@@ -1,0 +1,1898 @@
+{
+    "__ar": 1,
+    "bootloadable": {},
+    "bxData": {},
+    "dtsgToken": "AQH49BpXSWs2:AQGQehkeKykh",
+    "gkxData": {},
+    "ixData": {},
+    "lid": "6591478201964440535",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "Gfa0Ab7crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHYZZTx4tAHwAawC6AIA",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "226577237976606",
+                "adid": "23842942880120487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942880090487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534548484,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39368066_226577251309938_4556298584034639872_n.jpg?_nc_cat=0&oh=89f3db8684005a415c32b45ef2908341&oe=5BF17CF9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39291174_226577254643271_703936597124448256_n.jpg?_nc_cat=0&oh=fa854090f6357b0ba97e302242bab829&oe=5BFB854F"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395184_226577244643272_134462107344175104_n.jpg?_nc_cat=0&oh=a17be705ed9d09f07675d411115d2f10&oe=5C053B48",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297023_226577247976605_3919788691374997504_n.jpg?_nc_cat=0&oh=db5cecb9d7f23b21608f3714b61dc40a&oe=5C09A3F2",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "273737410021657",
+                "adid": "23842942879950487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942879900487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311144_273737433354988_6581931759284256768_n.jpg?_nc_cat=0&oh=3647b7d941806b7edd017b47c69d26f8&oe=5C0A29C6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39561650_273737430021655_5265741492441317376_n.jpg?_nc_cat=0&oh=09fb4a26639c65f7bcb2c2af94351890&oe=5BF69B85"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343455_273737416688323_4428424986587299840_n.jpg?_nc_cat=0&oh=37cd03d6e9e605600b5943a31ed7de50&oe=5BFC92C6",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471292_273737420021656_237587403152293888_n.jpg?_nc_cat=0&oh=e578ba7b7127337e59e6f4cedd99db05&oe=5C0E7B1E",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "457265418108058",
+                "adid": "23842942879640487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942879570487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395192_457265458108054_7446114432331022336_n.jpg?_nc_cat=0&oh=6efd82678f60bdd3b98ac70dd87cc178&oe=5C0FB5D3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39516709_457265454774721_7348208423730675712_n.jpg?_nc_cat=0&oh=826b5b6bd10ebbe018259a4ce861ff50&oe=5C0F9D9D"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409738_457265448108055_3326705118555930624_n.jpg?_nc_cat=0&oh=b8db44fd652f9274a6354d9f438cf709&oe=5C0DA65E",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289451_457265444774722_5225069423458516992_n.jpg?_nc_cat=0&oh=070fe66e4dbda36f47090269a30f5973&oe=5C385888",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "264880077667619",
+                "adid": "23842942879440487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942879360487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534545533,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306639_264880117667615_2777720328606973952_n.jpg?_nc_cat=0&oh=2683fdd7d5d2f4c39564567beb03b284&oe=5BEF03EB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39368890_264880114334282_1796476518021464064_n.jpg?_nc_cat=0&oh=d6d9cc47a4624543c248b0edd0498bd5&oe=5C10058C"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39319397_264880107667616_3028825686056894464_n.jpg?_nc_cat=0&oh=807826fbe06291d4e03fac8d9d7b4fb6&oe=5C3B234D",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320084_264880104334283_2618792713155248128_n.jpg?_nc_cat=0&oh=c18dd4e938d37f6c78d87998daaf0da2&oe=5BED1AF2",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "229469691032226",
+                "adid": "23842978305330001",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "2134782856537565",
+                "pageName": "Jilmar Tatto",
+                "snapshot": {
+                    "ad_creative_id": "23842978305320001",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Participei da grande Caminhada da Arrancada ABC, em S\u00e3o Bernardo do Campo. Centenas de pessoas estiveram presentes com suas bandeiras e muito entusiasmo. Estamos nas ruas para levar <a href=\"https://www.facebook.com/LuizMarinhoPT/\" data-hovercard=\"/ajax/hovercard/page.php?id=429364167086359&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Luiz Marinho</a> ao Governo do Estado de S\u00e3o Paulo, eu e <a href=\"https://www.facebook.com/EduardoSuplicy/\" data-hovercard=\"/ajax/hovercard/page.php?id=358937730879213&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Eduardo Suplicy</a> ao Senado e <a href=\"https://www.facebook.com/Lula/\" data-hovercard=\"/ajax/hovercard/page.php?id=267949976607343&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Lula</a> \u00e0 Presid\u00eancia. A passeata saiu do hist\u00f3rico Sindicato dos Metal\u00fargicos. #JilmarTatto #Tatto132"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "03946999808",
+                    "byline": "Jilmar Augustinho Tatto ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534571107,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jilmar Tatto",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39313216_229469717698890_8121654917602476032_n.jpg?_nc_cat=0&oh=b9adef56255167bb58dcefa46873e736&oe=5C3B9F3D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39441494_2287396004609582_4465185744817750016_n.jpg?_nc_cat=0&oh=e29cc01aa0c3601202f2e240168e2d95&oe=5BFCADDA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39524001_229469724365556_2925886920678440960_n.jpg?_nc_cat=0&oh=67c28a508057c963a871e43494f73951&oe=5BF7D653",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39294430_2287396077942908_8640389187733815296_n.jpg?_nc_cat=0&oh=07aabd72c2efdf1f77ad975754dc25bb&oe=5C04B195"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340952_229469721032223_7075291757767819264_n.jpg?_nc_cat=0&oh=465fc2665e3ab5203a20a1e52c87a5d1&oe=5BF5DAB4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39410304_2287396141276235_7213980791536091136_n.jpg?_nc_cat=0&oh=d025a4eef6ae23875e7d9b402dd36525&oe=5C38AF36"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39523948_229469714365557_351897506763767808_n.jpg?_nc_cat=0&oh=1a9887fdd1b26d641dbc689d41f3a1d1&oe=5BEF253A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39509536_2287396247942891_1570985130049142784_n.jpg?_nc_cat=0&oh=fe1ace9114fe8fca82d0d1b0265efaf6&oe=5C036E46"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301611_229469727698889_1323883863235100672_n.jpg?_nc_cat=0&oh=336bc1b93a6ed9faffdd3fbff4e283ce&oe=5C04EFA8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39558146_2287396294609553_1759724727682727936_n.jpg?_nc_cat=0&oh=e033e1ea2dc3124a8803d9481ae29551&oe=5C039C0E"
+                        }
+                    ],
+                    "instagram_actor_name": "Jilmar Tatto",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349902_229469704365558_1283242112426442752_n.jpg?_nc_cat=0&oh=0dcef3e50abd9e0349f60dd436ec188e&oe=5BEE2B8D",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 2134782856537565,
+                    "page_is_deleted": false,
+                    "page_like_count": 7346,
+                    "page_name": "Jilmar Tatto",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335644_229469707698891_2409910522062307328_n.jpg?_nc_cat=0&oh=cd425ee16014228e94cae493f4497602&oe=5C0DF451",
+                    "page_profile_uri": "https://www.facebook.com/jilmartatto13/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "226605341354375",
+                "adid": "23842925800760609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925798340609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Temer: inimigo da educa\u00e7\u00e3o!<br /> <br /> Nessas elei\u00e7\u00f5es, n\u00e3o vote em nenhum candidato que tenha rela\u00e7\u00e3o com Michel Temer. O presidente golpista vetou na Lei de Diretrizes Or\u00e7ament\u00e1rias as verbas necess\u00e1rias para cumprir o Plano Nacional de Educa\u00e7\u00e3o.<br /> <br /> Obcecado por acabar com os direitos sociais, Temer leva a ferro e a fogo a pol\u00edtica delinquente de congelamento dos gastos. <br /> <br /> Alckmin, como o pr\u00f3prio Temer afirmou, \u00e9 o candidato do governo. Em S\u00e3o Paulo, Doria, Marcio Fran\u00e7a e Skaf fizeram parte do mesmo golpe. <br /> <br /> #N\u00e3oVoteEmGolpista #IvanValente5050 #VamosComBoulosESonia #VaiLisete"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534561724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39293395_2087415634636641_8500955363686744064_n.png?_nc_cat=0&oh=55a2eff4516bc7bf9f1f5fda6d4d34ad&oe=5C0F63FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388989_2087415631303308_5470889982564499456_n.png?_nc_cat=0&oh=e1f2962d4969472499631b0b589178f0&oe=5BED52C4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347162_226605358021040_6002044533611692032_n.jpg?_nc_cat=0&oh=88ee6d9312029cdaf92c7101fd40f4b8&oe=5BF06B65",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "285368485591616",
+                "adid": "23842925800230609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925798340609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Temer: inimigo da educa\u00e7\u00e3o!<br /> <br /> Nessas elei\u00e7\u00f5es, n\u00e3o vote em nenhum candidato que tenha rela\u00e7\u00e3o com Michel Temer. O presidente golpista vetou na Lei de Diretrizes Or\u00e7ament\u00e1rias as verbas necess\u00e1rias para cumprir o Plano Nacional de Educa\u00e7\u00e3o.<br /> <br /> Obcecado por acabar com os direitos sociais, Temer leva a ferro e a fogo a pol\u00edtica delinquente de congelamento dos gastos. <br /> <br /> Alckmin, como o pr\u00f3prio Temer afirmou, \u00e9 o candidato do governo. Em S\u00e3o Paulo, Doria, Marcio Fran\u00e7a e Skaf fizeram parte do mesmo golpe. <br /> <br /> #N\u00e3oVoteEmGolpista #IvanValente5050 #VamosComBoulosESonia #VaiLisete"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534561724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39293395_2087415634636641_8500955363686744064_n.png?_nc_cat=0&oh=55a2eff4516bc7bf9f1f5fda6d4d34ad&oe=5C0F63FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388989_2087415631303308_5470889982564499456_n.png?_nc_cat=0&oh=e1f2962d4969472499631b0b589178f0&oe=5BED52C4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347162_226605358021040_6002044533611692032_n.jpg?_nc_cat=0&oh=88ee6d9312029cdaf92c7101fd40f4b8&oe=5BF06B65",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "666027807111872",
+                "adid": "23842925799300609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925798340609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Temer: inimigo da educa\u00e7\u00e3o!<br /> <br /> Nessas elei\u00e7\u00f5es, n\u00e3o vote em nenhum candidato que tenha rela\u00e7\u00e3o com Michel Temer. O presidente golpista vetou na Lei de Diretrizes Or\u00e7ament\u00e1rias as verbas necess\u00e1rias para cumprir o Plano Nacional de Educa\u00e7\u00e3o.<br /> <br /> Obcecado por acabar com os direitos sociais, Temer leva a ferro e a fogo a pol\u00edtica delinquente de congelamento dos gastos. <br /> <br /> Alckmin, como o pr\u00f3prio Temer afirmou, \u00e9 o candidato do governo. Em S\u00e3o Paulo, Doria, Marcio Fran\u00e7a e Skaf fizeram parte do mesmo golpe. <br /> <br /> #N\u00e3oVoteEmGolpista #IvanValente5050 #VamosComBoulosESonia #VaiLisete"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534561724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39293395_2087415634636641_8500955363686744064_n.png?_nc_cat=0&oh=55a2eff4516bc7bf9f1f5fda6d4d34ad&oe=5C0F63FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388989_2087415631303308_5470889982564499456_n.png?_nc_cat=0&oh=e1f2962d4969472499631b0b589178f0&oe=5BED52C4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347162_226605358021040_6002044533611692032_n.jpg?_nc_cat=0&oh=88ee6d9312029cdaf92c7101fd40f4b8&oe=5BF06B65",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "905561289653216",
+                "adid": "23842925798960609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925798340609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Temer: inimigo da educa\u00e7\u00e3o!<br /> <br /> Nessas elei\u00e7\u00f5es, n\u00e3o vote em nenhum candidato que tenha rela\u00e7\u00e3o com Michel Temer. O presidente golpista vetou na Lei de Diretrizes Or\u00e7ament\u00e1rias as verbas necess\u00e1rias para cumprir o Plano Nacional de Educa\u00e7\u00e3o.<br /> <br /> Obcecado por acabar com os direitos sociais, Temer leva a ferro e a fogo a pol\u00edtica delinquente de congelamento dos gastos. <br /> <br /> Alckmin, como o pr\u00f3prio Temer afirmou, \u00e9 o candidato do governo. Em S\u00e3o Paulo, Doria, Marcio Fran\u00e7a e Skaf fizeram parte do mesmo golpe. <br /> <br /> #N\u00e3oVoteEmGolpista #IvanValente5050 #VamosComBoulosESonia #VaiLisete"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534561724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39293395_2087415634636641_8500955363686744064_n.png?_nc_cat=0&oh=55a2eff4516bc7bf9f1f5fda6d4d34ad&oe=5C0F63FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388989_2087415631303308_5470889982564499456_n.png?_nc_cat=0&oh=e1f2962d4969472499631b0b589178f0&oe=5BED52C4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347162_226605358021040_6002044533611692032_n.jpg?_nc_cat=0&oh=88ee6d9312029cdaf92c7101fd40f4b8&oe=5BF06B65",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2720878631557094",
+                "adid": "23842925798370609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925798340609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Temer: inimigo da educa\u00e7\u00e3o!<br /> <br /> Nessas elei\u00e7\u00f5es, n\u00e3o vote em nenhum candidato que tenha rela\u00e7\u00e3o com Michel Temer. O presidente golpista vetou na Lei de Diretrizes Or\u00e7ament\u00e1rias as verbas necess\u00e1rias para cumprir o Plano Nacional de Educa\u00e7\u00e3o.<br /> <br /> Obcecado por acabar com os direitos sociais, Temer leva a ferro e a fogo a pol\u00edtica delinquente de congelamento dos gastos. <br /> <br /> Alckmin, como o pr\u00f3prio Temer afirmou, \u00e9 o candidato do governo. Em S\u00e3o Paulo, Doria, Marcio Fran\u00e7a e Skaf fizeram parte do mesmo golpe. <br /> <br /> #N\u00e3oVoteEmGolpista #IvanValente5050 #VamosComBoulosESonia #VaiLisete"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE 5050",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534561724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39293395_2087415634636641_8500955363686744064_n.png?_nc_cat=0&oh=55a2eff4516bc7bf9f1f5fda6d4d34ad&oe=5C0F63FE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388989_2087415631303308_5470889982564499456_n.png?_nc_cat=0&oh=e1f2962d4969472499631b0b589178f0&oe=5BED52C4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347162_226605358021040_6002044533611692032_n.jpg?_nc_cat=0&oh=88ee6d9312029cdaf92c7101fd40f4b8&oe=5BF06B65",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "716578568683423",
+                "adid": "6106514163230",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "595910780484178",
+                "pageName": "Rodrigo Fachini",
+                "snapshot": {
+                    "ad_creative_id": 6106514162630,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Juntos somos mais fortes e podemos alcan\u00e7ar nossos objetivos, porque o que nos une \u00e9 maior do que os desafios no nosso caminho. #DeputadoEstadualFachini #Fachini2018 #AFor\u00e7adoNovo #RodrigoFachini<br /> <br /> Descri\u00e7\u00e3o #PraCegoVer: Arte com uma foto de construtores trabalhando, com o logo do candidato Mauro Mariani 15, e os dizeres: A for\u00e7a do Novo, faz crescer juntos. Rodrigo Fachini, deputado estadias. 15615, hashtag Fachini 2018."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31195157000143",
+                    "byline": "Rodrigo Jo\u00e3o Fachini",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534546741,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rodrigo Fachini",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308094_716578595350087_4203969965633568768_n.jpg?_nc_cat=0&oh=4c0eec738ce7e5bf30750711e6873911&oe=5BFA36B6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39498737_2107788629296378_8852756306700795904_n.jpg?_nc_cat=0&oh=f2c160b704ab5df7d8a58811df32b189&oe=5BEDA753"
+                        }
+                    ],
+                    "instagram_actor_name": "Rodrigo Fachini",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471355_716578582016755_8946459822945992704_n.jpg?_nc_cat=0&oh=6dff836889c85b3ad58b955a8057de0f&oe=5BF03ACA",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "373543049350668": "Political Organization"
+                    },
+                    "page_id": 595910780484178,
+                    "page_is_deleted": false,
+                    "page_like_count": 5788,
+                    "page_name": "Rodrigo Fachini",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308107_716578585350088_4392812015417032704_n.jpg?_nc_cat=0&oh=ceb325da1fb552095c31ae369fd6c030&oe=5BF3FAAE",
+                    "page_profile_uri": "https://www.facebook.com/FachiniRodrigo/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "477892429342294",
+                "adid": "23842981411690406",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "819221691513484",
+                "pageName": "Fabricio Jurado",
+                "snapshot": {
+                    "ad_creative_id": "23842981407040406",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Come\u00e7ou oficialmente a campanha! Chegou a vez do NOVO e precisamos da sua ajuda!<br /> <br /> Dia 07 de outubro, vote 300!<br /> <br /> #VamosRenovarTudo #FabricioJuradoSenador300 #SejaNovo #OndaLaranja #PortoVelho #Rondonia #FabricioJurado"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31075100000100",
+                    "byline": "ELEICAO 2018 FABRICIO GRISI MEDICI JURADO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534546167,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fabricio Jurado",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Fabricio Jurado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39522152_477892442675626_4480078646995845120_n.jpg?_nc_cat=0&oh=be995e8cd840594b5f5d036d22f73bbe&oe=5C033359",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 819221691513484,
+                    "page_is_deleted": false,
+                    "page_like_count": 28554,
+                    "page_name": "Fabricio Jurado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280632_477892439342293_6494845649475862528_n.jpg?_nc_cat=0&oh=bb5326fd82edf3000668cc3d05d2b151&oe=5BF8C2D1",
+                    "page_profile_uri": "https://www.facebook.com/FabricioJuradoNOVO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "COMIT\u00c9 NOVO",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39329441_279159429343450_9063865369617235968_n.mp4?_nc_cat=0&oh=073624fbd1e5bae148db0a59c4dc306e&oe=5B79D95B",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39526104_477892446008959_8109124367696265216_n.jpg?_nc_cat=0&oh=dad7fed019b49cffca84817202fc4341&oe=5BF5F022",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39239542_258956728063181_6600245182006820864_n.mp4?_nc_cat=0&oh=935aa52598ea43d4a518c658aae52e4c&oe=5B79D83F"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "218369569023529",
+                "adid": "23842981409870406",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "819221691513484",
+                "pageName": "Fabricio Jurado",
+                "snapshot": {
+                    "ad_creative_id": "23842981407040406",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Come\u00e7ou oficialmente a campanha! Chegou a vez do NOVO e precisamos da sua ajuda!<br /> <br /> Dia 07 de outubro, vote 300!<br /> <br /> #VamosRenovarTudo #FabricioJuradoSenador300 #SejaNovo #OndaLaranja #PortoVelho #Rondonia #FabricioJurado"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31075100000100",
+                    "byline": "ELEICAO 2018 FABRICIO GRISI MEDICI JURADO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534546167,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fabricio Jurado",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Fabricio Jurado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39522152_477892442675626_4480078646995845120_n.jpg?_nc_cat=0&oh=be995e8cd840594b5f5d036d22f73bbe&oe=5C033359",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 819221691513484,
+                    "page_is_deleted": false,
+                    "page_like_count": 28554,
+                    "page_name": "Fabricio Jurado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280632_477892439342293_6494845649475862528_n.jpg?_nc_cat=0&oh=bb5326fd82edf3000668cc3d05d2b151&oe=5BF8C2D1",
+                    "page_profile_uri": "https://www.facebook.com/FabricioJuradoNOVO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "COMIT\u00c9 NOVO",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39329441_279159429343450_9063865369617235968_n.mp4?_nc_cat=0&oh=073624fbd1e5bae148db0a59c4dc306e&oe=5B79D95B",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39526104_477892446008959_8109124367696265216_n.jpg?_nc_cat=0&oh=dad7fed019b49cffca84817202fc4341&oe=5BF5F022",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39239542_258956728063181_6600245182006820864_n.mp4?_nc_cat=0&oh=935aa52598ea43d4a518c658aae52e4c&oe=5B79D83F"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "283153815605385",
+                "adid": "23842942853500487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942853400487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39385843_1007639622742017_7929957470481416192_n.png?_nc_cat=0&oh=d39b4e74ba8d07c231097f8d615d6304&oe=5C00C6EC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39306834_1007639626075350_2271253649009147904_n.png?_nc_cat=0&oh=8f13c8ebc7e2fbb3b3305807ea10a654&oe=5BF47022"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347181_283153828938717_2922489962324557824_n.jpg?_nc_cat=0&oh=78110d06654e997ac1790be48f1592ea&oe=5C04F6EC",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39263726_283153825605384_744876135195607040_n.jpg?_nc_cat=0&oh=b87f251c1f5ced3a40ec298ce5b584d5&oe=5C00643F",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "230164364362005",
+                "adid": "23842942853580487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "660822927625170",
+                "adid": "23842942853640487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "682563272102684",
+                "adid": "23842942853420487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942853410487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39507307_1007782912727688_7952805644229148672_n.png?_nc_cat=0&oh=813d6ad12f5cc28bfa5d60fa4106b2bf&oe=5BF8BBDD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39506995_1007782916061021_6678764008880734208_n.png?_nc_cat=0&oh=0ac43bc7589c7ef8aaecedc8d8209c56&oe=5BFBDC89"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39537278_682563292102682_5406890047821578240_n.jpg?_nc_cat=0&oh=5d4aca1f9b265ce404fd71f045d0e67d&oe=5C0F2335",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39538774_682563295436015_3508264458583539712_n.jpg?_nc_cat=0&oh=5da031ff0646aa96c9b02f2dbc6d6029&oe=5BEDC9AA",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1011202915717581",
+                "adid": "23842942853300487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2147768932209350",
+                "adid": "23842942853100487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942853090487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534592895,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39441946_1007773796061933_6804793042428493824_n.png?_nc_cat=0&oh=9b9319c6fb34dd2dd0f2b1372e51b118&oe=5BF9FC16",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388029_1007773799395266_8160107871472713728_n.png?_nc_cat=0&oh=a6b4467b2c0fb6d35717fc9fb9be5f9f&oe=5C09187C"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343440_2147768952209348_5280029358281457664_n.jpg?_nc_cat=0&oh=a9e846247080eae84cef62169407ad68&oe=5C02D824",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39326011_2147768948876015_4419308974336114688_n.jpg?_nc_cat=0&oh=ad1b2c35e415113dc72d9d8c45bdc799&oe=5BF53A10",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "227037891487649",
+                "adid": "23842942852080487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852060487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534545038,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39334227_1007639519408694_5000412783855009792_n.png?_nc_cat=0&oh=91f65226b5c3f91025eec6fee887c672&oe=5BF41D8C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39403373_1007639516075361_8288296728109514752_n.png?_nc_cat=0&oh=280bde41030b50953deb65dd6e58c4c2&oe=5BEDB7AF"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39379268_227037921487646_2892938963830439936_n.jpg?_nc_cat=0&oh=d67d28aa1e5a60eba8dd517a55c85264&oe=5C0E3A29",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39576318_227037918154313_1940379517533028352_n.jpg?_nc_cat=0&oh=b23431327c037acd33386a20d0c8038b&oe=5C03155C",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "235121767204395",
+                "adid": "23842942852880487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852770487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39338690_1007765899396056_1142620674087452672_n.png?_nc_cat=0&oh=718cc5a57de998c9143832ce2bca840e&oe=5C00B119",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388937_1007765896062723_2406234442373791744_n.png?_nc_cat=0&oh=c4f69e881d2afc3fafcbf0ba6a6a6ead&oe=5BF883C4"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39404419_235121790537726_1634523428822188032_n.jpg?_nc_cat=0&oh=42658eaede22452e7b38af5e1a8c8e16&oe=5C07E6EE",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301707_235121787204393_95972856705318912_n.jpg?_nc_cat=0&oh=398a2786a885c11f71cb52930811c020&oe=5BFDB288",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "237175620277246",
+                "adid": "23842942851900487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "256148555222383",
+                "adid": "23842942851980487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "469954233479973",
+                "adid": "23842942852370487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852330487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39403407_1007782839394362_2143381576275197952_n.png?_nc_cat=0&oh=a6eaf5d18988ce1c296856bd36e25e99&oe=5BFCB2F6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39467257_1007782836061029_1016482574140178432_n.png?_nc_cat=0&oh=032e28b01703dbd55a405345457bd907&oe=5BF5255E"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320802_469954266813303_1504749888166952960_n.jpg?_nc_cat=0&oh=2bf7c990ed1a07b34fd57465a507c4dc&oe=5C3A4171",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39284383_469954263479970_7468939894291693568_n.jpg?_nc_cat=0&oh=196f211f17ebd77ca32a6cd3e6f3f7ed&oe=5BFED5EB",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "671735949868130",
+                "adid": "23842942852620487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1318648731604403",
+                "adid": "23842942852160487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942851800487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549067,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39298771_1007661412739838_8859892953208848384_n.jpg?_nc_cat=0&oh=cbb1826a1159c2482c04d262b44a1976&oe=5BFF8CF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330735_1007661416073171_7466407753372663808_n.jpg?_nc_cat=0&oh=b93d859357617eaa9ecb2af2459465f5&oe=5C00677B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301708_671735966534795_437029569661239296_n.jpg?_nc_cat=0&oh=f42f017a9cfca3039a2afc0a07ee0c3b&oe=5C0CA3DE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1652203591552379",
+                "adid": "23842942853220487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942853190487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39468064_1007639526075360_7393387038688411648_n.png?_nc_cat=0&oh=3e9e4d3a5c27902b2539d96659a51419&oe=5BF5C267",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39407857_1007639522742027_1890225011164184576_n.png?_nc_cat=0&oh=6206e637dc58fb76661e43f27a5d51da&oe=5BFECEFA"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39313218_1652203668219038_2956693209264160768_n.jpg?_nc_cat=0&oh=e01cdfd266269807029e64b5a9634000&oe=5C034738",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39324324_1652203671552371_5351187697836752896_n.jpg?_nc_cat=0&oh=0f7ce5bc26964a0581e1a540973ec685&oe=5BF109E7",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1757578061027506",
+                "adid": "23842942852980487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852960487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534541508,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39301772_1007782636061049_797242476707446784_n.png?_nc_cat=0&oh=d309a59df084d872b4670ce407f5b3d0&oe=5BED02CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453190_1007782632727716_6883709862446891008_n.png?_nc_cat=0&oh=0c147a7b483553980b7532bcaad72bcf&oe=5BFEEE52"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39506488_1757578084360837_1994204442823491584_n.jpg?_nc_cat=0&oh=5d68ad1cc9fdd4a83ef8352ae9f98a72&oe=5C0BF343",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39205818_1757578081027504_8236558242096873472_n.jpg?_nc_cat=0&oh=b23f02046c9b4498501f9d04c380a4d2&oe=5C00C177",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2069980783033020",
+                "adid": "23842942852450487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852360487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39441278_1007639592742020_1280601661022142464_n.png?_nc_cat=0&oh=7fc7b87cc23c3b75e300538ffdbf69e8&oe=5BF019D5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39386954_1007639589408687_7502557535325388800_n.png?_nc_cat=0&oh=a0c3e9212b2a03fd66828ae8246f229d&oe=5BF434E5"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39276655_2069980796366352_7183233958182649856_n.jpg?_nc_cat=0&oh=520a333ac31493441b317354692443fc&oe=5C0E86FC",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39321966_2069980799699685_8267261971158532096_n.jpg?_nc_cat=0&oh=1ef97d4d5618edc9345416b84c1e9be3&oe=5BFC776E",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "260044131300207",
+                "adid": "23842942852540487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942852530487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549263,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39403727_1007774039395242_6742574376652111872_n.png?_nc_cat=0&oh=bae7b4bdeb5fe832e338809da8879b00&oe=5C04C1CD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39312470_1007774036061909_6090002367162351616_n.png?_nc_cat=0&oh=c31bd2c151836fbd2809d4929959c948&oe=5BEF0D90"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39313213_260044141300206_200419817029632000_n.jpg?_nc_cat=0&oh=85f169866e9506508ef224aa1b3b8804&oe=5BED4E90",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46528,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39313227_260044144633539_5888947418958921728_n.jpg?_nc_cat=0&oh=b5674c8ab3c93084390569a124519c43&oe=5BED23AE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 535,
+        "viewAllPageName": null
+    },
+    "qexData": {}
+}

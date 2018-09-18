@@ -2,6 +2,7 @@
 import csv
 
 def save_report_to_csv (file_name, features):
+    print ('Saving %s' % (file_name))
     with open(file_name, 'a') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(features)

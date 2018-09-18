@@ -174,8 +174,8 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
 
-    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
-        MODEL_FILE, 
+    save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_validation_report.csv', [
+        'MultinomialNB', 
         p,
         r, 
         f1,

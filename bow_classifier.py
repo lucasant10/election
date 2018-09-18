@@ -243,7 +243,7 @@ def classification_model(X, Y, model_type=None):
     f1_score_mean = scores3.mean()
     f1_score_std = scores3.std() * 2
 
-    save_report_to_csv (REPORT_FOLDER + 'training_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + model_type +'_training_report.csv', [
         model_type, 
         POLITICS_FILE.replace(TMP_FOLDER, ''),
         precision_score_mean,

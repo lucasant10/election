@@ -1,0 +1,2417 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQFautA9WBT5:AQGsxxMDPAUG",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591480065661943151",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfakA77crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHbqi5uEiJbIAbqusZPIx8wB3Lem1faF7wPy2J3igs7NAf7X38q84vYBgqO1vdyrsgKI8MWvqqHPAq7B2qDZoYMFrqybnMy8jQbyhrP358icBu72ipW59bAGxOjL2c2XvAb22sSg1LTwBozVot3+2NEHjOv79MfE2weyz/+D+5/1AaCSo9yjx27w6u2TqPnXB9KD7d+P4XGMsIuB1seHAczk+72F8ukHmIfDqvqlc6Sxjb/8+toHtp6P3v3ypAfg352YyYi9BpiG2LLr1XrEz4HfremAAZannsvnv74CrvKWivrkggGojKOb5uvwBsaJpsrzqowB1uGG/sKVlALEjZ744/X4A9qrrcSY0Wmm3Yi7yYGUAea49o6I97oD/tvlkdDOyAemwqGAopLkAeCv/srSkPQB1tilkd22ebiJjJb5wPwHmoaF3cSaiQPK58bd6qTtB/SKzOGu/2Ok75jn8bqvAvz+2tLqqM0H1Lq3pKXreJzOjL7mmMcBkp/h0amkxgLMg6+t9qnLAtKR2trnxLoBupjg2ri72Aeklri1xtBz/qruqICeggGekMaS3pDqAdzJ3OXTnmbouYb5/emOAcS5z+zDkXOG4aKrnouZBOqRjp6gv5ACmo7f0NPexAPS5OX59JnjBv6cn7KY7JEB6ursy9291wfCzeCdmeyVAe7/4Jm+kLUCvrL/4cTP0waIjqDUybKsB9ixrMflima8ndKLzOSTAcbcyOW3iXXKrr2Jgt/DAeir7c6b52PKjuL7l5ewApyK24GKumSIi6POp6FqtNeW18jKmAPC1sH0saOhAa7quafasPsD5L/J3JP7cfT50s7an4cBlPXH5+P4da6H657b3nWYhY6F0JDWB6bI/fi825IE3JGN//a1igPMwK+yjMuCAo7MlLST4YIB+JqA59+v/wK2v965u6GEAYbUkvmBl+cHwPvJ4K2whgHOtZ2V/opp1LWxj6KHgwHgirfWv7GSAe6Qyr6BpdgG9qmpvsrqvwea84XS5vPRB7Cw1sr705cHlsSP58ivafSJip2I6OgBxpaJpLil4AfGsJnKr9vQAaqc2YyB8/QFhtfF74Sad/Dxl5ChurEDkpKBkbXgavyhpoeazIwBsPPGspXTigOaq+zupZSUAb7X2OG6+pUGzt7J1eTsuQHAmKTOx6fAA5rQw9rCmnqM5/W30dxtnMborK3SlAHwvISE+ObTAeDlorz0rWTOopqo3qiRAez6rJq1xN0BipKg2OerwQK0tLqu1NrBApi1wYOH88EGgLjs1ZibxQaqx420w7GkB/buoZre9swHqITi1rudf/jZtua5vZEBmNejhL+A1QGs68yem7Fl+Mv32LGT9gbm1pzH+MnBAoKV8JbsoMgDluelwMuI8gPi2e6MvN/qB6ynvpjXtmuU872Ots1lzsrLl63SuwH4/sbw8qHlAYj7tOeg//kG+qyipOTVgwHWzoHivfBq2N6Oy5nZZ/iZuZ2C7O8GrrbOv8Cz1gG4wdSDq7zoAeSPse23oJcFsuGc2+/nsga21JGDsehNpJj1kMWvfsKVgpnsyYIBtL2E3eLn5wHUsfC5xP2qAuyTo/rY/LUG4s78yrTK5ge22pXD587oB5Lto7Kuk3OUueOB6/l19pT8qvr81AG2t8TxrbT2Ae795dmL0u4DsoyHzqjL/wP8pdGq04SWBNj3mcqw5eIG1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgKgkOzFoNHTB7bsvP2z+fQG2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAIGeU8eLQB8AGsAugCpAPgA5wE2ASUBdAFjAbIBgA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "270368093794165",
+                "adid": "6109457823817",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533884400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6109457819217,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El gobierno de Donald Trump contin\u00faa propulsando un pol\u00edtica orientada a frenar la inmigraci\u00f3n legal a Estados Unidos, esta vez contemplando penalizar a inmigrantes legales que han recibido asistencia social del gobierno, seg\u00fan indica un informe de NBC News.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Ftrump-planea-castigar-a-inmigrantes-legales-por-recibir-ayudas-sociales&amp;h=AT3wkOJwgrDu4q0kGDUWfDc9g6AkGQ87lAK9fVEb8Fwj78LBd-mwM6y9XD0o-M8fxsUrKXuxgWKkNmHBDbc0q2R8Znl5QYBkgYKw168miaGZgXFacjkIXEyqpmEZtIs9R_TJTNMOiXQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/trump-planea-castigar-a-inmigrantes-legales-por-recibir-ayudas-sociales</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1533892556,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38507209_270368127127495_1351703328483966976_n.jpg?_nc_cat=0&oh=d620af3ca1207260e821084e5fe2f9a8&oe=5BF3EA00",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38804339_270368130460828_5383195082616733696_n.jpg?_nc_cat=0&oh=36528dd2f2c4f4bcc85d0826cdbcbf99&oe=5BFADC9E"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38924451_270368123794162_5280389963735629824_n.jpg?_nc_cat=0&oh=0583bee9614b2da297cbdb2a17820b19&oe=5C031469",
+                    "is_reshared": false,
+                    "link_description": "El gobierno de Donald Trump contin\u00faa propulsando un pol\u00edtica orientada a frenar la inmigraci\u00f3n legal a Estados Unidos, esta vez contemplando penalizar a inmigrantes legales que han recibido asistencia social del gobierno, seg\u00fan indica un informe de NBC News.",
+                    "link_url": "https://mpachecolaw.com/latest/trump-planea-castigar-a-inmigrantes-legales-por-recibir-ayudas-sociales",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38795053_270368120460829_3408851303009353728_n.jpg?_nc_cat=0&oh=e51d4aeea4f2970d558ccaa2933292a9&oe=5BFE7C32",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Trump planea castigar a inmigrantes legales por recibir ayudas sociales",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533798000
+            },
+            {
+                "adArchiveID": "274861233104217",
+                "adid": "6109305039017",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533711600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6109305030217,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El gobierno de Donald Trump public\u00f3 un memorando donde explica las nuevas normas para interpretar la pol\u00edtica de asilo en la frontera.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fel-gobierno-pone-en-vigor-nuevas-reglas-de-asilo-y-le-cierra-la-puerta-a-miles-de-inmigrantes&amp;h=AT0XnOvdycJIxr3evxiSIQg2jXCmv0ANnVAy8IeKyXUPiKiOyAzArqiYpqWFNXjF9ju9U_qWBHO3lzReuDykW7QUNWhbAqeXVTpsnYNyFXNmnqeEJ3U1SRHIi7TJbrARIyHi5g-hN-k\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/el-gobierno-pone-en-vigor-nuevas-reglas-de-asilo-y-le-cierra-la-puerta-a-miles-de-inmigrantes</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1533654690,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38774397_274861253104215_4157049415019790336_n.jpg?_nc_cat=0&oh=3d9a8685a758bfcf1ac9c43724fac11b&oe=5C103A33",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38614333_274861249770882_2346787039820644352_n.jpg?_nc_cat=0&oh=822a8774432d2e98a2b5e62622a9bae9&oe=5C0A6B2B"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38716838_274861246437549_7266072534313861120_n.jpg?_nc_cat=0&oh=e88f4935bf2fe0661a16e93b08d67a31&oe=5C00E6CC",
+                    "is_reshared": false,
+                    "link_description": "El servicio de inmigraci\u00f3n public\u00f3 un reglamento que dificulta el proceso de asilo y amenaza con dejar sin protecci\u00f3n a miles de inmigrantes que huyen de la violencia.",
+                    "link_url": "https://mpachecolaw.com/latest/el-gobierno-pone-en-vigor-nuevas-reglas-de-asilo-y-le-cierra-la-puerta-a-miles-de-inmigrantes",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38654621_274861243104216_3754283883265261568_n.jpg?_nc_cat=0&oh=0fe16595ba71f2a095c32fd2bef01c34&oe=5C0B535B",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "El gobierno pone en vigor nuevas reglas de asilo y le cierra la puerta a miles de inmigrantes",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533625200
+            },
+            {
+                "adArchiveID": "295152454624587",
+                "adid": "23842939589900276",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "275715205937851",
+                "pageName": "\u5927\u7d00\u5143&\u65b0\u5510\u4eba\uff0d\u820a\u91d1\u5c71\uff08EpochTimes & NTDTV - San Francisco\uff09",
+                "snapshot": {
+                    "ad_creative_id": "23842939589810276",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u3010\u8996\u983b\u5831\u5c0e\u3011\u5927\u9678\u65b0\u805e\u89e3\u8b80(563\uff09\u65b0\u805e\u4e32\u4e32\u71d2\uff1a\u9084\u8981\u7b49\u591a\u4e45\uff1f<br /> <br /> \u6211\u73fe\u5728\u662f\u660e\u767d\u4e86\uff0c\u70ba\u4ec0\u9ebc\u4e2d\u7f8e\u8cbf\u6613\u6230\uff0c\u9019\u9ebc\u591a\u7db2\u53cb\u8dd1\u5230\u7f8e\u570b\u5927\u4f7f\u9928\u7684\u5fae\u535a\u5e95\u4e0b\u53bb\u7559\u8a00\uff0c\u6709\u4eba\u9084\u63d0\u9192\u7f8e\u5e1d\uff0c\u300c\u4ea1\u6211\u4e4b\u5fc3\u5343\u842c\u4e0d\u80fd\u6b7b\u554a\u300d\uff0c\u518d\u9019\u6a23\u4e0b\u53bb\uff0c\u4e45\u800c\u4e45\u4e4b\uff0c\u9019\u570b\u5c07\u4e0d\u570b\u554a\uff01<br /> <br /> \u4e45\u800c\u4e45\u4e4b\uff0c\u570b\u5c07\u4e0d\u570b\uff0c\u5509\uff0c\u5927\u54e5\uff0c\u9084\u6709\u591a\u4e45\u554a\uff1f\u9084\u8981\u7b49\u591a\u4e45\uff1f<br /> <br /> \u4f86\u6e90\uff1a<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ntdtv.com%2Fxtr%2Fb5%2F2018%2F08%2F05%2Fa1386312.html&amp;h=AT21Ky5O9c0DSmdoUG8I-6gfmgtnGbH4ZkUJ5vtSI7-HzDAz5DjqxeOBOvAaQdXPI0MkMxIOLX2coaGiyTulfd9ZyfqEgahstu08A6rbMk5xBvEt2ImtKyVFQEiEHqRyYl85nVGhZCk\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.ntdtv.com/xtr/b5/2018/08/05/a1386312.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Paid for by Ellen Lee Zhou for Mayor 2018 FPPC #1400965",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533693771,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "\u5927\u7d00\u5143&\u65b0\u5510\u4eba\uff0d\u820a\u91d1\u5c71\uff08EpochTimes & NTDTV - San Francisco\uff09",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "\u5927\u7d00\u5143&\u65b0\u5510\u4eba\uff0d\u820a\u91d1\u5c71\uff08EpochTimes & NTDTV",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38753136_295152467957919_7531073618499862528_n.jpg?_nc_cat=0&oh=6461480cb5541af497c5ab01c58a146a&oe=5C0E5163",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "176831012360626": "Topic Professional Services"
+                    },
+                    "page_id": 275715205937851,
+                    "page_is_deleted": false,
+                    "page_like_count": 5457,
+                    "page_name": "\u5927\u7d00\u5143&\u65b0\u5510\u4eba\uff0d\u820a\u91d1\u5c71\uff08EpochTimes & NTDTV - San Francisco\uff09",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38806456_295152464624586_3678264577033764864_n.jpg?_nc_cat=0&oh=78eb7cf6af28da730d9168ac7a919180&oe=5BF009EB",
+                    "page_profile_uri": "https://www.facebook.com/sfdjy/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u5927\u9678\u65b0\u805e\u89e3\u8b80(563\uff09\u65b0\u805e\u4e32\u4e32\u71d2\uff1a\u9084\u8981\u7b49\u591a\u4e45\uff1f",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_694395624252522_2513053526020587520_n.mp4?_nc_cat=0&oh=334cf2830acd276a07a4fa34901c6d73&oe=5B79D633",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38632555_295152477957918_2756883604008075264_n.jpg?_nc_cat=0&oh=ec5409fc2683e0ffdb70c36ccc4c08fe&oe=5BF7394C",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38693183_2110248509239660_982827635610484736_n.mp4?_nc_cat=0&oh=a866ea78d413029ece0edabed62454e2&oe=5B79CCD4"
+                        }
+                    ]
+                },
+                "startDate": 1533538800
+            },
+            {
+                "adArchiveID": "924501667758610",
+                "adid": "6099190887405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533884400,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6099190881405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pueblo de Venezuela, no cometamos nuevamente el error de caer en nuestro acostumbrado pesimismo y por comodidad o indiferencia creer que el narco regimen y sus aliados cubanos son tan poderosos que toda acci\u00f3n militar proviene de ellos, pues con eso les estamos dando demasiado poder y nosotros nos estamos anulando por el miedo y la desesperanza...<br /> <br /> Recordemos lo que paso con Oscar Perez, con el Capitan Caguaripano, y los comandos heroicos que los acompa\u00f1aban, muchos de nosotros se burlaron de ellos para luego darnos cuenta del error y que ellos ven\u00edan a liberar a su patria...<br /> <br /> Por esta pagina #LuzParaVenezuela se pidi\u00f3, se exigi\u00f3, se suplico a que los venezolanos tuvi\u00e9ramos fe en esos alzamientos de Oscar Perez  y del Capitan Caguaripano que estaban dispuestos a dar su vida por la libertad y democracia de Venezuela... Se pidi\u00f3 que les hici\u00e9ramos caso a los comunicados de Oscar Perez de salir a la calle para apoyar a su gesti\u00f3n militar y que ellos nos apoyar\u00edan a nosotros tambi\u00e9n... Era evidente que si as\u00ed se hubiera hecho hace tiempo que estar\u00edamos libres y en elecciones presidenciales democr\u00e1ticas...<br /> <br /> Caguaripano y Perez solo quer\u00edan crear un gobierno de transici\u00f3n para que los partidos sacaran a sus candidatos y que el pueblo decidiera por el mejor... <br /> <br /> Los SOLDADOS DE FRANELA tambi\u00e9n quieren lo mismo, formar un gobierno de transici\u00f3n para llevarlo a elecciones democr\u00e1ticas... No perdamos esa gran oportunidad por no creer, por nuestro pesimismo, por nuestra desidia y comodidad...  <br /> <br /> Hoy hago el mismo pedido a mi pueblo amado, tengamos fe, primero en Dios y luego en sus enviados, estos bravos SOLDADOS DE FRANELA que nos quieren ayudar a ser libres al fin, a terminar con la crisis, con la corrupci\u00f3n, con el narco malandraje y sobre todo con el genocidio a nuestro pobre pueblo...<br /> <br /> HAY QUE TENER FE... HAY QUE CONFIAR EN QUE DIOS ESTA CON NOSOTROS Y QUE ESTOS VALIENTES GUERREROS SON SUS ENVIADOS... SON LOS ANGELES QUE ESTAMOS ESPERANDO... PERO DEBEMOS AYUDARLOS Y CUANDO ELLOS PIDEN QUE SALGAMOS A LAS CALLES Y NO DEJARLAS HASTA LOGRAR LA LIBERTAD, POR FAVOR UNAMOSNOS EN UNA SOLA VOZ, EN UNA SOLA ACCION Y SIGAMOS SUS INSTRUCCIONES... ES AHORA O NUNCA...!!!!!!!!!!!! <br /> <br /> #VivaVenezuelaLibreYSoberana #VivanLosSoldadosDeFranela  #VivaOperacionFenix #LuzParaVenezuela..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "maduradas.com",
+                    "cards": [],
+                    "creation_time": 1533507140,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38475013_924501707758606_768661904599023616_n.jpg?_nc_cat=0&oh=c9303d546270812097529d2437a89514&oe=5BFFE5E5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38523899_924501711091939_7125573691521368064_n.jpg?_nc_cat=0&oh=e81095c5aca74ca17cb9d512b16124d4&oe=5C0BF1F0"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "La periodista Patricia Poleo ley\u00f3 en una edici\u00f3n especial de su programa \"Factores de Poder\" el comunicado de la \"Operaci\u00f3n F\u00e9nix\" que se atribuy\u00f3 el atentado contra Nicol\u00e1s Maduro en la avenida Bol\u00edvar.",
+                    "link_url": "https://maduradas.com/ultima-hora-operacion-fenix-atentado-nuestras-acciones-militares-buscan-tomar-poder-conformar-junta-transicion/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38602408_924501701091940_3157567820380766208_n.jpg?_nc_cat=0&oh=51128e8d2694e139d62d483e309f5e96&oe=5C06BD21",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00a1\u00daLTIMA HORA! \"Operaci\u00f3n F\u00e9nix\" sobre atentado: \"Nuestras acciones militares buscan tomar el poder y conformar junta de transici\u00f3n\"",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533452400
+            },
+            {
+                "adArchiveID": "1806150736140107",
+                "adid": "6099148658205",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533798000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6099148636605,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "COMUNICADO OPERACION FENIX... LIBERACION DE VENEZUELA ESTA CERCA... <br /> <br /> Mi opinion personal es que no hubo intenci\u00f3n de matar ni a Maduro, y menos a nadie de su entorno, sino que fue una advertencia para que el narco-regimen supiera que est\u00e1n en la mira, as\u00ed como el pueblo se diera cuenta que no esta solo...<br /> <br /> Fue una manera de hacer un llamado contundente a la calle a la poblaci\u00f3n venezolana y para que esa calle no se quede sola mas nunca hasta lograr la libertad, la independencia, la democracia...<br /> <br /> YA VIMOS HOY QUE NO ESTAMOS AISLADOS, QUE NO ESTAMOS SOLOS QUE HAY UN GRUPO DE PERSONAS CON LA INTENCION DE SALVARNOS, DE AYUDAR A VENEZUELA A RECOBRAR SU LIBERTAD, DE HACER QUE LA #LuzParaVENEZUELA RETORNE... <br /> <br /> #VivaVenezuelaLibreYSoberana..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "youtube.com",
+                    "cards": [],
+                    "creation_time": 1533448067,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38432011_1806150762806771_1864169128206532608_n.jpg?_nc_cat=0&oh=d58e81ccc4d42dd5b3b09dd9af440646&oe=5C096222",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38505379_1806150766140104_2097484112641130496_n.jpg?_nc_cat=0&oh=079c49ed740bcca61bc7414bba62ff1e&oe=5C0A459E"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38433392_1806150742806773_4406044388749213696_n.jpg?_nc_cat=0&oh=ee32f8f2fd8e7c3dee80312f4114deb2&oe=5BEE5CA7",
+                    "is_reshared": false,
+                    "link_description": "Patricia Poleo hace lectura del comunicado sobre la \u00a8Operaci\u00f3n F\u00e9nix\u00a8",
+                    "link_url": "https://youtu.be/nxQkJuOB4PQ",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38511529_1806150746140106_3940927137426440192_n.jpg?_nc_cat=0&oh=5d3d073dba220df3010d240c5228a246&oe=5BF69B6B",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "COMUNICADO OPERACI\u00d3N F\u00c9NIX | HECHOS AV. BOL\u00cdVAR | NICOLAS MADURO | FACTORES DE PODER",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533366000
+            },
+            {
+                "adArchiveID": "291629331598216",
+                "adid": "6099148641205",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533798000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6099148636605,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "COMUNICADO OPERACION FENIX... LIBERACION DE VENEZUELA ESTA CERCA... <br /> <br /> Mi opinion personal es que no hubo intenci\u00f3n de matar ni a Maduro, y menos a nadie de su entorno, sino que fue una advertencia para que el narco-regimen supiera que est\u00e1n en la mira, as\u00ed como el pueblo se diera cuenta que no esta solo...<br /> <br /> Fue una manera de hacer un llamado contundente a la calle a la poblaci\u00f3n venezolana y para que esa calle no se quede sola mas nunca hasta lograr la libertad, la independencia, la democracia...<br /> <br /> YA VIMOS HOY QUE NO ESTAMOS AISLADOS, QUE NO ESTAMOS SOLOS QUE HAY UN GRUPO DE PERSONAS CON LA INTENCION DE SALVARNOS, DE AYUDAR A VENEZUELA A RECOBRAR SU LIBERTAD, DE HACER QUE LA #LuzParaVENEZUELA RETORNE... <br /> <br /> #VivaVenezuelaLibreYSoberana..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "youtube.com",
+                    "cards": [],
+                    "creation_time": 1533448067,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38432011_1806150762806771_1864169128206532608_n.jpg?_nc_cat=0&oh=d58e81ccc4d42dd5b3b09dd9af440646&oe=5C096222",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38505379_1806150766140104_2097484112641130496_n.jpg?_nc_cat=0&oh=079c49ed740bcca61bc7414bba62ff1e&oe=5C0A459E"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38433392_1806150742806773_4406044388749213696_n.jpg?_nc_cat=0&oh=ee32f8f2fd8e7c3dee80312f4114deb2&oe=5BEE5CA7",
+                    "is_reshared": false,
+                    "link_description": "Patricia Poleo hace lectura del comunicado sobre la \u00a8Operaci\u00f3n F\u00e9nix\u00a8",
+                    "link_url": "https://youtu.be/nxQkJuOB4PQ",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38511529_1806150746140106_3940927137426440192_n.jpg?_nc_cat=0&oh=5d3d073dba220df3010d240c5228a246&oe=5BF69B6B",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "COMUNICADO OPERACI\u00d3N F\u00c9NIX | HECHOS AV. BOL\u00cdVAR | NICOLAS MADURO | FACTORES DE PODER",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533366000
+            },
+            {
+                "adArchiveID": "441330796350738",
+                "adid": "6095875549794",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533538800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "787595328061315",
+                "pageName": "Caryu Cospre",
+                "snapshot": {
+                    "ad_creative_id": 6095875549594,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A Ty? Kt\u00f3rym Lenem jeste\u015b dzisiaj? :D"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533437355,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Caryu Cospre",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37998803_1115658035255041_9204983847341522944_n.jpg?_nc_cat=0&oh=c0fc35023a327ca32db2b06b0db09487&oe=5C016203",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37958653_1115658038588374_6679798035142148096_n.jpg?_nc_cat=0&oh=ca147b207cf394fd0ce9ed3cc8d48292&oe=5C0D705E"
+                        }
+                    ],
+                    "instagram_actor_name": "Caryu Cospre",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38405926_441330823017402_5223851568301867008_n.jpg?_nc_cat=0&oh=da9a2cd45c6a73298a19c6360ade07dd&oe=5BF074E7",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1113": "Fictional Character"
+                    },
+                    "page_id": 787595328061315,
+                    "page_is_deleted": false,
+                    "page_like_count": 185,
+                    "page_name": "Caryu Cospre",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38533267_441330826350735_3998157245933158400_n.jpg?_nc_cat=0&oh=56b1be8f0e7aab0abd4a4e5020046d0c&oe=5C0ACC55",
+                    "page_profile_uri": "https://www.facebook.com/raczki.nieboraczki46/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533279600
+            },
+            {
+                "adArchiveID": "212918962733764",
+                "adid": "6108938750617",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533279600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108938742817,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Varios inmigrantes demandaron el mi\u00e9rcoles al gobierno de Estados Unidos debido a las condiciones que enfrentan en una c\u00e1rcel federal en California desde que el gobierno del presidente Donald Trump intensific\u00f3 los arrestos en la frontera con M\u00e9xico.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fdemandan-al-gobierno-federal-por-trato-a-inmigrantes-detenidos&amp;h=AT3rOwWd2TTlswcd028NEufUt1wEp7w548WazNJjKBE2Kuh9ar-uO2rHSDobE7U4HN1u7WSv3aYXDVbw6jONmBr1bnNKDRDyfYatDHLrf5ZEKNXUS0mr4AE7dQrTQh7tf4eTFoumlRI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/demandan-al-gobierno-federal-por-trato-a-inmigrantes-detenidos</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1533292587,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38254349_212919002733760_2920845578260709376_n.jpg?_nc_cat=0&oh=5cc6fad20deeced0026b184551cb70c9&oe=5BFA235B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38032392_212919006067093_1316595600086532096_n.jpg?_nc_cat=0&oh=697b3c76524c1b09c9b04db37d78733d&oe=5C03FF3E"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38475010_212918979400429_2265494523066974208_n.jpg?_nc_cat=0&oh=5e0dd74e306a8ba427e7638dd1b5a967&oe=5BFB14EE",
+                    "is_reshared": false,
+                    "link_description": "Afirman que las condiciones en la prisi\u00f3n son demasiado severas para solicitantes de asilo.",
+                    "link_url": "https://mpachecolaw.com/latest/demandan-al-gobierno-federal-por-trato-a-inmigrantes-detenidos",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38435616_212918982733762_6799361317548326912_n.jpg?_nc_cat=0&oh=05d7096ba896dd7c8c53ce28b17711f2&oe=5C04A7BB",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Demandan al gobierno federal por trato a inmigrantes detenidos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533193200
+            },
+            {
+                "adArchiveID": "1108644875941382",
+                "adid": "6098812562605",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533193200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6098812559005,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Denunciaron la existencia de una red que vende beb\u00e9s de venezolanas migrantes en Colombia<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.caraotadigital.net%2Finternacionales%2Fdenunciaron-la-existencia-de-una-red-que-vende-bebes-de-venezolanas-migrantes-en-colombia%2F&amp;h=AT3lat-bKYXMx1C_3mxUmiHmpA_s6rwwI9vrwJN5BGth_0UB4kx3BZhjE7dw5sgxrARcKVvMp9AdvujH_k_UcsYZajpkY788EQxggcnZhg20p0DkSQrc3No4hU4l2kfjVfHKcWmplLg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.caraotadigital.net/internacionales/denunciaron-la-existencia-de-una-red-que-vende-bebes-de-venezolanas-migrantes-en-colombia/</a><br /> <br /> QUE TRISTE QUE UNA MADRE TENGA QUE VENDER A SU HIJO(A) POR NO PODER MANTENERLO(A) POR LA SITUACION QUE SE VIVE EN VENEZUELA...<br /> <br /> Mientras, la corrupci\u00f3n rampante del narco-regimen les permite a ellos vivir a todo dar, con todas las comodidades y todos los lujos a costa de la vida del pueblo y de su futuro...<br /> <br /> Una cuerda de narco malandros genocidas que ya nadie los quiere se imponen a la fuerza matando de hambre y enfermedad a los venezolanos, presididos por un tirano que ni siquiera es venezolano..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533079818,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38068583_1108644902608046_4439441719435460608_n.jpg?_nc_cat=0&oh=9c38b683bdd1ce07431fccad1cc903cd&oe=5BFB99B9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38026244_1864785876919680_5772760805481119744_n.jpg?_nc_cat=0&oh=d6db2b9d70e38fe50632ee59e40ce0d3&oe=5BFBF3B2"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38075826_1108644895941380_912779210093756416_n.jpg?_nc_cat=0&oh=784b878f7ce5a41646a440cc0f73f29f&oe=5C08ED26",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://www.caraotadigital.net/internacionales/denunciaron-la-existencia-de-una-red-que-vende-bebes-de-venezolanas-migrantes-en-colombia/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38193605_1108644899274713_2747545443163439104_n.jpg?_nc_cat=0&oh=384c6ff46c64d4013d36591410992ea0&oe=5C09A87B",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1533020400
+            },
+            {
+                "adArchiveID": "213656559352449",
+                "adid": "6096159384499",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "22309058308",
+                "pageName": "Americas Society/Council of the Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096159380899,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Colombia\u2019s youngest president-elect.<br /> The first female vice president.<br /> A gender-balanced cabinet.<br /> The first female interior minister.<br /> <br /> Iv\u00e1n Duque&#039;s incoming administration has already marked new milestones."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Americas Society/Council of the Americas",
+                    "caption": "as-coa.org",
+                    "cards": [],
+                    "creation_time": 1532979698,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Americas Society/Council of the Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38018106_213656586019113_8655768168540667904_n.jpg?_nc_cat=0&oh=f0207a07a82a91c82cf25205899d2d0f&oe=5BFE4F4B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37981910_213656589352446_2892946922404839424_n.jpg?_nc_cat=0&oh=d3f19320dec472eb3f3013584b19a0e1&oe=5C06D39D"
+                        }
+                    ],
+                    "instagram_actor_name": "Americas Society/Council of th",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37991857_213656572685781_1486116670769463296_n.jpg?_nc_cat=0&oh=f6d237227326aa0594705954743fce3f&oe=5BF667CE",
+                    "is_reshared": false,
+                    "link_description": "Incoming President Iv\u00e1n Duque\u2019s team features a mix of veterans and relative newcomers.",
+                    "link_url": "http://www.as-coa.org/articles/colombia-update-new-cabinet-familiar-faces",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 22309058308,
+                    "page_is_deleted": false,
+                    "page_like_count": 13413,
+                    "page_name": "Americas Society/Council of the Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37995195_213656569352448_2363770942531829760_n.jpg?_nc_cat=0&oh=6e36fd272870526a2c818b9926994c07&oe=5BFE54D6",
+                    "page_profile_uri": "https://www.facebook.com/ASCOA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Colombia Update: New Cabinet, Familiar Faces | AS/COA",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532934000
+            },
+            {
+                "adArchiveID": "623115451422790",
+                "adid": "23842905491250457",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1134337953346927",
+                "pageName": "Jeronimo Barefoot Club",
+                "snapshot": {
+                    "ad_creative_id": "23842905491020457",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Esta ma\u00f1ana de camino a Central Park \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\uddf8 hicimos una breve parada en el ( Starbucks ) de la 5th Avenue of New York City.<br /> Para recargarnos con un Iced Green Tea \ud83c\udf75 \ud83c\udf75\ud83c\udf75 ( Gran antioxidante ) dentro del famoso Trump Tower.<br /> <br /> Buen inicio de semana a todos!!! Jer\u00f3nimo BAREFOOT CLUB.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Do9n009uL2fU&amp;h=AT2Pg99-OYUz22BCthAbNAG0-hDvHigR6JnGCdF--7htbq_iPTEXT2iG60TzOq0wB5RogPova5SrDQdeO9Bz7mmfPQBpPdiLj64qOaYJmAjhtdYSRfr-ZR-nzXsNxsgBA0YuYxR2VgA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://m.youtube.com/watch?v=o9n009uL2fU</a><br /> <br /> #Barefoot #Yoga #Breathing #Earthing #Starbucks #Manhattan #NewYorkCity #Jer\u00f3nimoBarefootClub #Meditaci\u00f3n  #5thAvenueNewYork #GreenTea #CentralParkNYC"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533191073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jeronimo Barefoot Club",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38085169_1706515026129214_7298233820656959488_n.jpg?_nc_cat=0&oh=a89af963c96fc804c6a4cdbe423b043b&oe=5C0A6208",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38018048_1706515022795881_586280245837955072_n.jpg?_nc_cat=0&oh=3b956f70baa4f931b0c5bf0617265130&oe=5BECFB0E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2209": "Clothing"
+                    },
+                    "page_id": 1134337953346927,
+                    "page_is_deleted": false,
+                    "page_like_count": 5538,
+                    "page_name": "Jeronimo Barefoot Club",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38273963_623115458089456_3540691276984745984_n.jpg?_nc_cat=0&oh=6647852fd2f764fc9bbb46b3da07e439&oe=5C09FCAC",
+                    "page_profile_uri": "https://www.facebook.com/Jeronimobarefootandminimalist/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532934000
+            },
+            {
+                "adArchiveID": "219046712021509",
+                "adid": "6108689556617",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108689552217,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El presidente de Estados Unidos, Donald Trump, contin\u00faa con su renovada campa\u00f1a para atacar a la inmigraci\u00f3n de cara a las elecciones de periodo intermedio de noviembre pr\u00f3ximo, con nuevos mensajes sobre el tema en su cuenta de Twitter.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Ftrump-retoma-campana-contra-la-inmigracion-de-cara-a-elecciones-intermedias&amp;h=AT0_M8h7gCSYFQYtQgqVKcSrJ3DfMb13SITkpSGUvdBQ-CpD0iRmJmRcVqAFQnLPvvv76WmO6xwsaeZLb_5tKyyUzXc5DpHs8117wdW55jdIVeK9TopBnJSkeghVna4-lwCgmY1YWyg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/trump-retoma-campana-contra-la-inmigracion-de-cara-a-elecciones-intermedias</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1532964316,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37974742_219046762021504_4146038514737217536_n.jpg?_nc_cat=0&oh=6627a72d4fb0d6246feab2b3a528c770&oe=5C3AE4FA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38016885_219046758688171_6086332579600924672_n.jpg?_nc_cat=0&oh=6162684fa19a702d3fb2fe4009a9ff44&oe=5C0D86A6"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38010510_219046742021506_7365179119417425920_n.jpg?_nc_cat=0&oh=308eb8f16e8ebb1a64a345bfa95e4f98&oe=5C075FD6",
+                    "is_reshared": false,
+                    "link_description": "El presidente de Estados Unidos, Donald Trump, contin\u00faa con su renovada campa\u00f1a para atacar a la inmigraci\u00f3n de cara a las elecciones de periodo intermedio de noviembre pr\u00f3ximo, con nuevos mensajes sobre el tema en su cuenta de Twitter.",
+                    "link_url": "https://mpachecolaw.com/latest/trump-retoma-campana-contra-la-inmigracion-de-cara-a-elecciones-intermedias",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38091007_219046745354839_7659774486777954304_n.jpg?_nc_cat=0&oh=65a69ae0c943a7f12105339c74d370c3&oe=5C02C147",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Trump retoma campa\u00f1a contra la inmigraci\u00f3n de cara a elecciones intermedias",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532934000
+            },
+            {
+                "adArchiveID": "1938723096174061",
+                "adid": "23842970040130227",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533193200,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "885626698252688",
+                "pageName": "Brut nature FR",
+                "snapshot": {
+                    "ad_creative_id": "23842970040040227",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Ce petit objet a des cons\u00e9quences terribles sur l&#039;environnement. Mais il existe des solutions. \ud83c\udf79"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534476719,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Brut nature FR",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 885626698252688,
+                    "page_is_deleted": false,
+                    "page_like_count": 528955,
+                    "page_name": "Brut nature FR",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39255283_1938723122840725_627284384512212992_n.jpg?_nc_cat=0&oh=62b27d5d7f9bffe182c4c64a76f84499&oe=5BF0D86D",
+                    "page_profile_uri": "https://www.facebook.com/brutnatureFR/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Les pailles en plastique sont un fl\u00e9au pour l'environnement",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_665317833833938_1883615563301781504_n.mp4?_nc_cat=0&oh=3ef5009def745eeae6097ba939cd6f33&oe=5B79D3F2",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39329670_1938723129507391_7498191374651490304_n.jpg?_nc_cat=0&oh=fb56b527ef91b1d10f95e403ccf144a4&oe=5C39A9B3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/37696822_2081225492137364_8294711223111385088_n.mp4?_nc_cat=0&oh=a485128716d850e64cbdd7f79572a625&oe=5B79D4E6"
+                        }
+                    ]
+                },
+                "startDate": 1532847600
+            },
+            {
+                "adArchiveID": "617180288668355",
+                "adid": "6108520648217",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532761200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108520635817,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El Servicio de Ciudadan\u00eda e Inmigraci\u00f3n (USCIS) anuncio el mi\u00e9rcoles una oportunidad \u00fanica que pueden aprovechar las organizaciones pro inmigrantes que ayudan en el complejo proceso de preparaci\u00f3n para obtener la ciudadan\u00eda.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Feeuu-destina-suma-millonaria-para-ayudar-a-agilizar-el-proceso-de-ciudadania-de-inmigrantes-legales&amp;h=AT3bZ7w51wRsvwN8wrfuzpq6c8VTyLaHVjmrbYvRByfyEqLUvOnIBlFYUdyLhzQtsY-v4hkOv15Z-yBMkk7I9Dagc_JXOsuMsCaMi2o8m7V2pvoRrPlzsq_hGCe6pVgAIjT2nzsCDL0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/eeuu-destina-suma-millonaria-para-ayudar-a-agilizar-el-proceso-de-ciudadania-de-inmigrantes-legales</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1532724602,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37846512_617180312001686_5359528992477020160_n.jpg?_nc_cat=0&oh=b156b59f4daa78e094a8be22518c2fe4&oe=5BF51FAC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37841969_617180308668353_4451522156769050624_n.jpg?_nc_cat=0&oh=c5403bf3c3827542afce9b34f04019cf&oe=5BFFF4E2"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37869810_617180302001687_3262075670456434688_n.jpg?_nc_cat=0&oh=9e1f84a36b7695448f0880f0e7c702c5&oe=5C0F4648",
+                    "is_reshared": false,
+                    "link_description": "De ah\u00ed que el Servicio de Ciudadan\u00eda e Inmigraci\u00f3n (USCIS) haya anunciado el mi\u00e9rcoles una oportunidad \u00fanica que pueden aprovechar las organizaciones pro inmigrantes que ayudan en el complejo proceso de preparaci\u00f3n para obtener la ciudadan\u00eda.",
+                    "link_url": "https://mpachecolaw.com/latest/eeuu-destina-suma-millonaria-para-ayudar-a-agilizar-el-proceso-de-ciudadania-de-inmigrantes-legales",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37907224_617180305335020_2276538022151323648_n.jpg?_nc_cat=0&oh=a901bc8e07390add0b7fcd1e6a8c8965&oe=5C10156E",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EEUU destina suma millonaria para ayudar a agilizar el proceso de ciudadan\u00eda de inmigrantes legales",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532674800
+            },
+            {
+                "adArchiveID": "2091016654482968",
+                "adid": "6095402373552",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532674800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "191205631517975",
+                "pageName": "Cu\u00e9ntalo",
+                "snapshot": {
+                    "ad_creative_id": 6095402369952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Para saber m\u00e1s de nuestra p\u00e1gina entra a nuestro muro.<br /> <br /> ---------------------------------<br /> Env\u00eda tu denuncia de forma an\u00f3nima:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FRFwrfz&amp;h=AT19n_f0-Lwe_4WoZu_jyW5m-OjMGdXHTF7Kwv89DPPE2sSkcT0_qtQjNDbAs4T8rN-puf-EnMJ76U_LwNVqifQ0J7Ao14M8zq3S-yH-2x59sKnDqBqY3Duvs9-0jSdxpEbar5KpB-Q\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/RFwrfz</a><br /> Puedes ver el estado de tu relato aqu\u00ed:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fxz5Sn5&amp;h=AT3dJC95nIr_FwbcdDkqA7aMO2lbAeah8ZzWCTeD_aPNAicQA4vt_488QeHgG9aTzhqVYzBTOmQcoV7MIv-KdvLqxTRLHfCd-22E9NcSsAJ7l84d6JXmkdraJTcISbwJgj22h9X2hGE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/xz5Sn5</a><br /> <br /> Opina, comparte, reclama y denuncia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533576913,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Cu\u00e9ntalo",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38662224_2091016684482965_1417094501918310400_n.jpg?_nc_cat=0&oh=bcb6038c65f16f1cb82d882aa590074e&oe=5C0B658F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/34302112_201281073843764_2447648355287826432_n.jpg?_nc_cat=0&oh=de6da1678eaf97f90798e816146dcf4b&oe=5BEDA706"
+                        }
+                    ],
+                    "instagram_actor_name": "Cu\u00e9ntalo",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38685360_2091016677816299_7709301129057665024_n.jpg?_nc_cat=0&oh=111b45a7a3a1890679b334541e37764f&oe=5C0C16A2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://goo.gl/RFwrfz",
+                    "page_categories": {
+                        "2606": "Cause"
+                    },
+                    "page_id": 191205631517975,
+                    "page_is_deleted": false,
+                    "page_like_count": 10713,
+                    "page_name": "Cu\u00e9ntalo",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38614143_2091016681149632_6127372190410080256_n.jpg?_nc_cat=0&oh=888ffac05d2351bcd18dbb095e0ccbdc&oe=5BFA055F",
+                    "page_profile_uri": "https://www.facebook.com/DiloAquiAhora/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532588400
+            },
+            {
+                "adArchiveID": "264014611043077",
+                "adid": "6108453739617",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532674800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108453736017,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Agentes del Servicio de Inmigraci\u00f3n y Control de Aduanas (ICE) arrestaron a 65 inmigrantes durante una redada de cinco d\u00edas en la ciudad de Nueva York y Long Island, inform\u00f3 la agencia.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fice-arresta-a-65-inmigrantes-en-redada-en-nueva-york-y-long-island&amp;h=AT32mwxry5_w3ZznRqAwrlyZK3n7tx2FnfmmhewmYtUBRqSLRT95gfP2rYkOsjQIvcFqV7EHdXblaM0_IXWj0fauqk8wmCGlOfKQ9ycAgEo0wyLHi58Wp1LMjWTLLYj05kdOkqlSWJk\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/ice-arresta-a-65-inmigrantes-en-redada-en-nueva-york-y-long-island</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1532657681,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37841130_264014637709741_7280044196071735296_n.jpg?_nc_cat=0&oh=7f2b20dcf36800bc6bf9d26de5ce2ade&oe=5C3B7FD9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37848499_264014634376408_3121279383998824448_n.jpg?_nc_cat=0&oh=db93bc237f1476bdb23cf856cdb25da9&oe=5C00C08C"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37891427_264014624376409_7599594994164301824_n.jpg?_nc_cat=0&oh=4c01ad11ef224451c869c4b150e618d5&oe=5C0282C7",
+                    "is_reshared": false,
+                    "link_description": "Agentes del Servicio de Inmigraci\u00f3n y Control de Aduanas (ICE) arrestaron a 65 inmigrantes durante una redada de cinco d\u00edas en la ciudad de Nueva York y Long Island, inform\u00f3 la agencia.",
+                    "link_url": "https://mpachecolaw.com/latest/ice-arresta-a-65-inmigrantes-en-redada-en-nueva-york-y-long-island",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37851049_264014627709742_8611977790092214272_n.jpg?_nc_cat=0&oh=b06b9ecdd93606c726b6f46992bc8ffb&oe=5BFA1ED3",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "ICE arresta a 65 inmigrantes en redada en Nueva York y Long Island",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532588400
+            },
+            {
+                "adArchiveID": "263577281130111",
+                "adid": "23842938921600453",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533711600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround",
+                "snapshot": {
+                    "ad_creative_id": "23842938921500453",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Ya solo queda una forma de salvar a esta especie en extinci\u00f3n."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534242116,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "PlayGround",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "PlayGround",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39152549_263577311130108_3848337568194101248_n.jpg?_nc_cat=0&oh=7493806a89bed0619fe9c913e5bfbc44&oe=5BFF8E4B",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 102886746417877,
+                    "page_is_deleted": false,
+                    "page_like_count": 16586114,
+                    "page_name": "PlayGround",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39102317_263577317796774_2041498689951760384_n.jpg?_nc_cat=0&oh=b97c616b019ea1e0478e44ed672d0d94&oe=5C384F90",
+                    "page_profile_uri": "https://www.facebook.com/PlayGroundMag/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Rinocerontes in vitro",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_472285856528481_3110677463387078656_n.mp4?_nc_cat=0&oh=1ae82eb19c3e9ce2b08890b0d3e68f93&oe=5B79E677",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128493_263577324463440_8829944807678803968_n.jpg?_nc_cat=0&oh=df478f4c118f52418508bc0f43a56b4b&oe=5C0D2EAF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36549968_1682744658509043_5567506435824156672_n.mp4?_nc_cat=0&oh=35b8479af71f5a57b672e4cd07513820&oe=5B79D4BE"
+                        }
+                    ]
+                },
+                "startDate": 1532588400
+            },
+            {
+                "adArchiveID": "254129315386815",
+                "adid": "6101329177338",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532588400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1174377252577280",
+                "pageName": "Juan Pablo M\u00e1rquez Garc\u00eda",
+                "snapshot": {
+                    "ad_creative_id": 6101329173738,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "An\u00e1lisis a nivel casilla del comportamiento de la elecci\u00f3n presidencial 2018 en Mexico, votos por casilla y comportamiento de los 103 municipios que defin\u00edan la elecci\u00f3n presidencial"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532613024,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Juan Pablo M\u00e1rquez Garc\u00eda",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37847698_246153182869401_2473764904658534400_n.jpg?_nc_cat=0&oh=9e10948600506df06689a9e8f7f4f366&oe=5C007625",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37764510_2188925021122493_6637035034345734144_n.jpg?_nc_cat=0&oh=6d45720c4eebb5f4e1157328f749133f&oe=5C0673C2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37831248_246153179536068_4153256778508795904_n.jpg?_nc_cat=0&oh=52a7c8ad2c2ca6e5f8ae22f4a81f9a5b&oe=5C0652F9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37827683_2188925024455826_1637410175126077440_n.jpg?_nc_cat=0&oh=eb20fb84403e8b3d7c56ebfbd3b68755&oe=5C04A029"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37880815_246153172869402_4540951918561722368_n.jpg?_nc_cat=0&oh=437c21887fa47f0ab1ae3e1acef4a0dd&oe=5C07A10F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37841949_2188925034455825_8082962463470911488_n.jpg?_nc_cat=0&oh=86b546e82ea4ace3962d5a2e78731802&oe=5C0180AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37888100_246153176202735_7648790777933332480_n.jpg?_nc_cat=0&oh=8b042c72a9e06554cb149e11a50d8827&oe=5BF18257",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37858253_2188925054455823_1180345459202326528_n.jpg?_nc_cat=0&oh=8be852cb16d7f110b5971503b15d11f3&oe=5BF23E2A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37678790_246153186202734_3685362921023471616_n.jpg?_nc_cat=0&oh=2e58be1b32465f8813384cc857c71572&oe=5C0FE441",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37760841_2188925121122483_4987051948051005440_n.jpg?_nc_cat=0&oh=cbffdc023380c79d42bfa5f7139c27cf&oe=5BF91138"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37764643_246153199536066_7008727169203437568_n.jpg?_nc_cat=0&oh=b51f06ab278aaa218ea6ed9d025968f8&oe=5BF5A052",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37665964_2188925124455816_1209404593746739200_n.jpg?_nc_cat=0&oh=b0d151bac0d339d4c862465c0c7daf4d&oe=5BEF6733"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37818375_246153196202733_1859718446871216128_n.jpg?_nc_cat=0&oh=59f3e8affb23f6b36b6db05cdfa26322&oe=5BF2522B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37868293_2188925154455813_3960586443985780736_n.jpg?_nc_cat=0&oh=080090b1044e5be8cb3c8bb45972fecb&oe=5C06E3C8"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37875875_246153192869400_5252827393365639168_n.jpg?_nc_cat=0&oh=f34f93ba4cac0f0f34b2b8e45c4ac681&oe=5BF076EF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37866483_2188925151122480_3623915545474105344_n.jpg?_nc_cat=0&oh=46f2d69b597fbe7dd4a8360def56610d&oe=5C0B45C2"
+                        }
+                    ],
+                    "instagram_actor_name": "Juan Pablo M\u00e1rquez Garc\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37825031_246153159536070_6965700603443937280_n.jpg?_nc_cat=0&oh=f4481146e8dd4eaeab0669845b06a949&oe=5BFE0591",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 1174377252577280,
+                    "page_is_deleted": false,
+                    "page_like_count": 2527,
+                    "page_name": "Juan Pablo M\u00e1rquez Garc\u00eda",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37781104_246153162869403_3667772543160287232_n.jpg?_nc_cat=0&oh=5d03dac1097b2127136830cdc7083f85&oe=5C0A0AF4",
+                    "page_profile_uri": "https://www.facebook.com/JPMARQUEZGARCIA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532502000
+            },
+            {
+                "adArchiveID": "2198871820348644",
+                "adid": "6108381660217",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532588400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108381653617,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mi esposo tiene una hija de 18 a\u00f1os y en la embajada le dijeron que pod\u00eda pedirla tambi\u00e9n. El problema es que mi hijastra actualmente est\u00e1 detenida por migraci\u00f3n en los Estados Unidos, porque trat\u00f3 de entrar ilegalmente al pa\u00eds sin decirle nada a mi esposo.  <br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fcomo-residente-puedo-ayudar-a-una-hijastra-detenida-por-inmigracion&amp;h=AT2nfxKooD8NXzkI2vEyXE2Z0CjY6g0jplHHgG7rLsxuh7utLZesakVmnekUWl5D5UN74BuMo2F9d_-oxs1zRbSgCCJZURNSyNowr_pqPyhH04p0uFuAGJi6ussJLMPx2F-cAUREHXg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/como-residente-puedo-ayudar-a-una-hijastra-detenida-por-inmigracion</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1532567372,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37745107_2198871850348641_7465096869224382464_n.jpg?_nc_cat=0&oh=4b9595e9e037fa810f9e14c0baf99bc7&oe=5BF190D9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37840470_2198871847015308_4443635578906345472_n.jpg?_nc_cat=0&oh=c7f07f3bb9b3113be93c693d2329b832&oe=5BF68D39"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37742429_2198871843681975_8122434003195133952_n.jpg?_nc_cat=0&oh=2ed01530bc6da5b288263ead2898af0b&oe=5C0D3370",
+                    "is_reshared": false,
+                    "link_description": "Cada caso es distinto y las respuestas var\u00edan seg\u00fan el historial migratorio de cada persona",
+                    "link_url": "https://mpachecolaw.com/latest/como-residente-puedo-ayudar-a-una-hijastra-detenida-por-inmigracion",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37754545_2198871840348642_8033765313902280704_n.jpg?_nc_cat=0&oh=68391443be1f4dd503eeb29f639ec256&oe=5C08576F",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00bfComo residente, puedo ayudar a una hijastra detenida por inmigraci\u00f3n?",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532502000
+            },
+            {
+                "adArchiveID": "649305485469983",
+                "adid": "6095273718352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532502000,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "381130535242626",
+                "pageName": "Radio Show Italia",
+                "snapshot": {
+                    "ad_creative_id": 6095273715752,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "<a href=\"https://www.facebook.com/RadioShowItalia/\" data-hovercard=\"/ajax/hovercard/page.php?id=381130535242626&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Radio Show Italia</a> saluta... SERGIO MARCHIONNE. <br /> <br /> Il super manager \u00e8 morto a 66 anni a Zurigo. Da fine giugno 2018 era ricoverato in Svizzera per un intervento chirurgico dal quale non si \u00e8 mai ripreso. Marchionne \u00e8 l&#039;\u201deroe dei due mondi\u201d dell\u2019automotive. \u00c8 il manager che prima ha risollevato le sorti della Fiat dopo la pi\u00f9 grave crisi nella sua storia, poi \u00e8 andato oltreoceano e ha fatto lo stesso con la Chrysler, riuscendo in breve tempo a realizzare la prima vera fusione nel settore auto, contrassegnata dal Made in Italy. Nato a Chieti il 17 giugno 1952, doppia nazionalit\u00e0, italiana e canadese. Laureato in Filosofia e in Legge a Toronto e in Economia e commercio a Windsor. Applaudito all\u2019estero, osannato o demonizzato in Italia, il manager che ha rivoluzionato la Fiat, ne ha assunto la guida nel 2004, pochi giorni dopo la morte di Umberto Agnelli.   Quando Marchionne arriva al timone, il gruppo vale solo 4 miliardi di euro, non produce utili ed \u00e8 schiacciato dai debiti. Oggi non solo ha raggiunto il traguardo del \u201cdebito zero\u201d ma la somma delle parti che fanno capo alla holding Exor: Fca, Ferrari e Cnh, capitalizza 65 miliardi di euro. Sul tavolo dei suoi successori, il filosofo prestato al mondo dei motori, lascia sfide importanti, come le future supercar ibride ed elettriche, il Suv Ferrari e il \u201cpolo del lusso\u201d Alfa-Maserati."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534074218,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Radio Show Italia",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38928482_649305625469969_6326606158379352064_n.jpg?_nc_cat=0&oh=8f11f6f78c5c59c9d2fb6bab2b47e63f&oe=5C0D2789",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37732305_1938005482888449_4290624774826098688_n.jpg?_nc_cat=0&oh=29e9b1bd6cd68ab14b72d30d32ed4c97&oe=5C3BCB96"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37742234_1938005516221779_2775262013880795136_n.jpg?_nc_cat=0&oh=edee90641193caac49a536c801e7d129&oe=5C0BAACE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37706190_1938005519555112_5950594308624089088_n.jpg?_nc_cat=0&oh=f726fc85de3f99b4880bd0cb9c2fb5b5&oe=5BED158F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37786600_1938006316221699_1757662159833137152_n.jpg?_nc_cat=0&oh=40a8e3b91948a737e5d15efbf4909acb&oe=5C0291B8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37792571_1938006312888366_6447558411734220800_n.jpg?_nc_cat=0&oh=595a063b7928b2cbebd37041694fc65e&oe=5C3A6DCB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38921930_649305638803301_8630696623367782400_n.jpg?_nc_cat=0&oh=f47ef6481321bc8abd36b524d4bedb04&oe=5BFCE613",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37841037_1938005579555106_4394173266646794240_n.jpg?_nc_cat=0&oh=ff5a5a7af860cb785b899d020e58583b&oe=5BF6D33C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38920581_649305572136641_3381853653982773248_n.jpg?_nc_cat=0&oh=99cba9a6b18434f9ed0c6121b4b8850d&oe=5BF4E985",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37678746_1938005642888433_3164089633730461696_n.jpg?_nc_cat=0&oh=a38ae5fed953a3d5ee9dd6b59e804711&oe=5BED417C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38917536_649305562136642_6861399723547295744_n.jpg?_nc_cat=0&oh=27d358db2ac3350746ea8edc37108594&oe=5BF3701F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37769227_1938005719555092_2302404174928674816_n.jpg?_nc_cat=0&oh=693d8688de378defe8f557a217ccb60f&oe=5C06FA09"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39014944_649305585469973_4718194146441953280_n.jpg?_nc_cat=0&oh=ffe3b3e456e9171b95337516b0c155e9&oe=5BF2FD0A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37821886_1938005832888414_1427711270231998464_n.jpg?_nc_cat=0&oh=63998b635b884ab2085c14cb130f0e48&oe=5BECCE5C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37775461_1938006069555057_5119247102936875008_n.jpg?_nc_cat=0&oh=ca9e746981807652e69ad3aeb7d5213c&oe=5C09AB25",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37742988_1938006072888390_7284302183699316736_n.jpg?_nc_cat=0&oh=f093e800797ae9d5157b0eeff1ef1eac&oe=5C083181"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37787934_1938006089555055_3767893075553157120_n.jpg?_nc_cat=0&oh=f305937335cd7dd7f87707e6098ca377&oe=5BFE197A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37746617_1938006086221722_1475689185959477248_n.jpg?_nc_cat=0&oh=8825f157f6e7d3e651a85a1646e5e942&oe=5C0A978B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39065833_649305615469970_8150137573046484992_n.jpg?_nc_cat=0&oh=0b4fa4b5fc21be1315f6420da53c4505&oe=5BFD0271",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37822403_1938005982888399_7458365959686848512_n.jpg?_nc_cat=0&oh=87b5033369313264761792bd069656b7&oe=5BFAD13A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37750668_1938006769554987_2545566093443858432_n.jpg?_nc_cat=0&oh=28feca9d4261ba7821738e3b5548463b&oe=5C02B912",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37815601_1938006772888320_337288446089363456_n.jpg?_nc_cat=0&oh=0c7ac72ab30eb226caac6ca68257bafa&oe=5C045107"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37760492_1938006886221642_5489703579998486528_n.jpg?_nc_cat=0&oh=5677db136a6a2f5e3823064918bcde6c&oe=5BF974D5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37802804_1938006889554975_591008884571766784_n.jpg?_nc_cat=0&oh=13d3b8dae5569efcae8d904334690135&oe=5BF7D8BF"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37731268_1938006879554976_2366217832645001216_n.jpg?_nc_cat=0&oh=3cde627ffe6dadbaba49c8897b782cfb&oe=5C04E4B0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37809330_1938006882888309_1232542510283227136_n.jpg?_nc_cat=0&oh=dce0440c68da4d59907dee1fb62f2482&oe=5C390B64"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37752251_1938006892888308_9205510642260246528_n.jpg?_nc_cat=0&oh=538c553502216709ea87ccf65d47a40b&oe=5BFB2302",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37781390_1938006896221641_5815505123169796096_n.jpg?_nc_cat=0&oh=c93b7d7b7c94a6cb3642bb1b403d6662&oe=5BF4C7D8"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37726467_1938007092888288_1244387007883378688_n.jpg?_nc_cat=0&oh=eefb11e35e49a43fe72098e9e20e59a1&oe=5BEF7624",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37719215_1938007096221621_8709674878598381568_n.jpg?_nc_cat=0&oh=4caf25761bf336e08d1b11ce08a3a036&oe=5C0CE7CC"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37791707_1938007166221614_6919886737053319168_n.jpg?_nc_cat=0&oh=8d6adbdb842aa0fc35de91de4205c68a&oe=5BF2DF34",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37741174_1938007162888281_6238571741266837504_n.jpg?_nc_cat=0&oh=351ebe600c7b6de412635a37a644177a&oe=5C0AAD7C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37748177_1938007232888274_7249280921583484928_n.jpg?_nc_cat=0&oh=64391d79c70735dadfa373e514e0f5cc&oe=5C03641C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37750589_1938007236221607_9190420571018493952_n.jpg?_nc_cat=0&oh=f0dc180ac6bd455b05c80947fe86ecaa&oe=5C0E60E7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39051705_649305602136638_5998681995125719040_n.jpg?_nc_cat=0&oh=45bb7ec3d6cd1b565162a2666d5d5250&oe=5C080539",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37784110_1938007712888226_1751338396015394816_n.jpg?_nc_cat=0&oh=71cd0392360a78d8d7a16c923d1f9cb6&oe=5BFFDDA5"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37772303_1938007732888224_222577759468126208_n.jpg?_nc_cat=0&oh=b8493e4215d4ed819e38eca2b8298e48&oe=5BF655A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37812518_1938007736221557_2808933492329545728_n.jpg?_nc_cat=0&oh=21eaa185214794a61e9ea78526f084e8&oe=5C06C225"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37757603_1938007812888216_8853900760866357248_n.jpg?_nc_cat=0&oh=2dcc0bc097e86a32455ca9460b62d820&oe=5BF74F76",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37687041_1938007809554883_971329007431712768_n.jpg?_nc_cat=0&oh=001d46f5e5f98f4ef51fe0f648a7e546&oe=5BEE7C8C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37765925_1938007859554878_1767762582883532800_n.jpg?_nc_cat=0&oh=1f2feca43607f3170475dfda73d253f1&oe=5BF57322",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37806198_1938007862888211_1239905067776081920_n.jpg?_nc_cat=0&oh=508e00f70de039301f1260fa200508fa&oe=5BF72B16"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39091801_649305605469971_4287060656345055232_n.jpg?_nc_cat=0&oh=b427cf534508809e59b99b93a7752745&oe=5BFB1A53",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37745302_1938008062888191_7051154651449655296_n.jpg?_nc_cat=0&oh=d15a5ab634783fc00bfe9dbb15f4c06e&oe=5C0A410E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37867876_1938008312888166_5989694299317469184_n.jpg?_nc_cat=0&oh=83c08402f33e562c96a5c1cfff42be26&oe=5BEFF806",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37773960_1938008309554833_3934737213379575808_n.jpg?_nc_cat=0&oh=8c3c827d3288fae7fe64989965d9f3b3&oe=5C0CD228"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38923614_649305588803306_6738563293809475584_n.jpg?_nc_cat=0&oh=4068685ef66a08713351fe012b3e2a9a&oe=5BF2CDA9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37727469_1938008396221491_4663203279264546816_n.jpg?_nc_cat=0&oh=69d61506fc90d6e408e920e92f223ab7&oe=5BF9CCE6"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38934426_649305592136639_4229028801998225408_n.jpg?_nc_cat=0&oh=e400da9975a0253bfbc1b852653e06ba&oe=5C0926D2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37736495_1938008456221485_5477844878941487104_n.jpg?_nc_cat=0&oh=b93d43bad07e11be43d978a758b7f82b&oe=5BF36B65"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128244_649305582136640_2412450243598614528_n.jpg?_nc_cat=0&oh=f278470acda52907426966d35d6e39de&oe=5BFECAB3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37829397_1938008502888147_417468776766767104_n.jpg?_nc_cat=0&oh=494451ef0491bdd0d344075d53c5029b&oe=5C099201"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39008374_649305618803303_3947468497172299776_n.jpg?_nc_cat=0&oh=f3eaed839a58a280ccc214caa549defb&oe=5C010CA9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37728320_1938008739554790_5864295028234387456_n.jpg?_nc_cat=0&oh=128e36dc48e526311b99d30594f5e20c&oe=5BF52495"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38916709_649305598803305_8401632011583750144_n.jpg?_nc_cat=0&oh=852eef9437ea0966304ae4a83d3bb68e&oe=5C0EB73A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37722931_1938008709554793_2418555277616873472_n.png?_nc_cat=0&oh=d99179e53ca0219e6d76a59a97eadb70&oe=5BFC283F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39042103_649305632136635_9193699709829513216_n.jpg?_nc_cat=0&oh=bd00a33b184294025f72bdfb8d13b73b&oe=5C05B0BB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37735013_1938008732888124_7963299048197193728_n.jpg?_nc_cat=0&oh=96bc1e65ba38531a3dce9ea7c3088982&oe=5BEF513F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38767244_649305622136636_4931926708526776320_n.jpg?_nc_cat=0&oh=81e47bd1e9a24cd71fc2e830cd7728a6&oe=5BF24021",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37833764_1938008839554780_387843466748493824_n.jpg?_nc_cat=0&oh=86dac7130a4ccd86be72d25d8daf51cc&oe=5C05C166"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38921947_649305575469974_5838435987922878464_n.jpg?_nc_cat=0&oh=6c1abb5ebfb98593ebed31b6955a93d0&oe=5C0A078A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37733910_1938008929554771_440448183240228864_n.jpg?_nc_cat=0&oh=add54bb26b2b95b64e8ae848f7dabd8e&oe=5BFDEDC8"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39055181_649305628803302_5604302129318592512_n.jpg?_nc_cat=0&oh=4e292afd60b7f45656c131b7d2bb4923&oe=5BFA7A0E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37742221_1938008956221435_8297639609123209216_n.jpg?_nc_cat=0&oh=52339c9dfa1d3442298cef7254d21801&oe=5BF1068A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39030566_649305608803304_5974824731696693248_n.jpg?_nc_cat=0&oh=34169f38bac53e5defe80c5541bc717a&oe=5BF2CAAE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37768702_1938009052888092_2900907811791699968_n.jpg?_nc_cat=0&oh=e279dd241fda011dd2f56d4a99ee5371&oe=5C05C3CE"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38916709_649305612136637_2491105508698619904_n.jpg?_nc_cat=0&oh=4c2154a8e2aa3b555c6480cbaf53c098&oe=5C0824CA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37730043_1938009069554757_5379060248881397760_n.jpg?_nc_cat=0&oh=64b36695adfacbf54def4ebea7b8fbcd&oe=5C0FC9DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38908227_649305578803307_5898839828153237504_n.jpg?_nc_cat=0&oh=26a2cbebb13f8b2dd40e9e29bc1ed4d8&oe=5C0C302D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37779119_1938009072888090_3963757478469959680_n.jpg?_nc_cat=0&oh=6f50481ac45ea0d8602add53587b2f45&oe=5BF7209E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38935518_649305568803308_2717060134663618560_n.jpg?_nc_cat=0&oh=0c295c294ae54adc2e5f464fe11e3a94&oe=5BEE5EF4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37679535_1938009336221397_3499570048912064512_n.jpg?_nc_cat=0&oh=5d9c3c82e7488bcbc76afe4b7aed4a77&oe=5C036F7B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37746021_1938009376221393_8623149820367863808_n.jpg?_nc_cat=0&oh=874e9b17c69ce67923085460d969b443&oe=5C3A569A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37728971_1938009379554726_5324125284998316032_n.jpg?_nc_cat=0&oh=e6491687ede3c7ea1fd0481a53bfa9cd&oe=5C39BBA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38919712_649305555469976_1213693685527478272_n.jpg?_nc_cat=0&oh=eb2b0a2fb231b83030061827f7e202c4&oe=5BFE0F00",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37772605_1938007916221539_1109407588908269568_n.jpg?_nc_cat=0&oh=bd679f5040298ab4c1b67d3c17723a54&oe=5BF4882E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39033124_649305558803309_824362820064772096_n.jpg?_nc_cat=0&oh=1b39bb21a7bbac0530fe4e118f908c24&oe=5C05476E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37771483_1938007936221537_7403078005326610432_n.jpg?_nc_cat=0&oh=122f3bfb18ba9c83a64d9f86c0378a32&oe=5C0A8EA1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39067986_649305595469972_5216140993903984640_n.jpg?_nc_cat=0&oh=2859a4acf7045c04d18a38dff489cbcc&oe=5BF8FB4D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37768704_1938008149554849_1882939578399064064_n.jpg?_nc_cat=0&oh=919ebaaeb618869cda1501ed9946bbdf&oe=5BECE0A3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38954465_649305552136643_2799174660913102848_n.jpg?_nc_cat=0&oh=edc471e78ce32fb452022dc23cc2fd28&oe=5BF3993A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37781408_1938008259554838_6203911260698836992_n.jpg?_nc_cat=0&oh=06e88758eb1a035cdcb638bc1a0e63a2&oe=5C0B1588"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39055845_649305565469975_3491781860160176128_n.jpg?_nc_cat=0&oh=1ca8d71ba4fc3aded5a0ad0bd5c844b6&oe=5BF06459",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37789203_1938008289554835_2517251147882823680_n.jpg?_nc_cat=0&oh=d69b9ed9d80424faa662f6e4361d55a1&oe=5BFBB9EC"
+                        }
+                    ],
+                    "instagram_actor_name": "Radio Show Italia",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39009459_649305505469981_7661890217732734976_n.jpg?_nc_cat=0&oh=74de555eccf632266aa0e4610ce67651&oe=5C059F63",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1210": "Radio Station"
+                    },
+                    "page_id": 381130535242626,
+                    "page_is_deleted": false,
+                    "page_like_count": 23606,
+                    "page_name": "Radio Show Italia",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39047838_649305508803314_6069662819387703296_n.jpg?_nc_cat=0&oh=ed27eb4d4a599ddc53003a3ff373f0b8&oe=5C072F00",
+                    "page_profile_uri": "https://www.facebook.com/RadioShowItalia/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532502000
+            },
+            {
+                "adArchiveID": "1685007944931230",
+                "adid": "6094762465105",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532588400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "201942996498621",
+                "pageName": "Fern",
+                "snapshot": {
+                    "ad_creative_id": 6094762461305,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pour combattre l&#039;exploitation foresti\u00e8re ill\u00e9gale et la d\u00e9forestation, l&#039;UE doit renforcer le processus #FLEGT mais cela doit \u00e9galement aller de pair avec le d\u00e9veloppement d&#039;un Plan d&#039;action europ\u00e9en pour la protection des for\u00eats et le respect des droits des communaut\u00e9s. <br /> <br /> Des repr\u00e9sentants de la soci\u00e9t\u00e9 civile du #Ghana, #Lib\u00e9ria, ##Cameroun, #Congo et #Vietnam ont fait le voyage jusqu&#039;en Europe pour relater leurs exp\u00e9riences, succ\u00e8s, d\u00e9fis et le\u00e7ons tir\u00e9es de FLEGT et des Accords de Partenariat Volontaire (#APV) afin de lutter contre le commerce de bois ill\u00e9gal. <br /> <br /> De Bruxelles \u00e0 La Haye, en passant par Bonn et Paris, nos partenaires ont rencontr\u00e9 des repr\u00e9sentants de gouvernements nationaux et des d\u00e9cideurs europ\u00e9ens dans l&#039;espoir de faire avancer les choses. Ils ont \u00e9galement \u00e9t\u00e9 accueillis chaleureusement par la Vice Pr\u00e9sident du Parlement europ\u00e9en, <a href=\"https://www.facebook.com/MEPheidihautala/\" data-hovercard=\"/ajax/hovercard/page.php?id=116940668479201&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Heidi Hautala</a>, grande contributrice \u00e0 la lutte pour la protection des for\u00eats."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532421521,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fern",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 201942996498621,
+                    "page_is_deleted": false,
+                    "page_like_count": 1863,
+                    "page_name": "Fern",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37794089_436126896890850_8887209018225852416_n.jpg?_nc_cat=0&oh=8fd02ac0a219a6c29c06703f420c4e76&oe=5BF4E960",
+                    "page_profile_uri": "https://www.facebook.com/Fern.NGO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Des for\u00eats \u00e0 l'UE",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1881501195485164_334258393906675712_n.mp4?_nc_cat=0&oh=e43850e8a8a2573706a652f90b831a83&oe=5B79D520",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37668762_436126913557515_8772039921155178496_n.jpg?_nc_cat=0&oh=42917969102eb7de9d7a87313d38eadf&oe=5BFA5003",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_296640607565232_652782918153797632_n.mp4?_nc_cat=0&oh=937b6234a6179fb18a128bca0f500134&oe=5B79D7CF"
+                        }
+                    ]
+                },
+                "startDate": 1532415600
+            },
+            {
+                "adArchiveID": "669724486737708",
+                "adid": "6103997893919",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532415600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "856423034560460",
+                "pageName": "XV \ufffd",
+                "snapshot": {
+                    "ad_creative_id": 6103997890119,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39Hoje tem A Bela e a Fera. Recebemos sempre muitas solicita\u00e7\u00f5es para A Bela e a Fera e Cinderela! Ent\u00e3o nos digam se gostaram \ud83d\ude09! Sempre muitas rosas vermelhas \ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39<br /> .<br /> Decor: &#064;markramoscenografo<br /> Personagens: &#064;dreamixeventos<br /> Imagens: &#064;starfilmescinema<br /> .<br /> #festa15anos #festade15anos #15anosfesta #rosasvermelhas #festatematica #festadossonhos #festatem\u00e1tica"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "instagram.com",
+                    "cards": [
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39053402_669724566737700_2450240067403251712_n.jpg?_nc_cat=0&oh=8edaa11dee3d2f07f594b6f00324e42b&oe=5BF3130A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38992687_669724536737703_7976901810919047168_n.jpg?_nc_cat=0&oh=a0bada295abc6e2f17f7df409c1cfe05&oe=5BF1DEE6",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38890173_669724533404370_1466575518760435712_n.jpg?_nc_cat=0&oh=bb9f419b57e19b484c099c1d8c28bbfc&oe=5BF62717",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38928619_669724553404368_4000227424464797696_n.jpg?_nc_cat=0&oh=157a8c3c6402951fd092e49187c13fde&oe=5C0115C0",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39113750_669724546737702_6533630097511940096_n.jpg?_nc_cat=0&oh=70947fcd9c681160e9530d9b0151023e&oe=5C01B835",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38917928_669724570071033_5062801014940237824_n.jpg?_nc_cat=0&oh=54c3857e293b429aa242695d189a2434&oe=5BF093FD",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38924448_669724540071036_7077442866368217088_n.jpg?_nc_cat=0&oh=557642b85cc37b80b65ab9ca1e6f41da&oe=5BEDB3F6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38994018_669724556737701_968385236847034368_n.jpg?_nc_cat=0&oh=b4b5830754c5089c7a2630402f780cf1&oe=5BECE542",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39094182_669724543404369_8907201962139713536_n.jpg?_nc_cat=0&oh=fa3cf2fb7cc0810ac524ca38c4cc1da8&oe=5BF57910",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38954436_669724523404371_2218973417296625664_n.jpg?_nc_cat=0&oh=7770ed3881446e24d84d10a3c7993753&oe=5C3959E0",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39037029_669724563404367_2700424120008441856_n.jpg?_nc_cat=0&oh=c4a22fef3f16321ebe2bf4b1fa9a4ab5&oe=5BF182D6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38887554_669724550071035_634364230077775872_n.jpg?_nc_cat=0&oh=8e6c7e4333f514a646c42eb97c757e9a&oe=5C00C262",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38916714_669724560071034_1462069385102360576_n.jpg?_nc_cat=0&oh=970d298d8e81624bf3adf8b5abc6a9ad&oe=5C0C928E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38911183_669724526737704_9080400821908144128_n.jpg?_nc_cat=0&oh=158d8786ed807cc939b19bd5c2c81aa9&oe=5BF9CC79",
+                            "title": " "
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "Visit Instagram Profile",
+                            "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                            "image_crops": {},
+                            "link_url": "http://instagram.com/debutando.xv",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38934803_669724530071037_1308097818312835072_n.jpg?_nc_cat=0&oh=d03af68abbcbd70c3524b65c0643123a&oe=5BFE9E2F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39061805_669724520071038_9096729544538193920_n.jpg?_nc_cat=0&oh=8fb6828817fde4def2313f47c8581e9a&oe=5C000D3F",
+                            "title": " "
+                        }
+                    ],
+                    "creation_time": 1534072552,
+                    "cta_text": "Visit Instagram Profile",
+                    "cta_type": "Visitar perfil do Instagram",
+                    "current_page_name": "XV \ufffd",
+                    "disclaimer_label": null,
+                    "display_format": "carousel",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "debutando.xv",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38965325_669724513404372_416480925698752512_n.jpg?_nc_cat=0&oh=ddaabfad53269a45631c40a0db9ca101&oe=5C101F8B",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://instagram.com/debutando.xv",
+                    "page_categories": {
+                        "2716": "Kids Site"
+                    },
+                    "page_id": 856423034560460,
+                    "page_is_deleted": false,
+                    "page_like_count": 15,
+                    "page_name": "XV \ufffd",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39003572_669724510071039_15588948873052160_n.jpg?_nc_cat=0&oh=50312484b4f9b6674244e326f0d2fa01&oe=5C094E8A",
+                    "page_profile_uri": "https://www.facebook.com/debutando.xv/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "XV \ufffd",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532329200
+            },
+            {
+                "adArchiveID": "2216597295238256",
+                "adid": "6096829986258",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532934000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "621668134518008",
+                "pageName": "Global March for Elephants and Rhinos",
+                "snapshot": {
+                    "ad_creative_id": 6096829985858,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "***PLEASE *S**H**A**R**E* TO THE MAXIMUM AND SAVE #VIRUNGA AND #SALONGA***<br /> <br /> The 15th extraordinary ministers council in the #DRC gives hope but no guarantee  to the #oil drilling saga in the protected areas of #Virunga and #Salonga national parks. <br /> <br /> During the fifteenth extraordinary Minister&#039;s council, Congolese ministers nevertheless adopted the decisions taken at the 11th Council of Ministers held on June 8, 2018, in which it was decided to set up an interministerial commission to rule on the partial decommissioning of Virunga and Salonga.<br /> <br /> The opposing  position of the national and international opinions, and the muscular reactions of  certain conservation organisations based in Kinshasa such as #ConservCongo, have they caused the DRC to change its mind, which at any cost, would like to exploit sovereignly its oil resources? - Ask the observers.<br /> <br /> But in the light of things, everything suggests that the government is not ready to step on its international commitments.<br /> <br /> This augurs the backsliding of the Minister of Hydrocarbons, Aim\u00e9 Ngoie Mukena, the initiator of this project of oil exploitation in the two emblematic protected areas of the country. Speaking to the press, the Minister of Hydrocarbons did not hide his consideration of the intrinsic values of these two parks.<br /> <br /> &quot;The government is aware of its international commitments on the  conservation and protection of Virunga National Park, and will not exploit oil in this site. However, it can not be prevented from thinking about its oil wealth &quot;,  he declared. <br /> And to add, &quot;The prime minister asked us to propose solutions that do not annoy  (any of the parties) &quot;.<br /> <br /> Pending the final decision, environmental civil society and many other conservation partners do not intend to disarm. They intend to lead lobbies at all levels so that any project going in the direction of any oil exploitation can not exist, at least not  in the protected areas of the Democratic Republic of the Congo.<br /> <br /> These actors also urge the Congolese government to invest more in the conservation and development of ecotourism, two sectors likely to guarantee the country&#039;s sustainable development.<br /> <br /> Please continue signing and sharing this petition below against any possibility of drilling oil in these two protected sites<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.change.org%2Fp%2Fpresident-joseph-kabila-of-the-drcongo-we-need-a-million-signatures-to-save-virunga-and-salonga-national-parks-from-oil-drilling%3Frecruiter%3D884685865%26utm_source%3Dshare_petition%26utm_medium%3Dfacebook_link%26utm_campaign%3Dshare_for_starters_page%26utm_term%3Dshare_twitter_responsive&amp;h=AT3q5GyNqxEbcPeQ87MNlLnrcrHpKa7f-fdWlLD8JkBFmSMVK4co-Oy5tN3toARzCghMbnCNIxh6g335rpxbf9ddveyk94lqYr9Z-wM00PMfVrA-ljVzG_LYraan2hNP5DjFMt0y_nc\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.change.org/p/president-joseph-kabila-of-the-drcongo-we-need-a-million-signatures-to-save-virunga-and-salonga-national-parks-from-oil-drilling?recruiter=884685865&amp;utm_source=share_petition&amp;utm_medium=facebook_link&amp;utm_campaign=share_for_starters_page&amp;utm_term=share_twitter_responsive</a><br /> <br /> Adams Cassinga <br /> Conserv Congo /GMFER"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Global March for Elephants and Rhinos ",
+                    "caption": "change.org",
+                    "cards": [],
+                    "creation_time": 1532451669,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Global March for Elephants and Rhinos",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37738505_2216597321904920_7091878887105232896_n.jpg?_nc_cat=0&oh=305a6b830875c170c19d39b4a77388f8&oe=5BFC30DD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37684185_2216597318571587_1408048871296204800_n.jpg?_nc_cat=0&oh=5da7367ad76f33d1bb77805ca488c6f3&oe=5C39DC9B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "President Joseph Kabila of the DRCongo: We need a million signatures to save Virunga and Salonga national parks from oil drilling",
+                    "link_url": "https://www.change.org/p/president-joseph-kabila-of-the-drcongo-we-need-a-million-signatures-to-save-virunga-and-salonga-national-parks-from-oil-drilling?recruiter=884685865&utm_source=share_petition&utm_medium=facebook_link&utm_campaign=share_for_starters_page&utm_term=share_twitter_responsive",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 621668134518008,
+                    "page_is_deleted": false,
+                    "page_like_count": 60905,
+                    "page_name": "Global March for Elephants and Rhinos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37768210_2216597311904921_2783822631026032640_n.jpg?_nc_cat=0&oh=f61bd205e4d6dea8829840e31ef3bc5e&oe=5BEEB9D3",
+                    "page_profile_uri": "https://www.facebook.com/March4Elephants/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Signez la p\u00e9tition",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532329200
+            },
+            {
+                "adArchiveID": "278968869527250",
+                "adid": "6108223284617",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532415600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6108223280417,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La Ley de Inmigraci\u00f3n y Nacionalidad (INA) es considerada una de las m\u00e1s complejas en los Estados Unidos, debido a las distintas interpretaciones que puede tener.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2F4-aspectos-basicos-sobre-la-ley-migratoria-que-todo-inmigrante-debe-saber&amp;h=AT0-qTO1A-29Hx1gswcguNuz2E9y-hXy-DCDEiDozRoIFDtIh8kvfZptWO8KVwvjKNekPz1vPW0JaO4GzWTPjiE4pdxCw4Y6nznhWtOwoUdYwNpG31CrgdKRLlgXgUgExLja5M9tRvs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/4-aspectos-basicos-sobre-la-ley-migratoria-que-todo-inmigrante-debe-saber</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532386071,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37714193_278968896193914_2796607412931395584_n.jpg?_nc_cat=0&oh=5b3b7496febf1f9a4cc464a9cbd632c9&oe=5BF2A138",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37670613_571032103292422_6999626253762297856_n.jpg?_nc_cat=0&oh=b96d0da89fad2961b96ccc2ca00ba45f&oe=5C053251"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37725176_278968889527248_1877792717224804352_n.jpg?_nc_cat=0&oh=d49c706e61bc81228d355f5f8a696879&oe=5BF4830D",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://m.me/abogadompacheco",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37659865_278968886193915_2946139074458550272_n.jpg?_nc_cat=0&oh=2abe6e0ab3c654ba24749c25c0f507a6&oe=5BFDF202",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532329200
+            },
+            {
+                "adArchiveID": "2153343251603267",
+                "adid": "23843060551060536",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532415600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "577641462301931",
+                "pageName": "Felizardo",
+                "snapshot": {
+                    "ad_creative_id": "23843060550900536",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Seja bem vindo \u00e0 P\u00e1gina do Felizardo.<br /> \u00c9 uma honra trabalhar por voc\u00ea e toda popula\u00e7\u00e3o...."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533492166,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Felizardo",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38521802_2153343274936598_1890495113067495424_n.jpg?_nc_cat=0&oh=50e7f32162fe55b1277df0c4f443c528&oe=5C04C83B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38641957_2153343271603265_4127859782189056000_n.jpg?_nc_cat=0&oh=c01eca3aab819c9ed0c2d28b1605f55d&oe=5BED5E47"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/felizardomg/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 577641462301931,
+                    "page_is_deleted": false,
+                    "page_like_count": 10417,
+                    "page_name": "Felizardo",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38488061_2153343258269933_6367162370619342848_n.jpg?_nc_cat=0&oh=46f135823d7883656644ad2cb153a876&oe=5C0935EA",
+                    "page_profile_uri": "https://www.facebook.com/felizardomg/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532329200
+            },
+            {
+                "adArchiveID": "245745839487700",
+                "adid": "6094049462091",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532329200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6094049458291,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "The Fifth tournament \u201cSave the Reef - Kill the Lionfish\u201d<br /> <br /> Ce dimanche 22 fut organiser la 5 \u00e9me chasse de poissons lion en apn\u00e9e ! 4 bateaux en comp\u00e9tition 95 poissons lion  furent pr\u00e9lev\u00e9s  en une seule matin\u00e9e   et qui ne poseront plus de probl\u00e8mes sur nos r\u00e9cifs. Car cela a un impact  sur la sant\u00e9 de nos r\u00e9cifs mais aussi sur la p\u00eache commercial.<br /> <br />  Merci \u00e0 tous ces b\u00e9n\u00e9voles qui r\u00e9pondent toujours pr\u00e9sent !<br /> <br /> - 1er prix revient au bateau BUZARD  pour le plus grand nombres de poissons captur\u00e9s : 67 <br /> - 2 ieme prix revient au bateau VIKING : Clebert  Questel pour le plus gros poisson lion captur\u00e9s :36.9cm<br /> \u2013 3 ieme prix revient  \u00e0  David Aubin  pour le plus grand nombre de poisson lion par chasseur: 36 ! <br /> - 4 ieme prix revient \u00e0 Patrick Blanchard  pour le plus petit poisson lion captur\u00e9s.<br /> Merci au SaintBarth YachtClub pour le lieux ;)<br /> <br /> L\u2019association Coral Restoration St Barth a fournis le mat\u00e9riel n\u00e9cessaire pour la capture du poisson Lion ainsi que l\u2019essence ! et tient \u00e0 remercier les partenaires Segeco pour les boissons offerts ainsi que boulagerie la petite colombe pour le d\u00e9jeuner offert bien m\u00e9rit\u00e9 qui a \u00e9t\u00e9 mis \u00e0 disposition.<br /> L\u2019association recherche des sponsors pour les prochaines comp\u00e9titions \u00e0 venir ainsi que la restauration des coraux.Pour ceux qui souhaitent nous soutenir, merci de vous rapprocher de l\u2019association Coral Restoration St Barth !!!<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT3HYFl8TvfMbR7xPvpUJjRbHCMLhoRuCJ-36j_a245REhW4GOk0txbi1pPs5_xW7nHJl5NGn3_o89hL3CSqPiZ1FmmBhTZKyOfCp8qnRam-PHSlkkDBag0I3nrjZG2Vx0O0xEJlPlg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532297792,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37637368_2133722130216273_8126206096877551616_n.jpg?_nc_cat=0&oh=1087beb95c8af3fae3c424ca47511d93&oe=5C01D6D1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37698133_2133722133549606_8363636922702102528_n.jpg?_nc_cat=0&oh=e1064181bd902535e2ee7421ebe66ba8&oe=5BF3E959"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37663855_2133722096882943_5864705571273310208_n.jpg?_nc_cat=0&oh=98823e42e9861722b21ebf0eb9de3ba7&oe=5C3B86D4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37600729_2133722100216276_3438773249238892544_n.jpg?_nc_cat=0&oh=95b31e3860cb5fc34cc21e531ad0056e&oe=5BFFF82B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37680040_2133722063549613_8353908031502680064_n.jpg?_nc_cat=0&oh=de9ce9823fce0a35296d2f7cc1b74ba5&oe=5C38FA24",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37646388_2133722066882946_217823986585698304_n.jpg?_nc_cat=0&oh=5a236d3ccb6727d8fe5261d8dfb2a0c2&oe=5BEEE072"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37613677_2133722270216259_190904707827367936_n.jpg?_nc_cat=0&oh=3280e15323b7a9a7677f0d3fb522704d&oe=5BF54B0B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37637329_2133722266882926_3356193530786611200_n.jpg?_nc_cat=0&oh=4945f315aa5c293843ca2486c9fcd173&oe=5BF7AD53"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37594966_2133722386882914_1836275209699590144_n.jpg?_nc_cat=0&oh=6b3d02461fd1e0c1f4fa7f16d78d4e5f&oe=5C0428CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37607152_2133722390216247_1704504513546682368_n.jpg?_nc_cat=0&oh=5cb1b32314270b689d9dac253b914cca&oe=5BFA6A85"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37626265_2133722360216250_6210668794738638848_n.jpg?_nc_cat=0&oh=5259bd9f48a59e8c47b4679d83add02c&oe=5C0D7A9C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37691981_2133722363549583_3217189096094957568_n.jpg?_nc_cat=0&oh=ee4f231c5bc530c5db6505d9f84820d5&oe=5C0319B3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37624196_2133722516882901_2691171583631818752_n.jpg?_nc_cat=0&oh=94d1a9413d7474a16b3b03bf2e726569&oe=5BF7496B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37705643_2133722520216234_7071754259494076416_n.jpg?_nc_cat=0&oh=c806df251742b87cee8ee0cef201208e&oe=5C0D9FF1"
+                        }
+                    ],
+                    "instagram_actor_name": "Coral Restoration St Barth",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37606991_245745862821031_7833621607435206656_n.jpg?_nc_cat=0&oh=89ea09a029e8d030d91f8df4ae363177&oe=5C38E794",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37610208_245745859487698_2875137037353091072_n.jpg?_nc_cat=0&oh=394c41199d5c875b39968a1d61343488&oe=5BF10C55",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532242800
+            },
+            {
+                "adArchiveID": "507637196340277",
+                "adid": "6108107480617",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532502000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6107880343017,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00bfPreguntas? Soy Marco Pacheco, abogado de inmigraci\u00f3n y estoy aqu\u00ed para servirle.<br /> <br /> Cont\u00e1ctenos: (956) 621 - 0319<br /> Whatsapp: + 1 (956) 442 - 4678<br /> Emergencia: + 1 (956) 442 -4678 <br /> Correo Electr\u00f3nico: mpacheco&#064;mpachecolaw.com<br /> <br /> Conozca sus derechos, sepa qu\u00e9 esperar y viva la vida que desea."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531929699,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37286121_276998472878202_2132219914050600960_n.jpg?_nc_cat=0&oh=884911df14aa08ebc422b754fbf4358b&oe=5BF8EB11",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00bfCu\u00e1les son los cr\u00edmenes por los cuales la administraci\u00f3n Trump deportar\u00eda a ciudadanos naturalizados?",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_226233784674016_5326783517567221760_n.mp4?_nc_cat=0&oh=a6f735092a755fdce8d4605409d614f3&oe=5B79D538",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37363423_276998489544867_2410670224467558400_n.jpg?_nc_cat=0&oh=ba53193ac6c5c02b9bb2e25d4e156c1a&oe=5BEDBE08",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/37272099_275662533199806_5054622125898334208_n.mp4?_nc_cat=0&oh=e54ac44216af4957ec139f8d73b5408d&oe=5B79CE50"
+                        }
+                    ]
+                },
+                "startDate": 1532156400
+            },
+            {
+                "adArchiveID": "1981965035359319",
+                "adid": "6094973516952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6094973512752,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aujourd&#039;hui, nous aimerions vous parler du partenariat entre l&#039; <a href=\"https://www.facebook.com/AFDOfficiel/\" data-hovercard=\"/ajax/hovercard/page.php?id=126529410723954&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">AFD - Agence Fran\u00e7aise de D\u00e9veloppement</a> et le Groupe de la Banque mondiale en Afrique subsaharienne. <br /> <br /> Gr\u00e2ce \u00e0 ce partenariat, nous avons soutenu plus de 70 projets dans 27 pays au cours des dix derni\u00e8res ann\u00e9es. Nous avons investi plus de 3,7 milliards de dollars dans le d\u00e9veloppement sur cette m\u00eame p\u00e9riode. Nous travaillons ensembre sur les d\u00e9fis aue repr\u00e9sentent le  #climat, l&#039;#\u00e9ducation et l&#039;aide aux \u00c9tats fragiles touch\u00e9s par la violence et le conflit. <br /> <br /> #endpoverty #Cooperation4dev"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533125053,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38221907_1981965042025985_3720004181612822528_n.jpg?_nc_cat=0&oh=474debc6e9af27e9f23903c452eaa0a5&oe=5BF08D99",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38042014_1981965045359318_3306521035712495616_n.jpg?_nc_cat=0&oh=3d49e0c06bc43bf21eb7cbe626b8c939&oe=5C079E6D",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Partenariat entre l'AFD et le Groupe de la Banque mondiale en Afrique subsaharienne",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_655626288127325_5888143250757255168_n.mp4?_nc_cat=0&oh=8c556785777da5f254c440cc48c776db&oe=5B79D19F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38155646_1981965062025983_7742597407753371648_n.jpg?_nc_cat=0&oh=44994b3f0413c2241b67519f0c6d7301&oe=5BF8042B",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/37373530_1884304391875884_7718674792101969920_n.mp4?_nc_cat=0&oh=fc73e1d310e51078815b91311c5a3b8e&oe=5B79D63F"
+                        }
+                    ]
+                },
+                "startDate": 1532070000
+            },
+            {
+                "adArchiveID": "1794215133987756",
+                "adid": "6102212223050",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532329200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "169042736456594",
+                "pageName": "All Out",
+                "snapshot": {
+                    "ad_creative_id": 6102212220650,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Im August 2017 hatte der tunesische Pr\u00e4sident einen Ausschuss einberufen, um diskriminierende Gesetze zu pr\u00fcfen. Dieser hat eine deutliche Empfehlung abgegeben: Das tunesische Gesetz, das Homosexualit\u00e4t unter Strafe stellt, muss weg.<br /> <br /> Damit das passieren kann, muss Pr\u00e4sident Beji Ca\u00efd Essebsi den n\u00e4chsten Schritt machen \u2013 Deine Stimme kann ihn zum Handeln bewegen. <br /> <br /> Bitte unterschreibe und fordere den tunesischen Pr\u00e4sidenten auf, das Gesetz gegen Homosexualit\u00e4t ein f\u00fcr alle Mal abzuschaffen: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.allout.org%2Fde%2Fa%2Ftunisia-legalise-love%2F&amp;h=AT24mxJMpEin2AfG_MlbROLt-AT6eHGpct52h8JFxSSnY6IRPge6EwX25KBxuVg_XNCuWimQnhqm1unHbiIy3S35KK-xGa7S1XNnNjDs18mLjEYSusxFUF8vESkG-BdbielspNgv93U\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://go.allout.org/de/a/tunisia-legalise-love/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "All Out",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532100585,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "All Out",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37604463_1794215197321083_7088708127498960896_n.jpg?_nc_cat=0&oh=f3280d70933a7f04cc61aaec31d18b3d&oe=5C01ABB5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37281014_2172989292728585_4421507976116830208_n.png?_nc_cat=0&oh=fd89f2409371f289440b81a8669b6912&oe=5BFD1CB5"
+                        }
+                    ],
+                    "instagram_actor_name": "All Out",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37403597_1794215177321085_6619566895546761216_n.jpg?_nc_cat=0&oh=0ca81f3fb25cef4dfb45cfac1fc0b5d5&oe=5BF9D03E",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://go.allout.org/de/a/tunisia-legalise-love/",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 169042736456594,
+                    "page_is_deleted": false,
+                    "page_like_count": 195821,
+                    "page_name": "All Out",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37513921_1794215173987752_1850139029123629056_n.jpg?_nc_cat=0&oh=963a50b273ee6b86c075d539bc57183a&oe=5C0F76B7",
+                    "page_profile_uri": "https://www.facebook.com/AllOutOrg/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532070000
+            },
+            {
+                "adArchiveID": "2323726077643496",
+                "adid": "6102212376650",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532329200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "169042736456594",
+                "pageName": "All Out",
+                "snapshot": {
+                    "ad_creative_id": 6102212376050,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "En aout 2017, le pr\u00e9sident tunisien a mis sur pied un comit\u00e9 pour revoir les lois discriminatoires. La recommandation des membres \u00e9tait claire ; la loi rendant l\u2019homosexualit\u00e9 ill\u00e9gale en Tunisie doit \u00eatre abrog\u00e9e. <br /> <br /> Pour cela, le pr\u00e9sident Beji Caid Essebsi doit passer \u00e0 l\u2019\u00e9tape suivante, et votre voix peut l\u2019inciter \u00e0 agir. <br /> <br /> Signez cette p\u00e9tition pour demander au pr\u00e9sident tunisien d\u2019abroger une bonne fois pour toutes la loi homophobe : <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.allout.org%2Ffr%2Fa%2Ftunisia-legalise-love%2F&amp;h=AT1c4r-I-oxwrlZHgTdatJdNzxjNzAX5_YpJcfQYpu6_yaPiCbC66ICLNiqiIFLRmwhHkNeThSJD6FQXvTKLpNZWuTH3boYSz_oXqLM8KIrXttr1MeWO2jt8ZCY4QY25H7cfCurvkts\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://go.allout.org/fr/a/tunisia-legalise-love/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "All Out",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532096274,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "All Out",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37591863_2323726147643489_4448875009510735872_n.jpg?_nc_cat=0&oh=c0a7ac05e6c654a85cd3d409fc552de2&oe=5BED21BC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37421748_2172990296061818_4130680970112139264_n.png?_nc_cat=0&oh=2b5262f7149cd24ef0ec47ed20f9dcb1&oe=5BF912AA"
+                        }
+                    ],
+                    "instagram_actor_name": "All Out",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37346278_2323726114310159_702666686964170752_n.jpg?_nc_cat=0&oh=f1558efe0ec8041d7b89f540d60f2264&oe=5C094900",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://go.allout.org/fr/a/tunisia-legalise-love/",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 169042736456594,
+                    "page_is_deleted": false,
+                    "page_like_count": 195821,
+                    "page_name": "All Out",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37595180_2323726117643492_1082241770437214208_n.jpg?_nc_cat=0&oh=3c4e3b755a9b10d7518daa26e2451ab0&oe=5C39E507",
+                    "page_profile_uri": "https://www.facebook.com/AllOutOrg/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1532070000
+            }
+        ],
+        "totalCount": 295,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

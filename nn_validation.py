@@ -123,12 +123,16 @@ def plot_save(dist, label):
     sns.distplot(dist, fit=norm, kde=False, bins=8)
     plt.xlabel(label)
     plt.ylabel('Frequency')
-    plt.title('Accuracy of CNN classifier')
-    plt.savefig(PLOT_FOLDER + "pred_%s_CNN.png" % label)
+    
+    cnn_normal_plot = H5_FILE.replace('.h5', '')
+    cnn_normal_plot = cnn_normal_plot.replace(H5_FOLDER, '')
+    
+    plt.title('Accuracy of CNN classifier: (%s)' % cnn_normal_plot.upper())
+    plt.savefig(PLOT_FOLDER + "pred_%s_%s_CNN.png" % (label, cnn_normal_plot.upper()))
     plt.clf()
     save_report_to_csv (REPORT_FOLDER + 'acc_validation_report.csv', [ 
         'CNN',
-        label,
+        label + ' ' + cnn_normal_plot,
         np.mean(dist),
         np.std(dist), 
     ])    
@@ -173,7 +177,7 @@ if __name__ == "__main__":
     generate_normal(X,y_true)
     mean_auc, std_auc = generate_roc_curve (X, y_true)
 
-    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [ 
+    save_report_to_csv (REPORT_FOLDER + 'CNN_validation_report.csv', [ 
         'CNN',
         H5_FILE,
         p,

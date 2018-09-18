@@ -1,0 +1,2320 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQEg5YLDVNrf:AQG61AnOB83P",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591215855315158329",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfbKApSugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp38PGXkKG6sQOSkoGRteBq/KGmh5rMjAGw88ayldOKA5qr7O6llJQBvtfY4br6lQbO3snV5Oy5AcCYpM7Hp8ADmtDD2sKaeozn9bfR3G2cxuisrdKUAfC8hIT45tMB4OWivPStZM6imqjeqJEB7PqsmrXE3QGKkqDY56vBArS0uq7U2sECmLXBg4fzwQaAuOzVmJvFBqrHjbTDsaQH9u6hmt72zAeohOLWu51/+Nm25rm9kQGY16OEv4DVAazrzJ6bsWX4y/fYsZP2BubWnMf4ycECgpXwluygyAOW56XAy4jyA+LZ7oy83+oHioaAmZWl8gesp76Y17ZrlPO9jrbNZc7Ky5et0rsB+P7G8PKh5QGI+7TnoP/5BvqsoqTk1YMB1s6B4r3watjejsuZ2Wf4mbmdguzvBq62zr/As9YBuMHUg6u86AHkj7Htt6CXBbLhnNvv57IGttSRg7HoTaSY9ZDFr37ClYKZ7MmCAbS9hN3i5+cB1LHwucT9qgLsk6P62Py1BuLO/Mq0yuYHttqVw+fO6AeS7aOyrpNzlLnjgev5dfaU/Kr6/NQBtrfE8a209gHu/eXZi9LuA7KMh86oy/8D/KXRqtOElgTY95nKsOXiBo69lKLx3MAH1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgK27Lz9s/n0Bhm1PHi0AfABrALoAqQD4AOcBNgElAUA",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "2112658075717447",
+                "adid": "23842912242530657",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842911640190657",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma reuni\u00e3o de amigos do Vale do Itaja\u00ed, aqui em Blumenau, mas escutando  as demandas da regi\u00e3o. A BR-470 \u00e9 um dos s\u00edmbolos de desrespeito de Bras\u00edlia para com os catarinenses e quero estar no Senado Federal para lutar por mais recursos para o t\u00e9rmino dessa obra!<br /> <br /> #VamoQueVamo #SomosMauro15 #SCquerMais #SomosTodos15 #MauroEnapoleao15 #JorginhoMello222 #PauloBauer456<br /> <br /> \u2b55 Quer receber nossas novidades pelo messenger? Clique aqui:<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fjorginhomello&amp;h=AT3_O9NNdljSIIQ8_juQEVJFGS5B0dzZNXl9xzJPBk4yXvJhzh70Fm2QjJn_tMfcvugZyJeMECqQYmgyW1ZExUWWYNFObE43fm9kCAcA5CUkxvloK0tJHS_uRZfOCBdRRy-_PqTZ_ng\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/jorginhomello</a><br /> <br />  \ud83d\udcac Converse com a gente pelo WhatsApp: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FWhatsdoJorginho&amp;h=AT19Sy3mzsui_at6SjA6LqTkSMQ6TbGrcqnGyVwMEFcUP_hPFCStOPZAC0BmFgw4sp6_ddmI3yqxwQdViWg0BwcDHHl_7ffIU1lokwVlVA0YpvdQHuyT6ppdokH6DNFvO7rm8FkgA3I\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/WhatsdoJorginho</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31193512000145",
+                    "byline": "ELEICAO 2018 JORGINHO DOS SANTOS MELLO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534633936,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jorginho Mello",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39306772_1183834481754379_195676012766298112_n.jpg?_nc_cat=0&oh=05979966453ca22795880c0821e8ce69&oe=5BF696B5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442667_1183834478421046_5052241867907792896_n.jpg?_nc_cat=0&oh=948f9cdc67969d0a346e0d060108ebf7&oe=5C0AA666"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 425866030884565,
+                    "page_is_deleted": false,
+                    "page_like_count": 20703,
+                    "page_name": "Jorginho Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485174_847585678770827_5587640997694668800_n.jpg?_nc_cat=0&oh=7aeb8fec27dea911d0e9ef8c06f309ac&oe=5C0DB91F",
+                    "page_profile_uri": "https://www.facebook.com/jorginhomello.sc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1237189849757035",
+                "adid": "6103620742981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620742581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341927_1237189856423701_2829518652103983104_n.jpg?_nc_cat=0&oh=f38b5bd8ffd13110f96daed5356e80a5&oe=5C086758",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=aeb759c07045a8d9d940a76efb8f3164&oe=5B78E9DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346390_1237189859757034_3657822512684728320_n.jpg?_nc_cat=0&oh=722ad3509d774b4c8a05cadfd9a6bf6a&oe=5BF2124B",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=34a403d64cfc6ba42ff7fffb73c93746&oe=5B78E2C3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "222130211789341",
+                "adid": "6103620698981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620698781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346365_222130218456007_5683437696316342272_n.jpg?_nc_cat=0&oh=0adf6fbe24f0faf05563ad3c5d8d39c1&oe=5BFFF312",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=aeb759c07045a8d9d940a76efb8f3164&oe=5B78E9DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301689_222130225122673_4703673699532800000_n.jpg?_nc_cat=0&oh=760aad3b8636180856db928f17c95b13&oe=5BF35EF2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=34a403d64cfc6ba42ff7fffb73c93746&oe=5B78E2C3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "306887386743742",
+                "adid": "6103620703381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620702181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409749_306887406743740_2092401650206507008_n.jpg?_nc_cat=0&oh=8b424c539a4651f75168cc920265bf53&oe=5C3A6A2E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=aeb759c07045a8d9d940a76efb8f3164&oe=5B78E9DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332578_306887416743739_1074387898750468096_n.jpg?_nc_cat=0&oh=221fdbd3b24a7fb0f970f3d31115b37c&oe=5BED951D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=34a403d64cfc6ba42ff7fffb73c93746&oe=5B78E2C3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "409463462911902",
+                "adid": "6103620708981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620708781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39397546_409463476245234_4412552316469641216_n.jpg?_nc_cat=0&oh=3e69a92b855592a8d068dd08bf4b7645&oe=5BF58088",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=d2a0fb62b12f628dc9b5ae27bf002499&oe=5B78F89C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349837_409463479578567_2897451157687369728_n.jpg?_nc_cat=0&oh=b457910fd49252ce4c35d3bae18dd5ed&oe=5C006388",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=73f3eb5ef5b5e308c9d3558c42fb6222&oe=5B78E7B8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2204541236485155",
+                "adid": "6103620721781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620718781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485288_2204541266485152_7612255063104290816_n.jpg?_nc_cat=0&oh=aa8bdb9ea15e0dba1a39e19aa5e0b289&oe=5C0CF3BB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=d2a0fb62b12f628dc9b5ae27bf002499&oe=5B78F89C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282059_2204541279818484_7348528858355728384_n.jpg?_nc_cat=0&oh=4afdceff70ba0e2dc8ccfca0179a6ed2&oe=5BF3C086",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=73f3eb5ef5b5e308c9d3558c42fb6222&oe=5B78E7B8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "234766460520123",
+                "adid": "6103620682781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620682381,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534099,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332571_234766473853455_1953940009186754560_n.jpg?_nc_cat=0&oh=2d3380491811d70418445f7e397d66a9&oe=5C0AEA68",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=aeb759c07045a8d9d940a76efb8f3164&oe=5B78E9DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39339061_234766477186788_5456603985035132928_n.jpg?_nc_cat=0&oh=4a44a64c59516eac0c1beb9b8a358bd9&oe=5BFE5240",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=34a403d64cfc6ba42ff7fffb73c93746&oe=5B78E2C3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "244964693020787",
+                "adid": "6103620688981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620688781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341929_244964706354119_1659257071738028032_n.jpg?_nc_cat=0&oh=3f5e731e670db2d0f439f66744240ae5&oe=5BF3A3A5",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=aeb759c07045a8d9d940a76efb8f3164&oe=5B78E9DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343429_244964716354118_4665717956846551040_n.jpg?_nc_cat=0&oh=9fc6414e8649d243583331c6dcd4a18a&oe=5C0D1B83",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=34a403d64cfc6ba42ff7fffb73c93746&oe=5B78E2C3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "894749647388137",
+                "adid": "6100054683329",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054682929,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "VOC\u00ca SABIA? Em 2005, Barros Munhoz assumiu a subprefeitura de Santo Amaro, atendendo a convite do ent\u00e3o prefeito de S\u00e3o Paulo, Jos\u00e9 Serra. Em apenas um ano, Munhoz foi o respons\u00e1vel pela realiza\u00e7\u00e3o de mais de 80 obras na regi\u00e3o, imprimindo, mais uma vez, sua marca de dinamismo e destacando-se como exemplo de administrador p\u00fablico. Como deputado, Barros Munhoz tamb\u00e9m j\u00e1 fez muito por um dos mais importantes bairros da Zona Sul, e entre suas principais lutas est\u00e1 o t\u00e3o sonhado Metr\u00f4 de Santo Amaro, conquista hist\u00f3rica que j\u00e1 est\u00e1 se tornando realidade! #BarrosMunhoz #EsteTrabalha #SantoAmaro"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534560118,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343255_894749660721469_9115455709322936320_n.jpg?_nc_cat=0&oh=6309b81f157add7ca2ae2ecffe0226f4&oe=5BF1B028",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37526107_1034535660056541_7056327333967298560_n.jpg?_nc_cat=0&oh=829ffb5764bb43842750e1bc7c53e3c0&oe=5C0C3994"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18861,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340483_894749654054803_4640424718346747904_n.jpg?_nc_cat=0&oh=5b378bd9176591e487d6f1260260a406&oe=5BFCF8A6",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "269318180554929",
+                "adid": "6103620651981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620651781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301679_269318203888260_6378443922561040384_n.jpg?_nc_cat=0&oh=869556ce318f90ac324d52f57a755651&oe=5C031352",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39338280_269318207221593_8341166517097857024_n.jpg?_nc_cat=0&oh=b2454ae2e1f81b8bbe2655746556b41a&oe=5C065106"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/l/t39.16868-6/39349853_269318193888261_3071159477886517248_n.jpg?_nc_cat=0&oh=0c74f844da5b5a88aa8e81c7f45a01a4&oe=5BF7EA60",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301670_269318197221594_6767952200237842432_n.jpg?_nc_cat=0&oh=090d122d75a54478621ea16c93032763&oe=5BFFFB01",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "304660343628351",
+                "adid": "6103620634981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620634181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306490_304660396961679_2318495677925031936_n.jpg?_nc_cat=0&oh=5f5531673aaf293f20e471807de2e293&oe=5BEEB9E2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39526100_304660393628346_1873782523440398336_n.jpg?_nc_cat=0&oh=ca596fb2a4d768f3d571fd3b23238547&oe=5C003E08"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39318381_304660380295014_2056733724929687552_n.jpg?_nc_cat=0&oh=7f3dffb6b82820ce745e5c3152da5f2e&oe=5C0A9C8A",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39199791_304660383628347_3133345325817790464_n.jpg?_nc_cat=0&oh=f37fef52ceec77cbfa2ad35e13407bfb&oe=5C03DB41",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2189759174588516",
+                "adid": "6103620644381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620643181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301636_2189759207921846_7456293629376593920_n.jpg?_nc_cat=0&oh=519f7382b560068ac825d24c32bd1e69&oe=5BED6371",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39300789_2189759204588513_406710622424662016_n.jpg?_nc_cat=0&oh=367b31feedcdc3335a98f4c065f4b628&oe=5BFFE0B2"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39402094_2189759187921848_4781296166732038144_n.jpg?_nc_cat=0&oh=3031932fc01cfdd1b860aad565f54432&oe=5C0EFE61",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39360007_2189759191255181_1095979858988630016_n.jpg?_nc_cat=0&oh=7ee0b42da91b438bc31554e2c1f24501&oe=5C0189E8",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1881356738574060",
+                "adid": "6103620423981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT2dNh2Z2ppH2jxGCzxzU-KmcAY7xnbnGMSnyO2qfZgXPdwbo0WdtuM_058scRAnp-Y1cGLnsopVkHPh2QNRso6nkd_vtXf_NV6GU27VRE8P3_ydYAqf4FfjatNpXi5H4NanFjJP1Tg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1898082530496330",
+                "adid": "6103620417181",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT2IwzEWclQhAJBr-VlxtxSx9ZqYQxrgs1vWR0qBsOAi2naw_wIpp1rA34kxYwPcZsFDRWRIxd4q8hrL0JvL_O1vhtXG1BpDS5B-6zG2RG4NOwJ_onuQspSdZ6pCV8mJtFNnSXQ5UWy9eFi5AH-9STWk\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2016991378331350",
+                "adid": "6103620425381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT1ju7shOY1K6BQLOwKmQGra92XN4DCL0KeO-JhxK-mqopAgqyQAy_VuNWlcBe_ko6YyD-BeEGegcUkc46obCFxA-zYk8BiiqU7ZO3egimNYPaUmYR_7QSJMzQnT3m5z9_0XkcRkz-k\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33060,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "279434572668394",
+                "adid": "6100054352729",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054352329,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O deputado Barros Munhoz fez hoje uma visita a dirigentes e representantes das Associa\u00e7\u00f5es Comerciais das cidades de Igarapava e de Guar\u00e1, na regi\u00e3o da Alta Mogiana Paulista. Os encontros serviram para colocar em pauta assuntos importantes e de interesse das entidades que atuam no fortalecimento da economia de suas cidades. <br /> <br /> Vale lembrar que o deputado Barros Munhoz teve atua\u00e7\u00e3o decisiva na Assembleia Legislativa durante as discuss\u00f5es para a aprova\u00e7\u00e3o do Projeto de Lei 874/2016, que aplicou importantes altera\u00e7\u00f5es ao sistema de inclus\u00e3o e exclus\u00e3o dos nomes dos consumidores nos cadastros de prote\u00e7\u00e3o ao cr\u00e9dito, eliminando a obrigatoriedade da comunica\u00e7\u00e3o postal via AR (Aviso de Recebimento), uma exig\u00eancia da legisla\u00e7\u00e3o anterior que onerava o setor do com\u00e9rcio e trazia inconvenientes ao consumidor, especialmente aos de menor poder aquisitivo. #BarrosMunhoz #EsteTrabalha #Igarapava #Guar\u00e1"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39398689_1035936189916488_2103697783562174464_n.jpg?_nc_cat=0&oh=61cd81d62b000ee755578aeadd1a0277&oe=5BF7822B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39288532_1035936193249821_7632662286678622208_n.jpg?_nc_cat=0&oh=5b8c96de01f28144aebcedb75680bd71&oe=5C0EC4AC"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39391875_1035936239916483_3633473088953253888_n.jpg?_nc_cat=0&oh=226ac19aa4f29c6cec4e04e99bb6511f&oe=5C0ABCF3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39306171_1035936236583150_1382184208872505344_n.jpg?_nc_cat=0&oh=274495cbc36e77a8ed6bd744092fead6&oe=5BF89C9E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18861,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308102_279434579335060_8873045848171216896_n.jpg?_nc_cat=0&oh=ed1ac0b0614c5de9d345ad31b065e2b4&oe=5C046210",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1815100435234991",
+                "adid": "6100054290929",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054290729,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Um #tbt do meu primeiro mandato como deputado estadual, ainda nos anos 80! Na foto, assinando a Nova Constitui\u00e7\u00e3o do Estado de S\u00e3o Paulo. Em minha primeira elei\u00e7\u00e3o, fui eleito com mais de 40 mil votos \u2013 a maior vota\u00e7\u00e3o do meu partido \u00e0 \u00e9poca! Agora, come\u00e7a uma nova jornada para continuar trabalhando por nossas cidades e fazendo o melhor pelo nosso Estado e pelo nosso Pa\u00eds juntamente com nosso governador &#064;marciofrancasp! #BarrosMunhoz #EsteTrabalha #Vote40540 #SPavan\u00e7a"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39393031_1035985333244907_2025374708412710912_n.jpg?_nc_cat=0&oh=fea25d0f9769623bb33798bda9a1af9c&oe=5C05921D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39298664_1035985336578240_3910465000275181568_n.jpg?_nc_cat=0&oh=7a80d21c47b7f5c22e2b7bc1ff75e0da&oe=5C0D7B61"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18861,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335657_1815100451901656_1870414255468052480_n.jpg?_nc_cat=0&oh=3aa3bad41b3aa1102269a505978d0b92&oe=5C089158",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "468794873632620",
+                "adid": "6099339921147",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "672773076254570",
+                "pageName": "Rafael Zucco",
+                "snapshot": {
+                    "ad_creative_id": 6099339920947,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Acabei de entrevistar a candidata a deputada federal <a href=\"https://www.facebook.com/SandraGoncalvesNOVO/\" data-hovercard=\"/ajax/hovercard/page.php?id=1664151036974719&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Sandra Gon\u00e7alves NOVO</a> 3080 #VamosRenovarTudo"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31143741000155",
+                    "byline": "Rafael Zucco",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534538575,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rafael Zucco",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 672773076254570,
+                    "page_is_deleted": false,
+                    "page_like_count": 100566,
+                    "page_name": "Rafael Zucco",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37531135_468794886965952_5426390337511751680_n.jpg?_nc_cat=0&oh=ad8661870368e729332e506101615cdb&oe=5BF465AF",
+                    "page_profile_uri": "https://www.facebook.com/rafaelzucco82/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Zucco Entrevista: Sandra Gon\u00e7alves 3080",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39338436_468794890299285_999889951539593216_n.jpg?_nc_cat=0&oh=378f00f31c9b43219ac27e6c46512c88&oe=5BF8D4BB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.1790-2/10000000_397033227490558_6569959580896329728_n.mp4?_nc_cat=0&oh=c92d7ffe59a49efc1561be87dead37b0&oe=5B78E36B"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "221900425156261",
+                "adid": "6099339883147",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "672773076254570",
+                "pageName": "Rafael Zucco",
+                "snapshot": {
+                    "ad_creative_id": 6099339882947,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Boa noite time, ajude a divulgar, VAMOS RENOVAR DE VEZ, VOTE ZUCCO 30123 #S\u00f3Acho"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31143741000155",
+                    "byline": "Rafael Zucco",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534511279,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rafael Zucco",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297043_221900445156259_4177290973115580416_n.jpg?_nc_cat=0&oh=a5bdff0853b8c5f23a07f641406bc5c6&oe=5BEF7226",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39348572_861234077408468_2731773790676582400_n.jpg?_nc_cat=0&oh=27b4c56f80374834565f2ec6a610e95f&oe=5C010468"
+                        }
+                    ],
+                    "instagram_actor_name": "Rafael Zucco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320803_221900438489593_3093763633067327488_n.jpg?_nc_cat=0&oh=185e0263069073782b3f76f18a7b96f8&oe=5BFD7050",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 672773076254570,
+                    "page_is_deleted": false,
+                    "page_like_count": 100566,
+                    "page_name": "Rafael Zucco",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39398590_221900441822926_7244740380942401536_n.jpg?_nc_cat=0&oh=6d52cc8016d3e1b4df79ecf28a124dd3&oe=5BFAF75B",
+                    "page_profile_uri": "https://www.facebook.com/rafaelzucco82/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2038756056148141",
+                "adid": "6103135329039",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1411864629074812",
+                "pageName": "Carlos Batinga",
+                "snapshot": {
+                    "ad_creative_id": 6103135328839,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Vamos juntos continuar no caminho da transforma\u00e7\u00e3o! A luta est\u00e1 apenas come\u00e7ando e voc\u00ea \u00e9 parte fundamental nesta caminhada. Carlos Batinga Candidato a Deputado Estadual 14112<br /> \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800<br /> #carlosbatinga #paraiba #monteiro #pb #campinagrande #jo\u00e3opessoa #cariri #compet\u00eancia #experi\u00eancia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31220370000168",
+                    "byline": "Carlos Alberto Batinga Chaves",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534517464,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Carlos Batinga",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39213584_2117938211800780_1443910443763499008_n.jpg?_nc_cat=0&oh=64f591bbe27d80b609fb3ac56e61e8a4&oe=5C0D04B4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39253534_2117938208467447_2776407099406548992_n.jpg?_nc_cat=0&oh=d93b38434fe3decd6579a935f53cb74b&oe=5C0831BB"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1411864629074812,
+                    "page_is_deleted": false,
+                    "page_like_count": 1693,
+                    "page_name": "Carlos Batinga",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39275753_2038756079481472_4543252504908922880_n.jpg?_nc_cat=0&oh=5de3d36225cc2f68a2fafbb72a0e72df&oe=5C0DF2BE",
+                    "page_profile_uri": "https://www.facebook.com/dep.carlosbatinga/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1649896771786896",
+                "adid": "23842918856900264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842918856890264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Minha Gente,<br /> Estamos come\u00e7ando, hoje, uma nova caminhada.<br /> Sou candidato a Deputado Federal (4010).<br /> No Congresso Nacional quero continuar a lutar por Pernambuco e por voc\u00ea. Sempre!<br /> Vamos , juntos, construir mais essa vit\u00f3ria !"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534513623,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Danilo Cabral",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301648_1649896801786893_6797033672907161600_n.jpg?_nc_cat=0&oh=ebe2bc142712a55ea2f849a46149e160&oe=5BEEAE99",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 49014,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306114_1649896805120226_3235478419756023808_n.jpg?_nc_cat=0&oh=ece95fb4fa2201b06a9d0782b3aa3c69&oe=5BF3A377",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39221835_861403220720178_2340205543605403648_n.mp4?_nc_cat=0&oh=e27fa074a6523d132425b43cf4ea5c84&oe=5B78E3DF",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39391419_1649896821786891_3292484253660479488_n.jpg?_nc_cat=0&oh=b91337bd8cb7f3dafc7288de958ec7ec&oe=5BF4D367",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39176002_237163973651379_2107187762317754368_n.mp4?_nc_cat=0&oh=89521ea095acce5f0c1e207217195840&oe=5B78E5D6"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "240443293472105",
+                "adid": "23842982403550676",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "176897033007671",
+                "pageName": "Jack Tsai",
+                "snapshot": {
+                    "ad_creative_id": "23842982399140676",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "August 15, 2018: Jack Tsai posted images on LinkedIn"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Jack Tsai",
+                    "caption": "linkedin.com",
+                    "cards": [],
+                    "creation_time": 1534519193,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Jack Tsai",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39366984_285949175321590_2296558780273393664_n.jpg?_nc_cat=0&oh=5b08b3358538d86dfcb0553a56cf7fa3&oe=5BF55337",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39260210_285949171988257_1431120254494310400_n.jpg?_nc_cat=0&oh=13713956bed827a086bdcaba541da188&oe=5BEF4DB0"
+                        }
+                    ],
+                    "instagram_actor_name": "Jack Tsai",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282049_285949155321592_4931260464609886208_n.jpg?_nc_cat=0&oh=f95376b692db7acd01259be7557c7736&oe=5C0B59E9",
+                    "is_reshared": false,
+                    "link_description": "August 15, 2018: Jack Tsai posted images on LinkedIn",
+                    "link_url": "https://www.linkedin.com/feed/update/urn:li:activity:6435479750956851200",
+                    "page_categories": {
+                        "2702": "Biz Site"
+                    },
+                    "page_id": 176897033007671,
+                    "page_is_deleted": false,
+                    "page_like_count": 1031,
+                    "page_name": "Jack Tsai",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332580_285949158654925_3795028842138042368_n.jpg?_nc_cat=0&oh=8762843efe1b6242cd8fba22577c94ed&oe=5C047C37",
+                    "page_profile_uri": "https://www.facebook.com/jacktsaicom/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Jack Tsai on LinkedIn: \"A NDAA (Ato de Autoriza\u00e7\u00e3o de Defesa Nacional 2019) foi assinada por Trump como lei h\u00e1 2 dias (13 de Agosto). Tecnicamente\u2026",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "285949145321593",
+                "adid": "23842982402900676",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "176897033007671",
+                "pageName": "Jack Tsai",
+                "snapshot": {
+                    "ad_creative_id": "23842982399140676",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "August 15, 2018: Jack Tsai posted images on LinkedIn"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Jack Tsai",
+                    "caption": "linkedin.com",
+                    "cards": [],
+                    "creation_time": 1534519193,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Jack Tsai",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39366984_285949175321590_2296558780273393664_n.jpg?_nc_cat=0&oh=5b08b3358538d86dfcb0553a56cf7fa3&oe=5BF55337",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39260210_285949171988257_1431120254494310400_n.jpg?_nc_cat=0&oh=13713956bed827a086bdcaba541da188&oe=5BEF4DB0"
+                        }
+                    ],
+                    "instagram_actor_name": "Jack Tsai",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282049_285949155321592_4931260464609886208_n.jpg?_nc_cat=0&oh=f95376b692db7acd01259be7557c7736&oe=5C0B59E9",
+                    "is_reshared": false,
+                    "link_description": "August 15, 2018: Jack Tsai posted images on LinkedIn",
+                    "link_url": "https://www.linkedin.com/feed/update/urn:li:activity:6435479750956851200",
+                    "page_categories": {
+                        "2702": "Biz Site"
+                    },
+                    "page_id": 176897033007671,
+                    "page_is_deleted": false,
+                    "page_like_count": 1031,
+                    "page_name": "Jack Tsai",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332580_285949158654925_3795028842138042368_n.jpg?_nc_cat=0&oh=8762843efe1b6242cd8fba22577c94ed&oe=5C047C37",
+                    "page_profile_uri": "https://www.facebook.com/jacktsaicom/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Jack Tsai on LinkedIn: \"A NDAA (Ato de Autoriza\u00e7\u00e3o de Defesa Nacional 2019) foi assinada por Trump como lei h\u00e1 2 dias (13 de Agosto). Tecnicamente\u2026",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1781590105223928",
+                "adid": "23842918844840264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842918844820264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pessoal,<br /> <br /> Come\u00e7ou a caminhada. Mais do que nunca, sigamos juntos, lutando sempre por uma vida mais digna para o pernambucano! #juntoscomdanilo"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534517190,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 49014,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39303623_1781590121890593_6707226752856358912_n.jpg?_nc_cat=0&oh=733f50525540f2174969de5151eb29dc&oe=5BFABDF6",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "In\u00edcio da caminhada, #JuntosComDanilo",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39254313_236364437079959_906989224811560960_n.mp4?_nc_cat=0&oh=e051d11c13ddf2ca81b8c7147b39cac6&oe=5B78E734",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39370810_1781590135223925_2201851225228443648_n.jpg?_nc_cat=0&oh=d9bd0b40417bae4e18a2aa0293510e1f&oe=5C000040",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39182151_484095085398548_428128172630867968_n.mp4?_nc_cat=0&oh=9f9c8a7c20d1f59353d56682e53d39aa&oe=5B78E07E"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "223336125016971",
+                "adid": "6110732466906",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1411134208974716",
+                "pageName": "Max Oliveira",
+                "snapshot": {
+                    "ad_creative_id": 6110732466706,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#CampanhaMaxOliveira12321 | \u00c9 com muita satisfa\u00e7\u00e3o e com senso de responsabiliade que lan\u00e7o hoje a minha campanha a Deputado Estadual por Minas Gerais. \u00c9 \u00e0 partir de hoje que come\u00e7aremos a mudan\u00e7a na nossa querida terra mineira nas \u00e1reas da sa\u00fade, educa\u00e7\u00e3o, diversidade, terceira idade e sa\u00fade animal. No dia 07/10, n\u00e3o se esque\u00e7a: Max Oliveira - 12321!! <br /> <br /> #DeL\u00e1PraC\u00e1DeC\u00e1PraL\u00e1, vamos mudar Minas Gerais e construir um Brasil melhor para todas e todos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31223817000152",
+                    "byline": "ELEICAO 2018 MAXSUEL DA SILVA DE OLIVEIRA DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534523603,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Max Oliveira",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1411134208974716,
+                    "page_is_deleted": false,
+                    "page_like_count": 5641,
+                    "page_name": "Max Oliveira",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39561679_223336135016970_2433990041458966528_n.jpg?_nc_cat=0&oh=7ddc024e7eb08805aa1eecc34f10e451&oe=5C0E5B4D",
+                    "page_profile_uri": "https://www.facebook.com/maxoliveiraaoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Lan\u00e7amento da Campanha Max Oliveira 12321",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1938730472858458_5653343796776140800_n.mp4?_nc_cat=0&oh=f2027fc2dc632d0ff50cb07b145deb5c&oe=5B78E2DB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39271688_223336145016969_8711510603455266816_n.jpg?_nc_cat=0&oh=098d7e9b6decabcceaa0b03478f870e2&oe=5C39E988",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38916451_209357883259892_9211773451902124032_n.mp4?_nc_cat=0&oh=34fec199adf3a7fea27a10021b2d8108&oe=5B78E2DE"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "452754168559347",
+                "adid": "23842910420790210",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "891508834342027",
+                "pageName": "Comandante Helbingen",
+                "snapshot": {
+                    "ad_creative_id": "23842910415470210",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que dia festivo! Passei o dia de ontem, 14, junto com a comitiva do nosso futuro governador <a href=\"https://www.facebook.com/ronaldocaiado25/\" data-hovercard=\"/ajax/hovercard/page.php?id=398434416879875&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Ronaldo Caiado</a>, <a href=\"https://www.facebook.com/lincolntejotaoficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=1656122114600546&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Deputado Lincoln Tejota</a> e o <a href=\"https://www.facebook.com/wildermorais/\" data-hovercard=\"/ajax/hovercard/page.php?id=452935231455081&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Senador Wilder Morais</a> conversando com os romeiros da Festa do Muqu\u00e9m. Uma gente que carrega consigo hist\u00f3rias de f\u00e9 que emocionam e que nos motiva a trabalhar firme por um Goi\u00e1s melhor. <br /> <br /> #comandantehelbingen #unidosparamudargoias #goias #festadomuquem #romaria"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "29179661149",
+                    "byline": "Carlos Helbingen J\u00fanrior",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534507908,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Comandante Helbingen",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39243114_1042588395900736_8488106921776119808_n.jpg?_nc_cat=0&oh=69fc8c4aba53f2a1a35b4e63a695e9c9&oe=5C0E62AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39136618_1042588399234069_3069424448537886720_n.jpg?_nc_cat=0&oh=c633e58439b664564f11648da49c5ce3&oe=5C0D6CA3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39200710_1042589019234007_5185921844527497216_n.jpg?_nc_cat=0&oh=3d80e0f29f309278a9f7db33875e1a43&oe=5C3B87AA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39263788_1042589022567340_4627434040004182016_n.jpg?_nc_cat=0&oh=a770c3243112bda093dd8f4c8d088244&oe=5C0D715C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39167144_1042589352567307_2457430542736424960_n.jpg?_nc_cat=0&oh=321969709de945168eae7f581da1641a&oe=5BF076A1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39179891_1042589355900640_5693533609651077120_n.jpg?_nc_cat=0&oh=8a7ef877b699ca496939710f69e24948&oe=5C03B6F1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39121288_1042589555900620_3969841763501211648_n.jpg?_nc_cat=0&oh=a978da0009ef2f6368e6493405d9cc9c&oe=5C09BA6F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37488395_1042589552567287_7176710547105120256_n.jpg?_nc_cat=0&oh=17772a133d09c0cb445179996a4002da&oe=5C3A374A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39186537_1042588409234068_3802968059119927296_n.jpg?_nc_cat=0&oh=ed19ff2e919107b952881eb9457f2120&oe=5C0E162E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39196726_1042588405900735_8464852177834213376_n.jpg?_nc_cat=0&oh=198a3f76c55ef4ca95de3c42783a3f44&oe=5BEFD734"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39161499_1042588385900737_8749064607785549824_n.jpg?_nc_cat=0&oh=040cc9be0deec5c2092cf08434fb2227&oe=5BF38BF8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39217583_1042588389234070_3729887811893985280_n.jpg?_nc_cat=0&oh=3ef1f6a60994350fb4e158e44e49b9c8&oe=5BFD3F4F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39100401_1042588792567363_2538706008469929984_n.jpg?_nc_cat=0&oh=08c7546d6fdddea3a18051349353bc37&oe=5C0FDBFC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37150225_1042588795900696_8352050032945397760_n.jpg?_nc_cat=0&oh=edf81099d6fa8f20e97a0c6986edef34&oe=5C3AEEA3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39179889_1042588579234051_1863316560018407424_n.jpg?_nc_cat=0&oh=c0a70384226787c86b76b08c97107b9a&oe=5C0DF5A5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39223220_1042588582567384_1545235546979172352_n.jpg?_nc_cat=0&oh=94929c305d6a341084a921b297edb72a&oe=5BEDCCA7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39205253_1042588602567382_4049960766340595712_n.jpg?_nc_cat=0&oh=6cd8f21f8d5d5522a51711cd4f19d8ba&oe=5BF32116",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39186581_1042588599234049_1251242424227856384_n.jpg?_nc_cat=0&oh=a9e5107ec3f713a451945cdb6c814594&oe=5BF25451"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39219829_1042588835900692_1364870431198150656_n.jpg?_nc_cat=0&oh=37e6fbbc258f80ff4b6cfafcef9acd83&oe=5C0C0B81",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39217439_1042588839234025_2998599647552864256_n.jpg?_nc_cat=0&oh=3bb1ddba27b867bcd1015b382ea5cb35&oe=5BF28EE0"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39221273_1042588782567364_7614023640442470400_n.jpg?_nc_cat=0&oh=a3bd2cdb299c0d76a345b662a56b15bb&oe=5C0DD6AA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39200816_1042588785900697_6632564583275954176_n.jpg?_nc_cat=0&oh=c810a3de801b8f59b33d79a73351f9c3&oe=5C051E75"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39193558_1042588609234048_1772447833857720320_n.jpg?_nc_cat=0&oh=6fdeb772fb307686c1503be58637a320&oe=5C092E73",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39169676_1042588612567381_2779952586319462400_n.jpg?_nc_cat=0&oh=d695a64edfc33527b684f2417d789479&oe=5C00CD28"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39217590_1042588939234015_8116852779093327872_n.jpg?_nc_cat=0&oh=78158b6459fab219b0a4f7ca5eba3b70&oe=5BF127F6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39101849_1042588935900682_7163965996158418944_n.jpg?_nc_cat=0&oh=60e3d5fbb72c11c5bfa5e31e45e81713&oe=5C39DACE"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39206350_1042588985900677_1559606279918321664_n.jpg?_nc_cat=0&oh=eff3d52cfd6e308a3ab2274f8cf32c93&oe=5BF17577",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39162723_1042588989234010_695600971841011712_n.jpg?_nc_cat=0&oh=912dbcf74d9a72277a6553400e693823&oe=5BEDB073"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37511929_1042589059234003_4350957572002414592_n.jpg?_nc_cat=0&oh=d393af8de02a593474f05b6b0a3f8be1&oe=5BFCFEFF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39253431_1042589055900670_8090161082062077952_n.jpg?_nc_cat=0&oh=a4721270f48df8187b1d181c0ac2cd87&oe=5C015E64"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39285741_1042589102567332_3866784611644211200_n.jpg?_nc_cat=0&oh=458fbfed8acf3ded46cd1388bc9ce891&oe=5C0ED840",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39203104_1042589099233999_4096944349894410240_n.jpg?_nc_cat=0&oh=dd3ed021ac314d916268c87f4b62d62a&oe=5C107766"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39142098_1042589145900661_5441605065884303360_n.jpg?_nc_cat=0&oh=7516a2ce639d1e4b2b6d23b349f8dc20&oe=5BF25E2F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39284417_1042589142567328_2875803977054683136_n.jpg?_nc_cat=0&oh=8bc0ee32c307dc4694cbc6943f936c05&oe=5BF5E0EB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39146100_1042589215900654_3559453837322354688_n.jpg?_nc_cat=0&oh=b7f802c48c2db4b85e919cc629d38665&oe=5C39F659",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39195282_1042589219233987_3114175585400651776_n.jpg?_nc_cat=0&oh=278eed158dce48b3d6ba9e05cc80640b&oe=5BF39208"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39134900_1042589189233990_4296043868207448064_n.jpg?_nc_cat=0&oh=b44173675d4894ededd85c8378931533&oe=5C0A482A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39121903_1042589192567323_5057499633727569920_n.jpg?_nc_cat=0&oh=051e654ab78ba7f59882ac2e737b7cb3&oe=5C0314A5"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245786_1042589279233981_6519889973146025984_n.jpg?_nc_cat=0&oh=7a5d1f86893f2ea7252dc522ffa4f77e&oe=5C0C4A7B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39146120_1042589282567314_567173980742483968_n.jpg?_nc_cat=0&oh=bd3c898e46f914e39683fb70d16358d4&oe=5C10EBC6"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39310555_1042589392567303_2025277285669535744_n.jpg?_nc_cat=0&oh=b016d2f0f92704325a6d518ea01c291c&oe=5C07DEDF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39136579_1042589389233970_4717241561350406144_n.jpg?_nc_cat=0&oh=13174079e696f5481dfd95a053b0a692&oe=5BF762F3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39254976_1042589435900632_996061679684943872_n.jpg?_nc_cat=0&oh=1b6f2fa7a6e1b6a6a39d9c5273e461e1&oe=5BEE0068",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39105813_1042589439233965_7563291821749567488_n.jpg?_nc_cat=0&oh=7e082a6e2a48389aacbd71cdade5cbe0&oe=5BFA0CEA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39320561_1042589462567296_5395729240295473152_n.jpg?_nc_cat=0&oh=05b54f1f823c34ffd441011615a77161&oe=5BFA7E21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39164336_1042589459233963_2105775199113707520_n.jpg?_nc_cat=0&oh=57c4ccf9b35bad77e0660175aaa89f67&oe=5C075869"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39142038_1042589492567293_8130653776030728192_n.jpg?_nc_cat=0&oh=0b3c208ef91b00f0fa3ab6bee432bde9&oe=5C0FE48E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39220757_1042589495900626_7695170416070885376_n.jpg?_nc_cat=0&oh=24ad848358bf59d0bb84f7cec58bbf36&oe=5C3B7E2C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39213573_1042589582567284_7817275215309701120_n.jpg?_nc_cat=0&oh=562c13d953ae89957f9feb668eb11531&oe=5BFBF4E4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39245722_1042589585900617_6670954199263477760_n.jpg?_nc_cat=0&oh=3bc80a722e1831777450886bca0d1cb5&oe=5BF67872"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 891508834342027,
+                    "page_is_deleted": false,
+                    "page_like_count": 5602,
+                    "page_name": "Comandante Helbingen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39283813_452754181892679_2606106827166842880_n.jpg?_nc_cat=0&oh=0382be7147b04dfabde8bb776dd07e64&oe=5BFDC4FD",
+                    "page_profile_uri": "https://www.facebook.com/comandantehelbingen/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "694578927558579",
+                "adid": "23842910418370210",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "891508834342027",
+                "pageName": "Comandante Helbingen",
+                "snapshot": {
+                    "ad_creative_id": "23842910415470210",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que dia festivo! Passei o dia de ontem, 14, junto com a comitiva do nosso futuro governador <a href=\"https://www.facebook.com/ronaldocaiado25/\" data-hovercard=\"/ajax/hovercard/page.php?id=398434416879875&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Ronaldo Caiado</a>, <a href=\"https://www.facebook.com/lincolntejotaoficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=1656122114600546&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Deputado Lincoln Tejota</a> e o <a href=\"https://www.facebook.com/wildermorais/\" data-hovercard=\"/ajax/hovercard/page.php?id=452935231455081&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Senador Wilder Morais</a> conversando com os romeiros da Festa do Muqu\u00e9m. Uma gente que carrega consigo hist\u00f3rias de f\u00e9 que emocionam e que nos motiva a trabalhar firme por um Goi\u00e1s melhor. <br /> <br /> #comandantehelbingen #unidosparamudargoias #goias #festadomuquem #romaria"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "29179661149",
+                    "byline": "Carlos Helbingen J\u00fanrior",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534507908,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Comandante Helbingen",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39243114_1042588395900736_8488106921776119808_n.jpg?_nc_cat=0&oh=69fc8c4aba53f2a1a35b4e63a695e9c9&oe=5C0E62AB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39136618_1042588399234069_3069424448537886720_n.jpg?_nc_cat=0&oh=c633e58439b664564f11648da49c5ce3&oe=5C0D6CA3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39200710_1042589019234007_5185921844527497216_n.jpg?_nc_cat=0&oh=3d80e0f29f309278a9f7db33875e1a43&oe=5C3B87AA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39263788_1042589022567340_4627434040004182016_n.jpg?_nc_cat=0&oh=a770c3243112bda093dd8f4c8d088244&oe=5C0D715C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39167144_1042589352567307_2457430542736424960_n.jpg?_nc_cat=0&oh=321969709de945168eae7f581da1641a&oe=5BF076A1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39179891_1042589355900640_5693533609651077120_n.jpg?_nc_cat=0&oh=8a7ef877b699ca496939710f69e24948&oe=5C03B6F1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39121288_1042589555900620_3969841763501211648_n.jpg?_nc_cat=0&oh=a978da0009ef2f6368e6493405d9cc9c&oe=5C09BA6F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37488395_1042589552567287_7176710547105120256_n.jpg?_nc_cat=0&oh=17772a133d09c0cb445179996a4002da&oe=5C3A374A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39186537_1042588409234068_3802968059119927296_n.jpg?_nc_cat=0&oh=ed19ff2e919107b952881eb9457f2120&oe=5C0E162E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39196726_1042588405900735_8464852177834213376_n.jpg?_nc_cat=0&oh=198a3f76c55ef4ca95de3c42783a3f44&oe=5BEFD734"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39161499_1042588385900737_8749064607785549824_n.jpg?_nc_cat=0&oh=040cc9be0deec5c2092cf08434fb2227&oe=5BF38BF8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39217583_1042588389234070_3729887811893985280_n.jpg?_nc_cat=0&oh=3ef1f6a60994350fb4e158e44e49b9c8&oe=5BFD3F4F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39100401_1042588792567363_2538706008469929984_n.jpg?_nc_cat=0&oh=08c7546d6fdddea3a18051349353bc37&oe=5C0FDBFC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37150225_1042588795900696_8352050032945397760_n.jpg?_nc_cat=0&oh=edf81099d6fa8f20e97a0c6986edef34&oe=5C3AEEA3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39179889_1042588579234051_1863316560018407424_n.jpg?_nc_cat=0&oh=c0a70384226787c86b76b08c97107b9a&oe=5C0DF5A5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39223220_1042588582567384_1545235546979172352_n.jpg?_nc_cat=0&oh=94929c305d6a341084a921b297edb72a&oe=5BEDCCA7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39205253_1042588602567382_4049960766340595712_n.jpg?_nc_cat=0&oh=6cd8f21f8d5d5522a51711cd4f19d8ba&oe=5BF32116",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39186581_1042588599234049_1251242424227856384_n.jpg?_nc_cat=0&oh=a9e5107ec3f713a451945cdb6c814594&oe=5BF25451"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39219829_1042588835900692_1364870431198150656_n.jpg?_nc_cat=0&oh=37e6fbbc258f80ff4b6cfafcef9acd83&oe=5C0C0B81",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39217439_1042588839234025_2998599647552864256_n.jpg?_nc_cat=0&oh=3bb1ddba27b867bcd1015b382ea5cb35&oe=5BF28EE0"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39221273_1042588782567364_7614023640442470400_n.jpg?_nc_cat=0&oh=a3bd2cdb299c0d76a345b662a56b15bb&oe=5C0DD6AA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39200816_1042588785900697_6632564583275954176_n.jpg?_nc_cat=0&oh=c810a3de801b8f59b33d79a73351f9c3&oe=5C051E75"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39193558_1042588609234048_1772447833857720320_n.jpg?_nc_cat=0&oh=6fdeb772fb307686c1503be58637a320&oe=5C092E73",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39169676_1042588612567381_2779952586319462400_n.jpg?_nc_cat=0&oh=d695a64edfc33527b684f2417d789479&oe=5C00CD28"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39217590_1042588939234015_8116852779093327872_n.jpg?_nc_cat=0&oh=78158b6459fab219b0a4f7ca5eba3b70&oe=5BF127F6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39101849_1042588935900682_7163965996158418944_n.jpg?_nc_cat=0&oh=60e3d5fbb72c11c5bfa5e31e45e81713&oe=5C39DACE"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39206350_1042588985900677_1559606279918321664_n.jpg?_nc_cat=0&oh=eff3d52cfd6e308a3ab2274f8cf32c93&oe=5BF17577",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39162723_1042588989234010_695600971841011712_n.jpg?_nc_cat=0&oh=912dbcf74d9a72277a6553400e693823&oe=5BEDB073"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/37511929_1042589059234003_4350957572002414592_n.jpg?_nc_cat=0&oh=d393af8de02a593474f05b6b0a3f8be1&oe=5BFCFEFF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39253431_1042589055900670_8090161082062077952_n.jpg?_nc_cat=0&oh=a4721270f48df8187b1d181c0ac2cd87&oe=5C015E64"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39285741_1042589102567332_3866784611644211200_n.jpg?_nc_cat=0&oh=458fbfed8acf3ded46cd1388bc9ce891&oe=5C0ED840",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39203104_1042589099233999_4096944349894410240_n.jpg?_nc_cat=0&oh=dd3ed021ac314d916268c87f4b62d62a&oe=5C107766"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39142098_1042589145900661_5441605065884303360_n.jpg?_nc_cat=0&oh=7516a2ce639d1e4b2b6d23b349f8dc20&oe=5BF25E2F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39284417_1042589142567328_2875803977054683136_n.jpg?_nc_cat=0&oh=8bc0ee32c307dc4694cbc6943f936c05&oe=5BF5E0EB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39146100_1042589215900654_3559453837322354688_n.jpg?_nc_cat=0&oh=b7f802c48c2db4b85e919cc629d38665&oe=5C39F659",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39195282_1042589219233987_3114175585400651776_n.jpg?_nc_cat=0&oh=278eed158dce48b3d6ba9e05cc80640b&oe=5BF39208"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39134900_1042589189233990_4296043868207448064_n.jpg?_nc_cat=0&oh=b44173675d4894ededd85c8378931533&oe=5C0A482A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39121903_1042589192567323_5057499633727569920_n.jpg?_nc_cat=0&oh=051e654ab78ba7f59882ac2e737b7cb3&oe=5C0314A5"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39245786_1042589279233981_6519889973146025984_n.jpg?_nc_cat=0&oh=7a5d1f86893f2ea7252dc522ffa4f77e&oe=5C0C4A7B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39146120_1042589282567314_567173980742483968_n.jpg?_nc_cat=0&oh=bd3c898e46f914e39683fb70d16358d4&oe=5C10EBC6"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39310555_1042589392567303_2025277285669535744_n.jpg?_nc_cat=0&oh=b016d2f0f92704325a6d518ea01c291c&oe=5C07DEDF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39136579_1042589389233970_4717241561350406144_n.jpg?_nc_cat=0&oh=13174079e696f5481dfd95a053b0a692&oe=5BF762F3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39254976_1042589435900632_996061679684943872_n.jpg?_nc_cat=0&oh=1b6f2fa7a6e1b6a6a39d9c5273e461e1&oe=5BEE0068",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39105813_1042589439233965_7563291821749567488_n.jpg?_nc_cat=0&oh=7e082a6e2a48389aacbd71cdade5cbe0&oe=5BFA0CEA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39320561_1042589462567296_5395729240295473152_n.jpg?_nc_cat=0&oh=05b54f1f823c34ffd441011615a77161&oe=5BFA7E21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39164336_1042589459233963_2105775199113707520_n.jpg?_nc_cat=0&oh=57c4ccf9b35bad77e0660175aaa89f67&oe=5C075869"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39142038_1042589492567293_8130653776030728192_n.jpg?_nc_cat=0&oh=0b3c208ef91b00f0fa3ab6bee432bde9&oe=5C0FE48E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39220757_1042589495900626_7695170416070885376_n.jpg?_nc_cat=0&oh=24ad848358bf59d0bb84f7cec58bbf36&oe=5C3B7E2C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39213573_1042589582567284_7817275215309701120_n.jpg?_nc_cat=0&oh=562c13d953ae89957f9feb668eb11531&oe=5BFBF4E4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39245722_1042589585900617_6670954199263477760_n.jpg?_nc_cat=0&oh=3bc80a722e1831777450886bca0d1cb5&oe=5BF67872"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 891508834342027,
+                    "page_is_deleted": false,
+                    "page_like_count": 5602,
+                    "page_name": "Comandante Helbingen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39283813_452754181892679_2606106827166842880_n.jpg?_nc_cat=0&oh=0382be7147b04dfabde8bb776dd07e64&oe=5BFDC4FD",
+                    "page_profile_uri": "https://www.facebook.com/comandantehelbingen/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "239152076939839",
+                "adid": "6099411241977",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "154745847946903",
+                "pageName": "Jornal da Chapada",
+                "snapshot": {
+                    "ad_creative_id": 6099411241777,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Chapada: Exames oftalmol\u00f3gicos s\u00e3o oferecidos gratuitamente para a popula\u00e7\u00e3o de Itaet\u00ea"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "82237590559",
+                    "byline": "Jornal da Chapada",
+                    "caption": "jornaldachapada.com.br",
+                    "cards": [],
+                    "creation_time": 1534548591,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Jornal da Chapada",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285699_239152140273166_2303944491934941184_n.jpg?_nc_cat=0&oh=b36b83fd325e8993fff613f7fb0b8279&oe=5BF83CF6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39471362_239152143606499_3414673702409732096_n.jpg?_nc_cat=0&oh=f6cd8ac496492024e6c88184e0eb2f10&oe=5C3A7B63"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "A popula\u00e7\u00e3o de Itaet\u00ea, munic\u00edpio da Chapada Diamantina, ganhou mais um benef\u00edcio nesta quinta-feira (16). A Secretaria Municipal de Sa\u00fade, em parceria com o programa \u2018Vis\u00e3o sem Fronteiras&#82\u2026",
+                    "link_url": "https://jornaldachapada.com.br/2018/08/16/chapada-exames-oftalmologicos-sao-oferecidos-gratuitamente-para-a-populacao-de-itaete/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 154745847946903,
+                    "page_is_deleted": false,
+                    "page_like_count": 53150,
+                    "page_name": "Jornal da Chapada",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39300759_239152113606502_4388272376719081472_n.jpg?_nc_cat=0&oh=479130791a777aefd08f6f4658e9f109&oe=5C065ABD",
+                    "page_profile_uri": "https://www.facebook.com/JornaldaChapada/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chapada: Exames oftalmol\u00f3gicos s\u00e3o oferecidos gratuitamente para a popula\u00e7\u00e3o de Itaet\u00ea",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "673475369689308",
+                "adid": "6094745125799",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1069477603133660",
+                "pageName": "Maria Giovana Fortunato",
+                "snapshot": {
+                    "ad_creative_id": 6094740309399,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#MariaComenta<br /> \ud83d\udc49 Voc\u00ea acha que a sa\u00fade da sua cidade est\u00e1 um caos?<br /> Este v\u00eddeo mostra o que queremos fazer como Deputada Federal: fiscalizar a sa\u00fade p\u00fablica!<br /> Agora \u00e9 oficial. Agora \u00e9 Maria Giovana, \ud835\udff2\ud835\udff1\ud835\udfed\ud835\udff5.<br /> <br /> \ud83d\udc47\ud83c\udffc<br /> Assista esse v\u00eddeo e entenda o trabalho que fizemos de investiga\u00e7\u00e3o da corrup\u00e7\u00e3o na sa\u00fade p\u00fablica de Americana!<br /> Apresentamos fatos: ind\u00edcios de plant\u00f5es fantasma, roubo em licita\u00e7\u00f5es e muitas outras falcatruas.<br /> O povo est\u00e1 cansado e a sa\u00fade est\u00e1 na UTI.<br /> Se voc\u00ea quer mais Sa\u00fade em Americana e Regi\u00e3o, compartilhe este v\u00eddeo e vote Maria Giovana Deputada Federal 6519.<br /> #CoragemPraMudar #PelaSaudePublica #OSUS\u00e9Poss\u00edvel #Agora\u00c9Maria #MariaGiovana<br /> #MeiaCincoDezenove #CoragemPraMudar #PelaSa\u00fadeP\u00fablica #OSUS\u00e9Poss\u00edvel #Agora\u00c9Maria #MariaGiovana"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31235282000130",
+                    "byline": "ELEICAO 2018 MARIA GIOVANA LUCHIARI PISONI DUARTE FORTUNATO DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534504131,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Maria Giovana Fortunato",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 1069477603133660,
+                    "page_is_deleted": false,
+                    "page_like_count": 215355,
+                    "page_name": "Maria Giovana Fortunato",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39329092_2142747249328300_8187423992324292608_n.jpg?_nc_cat=0&oh=b32dff6962a7b251aa38a687c4d70b94&oe=5BF0BCD6",
+                    "page_profile_uri": "https://www.facebook.com/mariagiovanafortunato/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Maria Giovana - 6519 - Dep.Federal - Fiscaliza\u00e7\u00e3o da Sa\u00fade P\u00fablica",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1087482861399687_4504924053550661632_n.mp4?_nc_cat=0&oh=88bbc66bb08c85a1c75c471b3d63e047&oe=5B78E0B6",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39244230_2142747252661633_3009864470596943872_n.jpg?_nc_cat=0&oh=f673d571835650a89a7cb03cde66cfb5&oe=5C1028AF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39135797_269461827113949_5734234983195738112_n.mp4?_nc_cat=0&oh=c1fd7c38aeb934032bac62e96f2bc421&oe=5B78F93C"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1946022298753819",
+                "adid": "6094740551799",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1069477603133660",
+                "pageName": "Maria Giovana Fortunato",
+                "snapshot": {
+                    "ad_creative_id": 6094740551599,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udc49 Um pouco da nossa candidatura \u00e0 Deputada Federal \ud83d\udcaa<br /> #meiacincodezenove #CoragemParaMudar"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31235282000130",
+                    "byline": "ELEICAO 2018 MARIA GIOVANA LUCHIARI PISONI DUARTE FORTUNATO DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534510045,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Maria Giovana Fortunato",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 1069477603133660,
+                    "page_is_deleted": false,
+                    "page_like_count": 215355,
+                    "page_name": "Maria Giovana Fortunato",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349892_1946022328753816_2999749990118588416_n.jpg?_nc_cat=0&oh=c0dfd63b996243bc110ea1bd343723c2&oe=5BFE59BC",
+                    "page_profile_uri": "https://www.facebook.com/mariagiovanafortunato/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39396114_1946022332087149_8689844877153796096_n.jpg?_nc_cat=0&oh=948c61919bb30b08ace543b70849e02a&oe=5C007A48",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_256619138493807_2599231460699275264_n.mp4?_nc_cat=0&oh=e7a3c501c600883c59a84829757e0f18&oe=5B78DFD5"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 341,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

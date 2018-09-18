@@ -1,0 +1,2156 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQEwq40waMHd:AQHGy1ohGKKu",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591218308083826509",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "Gfb2BJSugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp38PGXkKG6sQOSkoGRteBq/KGmh5rMjAGw88ayldOKA5qr7O6llJQBvtfY4br6lQbO3snV5Oy5AcCYpM7Hp8ADmtDD2sKaeozn9bfR3G2cxuisrdKUAfC8hIT45tMB4OWivPStZM6imqjeqJEB7PqsmrXE3QGKkqDY56vBArS0uq7U2sECmLXBg4fzwQaAuOzVmJvFBqrHjbTDsaQH9u6hmt72zAeohOLWu51/+Nm25rm9kQGY16OEv4DVAazrzJ6bsWX4y/fYsZP2BubWnMf4ycECgpXwluygyAOW56XAy4jyA+LZ7oy83+oHioaAmZWl8gesp76Y17ZrlPO9jrbNZc7Ky5et0rsB+P7G8PKh5QGI+7TnoP/5BvqsoqTk1YMB1s6B4r3watjejsuZ2Wf4mbmdguzvBq62zr/As9YBuMHUg6u86AHkj7Htt6CXBbLhnNvv57IGttSRg7HoTaSY9ZDFr37ClYKZ7MmCAbS9hN3i5+cB1LHwucT9qgLsk6P62Py1BuLO/Mq0yuYHttqVw+fO6AeS7aOyrpNzlLnjgev5dfaU/Kr6/NQBtrfE8a209gHu/eXZi9LuA7KMh86oy/8D/KXRqtOElgTY95nKsOXiBo69lKLx3MAH1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgK27Lz9s/n0BorrqLGRrKwC2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAHWxuLb3LCHAaTzh/vFoZkH6q6NzpHDqALqwZfr95hxyLqIjKSKwAHI25eCmZVtjo7kupSlrQaE/faCx7i9Arydu4rBg9EHutCDiY3JcIKD6vTbuJAItPbWwqHE1wfgltGNzOGvAdLcnKawinLy+vi/xPDyAdym1qmw3ZgGzKbrkfv+ccLex9Sb3rwDlOmCjNTwsgfYsaPO+unYAZDP5+rX+tcB8N+Aq9z3c5CE5Z65/nvSh9f5m6XWAZj07Zuyn8MB/K3S4c/2+QbSgLaJ76NhhPvP9OvswQHoqaq/3te4B76l/MbgjFvo1sf+qudj2qCO/72jxAHKrIu9gd7aAeikq5fYgY8Giuj/tvLywAfKlsLUzaTfAcqPsbfDq6kGmqH4/tbIkQP644WdyeXYBpitsNWwolyO4tLMpPNehNyl9emK5QG2/YyN+M16nIOQjI3u1gHM9/XbzcvMAfix956cmOoFuqWGj83KzwGe+p7N0rbAAY6O5dSTz8cDsOu186aE7Qes0uOe96ybAYqtlaya0qUCyqHd/5acxQf+r5+a2reeBu7Ry6X39X7A6oPUo5XBA8a5/I/I1doBxuj52YDG4weK1MG2vLRhnqmRuOGg7QeWvcXytKO0AaiW8/Kz1NwG5NSC/cW0VKr5nNvas7EB4tzCrOLaswHqmPe+6O68AZ6wz5O5p8QBvvqDwLqVU+yz0aPbk1TggdqGl9trqMG2sev/tQa+1MGBu+FxtvLWgNP62AaokPvKk/hNnvPnxYmpgQfiusHx6cDUAcrChJvNh4EBqK3jr7TerwL+xJDgsLm7BqbIlqmb0Ez8i8+2tplWouXzw9qvWbzugrj/51zEp/bctP1e1peayLKZYsiC3uzBv2KY2dXMwchsmrbTyNjLdIi56pHSo3mQ0OHG58qXAb6r6erR7aoB7vemq8HduQHEz8mljdK9AYLC/8OLi9kBqKX02smIpALalf7O3dTFBIz764Cvmo0GgujXpZKWggfy5YnR4uKaB4aL5dusmJwHjumdr4+vrAesqN+HuLK7B/S5jLvFmsYH7PqY48O4yAfYjdiG9I+VAvC039O40cIHjM2plam0bIzLmY794pcHmNDZ08rBWL6E8taAp6wB9t2V0rqwuQfsj+2+hvZQ2s3Ssoz7twG4+vPuhL6nBO6wk6mLmZMBwsiI1JK1mAKM4qjwovpUmsKq5ori1QH+jIyOl9nwB963trTR5PkGjqbX8tSmqgPU2oTVx8WeAprU4dP08FCGmNKgo5dTlumS4/aYtgfi6pfe1+9a7vLZrKONfd7hjafAx8oBose59PWredKKkI+B2agG7LL/q8DyrAay/sHfhs3YCIrvmP/YuHaS6M7q2ebeBIaJoND78YUB+uvvgNaFiQamhLykxYurAqjsjLqd958DsraV2MWg4AeE7NS084jzAZDuw/+1gI8HivWC99Oc/gWUlKeorNN2pt/y4aX5e6S/qpLewa8CjO7EoNPa/gKCjvj1xZz/BfqtvcbJ++AHuuu71tnirAfe7YecpI1OoMnb5tKu6geOsOzWwOnRAbL0977cxKgGxq7Z0c+RvwG6/NWbqKylAsDw67rj5a8H8pu5rbuEULDMl/LXtq4HwsqA2PrAP8q7zc3z26wGoobNkpqmc4ya6JfWsVq69qrm7tJ2gtLluPfDUPzlpebL0foCmNvk2/KwlgLIpvnc75VOloHGzMifxAfo79W87+PdAeii7Ybe5nek/6uR16jNBvaKmfW7zs8H2LWRsIifYvi7q+LAsawH4Ly54MrWjQLI8bv85qWAAY6/qq6qwYwB+J6tkNnsyQHw7Pig8NlU+PXms7+5f76GuY26upkI+o7wu9DfW+6YgsvblIcG7NndocGuywbQudHF7uxmhJnLsNKphgHWxsOP6u/UBoST9Kb1ofIHuv/braX9rwiSnZL+qN+EAa66l/rKqP4H3se6roOqsQfGyu6y5oBihrSy+K617QGc5pGbtYFswrSwy5ybsQKO1uzRi8hOtP2E6IPWggbmjfWPkIxn5MPa5PLmxAf+h4yU+rFQiL+b8/nCtwKS/NC956HMA8rApM+E/bsD1tzw19mC3QLKmu2Tx9+1AeCnparqunWCjfzGt9q1AfKbvYn00WzcgPTagYJn0pbjgLX0rAHogcbD5KHPB9Lx+6Td3Wneye2fkdWuApKykf2wrnOg4Mb2l6vhB5js683Z8KIE2NvB1PG2bprov+CLuZMH9pbc5LDRXeCu+KCcvMIG3rO1rIn3aJK8uJC+nFfw8tqh4PDeBfTS/K3ejt4Hsu/8oIjIygee/9+msuFquuD83e/24wHCgqbK5tjDB6qqrZ+D2aMBirjCyvy6YO740tGLuG/0ua3Swqpn7v/fjYWQvgOEqbragKGYAtrj1+3iodEB9uO85fqXcNDMn8/MgWHsiO27+4Zd5Lqd6eqnygcZ9RU8eLQB8AGsAugCpAPgA5wE2ASUBdAFjAbIBoQHwAf8B7gI9AiwCewJAA==",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "380231979132329",
+                "adid": "6108189102601",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "99317174788",
+                "pageName": "HebreosNet",
+                "snapshot": {
+                    "ad_creative_id": 6108189100401,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u201cAtacamos dos veces en el Medio Oriente con el F-35, somos los primeros en el mundo en hacerlo\u201d.<br /> <br /> Fue durante el golpe acestado el 10/05 en respuesta a los cohetes disparados por iran\u00edes hacia puestos de las FDI en los Altos del Gol\u00e1n"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "hebreos.net",
+                    "cards": [],
+                    "creation_time": 1527413735,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "HebreosNet",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33742611_193380021291465_861940412355444736_n.jpg?_nc_cat=0&oh=3268ca8655724eba331516744c401bf4&oe=5BFC2084",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/33766789_193380017958132_3090413386777755648_n.jpg?_nc_cat=0&oh=718cf1ad4133fd4353eb31db979efef9&oe=5C047F3A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "May232018Israel utiliz\u00f3 por primera vez el avi\u00f3n militar m\u00e1s poderoso del mundo: F-35 Adir HebreosNet Noticia \u2022 Pol\u00edtica Israel sigue activo en Siria incluso despu\u00e9s del reciente golpe acestado el 10/05 en respuesta a los cohetes disparados por iran\u00edes hacia puestos de las FDI en los Altos d...",
+                    "link_url": "http://www.hebreos.net/israel-utilizo-por-primera-vez-el-avion-militar-mas-poderoso-del-mundo-f-35-adir/",
+                    "page_categories": {
+                        "2714": "Society Site"
+                    },
+                    "page_id": 99317174788,
+                    "page_is_deleted": false,
+                    "page_like_count": 28054,
+                    "page_name": "HebreosNet",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33750203_193380011291466_6252403971206414336_n.jpg?_nc_cat=0&oh=4a3d054ff5d9d201d4cb5c8c671e5891&oe=5C0B97B7",
+                    "page_profile_uri": "https://www.facebook.com/HebreosNet.MeGusta/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Israel utiliz\u00f3 por primera vez el avi\u00f3n militar m\u00e1s poderoso del mundo: F-35 Adir | HebreosNet",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527058800
+            },
+            {
+                "adArchiveID": "2144628102447220",
+                "adid": "6089655357091",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527231600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "330369533496",
+                "pageName": "Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7",
+                "snapshot": {
+                    "ad_creative_id": 6089655351491,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "<a href=\"https://www.facebook.com/justice.gov.il/\" data-hovercard=\"/ajax/hovercard/page.php?id=502039876516834&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd</a> \u05de\u05d0\u05de\u05e5 \u05d0\u05ea \u05d4\u05de\u05ea\u05d5\u05d5\u05d4 \u05d0\u05d5\u05ea\u05d5 \u05d4\u05e6\u05d9\u05e2 <a href=\"https://www.facebook.com/jijerusalem/\" data-hovercard=\"/ajax/hovercard/page.php?id=330369533496&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7</a> \u05d5\u05e7\u05d5\u05d1\u05e2 \u05d1\u05e6\u05e2\u05d3 \u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9 - \u05d4\u05d8\u05dc\u05ea \u05e7\u05e0\u05e1\u05d5\u05ea \u05de\u05e0\u05d4\u05dc\u05d9\u05d9\u05dd \u05e2\u05dc \u05e6\u05e8\u05db\u05e0\u05d9 \u05d4\u05d6\u05e0\u05d5\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. <br /> \u05d1\u05d4\u05d5\u05d3\u05e2\u05ea\u05d4 \u05d4\u05e2\u05e8\u05d1 \u05de\u05d3\u05d2\u05d9\u05e9\u05d4 \u05e9\u05e8\u05ea \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd, <a href=\"https://www.facebook.com/ayelet.benshaul.shaked/\" data-hovercard=\"/ajax/hovercard/page.php?id=237683826350051&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">\u05d0\u05d9\u05d9\u05dc\u05ea \u05e9\u05e7\u05d3</a>, \u05db\u05d9 \u05d4\u05d7\u05d5\u05e7 \u05de\u05d4\u05d5\u05d5\u05d4 \u05d1\u05e8\u05d0\u05e9 \u05d5\u05d1\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4 \u05d0\u05de\u05d9\u05e8\u05d4 \u05e2\u05e8\u05db\u05d9\u05ea \u05dc\u05d3\u05d5\u05e8 \u05d4\u05e6\u05e2\u05d9\u05e8 \u05d5\u05dc\u05d3\u05d5\u05e8 \u05d4\u05e0\u05d5\u05db\u05d7\u05d9."
+                        }
+                    },
+                    "body_translations": {
+                        "en_XX": "The Ministry of Justice has officially adopted the proposed plan by the Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7 to impose administrative #fines on the consumers of #prostitution in #Israel. This is a historic step indeed. \n\nDuring her address, Minister of Justice \u05d0\u05d9\u05d9\u05dc\u05ea \u05e9\u05e7\u05d3 (Ayelet Shaked) noted that the law is first and foremost a statement for both the current, and younger generation."
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528889526,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/33239198_10156308729163497_5785437324145852416_n.png?_nc_cat=0&oh=1d3d881bfca49f43c7e5f792f153b43c&oe=5C04B791",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/33186864_10156308729168497_1339834714642448384_n.png?_nc_cat=0&oh=a568e439ab4b0cfd77903b58a9ef1f10&oe=5BEF425A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 330369533496,
+                    "page_is_deleted": false,
+                    "page_like_count": 56557,
+                    "page_name": "Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35151799_2144628112447219_4984931999438340096_n.jpg?_nc_cat=0&oh=ee9f54dba087f85d3eee6ff4fe4b4256&oe=5C39B8CD",
+                    "page_profile_uri": "https://www.facebook.com/jijerusalem/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527058800
+            },
+            {
+                "adArchiveID": "232507690679401",
+                "adid": "23842850917380706",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "49134323939",
+                "pageName": "IRIN",
+                "snapshot": {
+                    "ad_creative_id": "23842850917270706",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Some 50,000 Venezuelans cross every day into Colombia in search of food, medical supplies, or a new life. They\u2019re not fleeing war; they\u2019re abandoning a failing state. As experts warn that President Nicol\u00e1s Maduro\u2019s election victory is likely to deepen the displacement crisis, IRIN contributor Magnus Boding Hansen travelled to the Colombian border to profile fleeing Venezuelans, with award-winning photographer Tom\u00e1s Ayuso."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.irinnews.org",
+                    "cards": [],
+                    "creation_time": 1529764648,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "IRIN",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Venezuelans crossing into Colombia aren\u2019t fleeing war; they\u2019re abandoning a failing state",
+                    "link_url": "https://www.irinnews.org/news-feature/2018/05/23/maduro-election-win-no-victory-hungry-venezuelans-0?utm_source=facebook&utm_medium=irinsocial&utm_campaign=irinupdates",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 49134323939,
+                    "page_is_deleted": false,
+                    "page_like_count": 39801,
+                    "page_name": "IRIN",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35882033_232507710679399_5034689831217659904_n.jpg?_nc_cat=0&oh=3695888fe21d38693a41242bed8147b4&oe=5BF34D75",
+                    "page_profile_uri": "https://www.facebook.com/IRINnews/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Maduro election win is no victory for hungry Venezuelans",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33366196_2243461195881320_8562235828217053184_n.mp4?_nc_cat=0&oh=4ad24695c5035c2a247d4b7f58079001&oe=5B78E0CE",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36059197_232507717346065_1758479878656622592_n.jpg?_nc_cat=0&oh=7599b4b657002ac55ff2033379d5d49c&oe=5BFAF45D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33049959_2112515355650076_4286117966858158080_n.mp4?_nc_cat=0&oh=085f65c49176f21562fcade9c9237c8b&oe=5B78DDB2"
+                        }
+                    ]
+                },
+                "startDate": 1527058800
+            },
+            {
+                "adArchiveID": "665567627162223",
+                "adid": "6088412659776",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527231600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1555933121379111",
+                "pageName": "Presidente CMSM - Meno Fernandes",
+                "snapshot": {
+                    "ad_creative_id": 6088412656376,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": ""
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534621497,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Presidente CMSM - Meno Fernandes",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/33183945_1547392588716780_6670946090365222912_n.jpg?_nc_cat=0&oh=0c0e5c8429b5b02abba56004f91190f3&oe=5C095AAB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/33100551_1547392592050113_4265712895062441984_n.jpg?_nc_cat=0&oh=a0fd4aeaed48fb09c6b43eb38ec16bca&oe=5C0BC233"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "AS PESSOAS EM PRIMEIRO LUGAR\n\nValorizar as pessoas e trabalhar para garantir o bem-estar e a qualidade de vida de toda a nossa popula\u00e7\u00e3o. Este \u00e9 o foco.",
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1555933121379111,
+                    "page_is_deleted": false,
+                    "page_like_count": 8403,
+                    "page_name": "Presidente CMSM - Meno Fernandes",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349867_665567663828886_2968453431016030208_n.jpg?_nc_cat=0&oh=f3f6a54cb645a5867dcfe1c43de14219&oe=5BFD292B",
+                    "page_profile_uri": "https://www.facebook.com/SaoMiguelPraFrente/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "2612": "Community"
+                            },
+                            "page_id": 233363080119744,
+                            "page_is_deleted": false,
+                            "page_like_count": 7764,
+                            "page_name": "C\u00e2mara Municipal de S\u00e3o Miguel",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39368890_665567667162219_1845764201205727232_n.jpg?_nc_cat=0&oh=c9828c55244dd74fe95232b8a20b42d2&oe=5BF9FD55",
+                            "page_profile_uri": "https://www.facebook.com/EmFrenteSaoMiguel/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "AS PESSOAS EM PRIMEIRO LUGAR<br /> <br /> Valorizar as pessoas e trabalhar para garantir o bem-estar e a qualidade de vida de toda a nossa popula\u00e7\u00e3o. Este \u00e9 o foco."
+                                }
+                            }
+                        }
+                    },
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527058800
+            },
+            {
+                "adArchiveID": "253684522036361",
+                "adid": "6093559462605",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527404400,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6093559456405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La canallada chavista ya no sabe que inventar para seguir criminalizandose en su ilegitimo, e inconstitucional gobierno genocida... <br /> <br /> Ahora le quieren quitar las casas a aquellos que se vieron forzados a dejar el pa\u00eds por la crisis econ\u00f3mica y humanitaria creada por estos ladrones y narco malandros que desahuciaron al pa\u00eds... <br /> <br /> Se creen que podr\u00e1n seguir haciendo de las suyas indefinidamente sin repercusi\u00f3n alguna y que Venezuela les pertenece solo a ellos, al igual que las posesiones de sus habitantes... <br /> <br /> Triste sera le destino que les espera y que probablemente algunos no tan idiotas se sospechan..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527264984,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33700998_253684535369693_7447104645631049728_n.jpg?_nc_cat=0&oh=05a4a326f1d562d3c62e9605e0475640&oe=5C066F68",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/33699651_253684538703026_1625372090464993280_n.jpg?_nc_cat=0&oh=71119bce7f8572395122fb40758d32d2&oe=5C1105E4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "\u00a1INS\u00d3LITO! Este ser\u00eda el modus operandi de los consejos comunales para apropiarse de las casas de quienes han emigrado\n\nM\u00e1s en: https://goo.gl/xBx5Ru",
+                    "link_url": "https://maduradas.com/insolito-este-seria-el-modus-operandi-de-los-consejos-comunales-para-apropiarse-de-las-casas-de-quienes-han-emigrado/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33625265_253684528703027_2223252922710360064_n.jpg?_nc_cat=0&oh=0d13910125a791a4c6842463e37e3df4&oe=5BF6F9A7",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "2233": "Media News Company"
+                            },
+                            "page_id": 106203846252122,
+                            "page_is_deleted": false,
+                            "page_like_count": 3182308,
+                            "page_name": "Maduradas",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33600004_253684532036360_4042602993441308672_n.jpg?_nc_cat=0&oh=df417e1830c4cbc1af9462d8dff8664e&oe=5C0EF6F0",
+                            "page_profile_uri": "https://www.facebook.com/MaduradasOficial/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "\u00a1INS\u00d3LITO! Este ser\u00eda el modus operandi de los consejos comunales para apropiarse de las casas de quienes han emigrado<br /> <br /> M\u00e1s en: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FxBx5Ru&amp;h=AT2Xg0A3qu5ogSAbKeNPwLREQwXpCI-FTT8CstNsTlqDlniPgNV7VqMeBbvKXDUfh9NsKhwG4dEfL-xgNS09l-PyLDg42y6hyOFfhMZE52WD1kUcyIQkskKvg74ctB5l8fslTzf6Tyw\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/xBx5Ru</a>"
+                                }
+                            }
+                        }
+                    },
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "2184372038457360",
+                "adid": "23842883555080326",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527058800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "218747811487830",
+                "pageName": "Revista TV Espa\u00f1ol",
+                "snapshot": {
+                    "ad_creative_id": "23842883554920326",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "EE.UU. califica como un &quot;insulto a la democracia&quot; los comicios venezolanos<br /> <br /> #EEUU #USA #Califica #Insulto #Democracia #InsultoALaDemocracia #ComicioVenezolanos #MikePompeo #NicolasMaduro #Venezuela #Elections"
+                        }
+                    },
+                    "body_translations": {
+                        "en_XX": "USA calls Venezuelen presidential elections an \"insult to democracy\"\n\n#EEUU #USA #Califica #Insulto #Democracia #InsultoALaDemocracia #ComicioVenezolanos #MikePompeo #NicolasMaduro #Venezuela #Elections"
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "tvespanol.net",
+                    "cards": [],
+                    "creation_time": 1529176539,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Revista TV Espa\u00f1ol",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35382761_2184372071790690_1176196314635960320_n.jpg?_nc_cat=0&oh=644fb7a0a721986c51fb8d19966e1798&oe=5BF2D11B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35478281_2184372068457357_2110394694138593280_n.jpg?_nc_cat=0&oh=3bd0ba051ea6a5d0847b56c6c2fc2fd5&oe=5BFB7CFC"
+                        }
+                    ],
+                    "instagram_actor_name": "Tv Espa\u00f1ol",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35404326_2184372061790691_7019561816913084416_n.jpg?_nc_cat=0&oh=2772fa93e195319e850e859c76a75447&oe=5BF7B28E",
+                    "is_reshared": false,
+                    "link_description": "EE.UU. califica como un \"insulto a la democracia\" los comicios venezolanos El secretario de Estado de EE.UU., Mike Pompeo.&nbsp; &nbsp;La misi\u00f3n de Estados Unidos ante la ONU calific\u00f3 como un \"insulto a la demo",
+                    "link_url": "https://tvespanol.net/noticias-de-hoy/2018/5/21/eeuu-califica-como-un-insulto-a-la-democracia-los-comicios-venezolanos",
+                    "page_categories": {
+                        "164886566892249": "Advertising Agency"
+                    },
+                    "page_id": 218747811487830,
+                    "page_is_deleted": false,
+                    "page_like_count": 2355,
+                    "page_name": "Revista TV Espa\u00f1ol",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35406108_2184372065124024_5249817647788326912_n.jpg?_nc_cat=0&oh=70a210b585dec712972a791038538a2f&oe=5BF46115",
+                    "page_profile_uri": "https://www.facebook.com/tvespanolmagazine/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EE.UU. califica como un \"insulto a la democracia\" los comicios venezolanos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "1202602869881612",
+                "adid": "6088985183990",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152879306925",
+                "pageName": "Middle East Monitor",
+                "snapshot": {
+                    "ad_creative_id": 6088985181990,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "According to intelligence sources who spoke on the condition anonymity due to restrictions on speaking to the media, there were reports that a group of Turkish citizens were planning an assassination attempt on <a href=\"https://www.facebook.com/RecepTayyipErdogan/\" data-hovercard=\"/ajax/hovercard/page.php?id=344704883576&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Recep Tayyip Erdo\u011fan</a> in Bosnia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "middleeastmonitor.com",
+                    "cards": [],
+                    "creation_time": 1529492010,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Middle East Monitor",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35749688_1202602889881610_4169743096373837824_n.jpg?_nc_cat=0&oh=2a1fbd2e8032ab64599c56986a628216&oe=5BF84425",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35784875_1202602886548277_887038929922949120_n.jpg?_nc_cat=0&oh=10a094b3e62bb852cfb97ee3f9a4bce0&oe=5C0C6D18"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "According to intelligence sources who spoke on the condition anonymity due to restrictions on speaking to the media, there were reports that a group of Turkish citizens were planning an assassination ...",
+                    "link_url": "https://www.middleeastmonitor.com/20180520-erdogan-assassination-plot-foiled-ahead-of-bosnia-visit/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 152879306925,
+                    "page_is_deleted": false,
+                    "page_like_count": 1138954,
+                    "page_name": "Middle East Monitor",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35604514_1202602879881611_5483305573376065536_n.jpg?_nc_cat=0&oh=f8627b707ad9f7732a0138d37b34141a&oe=5C0912A7",
+                    "page_profile_uri": "https://www.facebook.com/middleeastmonitor/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Erdogan assassination plot foiled ahead of Bosnia visit",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "242835526268652",
+                "adid": "6085235664846",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1771516799805688",
+                "pageName": "Meyomessala International",
+                "snapshot": {
+                    "ad_creative_id": 6085235404446,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du #Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22  d\u00e9cembre 2017."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "meyomessalainternational.com",
+                    "cards": [],
+                    "creation_time": 1529210069,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Meyomessala International",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35420178_205907310233912_3802229724176973824_n.jpg?_nc_cat=0&oh=03ec251ebcfaeff708d0fa19d3146721&oe=5BEDACFD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35435067_205907313567245_4662693698574745600_n.jpg?_nc_cat=0&oh=8e3b6d8d9f3a7f1c9718437500909892&oe=5C004C4B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22 d\u00e9cembre 2017. Le Commonwealth est une organisation intergouvernementale compos\u00e9e de 52 \u00e9tats membres...",
+                    "link_url": "https://www.meyomessalainternational.com/dossiers/la-secretaire-generale-du-commonwealth-la-tres-honorable-patricia-scotland-exalte-le-multiculturalisme-des-camerounais/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1771516799805688,
+                    "page_is_deleted": false,
+                    "page_like_count": 5217,
+                    "page_name": "Meyomessala International",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35391313_205907296900580_5780879169843888128_n.jpg?_nc_cat=0&oh=b537f541c2c776b10c19de6e2a0712e3&oe=5BF58473",
+                    "page_profile_uri": "https://www.facebook.com/meyomessala/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La Secr\u00e9taire g\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland exalte le multiculturalisme des Camerounais. \u2013 Meyomessala International",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "2013087108954637",
+                "adid": "6085235446046",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1771516799805688",
+                "pageName": "Meyomessala International",
+                "snapshot": {
+                    "ad_creative_id": 6085235404446,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du #Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22  d\u00e9cembre 2017."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "meyomessalainternational.com",
+                    "cards": [],
+                    "creation_time": 1529210069,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Meyomessala International",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35420178_205907310233912_3802229724176973824_n.jpg?_nc_cat=0&oh=03ec251ebcfaeff708d0fa19d3146721&oe=5BEDACFD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35435067_205907313567245_4662693698574745600_n.jpg?_nc_cat=0&oh=8e3b6d8d9f3a7f1c9718437500909892&oe=5C004C4B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22 d\u00e9cembre 2017. Le Commonwealth est une organisation intergouvernementale compos\u00e9e de 52 \u00e9tats membres...",
+                    "link_url": "https://www.meyomessalainternational.com/dossiers/la-secretaire-generale-du-commonwealth-la-tres-honorable-patricia-scotland-exalte-le-multiculturalisme-des-camerounais/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1771516799805688,
+                    "page_is_deleted": false,
+                    "page_like_count": 5217,
+                    "page_name": "Meyomessala International",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35391313_205907296900580_5780879169843888128_n.jpg?_nc_cat=0&oh=b537f541c2c776b10c19de6e2a0712e3&oe=5BF58473",
+                    "page_profile_uri": "https://www.facebook.com/meyomessala/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La Secr\u00e9taire g\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland exalte le multiculturalisme des Camerounais. \u2013 Meyomessala International",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "205907280233915",
+                "adid": "6085235407846",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1771516799805688",
+                "pageName": "Meyomessala International",
+                "snapshot": {
+                    "ad_creative_id": 6085235404446,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du #Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22  d\u00e9cembre 2017."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "meyomessalainternational.com",
+                    "cards": [],
+                    "creation_time": 1529210069,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Meyomessala International",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35420178_205907310233912_3802229724176973824_n.jpg?_nc_cat=0&oh=03ec251ebcfaeff708d0fa19d3146721&oe=5BEDACFD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35435067_205907313567245_4662693698574745600_n.jpg?_nc_cat=0&oh=8e3b6d8d9f3a7f1c9718437500909892&oe=5C004C4B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Invit\u00e9e par le Pr\u00e9sident de la R\u00e9publique, Paul Biya, la Secr\u00e9taire G\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland, a effectu\u00e9 une visite officielle au Cameroun du 18 au 22 d\u00e9cembre 2017. Le Commonwealth est une organisation intergouvernementale compos\u00e9e de 52 \u00e9tats membres...",
+                    "link_url": "https://www.meyomessalainternational.com/dossiers/la-secretaire-generale-du-commonwealth-la-tres-honorable-patricia-scotland-exalte-le-multiculturalisme-des-camerounais/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1771516799805688,
+                    "page_is_deleted": false,
+                    "page_like_count": 5217,
+                    "page_name": "Meyomessala International",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35391313_205907296900580_5780879169843888128_n.jpg?_nc_cat=0&oh=b537f541c2c776b10c19de6e2a0712e3&oe=5BF58473",
+                    "page_profile_uri": "https://www.facebook.com/meyomessala/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La Secr\u00e9taire g\u00e9n\u00e9rale du Commonwealth, la Tr\u00e8s Honorable Patricia Scotland exalte le multiculturalisme des Camerounais. \u2013 Meyomessala International",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "1835019979918256",
+                "adid": "6093128315470",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527231600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                "snapshot": {
+                    "ad_creative_id": 6093128313670,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udd35 | NUEVO<br /> <br /> En Bolivia, se est\u00e1n implementando medidas de car\u00e1cter estructural que permiten la creaci\u00f3n de empresas sociales, impulsadas y protegidas por los obreros sindicalizados.<br /> <br /> \u00bfCu\u00e1l ha sido la reacci\u00f3n del sector empresarial?<br /> <br /> Un an\u00e1lisis de Sergio Mart\u00edn-Carrillo y Edmundo Nogales.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.celag.org%2Fnuevas-formas-de-organizacion-del-trabajo-en-bolivia%2F&amp;h=AT2aS8XTelhbiCsQTuolsWp_7xrKtJMdjSWd9b--W_2dlNQXI5r34B9DXYMEFhox9SSdrs3SYP9L6yVarZjRcAMq50bATbp-JLrMP8zIkja1EbvX3I7ZOTHED6Feaf-f3YWZ_lvK5j8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.celag.org/nuevas-formas-de-organizacion-del-trabajo-en-bolivia/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "celag.org",
+                    "cards": [],
+                    "creation_time": 1529105886,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35347316_1835020009918253_8371392705925742592_n.jpg?_nc_cat=0&oh=acda7e3d6e2bc05bf66b5b8669a98771&oe=5BFA16E5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35276083_1835020013251586_3939064530369249280_n.jpg?_nc_cat=0&oh=1e4ddca3f6f74d8eb11e93e0bfe08e42&oe=5C07FB28"
+                        }
+                    ],
+                    "instagram_actor_name": "CELAG Geopol\u00edtica y econom\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35418642_1835020003251587_7441447198744641536_n.jpg?_nc_cat=0&oh=67f10d02978562de9bff8d75f2f6c975&oe=5C10EEC1",
+                    "is_reshared": false,
+                    "link_description": "Desde que Evo Morales lleg\u00f3 a la presidencia de Bolivia, en cada 1 de mayo se celebran importantes avances en favor de los trabajadores. Este a\u00f1o, la mayor novedad fue la promulgaci\u00f3n de la Ley de Empresas Sociales, una reivindicaci\u00f3n del sindicalismo boliviano.",
+                    "link_url": "http://www.celag.org/nuevas-formas-de-organizacion-del-trabajo-en-bolivia/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 657061604409444,
+                    "page_is_deleted": false,
+                    "page_like_count": 39256,
+                    "page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35330265_1835020006584920_5204046464782696448_n.jpg?_nc_cat=0&oh=cea35342345cea449d0b9161af02e263&oe=5C3AEEA4",
+                    "page_profile_uri": "https://www.facebook.com/celageopolitica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Nuevas formas de organizaci\u00f3n del trabajo en Bolivia \u2014 CELAG",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "230744077544687",
+                "adid": "6093127789870",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527231600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                "snapshot": {
+                    "ad_creative_id": 6093127784670,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El reci\u00e9n electo gobierno de Carlos Alvarado ser\u00e1 el m\u00e1s reciente responsable de impulsar una reforma tributaria en Costa Rica.<br /> <br /> \u00bfEn qu\u00e9 consiste? \u00bfCu\u00e1les son las implicaciones para la clase trabajadora?<br /> <br /> Lee el an\u00e1lisis de <a href=\"https://www.facebook.com/lconverti\" data-hovercard=\"/ajax/hovercard/user.php?id=1290557661&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Lucia Converti</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "celag.org",
+                    "cards": [],
+                    "creation_time": 1531490599,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37138937_222161995286208_7744995262224924672_n.jpg?_nc_cat=0&oh=b2f3156eb84664c95f558b106df772c2&oe=5BFBF17B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37172989_222161991952875_5516043927230087168_n.jpg?_nc_cat=0&oh=67e324a98f197904f3354fcae07c4802&oe=5BF2D46B"
+                        }
+                    ],
+                    "instagram_actor_name": "CELAG Geopol\u00edtica y econom\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37076012_222161981952876_5065146243177512960_n.jpg?_nc_cat=0&oh=6783d242a76dcc049679d9ddfca27d8a&oe=5C3BABBE",
+                    "is_reshared": false,
+                    "link_description": "El presidente Carlos Alvarado busca convencer a los diputados y a la oposici\u00f3n para aprobar la Ley de Fortalecimiento de las Finanzas P\u00fablicas por la v\u00eda r\u00e1pida. Consumidores asociados,sindicatos laborales y empresarios, han reclamado suspender el tratamiento de la reforma y establecer una mesa ...",
+                    "link_url": "http://www.celag.org/reforma-fiscal-en-costa-rica/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 657061604409444,
+                    "page_is_deleted": false,
+                    "page_like_count": 39256,
+                    "page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37150103_222161978619543_2874971358989647872_n.jpg?_nc_cat=0&oh=584ce973acc208c7ae9df4ce9f9021f7&oe=5BFB5CCE",
+                    "page_profile_uri": "https://www.facebook.com/celageopolitica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Reforma fiscal en Costa Rica \u2014 CELAG",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "191804398309129",
+                "adid": "6090569072152",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6089584621952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "En el 65 % de las econom\u00edas no hay #leyes que protejan a las #mujeres y las ni\u00f1as del #acoso sexual en la #educaci\u00f3n. Si bien las leyes contra el acoso sexual no resuelven el problema, s\u00ed constituyen un primer paso importante."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1528210728,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34568880_272693766632138_6660040116133691392_n.jpg?_nc_cat=0&oh=e47cd1a2b212207e7105d20c9fe6fb2f&oe=5BFE6BCA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34430908_272693763298805_2416149288477261824_n.jpg?_nc_cat=0&oh=531f7eef65efcb67c712785777b48c6e&oe=5C114EC0"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Seg\u00fan el informe Mujer, Empresa y el Derecho, 59 econom\u00edas carecen de leyes contra el acoso sexual en el lugar de trabajo.",
+                    "link_url": "https://blogs.worldbank.org/voices/es/acoso-sexual-donde-nos-encontramos-en-la-proteccion-juridica-de-las-mujeres?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435152_272693759965472_4664883560665055232_n.jpg?_nc_cat=0&oh=1c6be41b5f7b84978bdf4189e1455006&oe=5BECEE87",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Acoso sexual: \u00bfD\u00f3nde nos encontramos en la protecci\u00f3n jur\u00eddica de las mujeres?",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "1616020135173304",
+                "adid": "6090569051952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6090250743952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Construir alianzas #LGBTI no es solo un tema de #solidaridad, sino una clave para reducir la #pobreza y aumentar el #crecimiento econ\u00f3mico. <br /> <br /> D\u00eda internacional contra la #Homofobia, #Transfobia y  #Bifobia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1528260418,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435840_255903485155067_3261022608899964928_n.jpg?_nc_cat=0&oh=e09113ab181368477a03b033fcb26725&oe=5C0BEDD7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34620349_255903488488400_5026518492728262656_n.jpg?_nc_cat=0&oh=0b5b3f3ca8f9e1f8bef0482bda507cae&oe=5BFAA44F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Las discriminaciones conducen a la p\u00e9rdida de oportunidades educativas, lo que a su vez lleva a la p\u00e9rdida de oportunidades, es decir, a la p\u00e9rdida de oportunidades econ\u00f3micas durante toda una vida.",
+                    "link_url": "https://blogs.worldbank.org/voices/es/construir-alianzas-lgbti-no-es-solo-un-tema-de-solidaridad-sino-una-clave-para-la-prosperidad?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34565943_255903481821734_747051209713516544_n.jpg?_nc_cat=0&oh=c860f3a1ad1d0151f687c911b970b872&oe=5C1124FE",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Alianzas para la solidaridad",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "2177286205838522",
+                "adid": "6090569070152",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6089584467752,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El precio de los productos energ\u00e9ticos b\u00e1sicos \u2014que son el #petr\u00f3leo, el gas natural y el carb\u00f3n\u2014 experimentar\u00e1n un gran aumento del 20 % en 2018."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1528255522,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34431181_166119460902715_801632358485721088_n.jpg?_nc_cat=0&oh=465dff5d5376da03016ffa10c82910aa&oe=5C0384AD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34441591_166119457569382_2526781787686830080_n.jpg?_nc_cat=0&oh=0eae4b2d0bb040addbf27232b33baa28&oe=5C3971E7"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "El aumento es debido a la firmeza de la demanda de los consumidores y a las medidas restrictivas de los productores de petr\u00f3leo.",
+                    "link_url": "http://www.bancomundial.org/es/news/press-release/2018/04/24/commodity-prices-to-rise-more-than-expected-in-2018-world-bank?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34431188_166119454236049_940727799239409664_n.jpg?_nc_cat=0&oh=cc5b7c31e2dd6fa1abf73f245a4e1954&oe=5BF221F1",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "El precio promedio del petr\u00f3leo ser\u00e1 de USD 65 el barril en 2018",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "2134290616785881",
+                "adid": "6092984126247",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527577200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "835671849953023",
+                "pageName": "Human Rights  Derechos Humanos  Mundi",
+                "snapshot": {
+                    "ad_creative_id": 6092984123047,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Este llamado para tomar acci\u00f3n no puede esperar mucho. As\u00ed que presente su denuncia con evidencia ahora por abuso y violaci\u00f3n de derechos humanos en Venezuela contra el presidente Nicol\u00e1s Maduro y su gobierno ilegitimo. <br /> <br /> Si nuestro llamado a tomar acci\u00f3n suena como algo de lo que a usted tambi\u00e9n le gustar\u00eda formar parte, ya sea participando activamente o alert\u00e1ndonos de violaciones desde Venezuela, le insto a que env\u00ede el formulario de denuncia anexo aqu\u00ed- lo antes posible para que sus quejas puedan comenzar a verse con la Comisi\u00f3n de Derechos Humanos de la Corte AICAC en EE.UU.<br /> <br /> Dr. Humphrey Humberto Pachecker, comisionado general de la Comisi\u00f3n en Derechos Humanos de la Corte AICAC [<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fcourt-inter.us%2Fnode%2F12850&amp;h=AT3Bn5VHLrnsWo6ra4v2pI_JxM29hD2LcfvCCwFp8Zt_DH0mtRwnglzfZ_6DUqIHED5nxeVSjAGrsqeQHaMpcbZOGuf_HwjFlcSl0x0uumKEzZvlReIxFOHQBjqVDHZPOocZjioI95Q\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://court-inter.us/node/12850</a>], y oficial ejecutivo de la asociaci\u00f3n nacional para abogados extranjeros NAFA, Estados Unidos. [<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.nafalaw.com%2F&amp;h=AT2DvNaOvbH5RjBWe0nubUdppcSoqyLdde0pHEFtRONxpPwTCLudRpXtZe9FKJd0M4Bwse_0eoztoy5hJ94c_Z0WLhZY_4XFPj4I34Pfq9DNkk-hzzN55vrIusumb7lfaSmIrv0Nd-Q\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.nafalaw.com/</a>]"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "court-inter.us",
+                    "cards": [],
+                    "creation_time": 1529609046,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Human Rights  Derechos Humanos  Mundi",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35827685_2134290633452546_7071034830997159936_n.jpg?_nc_cat=0&oh=c519bfaaa083799651d48191620d8778&oe=5BF365F6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35875334_2134290636785879_5750746886180962304_n.jpg?_nc_cat=0&oh=c1033077a65c021be11b46a826e0d4fd&oe=5BEFFC20"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "The International Human Rights Commission of Judicial and Police Inquiries (IHRCJPI) is the independent structural division of the AICAC with its own competence as well as organizational and functional independence. IHRCJPI unites public figures, politicians, professional lawyers, consultants and ot...",
+                    "link_url": "http://court-inter.us/node/12850",
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 835671849953023,
+                    "page_is_deleted": false,
+                    "page_like_count": 40,
+                    "page_name": "Human Rights  Derechos Humanos  Mundi",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35826714_2134290630119213_4262543136183549952_n.jpg?_nc_cat=0&oh=e0bd6a0008b3716471e4009aca1dc09b&oe=5BFDCAE1",
+                    "page_profile_uri": "https://www.facebook.com/Human-Rights-Derechos-Humanos-Mundi-835671849953023/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Commission IHRCJPI | American International Commercial Arbitration Court",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "234769663918031",
+                "adid": "6090566916552",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6089860206352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Varios #Gobiernos de Europa y Asia central ya est\u00e1n experimentando con cadenas de bloques para digitalizar y simplificar los #servicios p\u00fablicos a fin de lograr que sean m\u00e1s #seguros, #transparentes y #eficientes."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1530472289,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36516511_389691498193403_1228096175454814208_n.jpg?_nc_cat=0&oh=402c124396068996807a9671ca5a36f9&oe=5C02E2ED",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36573494_389691494860070_5453003638504947712_n.jpg?_nc_cat=0&oh=8e99aaf979a0509552983da7ff05cf01&oe=5C0F2F1F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Los pa\u00edses de Europa y Asia central deber\u00edan aprovechar las nuevas tecnolog\u00edas digitales para innovar y mejorar sus servicios.",
+                    "link_url": "http://www.bancomundial.org/es/news/press-release/2018/05/08/countries-in-europe-and-central-asia-can-provide-better-opportunities-and-services-for-citizens-by-leveraging-blockchain-technologies?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36469369_389691474860072_6118825059462152192_n.jpg?_nc_cat=0&oh=d083fdf830029ac7253346f367a9718e&oe=5BECC13A",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Aprovechar las criptomonedas para brindar mejores oportunidades a los ciudadanos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "501220500281373",
+                "adid": "6090566922352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6090250743952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Construir alianzas #LGBTI no es solo un tema de #solidaridad, sino una clave para reducir la #pobreza y aumentar el #crecimiento econ\u00f3mico. <br /> <br /> D\u00eda internacional contra la #Homofobia, #Transfobia y  #Bifobia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1528260418,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435840_255903485155067_3261022608899964928_n.jpg?_nc_cat=0&oh=e09113ab181368477a03b033fcb26725&oe=5C0BEDD7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34620349_255903488488400_5026518492728262656_n.jpg?_nc_cat=0&oh=0b5b3f3ca8f9e1f8bef0482bda507cae&oe=5BFAA44F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Las discriminaciones conducen a la p\u00e9rdida de oportunidades educativas, lo que a su vez lleva a la p\u00e9rdida de oportunidades, es decir, a la p\u00e9rdida de oportunidades econ\u00f3micas durante toda una vida.",
+                    "link_url": "https://blogs.worldbank.org/voices/es/construir-alianzas-lgbti-no-es-solo-un-tema-de-solidaridad-sino-una-clave-para-la-prosperidad?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34565943_255903481821734_747051209713516544_n.jpg?_nc_cat=0&oh=c860f3a1ad1d0151f687c911b970b872&oe=5C1124FE",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Alianzas para la solidaridad",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "2119184991699105",
+                "adid": "6103750413395",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1239851222775502",
+                "pageName": "Democracy Without Borders",
+                "snapshot": {
+                    "ad_creative_id": 6103750410195,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "In 150 days this year&#039;s Global Week of Action for a World Parliament will be launched. Join us and call for the establishment of a World Parliament Now that will give representation and political power to all world citizens!<br /> <br /> &quot;The current international system is dysfunctional. In a time when multilateralism and international agreements are under attack, changes to make it more democratic and more efficient are more important than ever.&quot;<br /> <br /> &quot;We, world citizens and human beings around the world are called on to pave the way for future generations. Wherever we live on Earth, in rural areas or in mega cities, in poverty or in luxury, we are responsible for each other and for the life foundations on this planet, and we should now come together to build a better world.&quot;<br /> <br /> Read the full piece by Petter \u00d6lmunger, the week&#039;s coordinator, here:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.democracywithoutborders.org%2F5661%2F&amp;h=AT16mOTtj8Bf_Q9p9GvOl8jMqU3DTuxqXac23NQJuIjZRcMynM8FZX9UDGJWC1d6fgbsAk6Wqy56q7ygN-KnTn2MmCwrKvfYF1kXrViS0UJ5inx9AE4znuAWWXKPY2djPGRaL8ImDIE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.democracywithoutborders.org/5661/</a><br /> <br /> Visit the week&#039;s website here:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.worldparliamentnow.org%2F&amp;h=AT3a0aL8hVu_YpiMwSCqnFtLaOoUHKLoicjCR5cea2OQLqmHnsozGy37TtSgHmCkezAzMq1IvVBG0HA0TmfHEC9a3xlw1p1xGlgZOK32DHJt5uSpfEf9n3rcSg5V3SLxiwy99YCdNlQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.worldparliamentnow.org/</a><br /> <br /> And finally, join the Facebook event page here:<br /> <a href=\"https://www.facebook.com/events/2292670130959963/\" rel=\"nofollow\">https://www.facebook.com/events/2292670130959963/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "democracywithoutborders.org",
+                    "cards": [],
+                    "creation_time": 1529476600,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Democracy Without Borders",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35818993_2119185028365768_3804595194595115008_n.jpg?_nc_cat=0&oh=0516b5b3c3f755912bed4521e733f05b&oe=5C0F31E7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35757088_2119185031699101_5101984366653865984_n.jpg?_nc_cat=0&oh=76eeef2f34a9ad874cdb0d3697ead798&oe=5BF60C03"
+                        }
+                    ],
+                    "instagram_actor_name": "Democracy Without Borders",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605654_2119185015032436_763700044846071808_n.jpg?_nc_cat=0&oh=a79e225764aac2be8a3c7f4c422cbf2e&oe=5BED5CE3",
+                    "is_reshared": false,
+                    "link_description": "Join our Global Week of Action from October 19-28 2018 and join the call for the establishment of a World Parliament that will give representation and political power to all world citizens.Climate change, environmental pollution, terrorism, weapons of mass destruction, arms race, antibiotic resistan",
+                    "link_url": "https://www.democracywithoutborders.org/5661/join-the-week-of-action-for-a-world-parliament-from-october-19-28-2018/",
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 1239851222775502,
+                    "page_is_deleted": false,
+                    "page_like_count": 802,
+                    "page_name": "Democracy Without Borders",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35746383_2119185011699103_7475850410771611648_n.jpg?_nc_cat=0&oh=c3da4b08a317a5cab7143687ceb2211a&oe=5BFDE011",
+                    "page_profile_uri": "https://www.facebook.com/democracywb/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Join the Week of Action for a World Parliament from October 19-28, 2018",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "359970234542741",
+                "adid": "23842882093810326",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1526972400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "218747811487830",
+                "pageName": "Revista TV Espa\u00f1ol",
+                "snapshot": {
+                    "ad_creative_id": "23842882093650326",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua<br /> <br /> #CIDH #Vistita #24Heridos #19Por #ArmasDeFuego #NorteDeNicaragua #Nicaragua #CrisisInNicaragua #Protests #Protestas #Matagalpa"
+                        }
+                    },
+                    "body_translations": {
+                        "en_XX": "IACHR visits 24 wounded (19 by firearms) in Northern Nicaragua\n\n#CIDH #Vistita #24Heridos #19Por #ArmasDeFuego #NorteDeNicaragua #Nicaragua #CrisisInNicaragua #Protests #Protestas #Matagalpa"
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "tvespanol.net",
+                    "cards": [],
+                    "creation_time": 1534451761,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Revista TV Espa\u00f1ol",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285699_359970277876070_286926205037314048_n.jpg?_nc_cat=0&oh=b90f21d0e0f8ec28cd7b576a1dfd02fa&oe=5BF988AE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39324333_359970281209403_6167613525712699392_n.jpg?_nc_cat=0&oh=0a18125a83f948991072f95df0716c08&oe=5BF9FBA2"
+                        }
+                    ],
+                    "instagram_actor_name": "Tv Espa\u00f1ol",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395717_359970267876071_1237526940089319424_n.jpg?_nc_cat=0&oh=3bba548c2d1e552bd89e95e50c904d1f&oe=5BF7C33F",
+                    "is_reshared": false,
+                    "link_description": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua En la imagen, el secretario general de la Comisi\u00f3n Interamericana de Derechos Humanos (CIDH), Paulo Abr\u00e3o La Comisi\u00f3n Interamericana de Derechos Humanos (CI",
+                    "link_url": "https://tvespanol.net/noticias-de-hoy/2018/5/21/la-cidh-visita-a-24-heridos-19-por-armas-de-fuego-en-el-norte-de-nicaragua",
+                    "page_categories": {
+                        "164886566892249": "Advertising Agency"
+                    },
+                    "page_id": 218747811487830,
+                    "page_is_deleted": false,
+                    "page_like_count": 2355,
+                    "page_name": "Revista TV Espa\u00f1ol",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285687_359970264542738_2868458096919838720_n.jpg?_nc_cat=0&oh=6420c66cf34b41eb79800e35edf4649e&oe=5BFA2004",
+                    "page_profile_uri": "https://www.facebook.com/tvespanolmagazine/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526886000
+            },
+            {
+                "adArchiveID": "212119386082821",
+                "adid": "23842847978320067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842839749510067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Inscripci\u00f3n &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.elreyjesus.org%2Feventos%2Fescuela-del-ministerio-sobrenatural-verano-2018&amp;h=AT1EMkPtzG_c-05WImsfTR4H_RlMXJEPoz104Gg_MdKr4hFp2d6k45vPHNtnmZbqOCZAkExoeTzixewULc0LuuM9ZMudvz5TWKhgg0Vjhfo1WbsAfezfrn1ujGaKf6SSJQHZs4MO_l4\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "elreyjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109103,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36347821_510303929387295_4810951004650471424_n.jpg?_nc_cat=0&oh=9df5012e3ec98d2f1bb68f0a6c65a66c&oe=5BEE5CF4",
+                    "is_reshared": false,
+                    "link_description": "Una conferencia que le ayudar\u00e1 a aumentar \nsu influencia y a expandir su llamado.",
+                    "link_url": "http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806275,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36280308_510303932720628_2883147043985948672_n.jpg?_nc_cat=0&oh=22296142aea91b45e8dfc75758e07126&oe=5BEE180E",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Conferencia para l\u00edderes | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_241685109744118_4277610014601904128_n.mp4?_nc_cat=0&oh=656a07caee12af40ec978278de503bba&oe=5B78E0DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36292362_510303939387294_5140570430150541312_n.jpg?_nc_cat=0&oh=93c482b7c1e757e9e2d9a676bb18f4bc&oe=5BF984C4",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/32273694_185641225418888_5992618849923497984_n.mp4?_nc_cat=0&oh=a96deb6fbe4bdebaf8f0e00bc88ed109&oe=5B78E3DC"
+                        }
+                    ]
+                },
+                "startDate": 1526886000
+            },
+            {
+                "adArchiveID": "245055216049719",
+                "adid": "6089642753705",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528009200,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "288031487968578",
+                "pageName": "Uni\u00e3o pela volta dos inibidores de apetite",
+                "snapshot": {
+                    "ad_creative_id": 6089642749705,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pessoal, os deputados envolvidos pediram pra gente pressionar os l\u00edderes para inserir na Ordem do Dia o Requerimento 8505/2018 (do dep. Celso Russomanno), que pede vota\u00e7\u00e3o em regime de urg\u00eancia ao PDC 908/2018. Esse PDC \u00e9 de autoria da deputada Laura Carneiro e pede a susta\u00e7\u00e3o da RDC 50/2014, que a Anvisa usa pra coibir as farm\u00e1cias e, assim, atrapalhar a comercializa\u00e7\u00e3o dos nossos medicamentos! Lembrando que  PDC n\u00e3o precisa de san\u00e7\u00e3o presidencial! Abaixo, a lista atualizada dos l\u00edderes, com telefone, email e Twitter!!  Pedir ao deputado Rodrigo Maia tb, que \u00e9 o presidente da C\u00e2mara!!<br /> <br /> AGUINALDO RIBEIRO- l\u00edder do governo<br /> (61) 3215-9001<br /> Gab. (61) 3215-5735<br /> lid.govcamara&#064;camara.leg.br<br /> &#064;aguinaldo1111<br /> dep.aguinaldoribeiro&#064;camara.leg.br<br /> <br /> LELO COIMBRA \u2013 l\u00edder da maioria<br /> (61) 3215-5801<br /> dep.lelocoimbra&#064;camara.leg.br<br /> &#064;lelocoimbra_<br /> <br /> WEVERTON ROCHA - l\u00edder minoria<br /> (61) 3215-9700/9701/9703<br /> Gab. (61) 3215-5405<br /> lid.min&#064;camara.leg.br<br /> dep.wevertonrocha&#064;camara.leg.br<br /> &#064;wevertonrocha<br /> <br /> BALEIA ROSSI - l\u00edder PMDB<br /> (61) 3215-9181/80<br /> Gab. (61) 3215-5829<br /> lid.pmdb&#064;camara.leg.br<br /> &#064;Baleia_Rossi<br /> dep.baleiarossi&#064;camara.leg.br<br /> <br /> PAULO PIMENTA - l\u00edder PT<br /> Ed. Principal, T\u00e9rreo<br /> (61) 3215-9102<br /> lid.pt&#064;camara.leg.br<br /> &#064;DeputadoFederal<br /> <br /> NILSON LEIT\u00c3O - l\u00edder PSDB<br /> (61) 3215-9345/9346<br /> lid.psdb&#064;camara.leg.br<br /> dep.nilsonleitao&#064;camara.leg.br<br /> &#064;NilsonLeitao_<br /> <br /> ARTHUR LIRA- l\u00edder PP<br /> (61) 3215-9426<br /> Gab. (61) 3215-5942<br /> lid.pp&#064;camara.leg.br<br /> dep.arthurlira&#064;camara.leg.br<br /> &#064;DepArthurLira<br /> <br /> JOS\u00c9 ALVES ROCHA- l\u00edder PR<br /> (61) 3215-9550<br /> Gab. (61) 3215-5908<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Flid.pr%2F&amp;h=AT3G2GTU7NWIOpsabh_MAxzFF-zWhq93pLgg7ivVfrXS2V_1JXkPAgis_eJOewyETceasoNObGs59fnblumb3yXitAJoB_SjmnvoRgE6uiXcAV-XYBnXnyn-rTmqgsjAwCJRA5nMcwE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">lid.pr</a>&#064;camara.leg.br<br /> dep.joserocha&#064;camara.leg.br<br /> <br /> DOMINGOS NETO- l\u00edder PSD<br /> (61) 3215-9060/9070<br /> lid.psd&#064;camara.leg.br<br /> dep.domingosneto&#064;camara.leg.br<br /> &#064;Domingos_Neto<br /> <br /> J\u00daLIO DELGADO - l\u00edder PSB<br /> (61) 3215-9650<br /> lid.psb&#064;camara.leg.br<br /> dep.juliodelgado&#064;camara.leg.br<br /> &#064;depjuliodelgado<br /> <br /> RODRIGO GARCIA - l\u00edder DEM <br /> (61) 3215-9265/9281<br /> GAB (61) 3215-5242<br /> lid.dem&#064;camara.leg.br<br /> dep.rodrigogarcia&#064;camara.leg.br<br /> &#064;rodrigogarcia_<br /> <br /> CELSO RUSSOMANNO - l\u00edder PRB<br /> (61) 3215-9880/9882/9884<br /> lid.prb&#064;camara.leg.br<br /> dep.celsorussomanno&#064;camara.leg.br<br /> &#064;celsorussomanno<br /> <br /> ANDR\u00c9 FIGUEIREDO - l\u00edder PDT<br /> (61) 3215-9700/9701/9703<br /> lid.pdt&#064;camara.leg.br<br /> dep.andrefigueiredo&#064;camara.leg.br<br /> &#064;andrepdt12<br /> <br /> JOVAIR ARANTES - l\u00edder PTB<br /> (61) 3215-9502/9503<br /> Gab. (61) 3215-5504<br /> lid.ptb&#064;camara.leg.br<br /> dep.jovairarantes&#064;camara.leg.br<br /> &#064;Jovair1414<br /> <br /> RICARDO TEOBALDO \u2013 l\u00edder PODEMOS<br /> (61) 3215-8900<br /> lid.ptn&#064;camara.leg.br<br /> dep.ricardoreobaldo&#064;camara.leg.br<br /> <br /> WLADIMIR COSTA - l\u00edder Solidariedade<br /> Gab. (61) 3215-5212<br /> lid.solidariedade&#064;camara.leg.br<br /> dep.wladimircosta&#064;camara.leg.br<br /> &#064;deputadowlad<br /> <br /> FELIPE BORNIER \u2013 l\u00edder PROS<br />  (61) 3215-9990<br /> lid.pros&#064;camara.leg.br<br /> dep.felipebornier&#064;camara.leg.br<br /> &#064;felipebornierrj<br /> <br /> ORLANDO SILVA - l\u00edder PCdoB<br /> (61) 3215-9732<br /> lid.pcdob&#064;camara.leg.br<br /> dep.orlandosilval&#064;camara.leg.br<br /> &#064;orlandosilva<br /> <br /> GILBERTO NASCIMENTO - l\u00edder PSC<br /> (61) 3215-9762/9771/9761<br /> lid.psc&#064;camara.leg.br<br /> dep.gilbertonascimento&#064;camara.leg.br<br /> &#064;gilbertonjr <br /> <br /> ALEX MANENTE - l\u00edder PPS<br /> (61) 3215-9600<br /> lid.pps&#064;camara.leg.br<br /> dep.alexmanente&#064;camara.leg.br<br /> &#064;AlexManentePPS<br /> <br /> MARCELO ARO - l\u00edder PHS<br /> (61) 3215-8875<br /> lid.phs&#064;camara.leg.br<br /> dep.marceloaroa&#064;camara.leg.br<br /> &#064;marceloaro<br /> <br /> LEANDRE DAL PONTE - l\u00edder PV<br /> (61) 3215-9790 (Fax 3215-9794)<br /> lid.pv&#064;camara.leg.br<br /> &#064;leandredaideal<br /> dep.leandre&#064;camara.leg.br<br /> <br /> CHICO ALENCAR - l\u00edder PSOL<br /> (61) 3215-9835<br /> lid.psol&#064;camara.leg.br<br /> dep.chicoalencar&#064;camara.leg.br<br /> &#064;depChicoAlencar<br /> <br /> JO\u00c3O DERLY - l\u00edder REDE<br /> (61) 3215-9680<br /> Gab. (61) 3215-5901<br /> lid.rede&#064;camara.leg.br<br /> dep.joaoderly&#064;camara.leg.br<br /> &#064;joaoderly<br /> <br /> LUIS TIB\u00c9- l\u00edder AVANTE<br /> (61) 3215-5230<br /> Gab. (61) 3215-5632<br /> dep.luistibe&#064;camara.leg.br<br /> &#064;LuisTibeOFICIAL<br /> <br /> DELEGADO FRANCISCHINI - l\u00edder PSL<br /> Gab. (61) 3215-5818<br /> dep.delegadofrancischini&#064;camara.leg.br<br /> &#064;Francischini_<br /> <br /> JUNIOR MARRECA - l\u00edder PEN<br /> (61) 3215-5265<br /> Gab. (61) 3215-5537<br /> dep.juniormarreca&#064;camara.leg.br<br /> &#064;juniormarreca<br /> <br /> WELITON PRADO \u2013 PMB<br /> (61) 3215-9861<br /> Gab. (61) 3215-5862<br /> lid.pmb&#064;camara.leg.br<br /> dep.welitonprado&#064;camara.leg.br<br /> &#064;pradoweliton<br /> <br /> ULDURICO JUNIOR  - l\u00edder PPL<br /> (61) 3215-5729<br /> dep.ulduricojunior&#064;camara.leg.br<br /> &#064;ulduricopinto<br /> <br /> MESA DIRETORA<br /> <br /> Presidente: Rodrigo Maia<br /> TT- &#064;DepRodrigoMaia<br /> Email: dep.rodrigomaia&#064;camara.leg.br"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527660685,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Uni\u00e3o pela volta dos inibidores de apetite",
+                    "disclaimer_label": null,
+                    "display_format": "text",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 288031487968578,
+                    "page_is_deleted": false,
+                    "page_like_count": 6641,
+                    "page_name": "Uni\u00e3o pela volta dos inibidores de apetite",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34061893_245055229383051_2213825091538518016_n.jpg?_nc_cat=0&oh=486a02aa5552c2c418af1aa96587caab&oe=5BF5B200",
+                    "page_profile_uri": "https://www.facebook.com/LiberemOsInibidores/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526799600
+            },
+            {
+                "adArchiveID": "227229894553210",
+                "adid": "6090339830552",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6089860206352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Varios #Gobiernos de Europa y Asia central ya est\u00e1n experimentando con cadenas de bloques para digitalizar y simplificar los #servicios p\u00fablicos a fin de lograr que sean m\u00e1s #seguros, #transparentes y #eficientes."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1530472289,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36516511_389691498193403_1228096175454814208_n.jpg?_nc_cat=0&oh=402c124396068996807a9671ca5a36f9&oe=5C02E2ED",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36573494_389691494860070_5453003638504947712_n.jpg?_nc_cat=0&oh=8e99aaf979a0509552983da7ff05cf01&oe=5C0F2F1F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Los pa\u00edses de Europa y Asia central deber\u00edan aprovechar las nuevas tecnolog\u00edas digitales para innovar y mejorar sus servicios.",
+                    "link_url": "http://www.bancomundial.org/es/news/press-release/2018/05/08/countries-in-europe-and-central-asia-can-provide-better-opportunities-and-services-for-citizens-by-leveraging-blockchain-technologies?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36469369_389691474860072_6118825059462152192_n.jpg?_nc_cat=0&oh=d083fdf830029ac7253346f367a9718e&oe=5BECC13A",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Aprovechar las criptomonedas para brindar mejores oportunidades a los ciudadanos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "981039935389687",
+                "adid": "6090339832952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6090250743952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Construir alianzas #LGBTI no es solo un tema de #solidaridad, sino una clave para reducir la #pobreza y aumentar el #crecimiento econ\u00f3mico. <br /> <br /> D\u00eda internacional contra la #Homofobia, #Transfobia y  #Bifobia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1528260418,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435840_255903485155067_3261022608899964928_n.jpg?_nc_cat=0&oh=e09113ab181368477a03b033fcb26725&oe=5C0BEDD7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34620349_255903488488400_5026518492728262656_n.jpg?_nc_cat=0&oh=0b5b3f3ca8f9e1f8bef0482bda507cae&oe=5BFAA44F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Las discriminaciones conducen a la p\u00e9rdida de oportunidades educativas, lo que a su vez lleva a la p\u00e9rdida de oportunidades, es decir, a la p\u00e9rdida de oportunidades econ\u00f3micas durante toda una vida.",
+                    "link_url": "https://blogs.worldbank.org/voices/es/construir-alianzas-lgbti-no-es-solo-un-tema-de-solidaridad-sino-una-clave-para-la-prosperidad?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34565943_255903481821734_747051209713516544_n.jpg?_nc_cat=0&oh=c860f3a1ad1d0151f687c911b970b872&oe=5C1124FE",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Alianzas para la solidaridad",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "616293542087234",
+                "adid": "6110309403565",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1526972400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "329394587151805",
+                "pageName": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                "snapshot": {
+                    "ad_creative_id": 6110309400365,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nathalie n\u2019a pas peur d\u2019aller frapper aux portes pour aider les Canadiens. <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fow.ly%2F630l30k3rK8&amp;h=AT3WGChFCV8Q_OTXZ0aVZxBKd80K0Lbd6Zny8-1RIIackNMdHhOGp192APYx8XumRSagOlssxGCpBoTMz9Qypt8_ZRK167zyfMXnZj_OGv3Dz9p0g5eR8wFZGvw2EFG766woMax0SPQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://ow.ly/630l30k3rK8</a> #Aiderlesvoyageurscanadiens"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530085811,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36273313_616293558753899_5923953562789871616_n.jpg?_nc_cat=0&oh=0acbae40674a0f1faef0b373d690f363&oe=5C00D5A2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/32686179_1701311709960079_7080578729365209088_n.jpg?_nc_cat=0&oh=5789918d5446322cedcf29a2eff313b6&oe=5C09FCE2"
+                        }
+                    ],
+                    "instagram_actor_name": "Voyage.gc.ca : Conseils du gou",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36246403_616293552087233_6062118297015418880_n.jpg?_nc_cat=0&oh=f9e5c7238713d603157c64cea3b51ec2&oe=5BEF3627",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://ow.ly/630l30k3rK8",
+                    "page_categories": {
+                        "161422927240513": "Government Organization"
+                    },
+                    "page_id": 329394587151805,
+                    "page_is_deleted": false,
+                    "page_like_count": 76526,
+                    "page_name": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36275956_616293555420566_6916102024756985856_n.jpg?_nc_cat=0&oh=fe19f8914a550b4bb988332bd5bf60cd&oe=5C066339",
+                    "page_profile_uri": "https://www.facebook.com/voyageGdC/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "460176064444653",
+                "adid": "23842865343950406",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1858373257540100",
+                "pageName": "SBLY Portugu\u00eas",
+                "snapshot": {
+                    "ad_creative_id": "23842865343520406",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que grande homem por ter feito isto!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "news.shareably.net",
+                    "cards": [],
+                    "creation_time": 1529497444,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "SBLY Portugu\u00eas",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35847198_460176094444650_4297827271772733440_n.jpg?_nc_cat=0&oh=dc5fdd7b57e6c2320a05405b71a94f6d&oe=5BF4915D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35773904_460176091111317_1664262001423024128_n.jpg?_nc_cat=0&oh=bd141109f8b09a9760344cfd5ff3a4fc&oe=5BF4AFDF"
+                        }
+                    ],
+                    "instagram_actor_name": "SBLY Portugu\u00eas",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35781646_460176084444651_4176103672356274176_n.jpg?_nc_cat=0&oh=fdebbcec7cfb19b7ff475b7fec6b11f9&oe=5C0F4BB5",
+                    "is_reshared": false,
+                    "link_description": "A cidade alegou que as escadas custariam pelo menos $65,000, mas um homem n\u00e3o acreditou.",
+                    "link_url": "http://news.shareably.net/cidade-escadas-seniores/?utm_source=fb_ad_share&utm_medium=facebook&utm_campaign=233283ee-346c-336b-ef98-57d2f7fbb3ee-1556259461269806",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1858373257540100,
+                    "page_is_deleted": false,
+                    "page_like_count": 114246,
+                    "page_name": "SBLY Portugu\u00eas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35472515_460176087777984_1697689405470277632_n.jpg?_nc_cat=0&oh=4b0b790676497d48bc1d32b2e3aaf05e&oe=5C0509E9",
+                    "page_profile_uri": "https://www.facebook.com/SBLY-Portugu\u00eas-1858373257540100/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Cidade diz que escadas para seniores custar\u00e3o $65,000. Homem constr\u00f3i por $550, e cidade deita-as abaixo",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "246702222579963",
+                "adid": "6099576754192",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "306907899433088",
+                "pageName": "Carta e Cr\u00f4nica",
+                "snapshot": {
+                    "ad_creative_id": 6099576685992,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O grupo sabe que ainda h\u00e1 um ponto ao qual sempre \u00e9 poss\u00edvel recorrer: o isolamento internacional e as condena\u00e7\u00f5es a Israel a partir do enfrentamento de seu ex\u00e9rcito contra a popula\u00e7\u00e3o palestina \u2013 seja ela formada por civis ou por membros militares do gru"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "cartaecronica.com.br",
+                    "cards": [],
+                    "creation_time": 1529490123,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Carta e Cr\u00f4nica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35853319_801733766698820_7726407842063712256_n.jpg?_nc_cat=0&oh=47bb67744059fe4e484c31198731f49a&oe=5C09AE99",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35606019_801733763365487_6127531555171598336_n.jpg?_nc_cat=0&oh=35aaae8ad90499fd988262b958cfe7ef&oe=5C0B1DBB"
+                        }
+                    ],
+                    "instagram_actor_name": "Carta e Cr\u00f4nica",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605545_801733750032155_566523331851845632_n.jpg?_nc_cat=0&oh=dcab0180b43c69ae1ddb3245a0051d57&oe=5C06FBC5",
+                    "is_reshared": false,
+                    "link_description": "O grupo sabe que ainda h\u00e1 um ponto ao qual sempre \u00e9 poss\u00edvel recorrer: o isolamento internacional e as condena\u00e7\u00f5es a Israel a partir do enfrentamento de seu ex\u00e9rcito contra a popula\u00e7\u00e3o palestina \u2013 seja ela formada por civis ou por membros militares do gru",
+                    "link_url": "http://www.cartaecronica.com.br/detalhe.php?id=512",
+                    "page_categories": {
+                        "1307": "Magazine"
+                    },
+                    "page_id": 306907899433088,
+                    "page_is_deleted": false,
+                    "page_like_count": 7939,
+                    "page_name": "Carta e Cr\u00f4nica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605576_801733746698822_946309160780169216_n.jpg?_nc_cat=0&oh=f1b912854ac77e5a771631003acb9fb0&oe=5C0F5368",
+                    "page_profile_uri": "https://www.facebook.com/cartaecronica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Neutralizado em a\u00e7\u00f5es militares, Hamas encontra ponto fraco de Israel",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526540400
+            },
+            {
+                "adArchiveID": "213332719301416",
+                "adid": "6090193652952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090193650952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "En #Croatie, les villes du littoral adriatique sont une destination toujours plus pris\u00e9e des touristes. Mais les rejets des eaux us\u00e9es dans la mer, directement et sans traitement, menacent fortement l\u2019\u00e9quilibre \u00e9cologique de ce milieu, sans parler des cons\u00e9quences pour le d\u00e9veloppement \u00e9conomique ax\u00e9 sur le #tourisme. <br /> <br /> Un projet men\u00e9 de 2009 \u00e0 2015 a permis de mettre fin aux d\u00e9versements d\u2019eaux r\u00e9siduaires non trait\u00e9es et d&#039;am\u00e9liorer la surveillance de la qualit\u00e9 de l\u2019eau de mer dans les zones c\u00f4ti\u00e8res. #IDAatWork"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1530196858,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36278892_213332755968079_2607118596907728896_n.jpg?_nc_cat=0&oh=381c17a06a567eb6e5668fc548eabe5c&oe=5BF5B46F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36345195_213332752634746_7064155203922034688_n.jpg?_nc_cat=0&oh=ba1ef507b9b2dea21ea4816bcea2cdee&oe=5BF45E69"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36317545_213332735968081_8691569731724902400_n.jpg?_nc_cat=0&oh=9538ab952637ec16cd8e30ba9a4ec8d1&oe=5C0D9CCA",
+                    "is_reshared": false,
+                    "link_description": "D\u00e9sormais, les eaux r\u00e9siduaires provenant de dizaines de milliers d\u2019habitations et d\u2019entreprises du littoral ne se d\u00e9versent plus directement dans la mer.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2018/01/04/croatia-reducing-wastewater-pollution-in-sensitive-coastal-areas-of-the-adriatic-sea?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354900,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36311504_213332732634748_7506057207822155776_n.jpg?_nc_cat=0&oh=fe7b4d3bce6865f898bf88fcf24e0737&oe=5C0873CC",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "R\u00e9duire la pollution sur les c\u00f4tes de la mer Adriatique",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "204628813521462",
+                "adid": "6090192773152",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090192771152,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Le #tourisme \u00e9tant un moteur de d\u00e9veloppement \u00e9conomique, comment renforcer le secteur du tourisme dans un pays \u00e0 revenu faible? L&#039;exemple de ce projet men\u00e9 en Gambie montre l&#039;importance de la formation et de la professionalisation des futurs acteurs du tourisme."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1530196912,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36311387_204628850188125_5600429516221579264_n.jpg?_nc_cat=0&oh=0800b5b9701ff3150cf78289788dabb7&oe=5C0B3007",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36284705_204628853521458_4823409905912250368_n.jpg?_nc_cat=0&oh=53f8c212b9205cea9b73b7407d32f6b0&oe=5BEE7F34"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36283528_204628833521460_5480987119964913664_n.jpg?_nc_cat=0&oh=28138f4d8164468bbebc385d3247831a&oe=5C0A0704",
+                    "is_reshared": false,
+                    "link_description": "Entre 2011 et 2015, la Gambie a vu augmenter de 71 % le nombre de touristes venant de nouveaux pays.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2017/11/02/results-making-progress-in-the-gambias-tourism-and-horticulture-industries?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354900,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36287532_204628830188127_8358785288989835264_n.jpg?_nc_cat=0&oh=9800d8788416828316fdf60c10ff1f1f&oe=5C055ABD",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Faire progresser le tourisme en Gambie",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "2133736910204594",
+                "adid": "6090192479752",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090192477952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Mexique: Des installations solaires centralis\u00e9es ont \u00e9t\u00e9 cr\u00e9\u00e9es dans 40 localit\u00e9s r\u00e9parties entre huit \u00c9tats, afin d\u2019alimenter en \u00e9lectricit\u00e9 des communaut\u00e9s tr\u00e8s isol\u00e9es, majoritairement autochtones et jusque-l\u00e0 priv\u00e9es d\u2019acc\u00e8s \u00e0 l\u2019\u00e9nergie \u00e0 cause des difficult\u00e9s d\u2019installation et de distribution. #IBRDatWork"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1528450734,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34714995_2133736930204592_506503637791408128_n.jpg?_nc_cat=0&oh=33755ef8865986bff7640ba5012f006f&oe=5C0BE0EB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34887370_2133736926871259_8248330768930045952_n.jpg?_nc_cat=0&oh=f726a2426a7bb15e014a7a685df1a482&oe=5BF4B39A"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34718721_2133736923537926_7906565553874010112_n.jpg?_nc_cat=0&oh=0b7c4b577b8cec1d534dc50adee6c465&oe=5BED445B",
+                    "is_reshared": false,
+                    "link_description": "\u00c0 la cl\u00f4ture du projet, 2 235 familles avaient acc\u00e8s \u00e0 l\u2019\u00e9lectricit\u00e9 gr\u00e2ce aux 2 357 kW g\u00e9n\u00e9r\u00e9s par de nouvelles installations d\u2019\u00e9nergies renouvelables.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2017/11/01/switching-on-remote-communities-through-electricity-access-in-mexico?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354900,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34642147_2133736920204593_6040595588829937664_n.jpg?_nc_cat=0&oh=360286337a4c67b18642b38bc69bba6e&oe=5C0A6940",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Raccorder les communaut\u00e9s isol\u00e9es \u00e0 l\u2019\u00e9lectricit\u00e9",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            }
+        ],
+        "totalCount": 43,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

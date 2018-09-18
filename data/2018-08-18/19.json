@@ -1,0 +1,2168 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQEOFWjJAvXR:AQFzBT0rDMhH",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591217655079127676",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "Gfa6BJSugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp38PGXkKG6sQOSkoGRteBq/KGmh5rMjAGw88ayldOKA5qr7O6llJQBvtfY4br6lQbO3snV5Oy5AcCYpM7Hp8ADmtDD2sKaeozn9bfR3G2cxuisrdKUAfC8hIT45tMB4OWivPStZM6imqjeqJEB7PqsmrXE3QGKkqDY56vBArS0uq7U2sECmLXBg4fzwQaAuOzVmJvFBqrHjbTDsaQH9u6hmt72zAeohOLWu51/+Nm25rm9kQGY16OEv4DVAazrzJ6bsWX4y/fYsZP2BubWnMf4ycECgpXwluygyAOW56XAy4jyA+LZ7oy83+oHioaAmZWl8gesp76Y17ZrlPO9jrbNZc7Ky5et0rsB+P7G8PKh5QGI+7TnoP/5BvqsoqTk1YMB1s6B4r3watjejsuZ2Wf4mbmdguzvBq62zr/As9YBuMHUg6u86AHkj7Htt6CXBbLhnNvv57IGttSRg7HoTaSY9ZDFr37ClYKZ7MmCAbS9hN3i5+cB1LHwucT9qgLsk6P62Py1BuLO/Mq0yuYHttqVw+fO6AeS7aOyrpNzlLnjgev5dfaU/Kr6/NQBtrfE8a209gHu/eXZi9LuA7KMh86oy/8D/KXRqtOElgTY95nKsOXiBo69lKLx3MAH1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgK27Lz9s/n0BorrqLGRrKwC2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAHWxuLb3LCHAaTzh/vFoZkH6q6NzpHDqALqwZfr95hxyLqIjKSKwAHI25eCmZVtjo7kupSlrQaE/faCx7i9Arydu4rBg9EHutCDiY3JcIKD6vTbuJAItPbWwqHE1wfgltGNzOGvAdLcnKawinLy+vi/xPDyAdym1qmw3ZgGzKbrkfv+ccLex9Sb3rwDlOmCjNTwsgfYsaPO+unYAZDP5+rX+tcB8N+Aq9z3c5CE5Z65/nvSh9f5m6XWAZj07Zuyn8MB/K3S4c/2+QbSgLaJ76NhhPvP9OvswQHoqaq/3te4B76l/MbgjFvo1sf+qudj2qCO/72jxAHKrIu9gd7aAeikq5fYgY8Giuj/tvLywAfKlsLUzaTfAcqPsbfDq6kGmqH4/tbIkQP644WdyeXYBpitsNWwolyO4tLMpPNehNyl9emK5QG2/YyN+M16nIOQjI3u1gHM9/XbzcvMAfix956cmOoFuqWGj83KzwGe+p7N0rbAAY6O5dSTz8cDsOu186aE7Qes0uOe96ybAYqtlaya0qUCyqHd/5acxQf+r5+a2reeBu7Ry6X39X7A6oPUo5XBA8a5/I/I1doBxuj52YDG4weK1MG2vLRhnqmRuOGg7QeWvcXytKO0AaiW8/Kz1NwG5NSC/cW0VKr5nNvas7EB4tzCrOLaswHqmPe+6O68AZ6wz5O5p8QBvvqDwLqVU+yz0aPbk1TggdqGl9trqMG2sev/tQa+1MGBu+FxtvLWgNP62AaokPvKk/hNnvPnxYmpgQfiusHx6cDUAcrChJvNh4EBqK3jr7TerwL+xJDgsLm7BqbIlqmb0Ez8i8+2tplWouXzw9qvWbzugrj/51zEp/bctP1e1peayLKZYsiC3uzBv2KY2dXMwchsmrbTyNjLdIi56pHSo3mQ0OHG58qXAb6r6erR7aoB7vemq8HduQHEz8mljdK9AYLC/8OLi9kBqKX02smIpALalf7O3dTFBIz764Cvmo0GgujXpZKWggfy5YnR4uKaB4aL5dusmJwHjumdr4+vrAesqN+HuLK7B/S5jLvFmsYH7PqY48O4yAfYjdiG9I+VAvC039O40cIHjM2plam0bIzLmY794pcHmNDZ08rBWL6E8taAp6wB9t2V0rqwuQfsj+2+hvZQ2s3Ssoz7twG4+vPuhL6nBO6wk6mLmZMBwsiI1JK1mAKM4qjwovpUmsKq5ori1QH+jIyOl9nwB963trTR5PkGjqbX8tSmqgPU2oTVx8WeAprU4dP08FCGmNKgo5dTlumS4/aYtgfi6pfe1+9a7vLZrKONfd7hjafAx8oBose59PWredKKkI+B2agG7LL/q8DyrAay/sHfhs3YCIrvmP/YuHaS6M7q2ebeBIaJoND78YUB+uvvgNaFiQamhLykxYurAqjsjLqd958DsraV2MWg4AeE7NS084jzAZDuw/+1gI8HivWC99Oc/gWUlKeorNN2pt/y4aX5e6S/qpLewa8CjO7EoNPa/gKCjvj1xZz/BfqtvcbJ++AHuuu71tnirAfe7YecpI1OoMnb5tKu6geOsOzWwOnRAbL0977cxKgGxq7Z0c+RvwG6/NWbqKylAsDw67rj5a8H8pu5rbuEULDMl/LXtq4HwsqA2PrAP8q7zc3z26wGoobNkpqmc4ya6JfWsVq69qrm7tJ2gtLluPfDUPzlpebL0foCmNvk2/KwlgLIpvnc75VOloHGzMifxAfo79W87+PdAeii7Ybe5nek/6uR16jNBvaKmfW7zs8H2LWRsIifYvi7q+LAsawH4Ly54MrWjQLI8bv85qWAAY6/qq6qwYwB+J6tkNnsyQHw7Pig8NlU+PXms7+5fxn1Ezx4tAHwAawC6AKkA+ADnATYBJQF0AWMBsgGhAfAB/wHuAj0CAA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "2204222689604176",
+                "adid": "6090500932762",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil",
+                "snapshot": {
+                    "ad_creative_id": 6090500932162,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mayte Rodr\u00edguez nos explica c\u00f3mo consigui\u00f3 la 3\u00aa mejor nota de 700 candidatos a la oposici\u00f3n de funcionario p\u00fablico del Parlamento de Canarias. <br /> <br /> Una historia de \u00e9xito incre\u00edble gracias al curso Memoria \u00c1gil.<br /> <br /> Hasta el 10 de Junio estar\u00e1n abiertas las inscripciones al curso completo.<br /> <br /> Para unirte a Mayte, inscr\u00edbete AHORA aqu\u00ed &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmemoriaagil.com%2Fvid4reg5r4h2zyznjlcqgib11744a&amp;h=AT3VcEunVAYd8zB6QSi1O3M-5pTQlmI9dDsKvqr_4-UbEmRmJZgnEfLzS9b06YdIVPMigwdyji47doi36jdXk3YNg9ag3IA75iQQaD1V5Vnt6PopZsYL93oNlVFVxwB3huoBD440Fos\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "memoriaagil.com/curso",
+                    "cards": [],
+                    "creation_time": 1528396262,
+                    "cta_text": "Watch More",
+                    "cta_type": "Assistir mais",
+                    "current_page_name": "Memoria \u00c1gil",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a",
+                    "page_categories": {
+                        "2500": "Local"
+                    },
+                    "page_id": 280587198947012,
+                    "page_is_deleted": false,
+                    "page_like_count": 103577,
+                    "page_name": "Memoria \u00c1gil",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34663494_2204222706270841_6235536161461239808_n.jpg?_nc_cat=0&oh=c69e820042e3511ad3ebf014f8c7892d&oe=5C086B2D",
+                    "page_profile_uri": "https://www.facebook.com/memoriaagil/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mayte, qued\u00f3 tercera entre 700 candidatos para una oposici\u00f3n",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1904200386321271_2296502743835082752_n.mp4?_nc_cat=0&oh=ba2a24101858442755c610cf7605e8fa&oe=5B78E34D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34667016_2204222712937507_1110174000052436992_n.jpg?_nc_cat=0&oh=7fa70ee42149307d3813c2c15b7f691c&oe=5BF56FE0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_475934646174740_90269062826819584_n.mp4?_nc_cat=0&oh=d2c5b3782c6f09e6a5b787cfd585e770&oe=5B78E1CD"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "461408427674631",
+                "adid": "6091699721352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529910000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6091699719552,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "M\u00e1s de 1000 millones de personas viven sin #electricidad \ud83d\udd0ca nivel mundial \ud83c\udf0e, y otros 3000 millones utilizan combustibles contaminantes \ud83d\udd25 para cocinar o calefaccionar sus viviendas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1534213992,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {
+                                "191x100": [
+                                    [
+                                        0,
+                                        118
+                                    ],
+                                    [
+                                        1997,
+                                        1163
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39080140_445431132608705_6526366096633626624_n.jpg?_nc_cat=0&oh=741380ed70f263ff7b368d6dd4ed6908&oe=5BFAA63A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39125729_445431125942039_8313568045096239104_n.jpg?_nc_cat=0&oh=7d9d2ee1d4fece53bccf9a5f09a80f06&oe=5BF4FBB8"
+                        },
+                        {
+                            "image_crops": {
+                                "100x100": [
+                                    [
+                                        359,
+                                        1
+                                    ],
+                                    [
+                                        1721,
+                                        1363
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087760_445431129275372_6959702939313111040_n.jpg?_nc_cat=0&oh=d5ab8ffdf75f5992edde9a0c0eb2c9a6&oe=5BF12A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39231972_445431135942038_1505401825547780096_n.jpg?_nc_cat=0&oh=424f5afcd365ebe0e8637da74a35c22d&oe=5BEEFD17"
+                        }
+                    ],
+                    "instagram_actor_name": "Banco Mundial",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128510_445431112608707_5692310965605892096_n.jpg?_nc_cat=0&oh=aad0dda4553cc41d00d3f75bffdd6f68&oe=5BED1492",
+                    "is_reshared": false,
+                    "link_description": "El Banco Mundial se ha comprometido a ayudar a los pa\u00edses a garantizar el acceso a energ\u00eda asequible, confiable y sostenible para todos.",
+                    "link_url": "http://www.bancomundial.org/es/topic/energy/overview?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087787_445431109275374_7584806987972476928_n.jpg?_nc_cat=0&oh=51abcbb4b57da4415a6d3bb146bf8528&oe=5BFA2AF5",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La labor del Banco Mundial en la ampliaci\u00f3n del acceso a la energ\u00eda",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "1777991435615513",
+                "adid": "23842857521640327",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1629990253744016",
+                "pageName": "Brut UK",
+                "snapshot": {
+                    "ad_creative_id": "23842857521540327",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Artist and political activist, Bj\u00f6rk would like to leave a legacy even greater than her music: &quot;All the time I can spend away from music making, I&#039;ll put in this battle&quot; \ud83d\udcaa\ud83c\udffc\ud83c\udf33\ud83c\uddee\ud83c\uddf8"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532029330,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Brut UK",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Brut UK",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37363945_1821147834641538_6839852529753260032_n.jpg?_nc_cat=0&oh=51ade56c2f3000cc8f1fa4491641b4d9&oe=5C10445C",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1629990253744016,
+                    "page_is_deleted": false,
+                    "page_like_count": 36293,
+                    "page_name": "Brut UK",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37385269_1821147831308205_8318887155933904896_n.jpg?_nc_cat=0&oh=2e775fdc005ea2456b76306195a8a3e0&oe=5BEEFE68",
+                    "page_profile_uri": "https://www.facebook.com/brutuk/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Bj\u00f6rk's lifelong fight against climate change",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1347823362015963_5455170110203363328_n.mp4?_nc_cat=0&oh=aab1272bb232ee5d7ab263a2d51e1283&oe=5B78DD5C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37557527_1821147837974871_1562736396249071616_n.jpg?_nc_cat=0&oh=4646da4764d7c124d98cfe81cd79485d&oe=5C10C310",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_178610189519950_4957297050279477248_n.mp4?_nc_cat=0&oh=b01a517285a04ef9dea82a9d3c84f7b2&oe=5B78DF05"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "420316188453795",
+                "adid": "6104957984182",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1113508038659374",
+                "pageName": "Hendel Machado",
+                "snapshot": {
+                    "ad_creative_id": 6104521175382,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "2018, ano de construir um NOVO BRASIL!<br /> <br /> Contribua para a vaquinha que vai colaborar para n\u00f3s combatermos os corruptos. <br /> <br /> Eu vou estar fazendo a minha parte, e tudo que eu preciso \u00e9 de um d\u00e9cimo da for\u00e7a deles para enfrent\u00e1-los. Mas, para isso, eu preciso da tua ajuda, da tua indigna\u00e7\u00e3o e da tua doa\u00e7\u00e3o!<br /> <br /> Quem ganha dinheiro de forma honesta sabe do esfor\u00e7o e sacrif\u00edcio para fechar a conta no fim do m\u00eas.<br /> <br /> Imagine se algu\u00e9m pegasse o seu dinheiro e sa\u00edsse gastando por a\u00ed. Pois \u00e9 exatamente isso que o governo faz. #VamosRenovarTudo?<br /> <br /> O NOVO \u00e9 contra o fundo partid\u00e1rio. O partido \u00e9 mantido por seus filiados e doadores, n\u00e3o pelos pagadores de impostos.<br /> <br /> Venha se unir \u00e0 #OndaLaranja. <br /> <br /> Vamos Renovar Tudo!<br /> #SejaNOVO<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fdoehendel&amp;h=AT2_roQTmdar2WtenlK5VmKT_vHfrldtThpzXVEVMIltk0zinH0L7_kPkMFNs9r2S38JTjt1hqhbHvx5dZ1tXCNgZ7ebkKgIgGwaC3p9ZJr0um9ur_C3hD2Fi5hf3UaS2-egsnFelzA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/doehendel</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531502116,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Hendel Machado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1113508038659374,
+                    "page_is_deleted": false,
+                    "page_like_count": 21612,
+                    "page_name": "Hendel Machado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36994141_2120400748238538_6313638870428680192_n.jpg?_nc_cat=0&oh=174fae7a1a1bc7b9ee6f2405f92a97d3&oe=5C03AD03",
+                    "page_profile_uri": "https://www.facebook.com/HendelNovo/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Hendel - Vaquinha por um NOVO Brasil!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_caption_urls": {
+                                "pt_BR": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.2093-6/34269768_1992815034061999_4923512579831103488_n.srt?_nc_cat=0&oh=5ccfe0d17623b0e036d82ca4251070f0&oe=5BFBD54D"
+                            },
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_216519502475160_1325987778734850048_n.mp4?_nc_cat=0&oh=6ccdc0b94c96e2a1f8752aeffd82a0e8&oe=5B78F894",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37021418_2120400754905204_2803242265525354496_n.jpg?_nc_cat=0&oh=4833f8172b7d2842ca75ca16daa290d5&oe=5C3B78C7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34073162_166309080884371_129083111777501184_n.mp4?_nc_cat=0&oh=88db3ff61633dccd84c818fad171b0f9&oe=5B78DECC"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "645075125845789",
+                "adid": "6106961088541",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528527600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1580971412124985",
+                "pageName": "M\u00e3es com Ci\u00eancia",
+                "snapshot": {
+                    "ad_creative_id": 6106961085141,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Falar de separa\u00e7\u00e3o conjugal nunca \u00e9 f\u00e1cil, mas quando h\u00e1 crian\u00e7as no meio \u00e9 importante conseguir organizar as ideias, e os sentimentos para conversar. Por isso, pedi para <a href=\"https://www.facebook.com/psicologiamp/\" data-hovercard=\"/ajax/hovercard/page.php?id=1640296796287166&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Michel Pachiega Psicologia</a> me permitir resgatar um texto escrito h\u00e1 alguns meses que trata justamente sobre esse assunto t\u00e3o delicado.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmaescomciencia.com%2F2018%2F06%2F06%2Ffilhos-e-divorcio%2F&amp;h=AT1FcYvpfNBRneIfaCLPlXD1nQz-HNIh7cks_CjHBNf3f14Ubt7eTxH3ysVPje7YKY3Fja20VVJSZnjmqRGBzBu8XbyqECmVMv72u0GQBo_M77qTxOi-0VZ61koURJhGH_iF55tQFp8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://maescomciencia.com/2018/06/06/filhos-e-divorcio/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "maescomciencia.com",
+                    "cards": [],
+                    "creation_time": 1529979769,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "M\u00e3es com Ci\u00eancia",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36296582_645075149179120_3422181416912289792_n.jpg?_nc_cat=0&oh=1a0d8e82c2cb39b0c39adaead6644a2e&oe=5BF13D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36271962_645075145845787_1667425313556004864_n.jpg?_nc_cat=0&oh=836441e7c51edd75f8ab77a6410cd0c6&oe=5C030F27"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Falar de separa\u00e7\u00e3o conjugal nunca \u00e9 f\u00e1cil, mas quando h\u00e1 crian\u00e7as no meio \u00e9 importante conseguir organizar a ideias, e os sentimentos para conversar. Podem aparecer comportamentos desafiadores, e o\u2026",
+                    "link_url": "https://maescomciencia.com/2018/06/06/filhos-e-divorcio/",
+                    "page_categories": {
+                        "2201": "Product Service"
+                    },
+                    "page_id": 1580971412124985,
+                    "page_is_deleted": false,
+                    "page_like_count": 11139,
+                    "page_name": "M\u00e3es com Ci\u00eancia",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36165829_645075135845788_4326792127490031616_n.jpg?_nc_cat=0&oh=c06276375657b3730c9eca4b22965889&oe=5C0689FE",
+                    "page_profile_uri": "https://www.facebook.com/maescomciencia/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Filhos e Div\u00f3rcio",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "2075427446029344",
+                "adid": "23842853563160167",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1645489149033303",
+                "pageName": "Vox Populi",
+                "snapshot": {
+                    "ad_creative_id": "23842843870080167",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "As\u00ed fue como este joven de 24 a\u00f1os salv\u00f3 a un ni\u00f1o de cuatro de manera her\u00f3ica. \ud83d\udc4f\ud83c\udffc \ud83d\udc4f\ud83c\udffc"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "voxpopuli.mx",
+                    "cards": [],
+                    "creation_time": 1533748488,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Vox Populi",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36971470_2075427472696008_4394183664762617856_n.jpg?_nc_cat=0&oh=3c7fcb0ba35999b41d44335d0aebbfdc&oe=5C01598A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37023420_2075427476029341_6336633846158589952_n.jpg?_nc_cat=0&oh=00fffa98bb23210dc78ec7b141f9c085&oe=5C01205E"
+                        }
+                    ],
+                    "instagram_actor_name": "Vox Populi",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36959163_2075427462696009_5773902974724079616_n.jpg?_nc_cat=0&oh=ecfa86b2dd1fe5d6f009a021c7f960f7&oe=5C39EFDF",
+                    "is_reshared": false,
+                    "link_description": "Inicio Mundo Ni\u00f1o de cuatro a\u00f1os es salvado de caer de un edificio por... \u00a9THIBAULT CAMUS / POOL/EPA/MAXPPP - epa06768273 Mamoudou Gassama from Mali leaves the presidential Elysee Palace after his meeting with French President Emmanuel Macron in Paris, France, 28 May 2018. The 22 year old migrant...",
+                    "link_url": "http://voxpopuli.mx/nino-de-cuatro-anos-es-salvado-de-caer-de-un-edificio-por-un-inmigrante-en-francia/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 1645489149033303,
+                    "page_is_deleted": false,
+                    "page_like_count": 61155,
+                    "page_name": "Vox Populi",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36974461_2075427466029342_2812466175944949760_n.jpg?_nc_cat=0&oh=bd2bba5cf575b084249f03781bcfd48e&oe=5C0ED756",
+                    "page_profile_uri": "https://www.facebook.com/VoxPmx/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ni\u00f1o de cuatro a\u00f1os es salvado de caer de un edificio por un inmigrante en Francia | VoxPopuli",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528182000
+            },
+            {
+                "adArchiveID": "175998546421497",
+                "adid": "23842873115520782",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "14892757589",
+                "pageName": "Le Monde",
+                "snapshot": {
+                    "ad_creative_id": "23842873115190782",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Il y a un an, les \u00e9lections balayaient tout un pan des \u00e9lus. Si certains ex-d\u00e9put\u00e9s et ministres ont vite rebondi, d\u2019autres \u00e9prouvent des difficult\u00e9s \u00e0 trouver leur place dans le nouveau monde. #Abonn\u00e9s"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "LEMONDE.FR",
+                    "cards": [],
+                    "creation_time": 1528209042,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Le Monde",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34439208_175998566421495_7125282119076544512_n.jpg?_nc_cat=0&oh=3ea46b2f8024550c46537e5ab731cdd1&oe=5BFAD268",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34439317_175998563088162_8668343721114206208_n.jpg?_nc_cat=0&oh=925f41fd15d608cd4fe21b1a8ab7f77b&oe=5C04249F"
+                        }
+                    ],
+                    "instagram_actor_name": "Le Monde",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34430919_175998559754829_2947100270959525888_n.jpg?_nc_cat=0&oh=01174a87a4682463557362361cc36aa2&oe=5BFD10DE",
+                    "is_reshared": false,
+                    "link_description": "  ",
+                    "link_url": "https://www.lemonde.fr/m-actu/article/2018/06/01/apres-le-seisme-macron-la-nouvelle-vie-des-dechus-de-la-politique_5307865_4497186.html?xtor=CS2-33281034-[FB]-[teaser]-[tous]",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 14892757589,
+                    "page_is_deleted": false,
+                    "page_like_count": 4218409,
+                    "page_name": "Le Monde",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34638323_175998556421496_3652803177679421440_n.jpg?_nc_cat=0&oh=4cc22bc7e652153459e30e3b7575310d&oe=5BFF9BC5",
+                    "page_profile_uri": "https://www.facebook.com/lemonde.fr/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Apr\u00e8s le s\u00e9isme Macron, la nouvelle vie des d\u00e9chus de la politique",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528182000
+            },
+            {
+                "adArchiveID": "2072419416339224",
+                "adid": "23842873115720782",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "14892757589",
+                "pageName": "Le Monde",
+                "snapshot": {
+                    "ad_creative_id": "23842873115180782",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Il y a un an, les \u00e9lections balayaient tout un pan des \u00e9lus. Si certains ex-d\u00e9put\u00e9s et ministres ont vite rebondi, d\u2019autres \u00e9prouvent des difficult\u00e9s \u00e0 trouver leur place dans le nouveau monde. #Abonn\u00e9s"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "LEMONDE.FR",
+                    "cards": [],
+                    "creation_time": 1528209046,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Le Monde",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435391_2072419439672555_5213113626075856896_n.jpg?_nc_cat=0&oh=cf824774930582b141e86d69a86700fe&oe=5C3B3773",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34435597_2072419436339222_2151611107276488704_n.jpg?_nc_cat=0&oh=98d0efe69f018ff3c83b3c8d56ad60d0&oe=5C074385"
+                        }
+                    ],
+                    "instagram_actor_name": "Le Monde",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435451_2072419426339223_5534797025754742784_n.jpg?_nc_cat=0&oh=a2022119d5d2cdadd0eb9f2477c0094a&oe=5BEEC3FD",
+                    "is_reshared": false,
+                    "link_description": "  ",
+                    "link_url": "https://www.lemonde.fr/m-actu/article/2018/06/01/apres-le-seisme-macron-la-nouvelle-vie-des-dechus-de-la-politique_5307865_4497186.html?xtor=CS2-33281034-[FB]-[teaser]-[tous]",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 14892757589,
+                    "page_is_deleted": false,
+                    "page_like_count": 4218409,
+                    "page_name": "Le Monde",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34690544_2072419429672556_2748589618432573440_n.jpg?_nc_cat=0&oh=ed35c1d243de695cd5f39b3a30fdf797&oe=5C0BE2E6",
+                    "page_profile_uri": "https://www.facebook.com/lemonde.fr/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Apr\u00e8s le s\u00e9isme Macron, la nouvelle vie des d\u00e9chus de la politique",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528182000
+            },
+            {
+                "adArchiveID": "139654443569825",
+                "adid": "6094368568910",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "128080957346",
+                "pageName": "Kids-world.dk",
+                "snapshot": {
+                    "ad_creative_id": 6094368566710,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "VISSEVASSE plakaterne f\u00e5r os virkelig i feriestemning! \ud83d\ude90\ud83d\ude0e<br /> Skal du og familien mon holde ferie herhjemme i Danmark? \ud83c\udde9\ud83c\uddf0<br /> <br /> Se vores udvalg af de flotte plakater, bl.a. med danske byer, her:<br /> \ud83d\udc49 <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.kids-world.dk%2Fvissevasse-c-6526.html&amp;h=AT0rIzTJdEhKrKxwmWww0CeTYYJeLK9uYYUpTc3gROUwrGrVnYaqcirojwy26CUzlcNc3xWIpXNbJ2mlIBkdwuRubDsT15PRic_plAxKWtdPKYiZLxx0CS_eGvgLqrk8lByBy6hKmG0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.kids-world.dk/vissevasse-c-6526.html</a><br /> <br /> Plakaterne f\u00e5s i str. 30x40 og 50x70 cm og vi leverer dem fragtfrit i papr\u00f8r - b\u00e5de med GLS og Post Nord."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528137747,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Kids-world.dk",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Kids-world.dk",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435475_1805436163098479_628820685724057600_n.jpg?_nc_cat=0&oh=c33f93073d3fcfd93d3095735b85b914&oe=5C0377F2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://www.kids-world.dk/vissevasse-c-6526.html",
+                    "page_categories": {
+                        "2239": "Retail Company"
+                    },
+                    "page_id": 128080957346,
+                    "page_is_deleted": false,
+                    "page_like_count": 130400,
+                    "page_name": "Kids-world.dk",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34429894_1805436166431812_651561704332722176_n.jpg?_nc_cat=0&oh=dfe897a9fe5de64b02574c329c238752&oe=5C116BC6",
+                    "page_profile_uri": "https://www.facebook.com/kidsworld.dk/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34205613_198164217490715_3585172402138513408_n.mp4?_nc_cat=0&oh=01b63266df7641e46e5221e218ea7d30&oe=5B78DEB2",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34430138_1805436169765145_7070745182697684992_n.jpg?_nc_cat=0&oh=459f0741102ab968b3d2ef5951a002fc&oe=5BED11F8",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34148656_924953220962502_6490366612766457856_n.mp4?_nc_cat=0&oh=8ce295ee1ccde0088b09219045213278&oe=5B78E612"
+                        }
+                    ]
+                },
+                "startDate": 1528095600
+            },
+            {
+                "adArchiveID": "1787185768017637",
+                "adid": "6101917285641",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528268400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "111832495644760",
+                "pageName": "Esperanza S\u00e1nchez",
+                "snapshot": {
+                    "ad_creative_id": 6101917282841,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "No importa tanto quien seas, que hagas o que hayas hecho anteriormente, si no en quien te puedes convertir para hacer realidad tus sue\u00f1os.<br /> <br /> Yo lo s\u00e9 porque a mi tambi\u00e9n me pas\u00f3. Despu\u00e9s de divorciarme y verme sola, con 2 hijos y sin trabajo, ten\u00eda el sue\u00f1o de trabajar desde casa, vivir de lo que me apasiona, disfrutar m\u00e1s de mis hijos y tener m\u00e1s tiempo para mi.<br /> <br /> \u00a1\u00a1\u00a1Y lo LOGR\u00c9!!!!<br /> <br /> Ahora me dedico a ayudar a otras mujeres que necesitan hacer cambios en sus vidas pero no saben por d\u00f3nde empezar. <br /> <br /> Si quieres descubrir c\u00f3mo t\u00fa tambi\u00e9n puedes lograrlo, te invito (GRATIS) a la Clase Inaugural de &quot;El Sue\u00f1o de tu Vida&quot;...<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2kKVZjV&amp;h=AT0NHdBmnA82MTM9Yn64PpAjdLKe13FQJI8rzmKBgWfaWmQc2k26HHxRFQ7GDaV4qNgGPkzclnkxRu42RxKVLlTLaNFHasjqGTxYTSdQuvgUImpddHNGH8DVeo7OpLr062vh2foTV-4\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://bit.ly/2kKVZjV</a><br /> <br /> Un programa que cambia la vida de las personas dispuestas a vivir su sue\u00f1o, por imposible que parezca, a trav\u00e9s del autoconocimiento y la transformaci\u00f3n interior.<br /> <br /> Y ya vamos por la 7\u00aa Edici\u00f3n con decenas de casos de \u00e9xito.<br /> <br /> \u00bfQuieres ser t\u00fa mi pr\u00f3xima HISTORIA DE \u00c9XITO y empezar a crear la vida que te mereces?<br /> <br /> &gt;&gt; Pincha Aqu\u00ed <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2kKVZjV&amp;h=AT2l78Vu2RfwsoxRqYBDLZeV40b6JGt3NWO9Yz69OyeYHEpi0JzuwsA58R-_ejPMMRu2o7Y2BbqpHEW7_8Cfq2cXh351VEkPaJ0-LDtxqVD_xTHsjuW77JMJF29f-X0xsrFdsU5PK8c\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://bit.ly/2kKVZjV</a> y recibe tu Pase VIP para entrar GRATIS a la Clase Inaugural ;-)<br /> <br /> D\u00eda: Mi\u00e9rcoles 06 de Junio 2018 <br /> 03:00 PM Espa\u00f1a<br /> 10:00 AM Argentina<br /> 08:00 AM M\u00e9xico/Colombia/Per\u00fa"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "EsperanzaSanchez.com",
+                    "cards": [],
+                    "creation_time": 1530487606,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Esperanza S\u00e1nchez",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {},
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36479815_1787185801350967_6318102651414249472_n.jpg?_nc_cat=0&oh=46bf71e2c749994ed1db8c10e31708eb&oe=5C057280",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36423713_1787185798017634_4708216044060147712_n.jpg?_nc_cat=0&oh=6b64e34a144335effbf3daf457e4d8d9&oe=5C08DE67"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Descubre todo el Camino que andaremos juntas durante 6 meses para que te conviertas en la mejor versi\u00f3n de ti misma y por fin puedas crear y disfrutar la vida que te mereces.\nAP\u00daNTATE AHORA Y RECIBE TU \"PASE VIP\" PARA ASISTIR GRATIS.",
+                    "link_url": "https://bit.ly/2kKVZjV",
+                    "page_categories": {
+                        "1617": "Entrepreneur"
+                    },
+                    "page_id": 111832495644760,
+                    "page_is_deleted": false,
+                    "page_like_count": 4736,
+                    "page_name": "Esperanza S\u00e1nchez",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36483567_1787185791350968_610205361160323072_n.jpg?_nc_cat=0&oh=e6b41fed8c170662038c1df5f765f744&oe=5BFCA290",
+                    "page_profile_uri": "https://www.facebook.com/esperanzasanchezcoach/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Clase Inaugural de \"El Sue\u00f1o de tu Vida\" 7\u00aa Edici\u00f3n",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528095600
+            },
+            {
+                "adArchiveID": "253544018583953",
+                "adid": "6100354354430",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528182000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "703457909865334",
+                "pageName": "Amor Sana TCR",
+                "snapshot": {
+                    "ad_creative_id": 6100354351030,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Conoce sobre \u201cDerecho a Probar\u201d creada para que pacientes terminales tengan acceso a tratamientos experimentales. <br /> <br /> Qu\u00e9 opinas al respecto?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532541838,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Amor Sana TCR",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2714": "Society Site"
+                    },
+                    "page_id": 703457909865334,
+                    "page_is_deleted": false,
+                    "page_like_count": 4426,
+                    "page_name": "Amor Sana TCR",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37799526_253544051917283_3905213389143539712_n.jpg?_nc_cat=0&oh=30fdc3f6b93346edb7a978ede4a18ebd&oe=5C0E6A6C",
+                    "page_profile_uri": "https://www.facebook.com/amorsanaTCR/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_233118584128901_4015361454696824832_n.mp4?_nc_cat=0&oh=295ea1992a7415ec9284fb455db3f55f&oe=5B78DF9F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37738449_253544061917282_352864041909092352_n.jpg?_nc_cat=0&oh=a837ffeec191044c6d53d3c04d9326b7&oe=5C04CDE4",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1699244676850400_4820917480555806720_n.mp4?_nc_cat=0&oh=4360a3e917466a6abad93f93d1dd68dd&oe=5B78E793"
+                        }
+                    ]
+                },
+                "startDate": 1528095600
+            },
+            {
+                "adArchiveID": "198765474285190",
+                "adid": "6096555074240",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "212530915913216",
+                "pageName": "Alop\u00e9cicos",
+                "snapshot": {
+                    "ad_creative_id": 6096555059240,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pessoal, esse v\u00eddeo \u00e9 especial em agradecimento a todos os coment\u00e1rios, curtidas e compartilhamentos do v\u00eddeo anterior e comemora\u00e7\u00e3o aos Alop\u00e9cicos que conseguimos encontrar !!<br /> Comemora\u00e7\u00e3o das 7.000 visualiza\u00e7\u00f5es do v\u00eddeo !!<br /> #Conseguimos #Alop\u00e9cicos !!!<br /> <br /> Guys, this video is special in thanks to all the comments, likes and share from the previous video and commemorating the Alopecian Guys we can find !!<br /> Commemoration of the 7000 visualizations of the video !<br /> #Alop\u00e9cicos #Baldandproud #WeCan !!!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528248413,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Alop\u00e9cicos",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 212530915913216,
+                    "page_is_deleted": false,
+                    "page_like_count": 785,
+                    "page_name": "Alop\u00e9cicos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34439174_198765490951855_1602844690644729856_n.jpg?_nc_cat=0&oh=0ee912030d428d430a4d4613643c61af&oe=5C03B31A",
+                    "page_profile_uri": "https://www.facebook.com/SomosAlopecicos/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Agradecimentos e Alop\u00e9cicos Encontrados !!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_424859341318592_3946359678350393344_n.mp4?_nc_cat=0&oh=a4dda5776eaaea2a03400180290427a3&oe=5B78F8F8",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34663502_198765494285188_4247182099750060032_n.jpg?_nc_cat=0&oh=b71e6bfe087cb1c998d49b86c5c4546a&oe=5BF40DCA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33885167_1653377891384807_8256663873067679744_n.mp4?_nc_cat=0&oh=36be6f8e39a3f8c489c9729a6be6ae8f&oe=5B78E7EC"
+                        }
+                    ]
+                },
+                "startDate": 1528009200
+            },
+            {
+                "adArchiveID": "260908364684701",
+                "adid": "6104730741582",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1113508038659374",
+                "pageName": "Hendel Machado",
+                "snapshot": {
+                    "ad_creative_id": 6104521175382,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "2018, ano de construir um NOVO BRASIL!<br /> <br /> Contribua para a vaquinha que vai colaborar para n\u00f3s combatermos os corruptos. <br /> <br /> Eu vou estar fazendo a minha parte, e tudo que eu preciso \u00e9 de um d\u00e9cimo da for\u00e7a deles para enfrent\u00e1-los. Mas, para isso, eu preciso da tua ajuda, da tua indigna\u00e7\u00e3o e da tua doa\u00e7\u00e3o!<br /> <br /> Quem ganha dinheiro de forma honesta sabe do esfor\u00e7o e sacrif\u00edcio para fechar a conta no fim do m\u00eas.<br /> <br /> Imagine se algu\u00e9m pegasse o seu dinheiro e sa\u00edsse gastando por a\u00ed. Pois \u00e9 exatamente isso que o governo faz. #VamosRenovarTudo?<br /> <br /> O NOVO \u00e9 contra o fundo partid\u00e1rio. O partido \u00e9 mantido por seus filiados e doadores, n\u00e3o pelos pagadores de impostos.<br /> <br /> Venha se unir \u00e0 #OndaLaranja. <br /> <br /> Vamos Renovar Tudo!<br /> #SejaNOVO<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fdoehendel&amp;h=AT1QOJjey-ROVZ_SSqp0fodTOsA3vyda_8Lj9im6tTgClcr31LVYFsAOYiHmG19-UHMr8jORmtoaIOxMJaGU_h8AZgqs0aexl0RBxnRtzcJB7jb5Kyd3dFviyuHMy9a-W4rWrUG3bWs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/doehendel</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531502116,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Hendel Machado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1113508038659374,
+                    "page_is_deleted": false,
+                    "page_like_count": 21612,
+                    "page_name": "Hendel Machado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36994141_2120400748238538_6313638870428680192_n.jpg?_nc_cat=0&oh=174fae7a1a1bc7b9ee6f2405f92a97d3&oe=5C03AD03",
+                    "page_profile_uri": "https://www.facebook.com/HendelNovo/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Hendel - Vaquinha por um NOVO Brasil!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_caption_urls": {
+                                "pt_BR": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.2093-6/34269768_1992815034061999_4923512579831103488_n.srt?_nc_cat=0&oh=5ccfe0d17623b0e036d82ca4251070f0&oe=5BFBD54D"
+                            },
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_216519502475160_1325987778734850048_n.mp4?_nc_cat=0&oh=6ccdc0b94c96e2a1f8752aeffd82a0e8&oe=5B78F894",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37021418_2120400754905204_2803242265525354496_n.jpg?_nc_cat=0&oh=4833f8172b7d2842ca75ca16daa290d5&oe=5C3B78C7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34073162_166309080884371_129083111777501184_n.mp4?_nc_cat=0&oh=88db3ff61633dccd84c818fad171b0f9&oe=5B78DECC"
+                        }
+                    ]
+                },
+                "startDate": 1528009200
+            },
+            {
+                "adArchiveID": "177088943142017",
+                "adid": "6091341440352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530169200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6091341439352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Le Groupe de la Banque mondiale red\u00e9finit son approche pour r\u00e9ussir \u00e0 mobiliser les fonds n\u00e9cessaires au d\u00e9veloppement. Comment ? En aidant ses pays clients \u00e0 mobiliser davantage le secteur priv\u00e9 pour combler les manques, l\u00e0 o\u00f9 les ressources publiques sont insuffisantes. Notre r\u00f4le consiste notamment \u00e0 promouvoir la bonne gouvernance de chaque programme et de chaque projet, tout en veillant \u00e0 la viabilit\u00e9 environnementale et sociale. Pour en savoir plus sur notre strat\u00e9gie de maximisation des financements pour le d\u00e9veloppement, rendez-vous sur <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwrld.bg%2FiUKK30k3ebj&amp;h=AT3vVHwdcxkgQjeZqAJad7njjBOuiYytpEwwDNFa_H1Bu1N_5wON1niXGcL4QiDutfEG7QbOTKVoIDl2fhlOuLQxS2X-IyjjzUe0-OVmExQImV04OZwk5NWGk1KC7-1mUw2953PRZ3Y\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://wrld.bg/iUKK30k3ebj</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529366132,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35525343_177088956475349_7025476261757583360_n.jpg?_nc_cat=0&oh=01a3d27d7b863266cdabbdcad78a7d61&oe=5BF3D6F7",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354900,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35556655_177088953142016_1505727774910840832_n.jpg?_nc_cat=0&oh=55291adaee56df629104db538a6886b1&oe=5BFAEFEE",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Maximiser les financements pour le d\u00e9veloppement : On vous explique !",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_758990720973737_6491067130522370048_n.mp4?_nc_cat=0&oh=cc8fe2cde9c967dc6b58c9bd257f95c8&oe=5B78DEAA",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35604854_177088979808680_428467543766728704_n.jpg?_nc_cat=0&oh=6c966d8a992287d924d8d4d3c1e96544&oe=5BF87655",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/32521938_1827596564214491_1369113425094901760_n.mp4?_nc_cat=0&oh=34aa09243cf5794c4f7a441629a0b852&oe=5B78E88C"
+                        }
+                    ]
+                },
+                "startDate": 1527836400
+            },
+            {
+                "adArchiveID": "832632533596542",
+                "adid": "6093897756070",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528182000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                "snapshot": {
+                    "ad_creative_id": 6093897754270,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udd35 NUEVO ART\u00cdCULO<br /> <br /> Los puntos fundamentales del programa electoral.<br /> <br /> Nuestra radiograf\u00eda de los puntos fundamentales con los que aspiran a elegirse Andr\u00e9s L\u00f3pez, Ricardo Anaya y Jos\u00e9 Meade como Presidente de \ud83c\uddf2\ud83c\uddfd #M\u00e9xico. \u00bfQue los diferencia? \u00bfCu\u00e1les aspectos de sus candidaturas le otorgan el favor del electorado en las mediciones previas?<br /> <br /> A un mes de las elecciones, informaci\u00f3n fundamental para el contexto. Un aporte de nuestro Observatorio Pol\u00edtico.<br /> \u2b07\ufe0f"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "celag.org",
+                    "cards": [],
+                    "creation_time": 1528443280,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34782936_134510517423233_6326406846127013888_n.jpg?_nc_cat=0&oh=c55028b31edfd86a7c3d59235a5c1af8&oe=5BFA1FF1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34714024_134510514089900_1049200252021637120_n.jpg?_nc_cat=0&oh=107ca4c938ace2224e68d0ec59408826&oe=5C0E9502"
+                        }
+                    ],
+                    "instagram_actor_name": "CELAG Geopol\u00edtica y econom\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34744398_134510504089901_2646329127174406144_n.jpg?_nc_cat=0&oh=b610ecf60efbfe38fed78af32871413f&oe=5C3AA4F8",
+                    "is_reshared": false,
+                    "link_description": "Propuestas electorales de los candidatos a la presidencia en Mexico. Andr\u00e9s Manuel L\u00f3pez Obrador (AMLO) encabeza las encuestas...",
+                    "link_url": "http://www.celag.org/propuestas-electorales-de-los-candidatos-a-la-presidencia-de-mexico/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 657061604409444,
+                    "page_is_deleted": false,
+                    "page_like_count": 39256,
+                    "page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34810262_134510507423234_847204469757181952_n.jpg?_nc_cat=0&oh=b916077c036d7a6c5e05042f7c6af6ee&oe=5BFE9183",
+                    "page_profile_uri": "https://www.facebook.com/celageopolitica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Propuestas electorales de los candidatos a la presidencia de M\u00e9xico \u2014 CELAG",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527836400
+            },
+            {
+                "adArchiveID": "612168495830732",
+                "adid": "23842861718590067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842861718500067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00danete a miles de l\u00edderes que recibir\u00e1n de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "elreyjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36361329_612168512497397_6991892843023302656_n.jpg?_nc_cat=0&oh=d447be33f64d7d239b48f347335f495b&oe=5C394039",
+                    "is_reshared": false,
+                    "link_description": "Escuela del Ministerio Sobrenatural\nLa Escuela Sobrenatural del Ministerio reunir\u00e1 a ap\u00f3stoles, profetas, evangelistas, pastores, maestros y l\u00edderes de gran influencia no s\u00f3lo en la iglesia sino en el mundo, bajo la direcci\u00f3n del ap\u00f3stol Guillermo Maldonado",
+                    "link_url": "http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806275,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36291233_612168509164064_5389564424627421184_n.jpg?_nc_cat=0&oh=0bd1891659f6636a0d3a46aa22fb747c&oe=5C102207",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Conferencia de empoderamiento para lideres | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_241685109744118_4277610014601904128_n.mp4?_nc_cat=0&oh=656a07caee12af40ec978278de503bba&oe=5B78E0DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36299635_612168519164063_2095162137356795904_n.jpg?_nc_cat=0&oh=51e491e896a83fd59748843b7c021dc7&oe=5BFAF002",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/32273694_185641225418888_5992618849923497984_n.mp4?_nc_cat=0&oh=a96deb6fbe4bdebaf8f0e00bc88ed109&oe=5B78E3DC"
+                        }
+                    ]
+                },
+                "startDate": 1527836400
+            },
+            {
+                "adArchiveID": "171899586816420",
+                "adid": "6097375335422",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528268400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1524876627600245",
+                "pageName": "Migration Data Portal",
+                "snapshot": {
+                    "ad_creative_id": 6097375331222,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00bfSab\u00eda Ud. que pa\u00edses latinoamericanos aprobaron permisos de residencia para m\u00e1s de 400.000 #venezolanos migrantes en los \u00faltimos 2 a\u00f1os? Lea m\u00e1s en nuestro nuevo blog en el <br />  Migration Data Portal <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2jPpH6D&amp;h=AT08e-rrpsNkz-IHi9T1j3193R07zd14RmkMBvld78vyNnf4xmjCdVrbBSnF_qnUyfp88Qg0aTFXbRgEoz0HKEOAnd7_XUytF3RHMcFoln4AEAiqMjpqDQzzPBrMYe8fxDVO28qO4fs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/2jPpH6D</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "migrationdataportal.org",
+                    "cards": [],
+                    "creation_time": 1528163422,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Migration Data Portal",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34563542_441362392971574_1480966382211301376_n.jpg?_nc_cat=0&oh=109055fe97ff9d895bccea9f114d5035&oe=5BF2A42D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34429904_441362396304907_4118345647944368128_n.jpg?_nc_cat=0&oh=82febb0c9b1612f9b1c9b1eb55f956a4&oe=5C04BF51"
+                        }
+                    ],
+                    "instagram_actor_name": "Migration Data Portal",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34439203_441362382971575_2168782326396354560_n.jpg?_nc_cat=0&oh=22427365e242fa82ab529c7e6cd40c32&oe=5C01BF2D",
+                    "is_reshared": false,
+                    "link_description": "El blog es sobre la magnitud y la naturaleza de la emigraci\u00f3n venezolana, y las medidas que pa\u00edses han tomado para recibir a los venezolanos.",
+                    "link_url": "http://bit.ly/2jPpH6D",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 1524876627600245,
+                    "page_is_deleted": false,
+                    "page_like_count": 1157,
+                    "page_name": "Migration Data Portal",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435577_441362379638242_9082411841560248320_n.jpg?_nc_cat=0&oh=5a1616b5fabdd4c7466c11c4fad28598&oe=5BEF4FCA",
+                    "page_profile_uri": "https://www.facebook.com/migrationdataportal/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "(Espa\u00f1ol) Respuesta de Latinoam\u00e9rica a la emigraci\u00f3n venezolana",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527836400
+            },
+            {
+                "adArchiveID": "2120400738238539",
+                "adid": "6104540019582",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1113508038659374",
+                "pageName": "Hendel Machado",
+                "snapshot": {
+                    "ad_creative_id": 6104521175382,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "2018, ano de construir um NOVO BRASIL!<br /> <br /> Contribua para a vaquinha que vai colaborar para n\u00f3s combatermos os corruptos. <br /> <br /> Eu vou estar fazendo a minha parte, e tudo que eu preciso \u00e9 de um d\u00e9cimo da for\u00e7a deles para enfrent\u00e1-los. Mas, para isso, eu preciso da tua ajuda, da tua indigna\u00e7\u00e3o e da tua doa\u00e7\u00e3o!<br /> <br /> Quem ganha dinheiro de forma honesta sabe do esfor\u00e7o e sacrif\u00edcio para fechar a conta no fim do m\u00eas.<br /> <br /> Imagine se algu\u00e9m pegasse o seu dinheiro e sa\u00edsse gastando por a\u00ed. Pois \u00e9 exatamente isso que o governo faz. #VamosRenovarTudo?<br /> <br /> O NOVO \u00e9 contra o fundo partid\u00e1rio. O partido \u00e9 mantido por seus filiados e doadores, n\u00e3o pelos pagadores de impostos.<br /> <br /> Venha se unir \u00e0 #OndaLaranja. <br /> <br /> Vamos Renovar Tudo!<br /> #SejaNOVO<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fdoehendel&amp;h=AT3af4XwWFQq7tYd1-nRKYVdEb5UM44BelWY7LMTgZexpF6ZqCzI9EiEa_7gQ_nj2ib9p_qghGJMPRThUje77k9lcmDYnafrqhQmPiPaCp-dORWOe6mVHEByLuuidxOJNbMv9Ly-Tp8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/doehendel</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531502116,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Hendel Machado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1113508038659374,
+                    "page_is_deleted": false,
+                    "page_like_count": 21612,
+                    "page_name": "Hendel Machado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36994141_2120400748238538_6313638870428680192_n.jpg?_nc_cat=0&oh=174fae7a1a1bc7b9ee6f2405f92a97d3&oe=5C03AD03",
+                    "page_profile_uri": "https://www.facebook.com/HendelNovo/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Hendel - Vaquinha por um NOVO Brasil!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_caption_urls": {
+                                "pt_BR": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.2093-6/34269768_1992815034061999_4923512579831103488_n.srt?_nc_cat=0&oh=5ccfe0d17623b0e036d82ca4251070f0&oe=5BFBD54D"
+                            },
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_216519502475160_1325987778734850048_n.mp4?_nc_cat=0&oh=6ccdc0b94c96e2a1f8752aeffd82a0e8&oe=5B78F894",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37021418_2120400754905204_2803242265525354496_n.jpg?_nc_cat=0&oh=4833f8172b7d2842ca75ca16daa290d5&oe=5C3B78C7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34073162_166309080884371_129083111777501184_n.mp4?_nc_cat=0&oh=88db3ff61633dccd84c818fad171b0f9&oe=5B78DECC"
+                        }
+                    ]
+                },
+                "startDate": 1527750000
+            },
+            {
+                "adArchiveID": "487699908312052",
+                "adid": "6097015012250",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527922800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "169042736456594",
+                "pageName": "All Out",
+                "snapshot": {
+                    "ad_creative_id": 6097015010450,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "LGBT+ refugees stuck in Russia need safe housing. Here&#039;s how you can help them: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.allout.org%2Fen%2Fa%2Fstimul&amp;h=AT1TYcvnMcNRJ7p2ztS9xMiK9sqtgpkKc-DDTTDKUU3M_7xv9I2KFd-P1OT7hClQkcFY-ihoTzG4kBpqEl3NZhw-j9VE3YRLYtQBLOtoc0V5DacVoFuhSNdXAZu5m4i7TYnBpGk9J-4\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://go.allout.org/en/a/stimul</a>"
+                        }
+                    },
+                    "body_translations": {
+                        "de_DE": "LGBT*-Fl\u00fcchtlinge in Russland brauchen sichere Unterk\u00fcnfte. Eine russische Initiative kann helfen - aber ihre finanziellen Mittel sind knapp: https://go.allout.org/de/a/stimul/",
+                        "fr_XX": "Les r\u00e9fugi\u00e9s LGBT+ bloqu\u00e9s en Russie n\u00e9c\u00e9ssitent d'un logement s\u00fbr. Voici comment les aider : https://go.allout.org/fr/a/stimul",
+                        "it_IT": "Ai rifugiati LGBT+ bloccati in Russia serve un luogo sicuro dove stare. Ecco come li puoi aiutare: https://go.allout.org/it/a/stimul"
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527793723,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "All Out",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34269758_487699921645384_1409369887272337408_n.jpg?_nc_cat=0&oh=ef70b836795caea4b578d747ac5458d9&oe=5BF4CF2E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/33920177_2094398347254347_6514921735366639616_n.jpg?_nc_cat=0&oh=1947a55080daa1d6a3f20f41af11bb15&oe=5BF03670"
+                        }
+                    ],
+                    "instagram_actor_name": "All Out",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34161736_487699914978718_3228056793577947136_n.jpg?_nc_cat=0&oh=0b4ca4d10c31bce4ce63840fa8a38dbd&oe=5BF29B3C",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://go.allout.org/en/a/stimul",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 169042736456594,
+                    "page_is_deleted": false,
+                    "page_like_count": 195753,
+                    "page_name": "All Out",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34191182_487699918312051_5863483734681976832_n.jpg?_nc_cat=0&oh=59fe7400d9baae0d595b81b1aca5abba&oe=5BEF895C",
+                    "page_profile_uri": "https://www.facebook.com/AllOutOrg/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527750000
+            },
+            {
+                "adArchiveID": "263448737720500",
+                "adid": "23842822398190740",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "327792884409708",
+                "pageName": "Fashion For Her",
+                "snapshot": {
+                    "ad_creative_id": "23842821747210740",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Maamme rikkain kansalainen on ven\u00e4l\u00e4isl\u00e4ht\u00f6inen miljard\u00f6\u00f6ri, maailman kolmanneksi suurin \u00f6ljykauppias ja Vladimir Putinin l\u00e4heinen yst\u00e4v\u00e4, joka ponnisti k\u00f6yhyydest\u00e4 oligarkiksi."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "goodmoodsleader.com",
+                    "cards": [],
+                    "creation_time": 1532745420,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fashion For Her",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {},
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37850212_386112331916917_7110034950816006144_n.jpg?_nc_cat=0&oh=5b54614593cbdd73acbb6e3704360883&oe=5C0CF7F5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37859460_386112328583584_8899007594035675136_n.jpg?_nc_cat=0&oh=29c856974dd548fb7c2c0f8d5f6e5ce8&oe=5C02304B"
+                        }
+                    ],
+                    "instagram_actor_name": "Fashion For Her",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37837652_386112298583587_2000284389937774592_n.jpg?_nc_cat=0&oh=97988fc69db4c5ec7a423c98a91de08c&oe=5C08AE89",
+                    "is_reshared": false,
+                    "link_description": "H\u00e4n on oikeasti Suomen rikkain mies admin May 31, 2018 Uncategorized Leave a Comment Maamme rikkain kansalainen on ven\u00e4l\u00e4isl\u00e4ht\u00f6inen miljard\u00f6\u00f6ri, maailman kolmanneksi suurin \u00f6ljykauppias ja Vladimir Putinin l\u00e4heinen yst\u00e4v\u00e4, joka ponnisti k\u00f6yhyydest\u00e4 oligarkiksi. Harva suomalainen on kos...",
+                    "link_url": "http://goodmoodsleader.com/han-on-oikeasti-suomen-rikkain-mies/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 327792884409708,
+                    "page_is_deleted": false,
+                    "page_like_count": 648,
+                    "page_name": "Fashion For Her",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37889044_386112295250254_2194794005550596096_n.jpg?_nc_cat=0&oh=290a3c551627d24c7e34833da0d74db5&oe=5C0B5057",
+                    "page_profile_uri": "https://www.facebook.com/Fashion-For-Her-327792884409708/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "H\u00e4n on oikeasti Suomen rikkain mies",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527750000
+            },
+            {
+                "adArchiveID": "1858873540837330",
+                "adid": "6101520226086",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528873200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "285477048192637",
+                "pageName": "\u00bfEn qu\u00e9 creemos los cat\u00f3licos?",
+                "snapshot": {
+                    "ad_creative_id": 6101520222886,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#AbortoSesionHistorica<br /> Los cat\u00f3licos decimos un NO rotundo al aborto, conozca en esta esntrevista por radio y tv, al hno. Jimmy Carranza, las razones por que no estamos de acuerdo con el aborto:<br /> Tema de hoy: NO AL ABORTO, SUS RAZONES<br /> A\u00fadenos a viralizar estos programas compartiendolos en sus redes sociales, com\u00e9ntelos y regalenos un like.<br /> Entre a nuestro canal de YouTube: JIMMY CARRANZA OFICIAL y suscr\u00edbase TOTALMENTE GRATIS, active la campanita para que reciba la notificaci\u00f3n cada vez que subimnos un nuevo programa.<br /> Y recuerde... SOMOS LA IGLESIA QUE CRISTO FUND\u00d3... SOMOS LA IGLESIA CAT\u00d3LICA"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528953144,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "\u00bfEn qu\u00e9 creemos los cat\u00f3licos?",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1400": "Tv Show"
+                    },
+                    "page_id": 285477048192637,
+                    "page_is_deleted": false,
+                    "page_like_count": 3275,
+                    "page_name": "\u00bfEn qu\u00e9 creemos los cat\u00f3licos?",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35217941_1858873554170662_1394468764526837760_n.jpg?_nc_cat=0&oh=328eb7fcd04c967e419660deac9f0bfd&oe=5C3B25A0",
+                    "page_profile_uri": "https://www.facebook.com/EQCC.JC/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "NO AL ABORTO, SUS RAZONES #AbortoSesi\u00f3nHist\u00f3rica",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_169802443863562_365221663547064320_n.mp4?_nc_cat=0&oh=57c5754fc859f5ad6a79ed01d956dffa&oe=5B78E111",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35329548_1858873567503994_224930594092482560_n.jpg?_nc_cat=0&oh=c7c71b54198800998dbd682861f70522&oe=5C0E0195",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_163031991214834_2767247969978679296_n.mp4?_nc_cat=0&oh=afb7b8fd34099b365567cda8a40a2f55&oe=5B78DE3B"
+                        }
+                    ]
+                },
+                "startDate": 1527663600
+            },
+            {
+                "adArchiveID": "2145395745694395",
+                "adid": "6091813924014",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "287842647957979",
+                "pageName": "European Commission - Development & Cooperation - EuropeAid",
+                "snapshot": {
+                    "ad_creative_id": 6091813919614,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El cambio social est\u00e1 motivado por la circulaci\u00f3n de informaci\u00f3n rigurosa- necesita ser fiable, accesible, y ampliamente distribuida. La narraci\u00f3n de historias es una parte esencial de este intercambio, permitiendo a la gente afectada por problemas sociales, comunicar sus perspectivas, y generar impulso para el cambio que quieren ver. <br /> <br /> Esto fue el tema com\u00fan entre las candidaturas para el premio Lorenzo Natali de este a\u00f1o, seg\u00fan los miembros del Gran Jurado, Maroun Labaki de &#064;Press Club Brussels Europe y Rana Sabbagh de &#064;Arab Reporters for Investigative Journalism (ARIJ). &quot;Es hora de luchar por las mujeres, igualdad, dignidad, libertad\u201d \u2013 mira qu\u00e9 m\u00e1s tienen que decir:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "ec.europa.eu",
+                    "cards": [],
+                    "creation_time": 1528109167,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "European Commission - Development & Cooperation - EuropeAid",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "EU Development & Cooperation",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34429977_2145395759027727_2043863657858727936_n.jpg?_nc_cat=0&oh=1c940a6f648c23ed03e84b1b2b6c9277&oe=5BFC7E15",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://ec.europa.eu/europeaid/node/104098_es",
+                    "page_categories": {
+                        "161422927240513": "Government Organization"
+                    },
+                    "page_id": 287842647957979,
+                    "page_is_deleted": false,
+                    "page_like_count": 243894,
+                    "page_name": "European Commission - Development & Cooperation - EuropeAid",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34442622_2145395755694394_4213566327027138560_n.jpg?_nc_cat=0&oh=327db888557c0563d3761907f1719303&oe=5C0C0105",
+                    "page_profile_uri": "https://www.facebook.com/europeaid/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1789094621148993_3698808230244253696_n.mp4?_nc_cat=0&oh=cb7703d99668e06a9dbbe4d92c374889&oe=5B78E2B3",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435875_2145395762361060_5055795433654190080_n.jpg?_nc_cat=0&oh=2f207fdf2ea0269aaa88e40c7396ca33&oe=5C04407B",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33822330_205118666967785_3160814772706869248_n.mp4?_nc_cat=0&oh=898363a6df7003e33e64b6262375eada&oe=5B78F793"
+                        }
+                    ]
+                },
+                "startDate": 1527663600
+            },
+            {
+                "adArchiveID": "216037979204972",
+                "adid": "23842879425460453",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528527600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround",
+                "snapshot": {
+                    "ad_creative_id": "23842879425360453",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Putin: el \u00fanico capaz de regalarle un ramo de flores a Merkel."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527855873,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "PlayGround",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "PlayGround",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34355381_216037989204971_7099366501160845312_n.jpg?_nc_cat=0&oh=404bc424f58e982574752e2ba1a52c35&oe=5BFC1525",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 102886746417877,
+                    "page_is_deleted": false,
+                    "page_like_count": 16584789,
+                    "page_name": "PlayGround",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34163758_216037992538304_4311160701390422016_n.jpg?_nc_cat=0&oh=f0cc2c2cc4d8da73c539833508389b14&oe=5BFA958B",
+                    "page_profile_uri": "https://www.facebook.com/PlayGroundMag/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Flores para Angela",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_423926104746794_6607634248037826560_n.mp4?_nc_cat=0&oh=822a9a30726be8efe1ff3b7524d2009d&oe=5B78E164",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34212265_216038005871636_8108578185295167488_n.jpg?_nc_cat=0&oh=4f5037f49c992b7ea9e64ced79ea5da0&oe=5C0989EB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33189750_196615927625838_4147057525792964608_n.mp4?_nc_cat=0&oh=100918fd1d776baab866b1bfb4bb374d&oe=5B78E833"
+                        }
+                    ]
+                },
+                "startDate": 1527663600
+            },
+            {
+                "adArchiveID": "2067932366860028",
+                "adid": "6093668325870",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                "snapshot": {
+                    "ad_creative_id": 6093668324070,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udd35 NUEVO ART\u00cdCULO<br /> <br /> Muchos indicadores hablan de \u201ccalidad democr\u00e1tica\u201d pero es hora de debatir c\u00f3mo se construyen.<br /> <br /> Pasando por temas de soberan\u00eda nacional, hasta capacidad de respuesta a las demandas de la poblaci\u00f3n, nuestra investigadora <a href=\"https://www.facebook.com/lamarencooche\" data-hovercard=\"/ajax/hovercard/user.php?id=708753294&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">B\u00e1rbara Ester</a> compila una serie de variables con importante aportes al tema de la investigaci\u00f3n emp\u00edrica de la democracia."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "celag.org",
+                    "cards": [],
+                    "creation_time": 1529446588,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35565981_2067932396860025_8383636386376318976_n.jpg?_nc_cat=0&oh=c574755405bfad3aeae264ea0c1ec361&oe=5C0AB242",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35781656_2067932400193358_909840799628263424_n.jpg?_nc_cat=0&oh=0e74845da809acaed4b189bc8c5ef959&oe=5C07B914"
+                        }
+                    ],
+                    "instagram_actor_name": "CELAG Geopol\u00edtica y econom\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605240_2067932376860027_4103411260677160960_n.jpg?_nc_cat=0&oh=e6d6ae395efe0ca91d53d20f724a50c1&oe=5C00B1AE",
+                    "is_reshared": false,
+                    "link_description": "A pesar de la notoriedad del concepto de \u201ccalidad democr\u00e1tica\u201d, el grado de democraticidad es una cuesti\u00f3n compleja y no goza de un consenso elemental. Dicho t\u00e9rmino puede asociarse a concepciones muy distintas de la democracia y, por ende, de indicadores.",
+                    "link_url": "http://www.celag.org/por-otros-indicadores-de-calidad-democratica/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 657061604409444,
+                    "page_is_deleted": false,
+                    "page_like_count": 39256,
+                    "page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35814229_2067932380193360_375052156492840960_n.jpg?_nc_cat=0&oh=c6df4cf8be01d157d0e3f665a824aa7a&oe=5BF5783D",
+                    "page_profile_uri": "https://www.facebook.com/celageopolitica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Por otros indicadores de calidad democr\u00e1tica \u2014 CELAG",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527577200
+            },
+            {
+                "adArchiveID": "593024757739312",
+                "adid": "6100028914104",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527663600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "139122142786837",
+                "pageName": "Peri\u00f3dico S\u00edntesis",
+                "snapshot": {
+                    "ad_creative_id": 6100028911704,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Elecciones2018 | &quot;\u00bfPor qu\u00e9 el #INE no persigue a los partidos pol\u00edticos que utilizan el dinero p\u00fablico para financiar sus campa\u00f1as?&quot;. Este fue el mensaje del Bronco \ud83d\udc49\ud83c\udffb <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FZYcJJ1&amp;h=AT221zLkLeBVHQT-Hts_eBYOgeNtPluwAUs7OA52lhg_QKXHemduf_7jT7YqK2Ikv7FXIzAUmYbMN6xmP3fYf4oBDno3_ij2h0aKl9GRzWj3OYyeGMreJQ9wOZ-Qp_9hlKPWVaqqJYw\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://goo.gl/ZYcJJ1</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527648754,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Peri\u00f3dico S\u00edntesis",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Peri\u00f3dico S\u00edntesis",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34085626_593024767739311_8877659708199010304_n.jpg?_nc_cat=0&oh=d9b461da41d359ba2e208c7b257a4c77&oe=5C03CCDA",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 139122142786837,
+                    "page_is_deleted": false,
+                    "page_like_count": 1172680,
+                    "page_name": "Peri\u00f3dico S\u00edntesis",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34135694_593024764405978_1349863892775337984_n.jpg?_nc_cat=0&oh=6c3f7f07bb2ca6ef82d30ffddeedf7ca&oe=5C00497A",
+                    "page_profile_uri": "https://www.facebook.com/periodicosintesismx/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34119865_593024774405977_6931697905707253760_n.jpg?_nc_cat=0&oh=0347586c4eaf0bd15db90777ea3aed6c&oe=5C02BC77",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33799016_168344207174647_8565745705556115456_n.mp4?_nc_cat=0&oh=98a49e8e75a0b802c4ce89ca429152b2&oe=5B78E1F8"
+                        }
+                    ]
+                },
+                "startDate": 1527577200
+            },
+            {
+                "adArchiveID": "282124452592740",
+                "adid": "23842843870180167",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1645489149033303",
+                "pageName": "Vox Populi",
+                "snapshot": {
+                    "ad_creative_id": "23842843870080167",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "As\u00ed fue como este joven de 24 a\u00f1os salv\u00f3 a un ni\u00f1o de cuatro de manera her\u00f3ica. \ud83d\udc4f\ud83c\udffc \ud83d\udc4f\ud83c\udffc"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "voxpopuli.mx",
+                    "cards": [],
+                    "creation_time": 1533748488,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Vox Populi",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36971470_2075427472696008_4394183664762617856_n.jpg?_nc_cat=0&oh=3c7fcb0ba35999b41d44335d0aebbfdc&oe=5C01598A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/37023420_2075427476029341_6336633846158589952_n.jpg?_nc_cat=0&oh=00fffa98bb23210dc78ec7b141f9c085&oe=5C01205E"
+                        }
+                    ],
+                    "instagram_actor_name": "Vox Populi",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36959163_2075427462696009_5773902974724079616_n.jpg?_nc_cat=0&oh=ecfa86b2dd1fe5d6f009a021c7f960f7&oe=5C39EFDF",
+                    "is_reshared": false,
+                    "link_description": "Inicio Mundo Ni\u00f1o de cuatro a\u00f1os es salvado de caer de un edificio por... \u00a9THIBAULT CAMUS / POOL/EPA/MAXPPP - epa06768273 Mamoudou Gassama from Mali leaves the presidential Elysee Palace after his meeting with French President Emmanuel Macron in Paris, France, 28 May 2018. The 22 year old migrant...",
+                    "link_url": "http://voxpopuli.mx/nino-de-cuatro-anos-es-salvado-de-caer-de-un-edificio-por-un-inmigrante-en-francia/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 1645489149033303,
+                    "page_is_deleted": false,
+                    "page_like_count": 61155,
+                    "page_name": "Vox Populi",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36974461_2075427466029342_2812466175944949760_n.jpg?_nc_cat=0&oh=bd2bba5cf575b084249f03781bcfd48e&oe=5C0ED756",
+                    "page_profile_uri": "https://www.facebook.com/VoxPmx/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ni\u00f1o de cuatro a\u00f1os es salvado de caer de un edificio por un inmigrante en Francia | VoxPopuli",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527577200
+            },
+            {
+                "adArchiveID": "308985633001415",
+                "adid": "23842871470520511",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1230950177041255",
+                "pageName": "ColorMade",
+                "snapshot": {
+                    "ad_creative_id": "23842871007430511",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u26a1 Our entire ColorMade shop preset bundle is only $49 (95% off) for Memorial Day! The Full Lightroom &amp; ACR bundle includes 572+ presets from all 14 ColorMade collections.<br /> <br /> Edit like the pros. ColorMade presets transform your photos with a single click in Adobe Lightroom or Photoshop ACR so you can spend less time behind the computer and more time out with your camera.<br /> <br /> Designed for fashion, lifestyle, portrait, wedding, blog, landscape, and food photographers.<br /> <br /> What&#039;s included in the ColorMade Bundle:<br /> <br /> \ud83d\udcf7 Solace - 27 Presets - Combining a beautiful mix of deep warmth, cooling tones, and rich contrasts, Solace is the perfect color palette for adding that pro editorial touch to your images. We designed this set to work wonders on both natural and artificial light studio portraits, as well as lifestyle and wedding photography. And, the Solace palette is so versatile that it even performs beautifully over travel &amp; landscape images.<br /> <br /> \ud83d\udcf7 Venus - 24 Presets - We created the unique Venus color palette with modern lifestyle and editorial imagery in mind. It\u2019s warming highlights, cooling shadows, and deep rich color tones, create the perfect palette for natural light portraits, fashion lifestyle imagery, and wedding photography. Venus is also beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Peach Cr\u00e8me - 24 Presets -  This lovely color palette is exactly as the title says, creamy and rich with milky peach tones. Perfect for all types of photography, including, natural light portraiture, wedding imagery, and travel photography, Peach Cr\u00e8me truly is the timeless palette.<br /> <br /> \ud83d\udcf7 Street Chic - 24 Presets - The Street Chic color palette has become one of our absolute faves for creating instant editorial perfection in all situations. With an added overall warmth, slightly tweaked individual color tones, and the perfect amount of saturation and rich contrast, this palette brings instant life &amp; depth to all photo styles. Perfect for bloggers, lifestyle photographers, and natural light wedding shooters.<br /> <br /> \ud83d\udcf7 Frosted Sage - 23 Presets - Take your images from raw and dull to beautifully icy cool in the click of a button. With twenty different frosty variations, this color palette is the perfect cooling compliment to lifestyle, fashion, and wedding photography of all kinds. This palette is also wonderful for adding rich blue skies and icy earth tones to travel and landscape photography.<br /> <br /> \ud83d\udcf7 Sweetbrier - 25 Presets - This truly unique color palette has quickly become one of our faves for pushing artistic editorial &amp; fashion imagery over the top. With a mix of deep rich lavender shadows and olive toned highlights, Sweetbrier is the perfect palette for adding a truly unique artistic look to naturally lit fashion &amp; lifestyle imagery, as well as wedding photography. This color palette also looks beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Copper - 26 Presets - Give your photos that perfect golden touch with the gorgeous Copper palette. Created for lifestyle imagery, natural light portraiture, wedding photography, and even landscapes, this color palette adds rich warmth and instant editorial beauty to all photography styles.<br /> <br /> \ud83d\udcf7 Wild Palms - 26 Presets - Feel the breeze as we journey through the lush colors and deep, defining tones of the Wild Palms collection. Blushing wine shadows blend seamlessly with warm overtones and cooling highlights, creating the perfect palette for earth rich photography and natural light portraiture.<br /> <br /> \ud83d\udcf7 Muse - 27 Presets - We consider Muse to be the perfect complimentary color palette to portrait photography. From studio &amp; natural light portraiture, to lifestyle imagery, and wedding photography, Muse is designed to be a simple, yet highly effective color palette that works wonders across the board.<br /> <br /> \ud83d\udcf7 Royal Gardens - 24 Presets - The Royal Gardens color palette lies at the center of class and beauty. With silvery soft highlights, cooling shadows, and rich, colorful earthly tones, this palette truly is a royal treatment for your photos. Perfect for fashion, lifestyle, weddings, and all types of natural light photography, including landscapes and travel. The Royal Gardens palette was built for both pro and amateur photographers and bloggers alike.<br /> <br /> \ud83d\udcf7 Indigo Slate - 29 Presets - Savor the rich blend of powder blues, peach cream highlights, and full-flavored color tones, with the foodie inspired Indigo Slate palette. This beautiful palette from the Cuisine Collection aims to take your gourmet photos from raw and dull to deliciously divine in the single click of a button.<br /> <br /> \ud83d\udcf7 Plum Slate - 31 Presets - Add a splash of plummy sweetness to your feast inspired photos with Plum Slate, from the ColorMade Cuisine Collection. Infusing deep wine tones with soft lilac highlights and precise color saturations, the Plum Slate color palette is designed to be the perfect compliment to all food related photography and still life imagery.<br /> <br /> \ud83d\udcf7 Color Wash - 131 Presets - Add a quick touch of color or a full-on color wash in the click of a button. Divided into two separate collections, The Color Collection and The Black &amp; White Collection, this huge set of split-toned and duo-toned color filters will have you coloring your images in ways you\u2019ve never imagined. Designed to only affect the split-toning tools and the option for color or black &amp; white treatments, the Color Wash set provides instant beautiful color filters to add over Lightroom\u2019s endless editing possibilities. Begin your photo editing process with the Color Wash presets or simply add them on top of any existing editing process for infinite creativity.<br /> <br /> \ud83d\udcf7 The Lensman Toolkit - 168 Presets - When it comes to developing a speedy Lightroom workflow, our experience has shown that a layered preset based system is the most efficient system. For The Lensman Toolkit, we\u2019ve put together a huge set of speed-workflow tools that will not only have you editing your photos faster, but also editing them in new, unique ways. Divided into seventeen different toolsets, this collection of 168 presets offers extreme editing flexibility while working exclusively within the left-side &#039;Presets&#039; panel."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "colormadelabs.com",
+                    "cards": [],
+                    "creation_time": 1534023285,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "ColorMade",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38888957_223258931627689_554697534539300864_n.jpg?_nc_cat=0&oh=0c1e17d30018e0a9e88ec6438039805a&oe=5BFB6482",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38907284_223258928294356_5143718134372368384_n.jpg?_nc_cat=0&oh=f3486764cc65465255fb4b80b4b68558&oe=5C3AE60D"
+                        }
+                    ],
+                    "instagram_actor_name": "ColorMade",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38934789_223258911627691_1282405341128032256_n.jpg?_nc_cat=0&oh=47aed23bb8232a85e38ce8d6d9ab179a&oe=5BFCC7B3",
+                    "is_reshared": false,
+                    "link_description": "ColorMade Bundle | Memorial Day Sale",
+                    "link_url": "https://colormadelabs.com/products/full-lightroom-bundle-14-sets-573-lightroom-adobe-camera-raw-presets",
+                    "page_categories": {
+                        "2208": "Camera Photo"
+                    },
+                    "page_id": 1230950177041255,
+                    "page_is_deleted": false,
+                    "page_like_count": 6862,
+                    "page_name": "ColorMade",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38948597_223258908294358_8125278405416452096_n.jpg?_nc_cat=0&oh=c98163720507e8a34780e49fe5085272&oe=5BFC591F",
+                    "page_profile_uri": "https://www.facebook.com/colormadelabs/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "572+ Presets for Lightroom and Photoshop ACR $49 (reg. $966)",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527490800
+            },
+            {
+                "adArchiveID": "443871062763452",
+                "adid": "23842871416530511",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1230950177041255",
+                "pageName": "ColorMade",
+                "snapshot": {
+                    "ad_creative_id": "23842871007430511",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u26a1 Our entire ColorMade shop preset bundle is only $49 (95% off) for Memorial Day! The Full Lightroom &amp; ACR bundle includes 572+ presets from all 14 ColorMade collections.<br /> <br /> Edit like the pros. ColorMade presets transform your photos with a single click in Adobe Lightroom or Photoshop ACR so you can spend less time behind the computer and more time out with your camera.<br /> <br /> Designed for fashion, lifestyle, portrait, wedding, blog, landscape, and food photographers.<br /> <br /> What&#039;s included in the ColorMade Bundle:<br /> <br /> \ud83d\udcf7 Solace - 27 Presets - Combining a beautiful mix of deep warmth, cooling tones, and rich contrasts, Solace is the perfect color palette for adding that pro editorial touch to your images. We designed this set to work wonders on both natural and artificial light studio portraits, as well as lifestyle and wedding photography. And, the Solace palette is so versatile that it even performs beautifully over travel &amp; landscape images.<br /> <br /> \ud83d\udcf7 Venus - 24 Presets - We created the unique Venus color palette with modern lifestyle and editorial imagery in mind. It\u2019s warming highlights, cooling shadows, and deep rich color tones, create the perfect palette for natural light portraits, fashion lifestyle imagery, and wedding photography. Venus is also beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Peach Cr\u00e8me - 24 Presets -  This lovely color palette is exactly as the title says, creamy and rich with milky peach tones. Perfect for all types of photography, including, natural light portraiture, wedding imagery, and travel photography, Peach Cr\u00e8me truly is the timeless palette.<br /> <br /> \ud83d\udcf7 Street Chic - 24 Presets - The Street Chic color palette has become one of our absolute faves for creating instant editorial perfection in all situations. With an added overall warmth, slightly tweaked individual color tones, and the perfect amount of saturation and rich contrast, this palette brings instant life &amp; depth to all photo styles. Perfect for bloggers, lifestyle photographers, and natural light wedding shooters.<br /> <br /> \ud83d\udcf7 Frosted Sage - 23 Presets - Take your images from raw and dull to beautifully icy cool in the click of a button. With twenty different frosty variations, this color palette is the perfect cooling compliment to lifestyle, fashion, and wedding photography of all kinds. This palette is also wonderful for adding rich blue skies and icy earth tones to travel and landscape photography.<br /> <br /> \ud83d\udcf7 Sweetbrier - 25 Presets - This truly unique color palette has quickly become one of our faves for pushing artistic editorial &amp; fashion imagery over the top. With a mix of deep rich lavender shadows and olive toned highlights, Sweetbrier is the perfect palette for adding a truly unique artistic look to naturally lit fashion &amp; lifestyle imagery, as well as wedding photography. This color palette also looks beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Copper - 26 Presets - Give your photos that perfect golden touch with the gorgeous Copper palette. Created for lifestyle imagery, natural light portraiture, wedding photography, and even landscapes, this color palette adds rich warmth and instant editorial beauty to all photography styles.<br /> <br /> \ud83d\udcf7 Wild Palms - 26 Presets - Feel the breeze as we journey through the lush colors and deep, defining tones of the Wild Palms collection. Blushing wine shadows blend seamlessly with warm overtones and cooling highlights, creating the perfect palette for earth rich photography and natural light portraiture.<br /> <br /> \ud83d\udcf7 Muse - 27 Presets - We consider Muse to be the perfect complimentary color palette to portrait photography. From studio &amp; natural light portraiture, to lifestyle imagery, and wedding photography, Muse is designed to be a simple, yet highly effective color palette that works wonders across the board.<br /> <br /> \ud83d\udcf7 Royal Gardens - 24 Presets - The Royal Gardens color palette lies at the center of class and beauty. With silvery soft highlights, cooling shadows, and rich, colorful earthly tones, this palette truly is a royal treatment for your photos. Perfect for fashion, lifestyle, weddings, and all types of natural light photography, including landscapes and travel. The Royal Gardens palette was built for both pro and amateur photographers and bloggers alike.<br /> <br /> \ud83d\udcf7 Indigo Slate - 29 Presets - Savor the rich blend of powder blues, peach cream highlights, and full-flavored color tones, with the foodie inspired Indigo Slate palette. This beautiful palette from the Cuisine Collection aims to take your gourmet photos from raw and dull to deliciously divine in the single click of a button.<br /> <br /> \ud83d\udcf7 Plum Slate - 31 Presets - Add a splash of plummy sweetness to your feast inspired photos with Plum Slate, from the ColorMade Cuisine Collection. Infusing deep wine tones with soft lilac highlights and precise color saturations, the Plum Slate color palette is designed to be the perfect compliment to all food related photography and still life imagery.<br /> <br /> \ud83d\udcf7 Color Wash - 131 Presets - Add a quick touch of color or a full-on color wash in the click of a button. Divided into two separate collections, The Color Collection and The Black &amp; White Collection, this huge set of split-toned and duo-toned color filters will have you coloring your images in ways you\u2019ve never imagined. Designed to only affect the split-toning tools and the option for color or black &amp; white treatments, the Color Wash set provides instant beautiful color filters to add over Lightroom\u2019s endless editing possibilities. Begin your photo editing process with the Color Wash presets or simply add them on top of any existing editing process for infinite creativity.<br /> <br /> \ud83d\udcf7 The Lensman Toolkit - 168 Presets - When it comes to developing a speedy Lightroom workflow, our experience has shown that a layered preset based system is the most efficient system. For The Lensman Toolkit, we\u2019ve put together a huge set of speed-workflow tools that will not only have you editing your photos faster, but also editing them in new, unique ways. Divided into seventeen different toolsets, this collection of 168 presets offers extreme editing flexibility while working exclusively within the left-side &#039;Presets&#039; panel."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "colormadelabs.com",
+                    "cards": [],
+                    "creation_time": 1534023285,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "ColorMade",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38888957_223258931627689_554697534539300864_n.jpg?_nc_cat=0&oh=0c1e17d30018e0a9e88ec6438039805a&oe=5BFB6482",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38907284_223258928294356_5143718134372368384_n.jpg?_nc_cat=0&oh=f3486764cc65465255fb4b80b4b68558&oe=5C3AE60D"
+                        }
+                    ],
+                    "instagram_actor_name": "ColorMade",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38934789_223258911627691_1282405341128032256_n.jpg?_nc_cat=0&oh=47aed23bb8232a85e38ce8d6d9ab179a&oe=5BFCC7B3",
+                    "is_reshared": false,
+                    "link_description": "ColorMade Bundle | Memorial Day Sale",
+                    "link_url": "https://colormadelabs.com/products/full-lightroom-bundle-14-sets-573-lightroom-adobe-camera-raw-presets",
+                    "page_categories": {
+                        "2208": "Camera Photo"
+                    },
+                    "page_id": 1230950177041255,
+                    "page_is_deleted": false,
+                    "page_like_count": 6862,
+                    "page_name": "ColorMade",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38948597_223258908294358_8125278405416452096_n.jpg?_nc_cat=0&oh=c98163720507e8a34780e49fe5085272&oe=5BFC591F",
+                    "page_profile_uri": "https://www.facebook.com/colormadelabs/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "572+ Presets for Lightroom and Photoshop ACR $49 (reg. $966)",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527490800
+            },
+            {
+                "adArchiveID": "186262028753720",
+                "adid": "6093579987670",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527663600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                "snapshot": {
+                    "ad_creative_id": 6093579985870,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udd35 NUEVO ART\u00cdCULO<br /> <br /> \u201cEl \u00faltimo disparador en la ca\u00edda de la imagen de Macri ha sido el modo de gestionar los recientes desequilibrios con  la tasa de cambio y la vuelta al FMI. Desde enero de este a\u00f1o, la consultora D\u2018Alessio -junto con la firma Berensztein- hab\u00eda observado c\u00f3mo la imagen presidencial no logr\u00f3 remontar la ca\u00edda sufrida en diciembre pasado, a ra\u00edz de la reforma previsional.\u201d<br /> <br /> Un an\u00e1lisis de <a href=\"https://www.facebook.com/lamarencooche\" data-hovercard=\"/ajax/hovercard/user.php?id=708753294&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">B\u00e1rbara Ester</a> y Amilcar Salas \u2b07\ufe0f"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "celag.org",
+                    "cards": [],
+                    "creation_time": 1529451934,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35604982_186262052087051_7920357071818588160_n.jpg?_nc_cat=0&oh=54e7120f1d925ac99dbb220226e67309&oe=5C005141",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35605331_186262048753718_7752317816392384512_n.jpg?_nc_cat=0&oh=d9de62ed00d1068661777ef3d678db7a&oe=5C0AC859"
+                        }
+                    ],
+                    "instagram_actor_name": "CELAG Geopol\u00edtica y econom\u00eda",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605898_186262042087052_1081930458322698240_n.jpg?_nc_cat=0&oh=461c8c25dbc67baa69c01b73b321a1a7&oe=5BFE2CD5",
+                    "is_reshared": false,
+                    "link_description": "Los datos no dejan demasiadas dudas: la imagen de M. Macri est\u00e1 en ca\u00edda. El blindaje medi\u00e1tico y todas las coaliciones y redes de sustentaci\u00f3n pol\u00edtica que lo acompa\u00f1an aun, no han podido impedir que la \u201cdesconfianza\u201d, el \u201cpesimismo\u201d, y la \u201cresponsabilidad pol\u00edtica/econ\u00f3mica\u201d se...",
+                    "link_url": "http://www.celag.org/argentina-la-imagen-de-m-macri-lo-que-el-fmi-se-llevo/",
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 657061604409444,
+                    "page_is_deleted": false,
+                    "page_like_count": 39256,
+                    "page_name": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35604531_186262038753719_2518751487333498880_n.jpg?_nc_cat=0&oh=0a03cc0bc0e265fd8cc2863006faace2&oe=5BFF8C0F",
+                    "page_profile_uri": "https://www.facebook.com/celageopolitica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Argentina: la imagen de M. Macri, lo que el FMI se llev\u00f3 \u2014 CELAG",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527490800
+            },
+            {
+                "adArchiveID": "280263716035964",
+                "adid": "23842871008020511",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1230950177041255",
+                "pageName": "ColorMade",
+                "snapshot": {
+                    "ad_creative_id": "23842871007430511",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u26a1 Our entire ColorMade shop preset bundle is only $49 (95% off) for Memorial Day! The Full Lightroom &amp; ACR bundle includes 572+ presets from all 14 ColorMade collections.<br /> <br /> Edit like the pros. ColorMade presets transform your photos with a single click in Adobe Lightroom or Photoshop ACR so you can spend less time behind the computer and more time out with your camera.<br /> <br /> Designed for fashion, lifestyle, portrait, wedding, blog, landscape, and food photographers.<br /> <br /> What&#039;s included in the ColorMade Bundle:<br /> <br /> \ud83d\udcf7 Solace - 27 Presets - Combining a beautiful mix of deep warmth, cooling tones, and rich contrasts, Solace is the perfect color palette for adding that pro editorial touch to your images. We designed this set to work wonders on both natural and artificial light studio portraits, as well as lifestyle and wedding photography. And, the Solace palette is so versatile that it even performs beautifully over travel &amp; landscape images.<br /> <br /> \ud83d\udcf7 Venus - 24 Presets - We created the unique Venus color palette with modern lifestyle and editorial imagery in mind. It\u2019s warming highlights, cooling shadows, and deep rich color tones, create the perfect palette for natural light portraits, fashion lifestyle imagery, and wedding photography. Venus is also beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Peach Cr\u00e8me - 24 Presets -  This lovely color palette is exactly as the title says, creamy and rich with milky peach tones. Perfect for all types of photography, including, natural light portraiture, wedding imagery, and travel photography, Peach Cr\u00e8me truly is the timeless palette.<br /> <br /> \ud83d\udcf7 Street Chic - 24 Presets - The Street Chic color palette has become one of our absolute faves for creating instant editorial perfection in all situations. With an added overall warmth, slightly tweaked individual color tones, and the perfect amount of saturation and rich contrast, this palette brings instant life &amp; depth to all photo styles. Perfect for bloggers, lifestyle photographers, and natural light wedding shooters.<br /> <br /> \ud83d\udcf7 Frosted Sage - 23 Presets - Take your images from raw and dull to beautifully icy cool in the click of a button. With twenty different frosty variations, this color palette is the perfect cooling compliment to lifestyle, fashion, and wedding photography of all kinds. This palette is also wonderful for adding rich blue skies and icy earth tones to travel and landscape photography.<br /> <br /> \ud83d\udcf7 Sweetbrier - 25 Presets - This truly unique color palette has quickly become one of our faves for pushing artistic editorial &amp; fashion imagery over the top. With a mix of deep rich lavender shadows and olive toned highlights, Sweetbrier is the perfect palette for adding a truly unique artistic look to naturally lit fashion &amp; lifestyle imagery, as well as wedding photography. This color palette also looks beautiful over landscapes and travel photography.<br /> <br /> \ud83d\udcf7 Copper - 26 Presets - Give your photos that perfect golden touch with the gorgeous Copper palette. Created for lifestyle imagery, natural light portraiture, wedding photography, and even landscapes, this color palette adds rich warmth and instant editorial beauty to all photography styles.<br /> <br /> \ud83d\udcf7 Wild Palms - 26 Presets - Feel the breeze as we journey through the lush colors and deep, defining tones of the Wild Palms collection. Blushing wine shadows blend seamlessly with warm overtones and cooling highlights, creating the perfect palette for earth rich photography and natural light portraiture.<br /> <br /> \ud83d\udcf7 Muse - 27 Presets - We consider Muse to be the perfect complimentary color palette to portrait photography. From studio &amp; natural light portraiture, to lifestyle imagery, and wedding photography, Muse is designed to be a simple, yet highly effective color palette that works wonders across the board.<br /> <br /> \ud83d\udcf7 Royal Gardens - 24 Presets - The Royal Gardens color palette lies at the center of class and beauty. With silvery soft highlights, cooling shadows, and rich, colorful earthly tones, this palette truly is a royal treatment for your photos. Perfect for fashion, lifestyle, weddings, and all types of natural light photography, including landscapes and travel. The Royal Gardens palette was built for both pro and amateur photographers and bloggers alike.<br /> <br /> \ud83d\udcf7 Indigo Slate - 29 Presets - Savor the rich blend of powder blues, peach cream highlights, and full-flavored color tones, with the foodie inspired Indigo Slate palette. This beautiful palette from the Cuisine Collection aims to take your gourmet photos from raw and dull to deliciously divine in the single click of a button.<br /> <br /> \ud83d\udcf7 Plum Slate - 31 Presets - Add a splash of plummy sweetness to your feast inspired photos with Plum Slate, from the ColorMade Cuisine Collection. Infusing deep wine tones with soft lilac highlights and precise color saturations, the Plum Slate color palette is designed to be the perfect compliment to all food related photography and still life imagery.<br /> <br /> \ud83d\udcf7 Color Wash - 131 Presets - Add a quick touch of color or a full-on color wash in the click of a button. Divided into two separate collections, The Color Collection and The Black &amp; White Collection, this huge set of split-toned and duo-toned color filters will have you coloring your images in ways you\u2019ve never imagined. Designed to only affect the split-toning tools and the option for color or black &amp; white treatments, the Color Wash set provides instant beautiful color filters to add over Lightroom\u2019s endless editing possibilities. Begin your photo editing process with the Color Wash presets or simply add them on top of any existing editing process for infinite creativity.<br /> <br /> \ud83d\udcf7 The Lensman Toolkit - 168 Presets - When it comes to developing a speedy Lightroom workflow, our experience has shown that a layered preset based system is the most efficient system. For The Lensman Toolkit, we\u2019ve put together a huge set of speed-workflow tools that will not only have you editing your photos faster, but also editing them in new, unique ways. Divided into seventeen different toolsets, this collection of 168 presets offers extreme editing flexibility while working exclusively within the left-side &#039;Presets&#039; panel."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "colormadelabs.com",
+                    "cards": [],
+                    "creation_time": 1534023285,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "ColorMade",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38888957_223258931627689_554697534539300864_n.jpg?_nc_cat=0&oh=0c1e17d30018e0a9e88ec6438039805a&oe=5BFB6482",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38907284_223258928294356_5143718134372368384_n.jpg?_nc_cat=0&oh=f3486764cc65465255fb4b80b4b68558&oe=5C3AE60D"
+                        }
+                    ],
+                    "instagram_actor_name": "ColorMade",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38934789_223258911627691_1282405341128032256_n.jpg?_nc_cat=0&oh=47aed23bb8232a85e38ce8d6d9ab179a&oe=5BFCC7B3",
+                    "is_reshared": false,
+                    "link_description": "ColorMade Bundle | Memorial Day Sale",
+                    "link_url": "https://colormadelabs.com/products/full-lightroom-bundle-14-sets-573-lightroom-adobe-camera-raw-presets",
+                    "page_categories": {
+                        "2208": "Camera Photo"
+                    },
+                    "page_id": 1230950177041255,
+                    "page_is_deleted": false,
+                    "page_like_count": 6862,
+                    "page_name": "ColorMade",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38948597_223258908294358_8125278405416452096_n.jpg?_nc_cat=0&oh=c98163720507e8a34780e49fe5085272&oe=5BFC591F",
+                    "page_profile_uri": "https://www.facebook.com/colormadelabs/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "572+ Presets for Lightroom and Photoshop ACR $49 (reg. $966)",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1527490800
+            }
+        ],
+        "totalCount": 103,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

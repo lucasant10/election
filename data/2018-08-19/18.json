@@ -1,0 +1,1908 @@
+{
+    "__ar": 1,
+    "bootloadable": {},
+    "bxData": {},
+    "dtsgToken": "AQE6si_y7Y8X:AQHi9YVH-Y-v",
+    "gkxData": {},
+    "ixData": {},
+    "lid": "6591480769372776091",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "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",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "1819578028134719",
+                "adid": "23842846831820405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996490405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635592,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36652693_1819578064801382_914204198638190592_n.jpg?_nc_cat=0&oh=99595afa57a09a1ff387b7e151eff4a8&oe=5C05D0BC",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36524492_1819578068134715_409973814022111232_n.jpg?_nc_cat=0&oh=654322af1cd4f795a233a87027df2461&oe=5C394D04",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36588367_1819578071468048_4097123188037648384_n.jpg?_nc_cat=0&oh=09f58fcf3468090c32bd1c369fc51528&oe=5C00BC05",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529910000
+            },
+            {
+                "adArchiveID": "168503824011795",
+                "adid": "23842842998780405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996740405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635588,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554153_168503847345126_4869461369893683200_n.jpg?_nc_cat=0&oh=f879d0f5dd25a20fa01d474824391baf&oe=5C0A172A",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36530633_168503844011793_3575044057505726464_n.jpg?_nc_cat=0&oh=a9c7acae49dc87b0128995f9d5a6ebb7&oe=5BF3BE05",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546898_168503857345125_4966994747131428864_n.jpg?_nc_cat=0&oh=7736884e31e5fb87d0c00147e7f1dca3&oe=5BF41B24",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "189552801735422",
+                "adid": "23842842993860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989140405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635590,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36542571_189552815068754_8338261104866099200_n.jpg?_nc_cat=0&oh=6574573496517c4c9d0f1c151ad67db9&oe=5BF170E7",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36576087_189552818402087_1413117014309863424_n.jpg?_nc_cat=0&oh=3375094bf58093ec28bb66b39fe39dd5&oe=5BEF15D4",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36565446_189552825068753_1614633744512057344_n.jpg?_nc_cat=0&oh=da00702bf8f55ca641cf43b7fb07037d&oe=5C0FA2B0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "196532674394449",
+                "adid": "23842842999660405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842998770405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635580,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36552191_196532704394446_4694129921423835136_n.jpg?_nc_cat=0&oh=69f9a954363b8e33797e748d1bef642d&oe=5C0228CA",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36637463_196532701061113_7051213114544488448_n.jpg?_nc_cat=0&oh=d4829d9e97d2fd75f5e1b2a0758df2d7&oe=5C01C25B",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36572055_196532711061112_5399979088960028672_n.jpg?_nc_cat=0&oh=c0f2dbb774ad73b34aaf0a9e3f4871ab&oe=5BFA9202",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "204096770431902",
+                "adid": "23842842993120405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842990210405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635586,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36636060_204096793765233_3139834299847540736_n.jpg?_nc_cat=0&oh=5127f102e0653a1ae6807f52b31f2813&oe=5BF24853",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36574835_204096797098566_918425215187288064_n.jpg?_nc_cat=0&oh=8b64adaa7b538f47a819880912c357bf&oe=5BF65E74",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36618835_204096807098565_6748924932475846656_n.jpg?_nc_cat=0&oh=c37073faf22fb4ef24b95339e98130b5&oe=5C09C396",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "208862746429922",
+                "adid": "23842842997380405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996780405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635584,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36571530_208862776429919_4372293019613790208_n.jpg?_nc_cat=0&oh=5cd7443397e9170cabd4f708847a0a1f&oe=5C05736D",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36648691_208862773096586_4345573263561195520_n.jpg?_nc_cat=0&oh=9d05566076351ec5994926cdbfde1136&oe=5BFB38AA",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36565118_208862779763252_5762519533273219072_n.jpg?_nc_cat=0&oh=dc2099b0edfa07e0cd43fa17125be988&oe=5BFB48BC",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "215940562372075",
+                "adid": "23842842990640405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989530405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635607,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36531223_215940579038740_2259086569300295680_n.jpg?_nc_cat=0&oh=d402c80f5f244cee114de36f03a87eee&oe=5BFF48C0",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36561011_215940582372073_8397003278084210688_n.jpg?_nc_cat=0&oh=6542adfc8eb7dbe081162f8d9bde8254&oe=5C0C760C",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36658113_215940585705406_7483887059086606336_n.jpg?_nc_cat=0&oh=ae886530b3a436d26b334183171a3e2f&oe=5C0CE836",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "216595448971428",
+                "adid": "23842842997260405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996750405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635569,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36668637_216595475638092_5665257305910804480_n.jpg?_nc_cat=0&oh=ee4cbbe60c61958bd5656cd6b10f3abe&oe=5BFCDE3C",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36522843_216595472304759_2820871117705576448_n.jpg?_nc_cat=0&oh=0854b4dbb0d6904bb50f55d2a345f79e&oe=5BF36096",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36630804_216595492304757_1084150745961332736_n.jpg?_nc_cat=0&oh=bd0ff991508baf8cd3ea499cbd5bd6b8&oe=5BF38D29",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "238740266726988",
+                "adid": "23842843000040405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842997760405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635596,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527112_238740286726986_6418867338707206144_n.jpg?_nc_cat=0&oh=07854481d2ff6a9f78493bd8479f5f37&oe=5C0B46CA",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36577088_238740283393653_3020727130083295232_n.jpg?_nc_cat=0&oh=dbb998e34469925f92402f70f193f7da&oe=5C02E742",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36574836_238740290060319_3461712703926566912_n.jpg?_nc_cat=0&oh=a6e10ea5f74a4f7548b69555ffc33f63&oe=5C01B6D7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "256387075173773",
+                "adid": "23842842990580405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989390405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635563,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554158_256387085173772_4241541746833489920_n.jpg?_nc_cat=0&oh=7e4629db94bcbbf3f127bf565a5ca3fa&oe=5BF5E1F8",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36504096_256387088507105_139826263798841344_n.jpg?_nc_cat=0&oh=10691c8bab6be73959b35fa438ac7aa9&oe=5BF742B6",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36548960_256387095173771_2370441580793298944_n.jpg?_nc_cat=0&oh=001b17a9208e5f37cbfa79ebe7b9142e&oe=5C10363D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "266694133894724",
+                "adid": "23842842993400405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842991180405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635582,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550338_266694157228055_5928916547824254976_n.jpg?_nc_cat=0&oh=e03bb88ca10ea04c7a5ff9397d801404&oe=5C008C2D",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36572062_266694153894722_9200182602185572352_n.jpg?_nc_cat=0&oh=f00cbcfc12d845c0442a99d0d4318d51&oe=5BF3FC0C",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36627885_266694170561387_6135111678527799296_n.jpg?_nc_cat=0&oh=1a0325d57be90c95babdf1c1ac2f7f32&oe=5BFBEF53",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "333337720534024",
+                "adid": "23842842998610405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842997720405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635615,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36590737_333337730534023_7086450787177463808_n.jpg?_nc_cat=0&oh=6db864c1dc3d6fa257a749371e804869&oe=5C0221C5",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36620489_333337727200690_543969702666305536_n.jpg?_nc_cat=0&oh=703e0122558bf5f632659aad1c0d573f&oe=5BF8374A",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613750_333337740534022_2714647793267376128_n.jpg?_nc_cat=0&oh=6153113afaf63222624473c8a6ff51a8&oe=5C0E04F7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "375717542832863",
+                "adid": "23842842991750405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842988890405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635562,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36631280_375717556166195_4528941695353487360_n.jpg?_nc_cat=0&oh=acf07d7f712cd5c48113d62eee83d6ed&oe=5BF51B29",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36540680_375717552832862_782807357913563136_n.jpg?_nc_cat=0&oh=9fbd44d1b4880113e2937f6d263e4038&oe=5C10A3BB",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36596769_375717566166194_4074687563078565888_n.jpg?_nc_cat=0&oh=793f56a016a9695be0b088f812ca38a9&oe=5BF8F8DD",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "408425799671287",
+                "adid": "23842843001190405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842843001110405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635596,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36557667_408425806337953_6884424386091155456_n.jpg?_nc_cat=0&oh=a57f2453ca677e5cfb1f570829150f31&oe=5C0F4984",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36542556_408425809671286_9216313258103799808_n.jpg?_nc_cat=0&oh=a9a8b566dcad34ef55f997b969e8afaa&oe=5C091532",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36529939_408425813004619_3380865167259598848_n.jpg?_nc_cat=0&oh=bc2215b5bf3b7610d4e302d934568ef3&oe=5C06963F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "417025928803298",
+                "adid": "23842842991710405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842988930405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635612,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36529164_417025942136630_1054702800912515072_n.jpg?_nc_cat=0&oh=0fd2c52610aff1177ffbcd0ab8d11594&oe=5C0ECA79",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36595443_417025938803297_7734693194754949120_n.jpg?_nc_cat=0&oh=f8cdccb90de146524c185f793b8ddb60&oe=5C0293F3",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36610310_417025945469963_1138071345943281664_n.jpg?_nc_cat=0&oh=30080eb030756b303096436fdc0fdc79&oe=5C0BAD1F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "477378572710017",
+                "adid": "23842842991700405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842988900405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635569,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36542565_477378592710015_3947665142249947136_n.jpg?_nc_cat=0&oh=1720c5f298ee8139fa683869120b31cc&oe=5BEE12FD",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613783_477378589376682_7908477089198637056_n.jpg?_nc_cat=0&oh=e24554939c258771d0517a0fba598cb5&oe=5C1076B7",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36568772_477378599376681_7168839615808274432_n.jpg?_nc_cat=0&oh=aaf18501f79b14675e3bd3ebc2627df1&oe=5BFF3F68",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "642262122793300",
+                "adid": "23842842996020405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842992420405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635573,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36568874_642262139459965_4406427014500712448_n.jpg?_nc_cat=0&oh=ded2e1d6486f53bbf08cca104b68cd94&oe=5BEDE9BA",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36548960_642262136126632_8919614366085545984_n.jpg?_nc_cat=0&oh=734f916ba62762d37125f86ac1c9a240&oe=5C051BA1",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36653003_642262152793297_5057501076836581376_n.jpg?_nc_cat=0&oh=cac1b5fb72c360df379c15c512287df7&oe=5BF362C2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "1279088185558381",
+                "adid": "23842842995760405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842990650405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635580,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36555953_1279088205558379_376202018022227968_n.jpg?_nc_cat=0&oh=01bcc368bb7443f80d9ddc0076986e7e&oe=5BF295B1",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36584485_1279088208891712_8065160030187421696_n.jpg?_nc_cat=0&oh=f759ff77eed5071947e22a2e231d6d85&oe=5BFF6A1A",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36640168_1279088222225044_3088466155979931648_n.jpg?_nc_cat=0&oh=d38c145268cc9f7c0f79462ef4120cb8&oe=5C0319CA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "1717890148302534",
+                "adid": "23842843000290405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842998160405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635588,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546881_1717890178302531_2252041654703751168_n.jpg?_nc_cat=0&oh=fdcadfd8077d33e306c35065a841700d&oe=5BF7EBF3",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36539339_1717890181635864_7769249938977849344_n.jpg?_nc_cat=0&oh=b0e808b5a9b50471e2ba524801e3f7e4&oe=5C09171A",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36588691_1717890194969196_7723541801797156864_n.jpg?_nc_cat=0&oh=5fd5012fa7a477c6fac514c9f464e223&oe=5C0B3234",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "1975103296043521",
+                "adid": "23842843000370405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842998600405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635584,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613417_1975103312710186_8637063757765279744_n.jpg?_nc_cat=0&oh=1fce9bd7b475108031b41b711c72b670&oe=5C047D0E",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36570186_1975103316043519_1183116125425106944_n.jpg?_nc_cat=0&oh=b1e9bc38ab80ce3ef9f6cc0febc9d5b0&oe=5C062537",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613418_1975103319376852_1286163450396934144_n.jpg?_nc_cat=0&oh=fa93a08bb70bbf1acadfe93c5725d2cf&oe=5BF48B5A",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2029196307151225",
+                "adid": "23842842990570405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989610405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635558,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36639944_2029196347151221_6867986811809955840_n.jpg?_nc_cat=0&oh=ce1d6b9807a10f7ea1eb3aafab47ca19&oe=5BF6ED07",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36677386_2029196343817888_7074350897936990208_n.jpg?_nc_cat=0&oh=66ac04eb61f4a2c2c9244dd2625893e2&oe=5C0EFCB6",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36631665_2029196370484552_7314309642727718912_n.jpg?_nc_cat=0&oh=d84596c461ee52ded2d6831ce48cd8a8&oe=5BF348FB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2032315806819011",
+                "adid": "23842843002330405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842843002250405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635649,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36586281_2032315826819009_2572016138435166208_n.jpg?_nc_cat=0&oh=299b083363a4b79512aa02b0ddcecb5c&oe=5C3A38A7",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550608_2032315830152342_1340241783052828672_n.jpg?_nc_cat=0&oh=4fbb931d70a4280c1830e50d6f675f06&oe=5BF84E01",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36524069_2032315833485675_8372591379758448640_n.jpg?_nc_cat=0&oh=d16fc97bcbc331fe0d44a31ae0661759&oe=5C0ACC7D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2067891376863815",
+                "adid": "23842842997370405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996770405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635567,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550619_2067891393530480_4162787645946068992_n.jpg?_nc_cat=0&oh=7e8b400a895bd3f9006446f8859c700d&oe=5C099B02",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36539335_2067891390197147_3470096879520317440_n.jpg?_nc_cat=0&oh=19695ef72537692b9f2d769d64cc2649&oe=5BFA9180",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36588272_2067891403530479_5960668502309208064_n.jpg?_nc_cat=0&oh=ffdca7df614b6203cc7764f6b6e6bea2&oe=5C0E2C8F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2100933726824982",
+                "adid": "23842842991480405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989130405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635567,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36571145_2100933740158314_8829205987404546048_n.jpg?_nc_cat=0&oh=540066d1fe501cde5b80b0613c321332&oe=5BECEF8E",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613415_2100933743491647_4847101293409337344_n.jpg?_nc_cat=0&oh=b39d8525607f754eea12a1497b8dc850&oe=5BEE5559",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36563233_2100933750158313_1250426681089327104_n.jpg?_nc_cat=0&oh=faa0871acb4bd280f6a9d0e6a3e8f143&oe=5C0D72C5",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2124712464453242",
+                "adid": "23842842990860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989820405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635577,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546883_2124712494453239_588968525998063616_n.jpg?_nc_cat=0&oh=e235535f57532830f6f546b7afe414b0&oe=5BF8970C",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527112_2124712491119906_122103051187126272_n.jpg?_nc_cat=0&oh=7b3e35d42cf11d72a5985f0f3c079ccc&oe=5BFA24AB",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36571620_2124712504453238_198044481071611904_n.jpg?_nc_cat=0&oh=70c9aa694ed6685fc4840956ab2f68f5&oe=5C02800D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "2129625680649910",
+                "adid": "23842843001530405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842843001300405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635560,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36562910_2129625713983240_7397144709870649344_n.jpg?_nc_cat=0&oh=88c7eeb5bdb8818e8e153cbce361c301&oe=5BF63E97",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36607148_2129625710649907_6529168116117667840_n.jpg?_nc_cat=0&oh=24b6502b2356c04d72e9baaba82c237e&oe=5BFF84B5",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36712522_2129625723983239_4236104056243748864_n.jpg?_nc_cat=0&oh=6ee94505c72bff425265ac2c3563a9f6&oe=5BEFA962",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "609402716095340",
+                "adid": "23842877831300327",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1691667177798461",
+                "pageName": "Brut",
+                "snapshot": {
+                    "ad_creative_id": "23842877831160327",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Gay conversion therapy is still happening in the U.S., and through increased awareness, <a href=\"https://www.facebook.com/chloegracemoretzpaginaoficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=1491994337763591&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Chlo\u00eb Grace Moretz</a> is hoping her new movie can help put a stop to it."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Brut",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529810692,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Brut",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Brut",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35234968_153025988895618_3471554325132607488_n.jpg?_nc_cat=0&oh=b804606f249fe1a858cf2fbf3656b4e3&oe=5BFDAE32",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1691667177798461,
+                    "page_is_deleted": false,
+                    "page_like_count": 1422540,
+                    "page_name": "Brut",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004536_153025985562285_4718926781963304960_n.jpg?_nc_cat=0&oh=6f915789d81786a9f1d85cb2566b62ba&oe=5BF2CD83",
+                    "page_profile_uri": "https://www.facebook.com/brutamerica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chlo\u00eb Grace Moretz Fighting To End Conversion Therapy",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_210902266215716_6582180210257428480_n.mp4?_nc_cat=0&oh=6fe91a3914a08d92a14e03a8da663113&oe=5B79E7DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004619_153025998895617_725298119482277888_n.jpg?_nc_cat=0&oh=168cd76b59d464a81bf2d6e32370bbc4&oe=5C0DBEA2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35954187_2117755061779911_7957523897732038656_n.mp4?_nc_cat=0&oh=2941087973ab15ac92376501a26ef718&oe=5B79E6D6"
+                        }
+                    ]
+                },
+                "startDate": 1529737200
+            },
+            {
+                "adArchiveID": "2116859545251128",
+                "adid": "23842877831240327",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1691667177798461",
+                "pageName": "Brut",
+                "snapshot": {
+                    "ad_creative_id": "23842877831160327",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Gay conversion therapy is still happening in the U.S., and through increased awareness, <a href=\"https://www.facebook.com/chloegracemoretzpaginaoficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=1491994337763591&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Chlo\u00eb Grace Moretz</a> is hoping her new movie can help put a stop to it."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Brut",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529810692,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Brut",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Brut",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35234968_153025988895618_3471554325132607488_n.jpg?_nc_cat=0&oh=b804606f249fe1a858cf2fbf3656b4e3&oe=5BFDAE32",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1691667177798461,
+                    "page_is_deleted": false,
+                    "page_like_count": 1422540,
+                    "page_name": "Brut",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004536_153025985562285_4718926781963304960_n.jpg?_nc_cat=0&oh=6f915789d81786a9f1d85cb2566b62ba&oe=5BF2CD83",
+                    "page_profile_uri": "https://www.facebook.com/brutamerica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chlo\u00eb Grace Moretz Fighting To End Conversion Therapy",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_210902266215716_6582180210257428480_n.mp4?_nc_cat=0&oh=6fe91a3914a08d92a14e03a8da663113&oe=5B79E7DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004619_153025998895617_725298119482277888_n.jpg?_nc_cat=0&oh=168cd76b59d464a81bf2d6e32370bbc4&oe=5C0DBEA2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35954187_2117755061779911_7957523897732038656_n.mp4?_nc_cat=0&oh=2941087973ab15ac92376501a26ef718&oe=5B79E6D6"
+                        }
+                    ]
+                },
+                "startDate": 1529737200
+            },
+            {
+                "adArchiveID": "238393390084934",
+                "adid": "6094990495098",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529910000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "164179877047350",
+                "pageName": "Lis Malter Terrada.  Especialista Estancias & Polo",
+                "snapshot": {
+                    "ad_creative_id": 6094990491098,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Juan Jos\u00e9 Soler<br /> <br /> <a href=\"https://m.facebook.com/story.php?story_fbid=10216094681696793&amp;id=1142503063\" rel=\"nofollow\">https://m.facebook.com/story.php?story_fbid=10216094681696793&amp;id=1142503063</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "eltribuno.com",
+                    "cards": [],
+                    "creation_time": 1530242579,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": null,
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36343877_238393416751598_8937188775260323840_n.jpg?_nc_cat=0&oh=d8cb6a2357656fb8f42bc9094942d6cb&oe=5C03DA7A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36274769_238393413418265_3214251566097760256_n.jpg?_nc_cat=0&oh=b653454672ed5613a90bd01c630b058a&oe=5BF02A6E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "El empresario salte&ntilde;o Juan Jos&eacute; Soler, presidente de Cer&aacute;mica del Norte, consider&oacute; que no hay l&oacute;gica en las tarifas, ya que hubo un per&iacute;odo en que se destruy&oacute; la matriz energ&eacute;tica y el Gobierno entr&oacute; \u0093en la vor&aacute;gine\u0094 de la recup...",
+                    "link_url": "https://www.eltribuno.com/salta/nota/2018-12-25-0-0-0--argentina-siempre-pasa-de-una-economia-expansiva-a-una-restrictiva-sin-escala",
+                    "page_categories": {
+                        "189018581118681": "Sports Club"
+                    },
+                    "page_id": 164179877047350,
+                    "page_is_deleted": null,
+                    "page_like_count": null,
+                    "page_name": "Lis Malter Terrada.  Especialista Estancias & Polo",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36301205_238393403418266_7726560523856117760_n.jpg?_nc_cat=0&oh=dee24c869b6f49cd2fb516abc6284493&oe=5C00B990",
+                    "page_profile_uri": null,
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\"Argentina siempre pasa de una econom\u00eda expansiva a una restrictiva sin escala\"",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529650800
+            },
+            {
+                "adArchiveID": "2022602791137990",
+                "adid": "6096053479896",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529650800,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "233734300112003",
+                "pageName": "Juan Monteverde Concejal",
+                "snapshot": {
+                    "ad_creative_id": 6096053476696,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "CONTAMINACI\u00d3N EN SAN MART\u00cdN SUR<br /> Hoy en el Concejo Municipal de Rosario se aprob\u00f3 un pedido de informe e intervenci\u00f3n del Poder Ejecutivo Municipal ante las graves denuncias por contaminaci\u00f3n de vecinos del barrio San Mart\u00edn Sur. Tras 1 a\u00f1o de trabajo junto a Ciudad Futura y <a href=\"https://www.facebook.com/TECHO.org/\" data-hovercard=\"/ajax/hovercard/page.php?id=79616214317&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">TECHO</a>, en donde se recolectaron pruebas, an\u00e1lisis y estudios, el Concejo encomend\u00f3 al Ejecutivo una intervenci\u00f3n urgente en la problem\u00e1tica.<br /> <br /> LAS DENUNCIAS<br /> Hace 1 a\u00f1o los vecinos de San Mart\u00edn Sur comenzaron a advertir mal olor y problemas de salud como dolores de cabeza, dificultades respiratorias, irritaci\u00f3n en la piel, ojos, garganta y nariz. A partir de esta problem\u00e1tica se organizaron para buscar ayuda en las organizaciones que trabajan en el barrio, entre ellas Ciudad Futura y TECHO. <br /> Cuando empezaron a investigar la procedencia de los olores, dieron con una desembocadura cloacal con distintos l\u00edquidos residuales ubicada frente al predio de la desagotadora Los Pinos, situada en Juan Pablo II y Espa\u00f1a. A partir de all\u00ed comenzaron a encontrar coincidencias entre los momentos en que los camiones de la empresa (y otros sin identificar) hac\u00edan su ingreso al predio, con la aparici\u00f3n de esos l\u00edquidos en la desembocadura y el mal olor. <br /> Cabe destacar que esta desembocadura termina por llevar los residuos a un desag\u00fce pluvial paralelo a la Avenida Circunvalaci\u00f3n, lo que esparc\u00eda m\u00e1s a\u00fan el olor en el barrio y la zona. <br /> En diciembre de 2017 se realiz\u00f3, en conjunto con la Universidad Nacional de Rosario (UNR), un estudio extrayendo muestras del desag\u00fce que dio valores muy por encima de los niveles permitidos para los desechos l\u00edquidos. <br /> Finalmente, el 11 de junio, los vecinos llevaron todas estas denuncias y pruebas recolectadas a la Comisi\u00f3n de Ecolog\u00eda del Concejo Municipal en donde se termin\u00f3 por generar el proyecto para la pronta intervenci\u00f3n del municipio. <br /> <br /> Despu\u00e9s de tantos meses de organizaci\u00f3n y trabajo se pudo avanzar en una respuesta concreta en el plazo de los pr\u00f3ximos 7 d\u00edas, que incluye: <br /> Informe sobre la habilitaci\u00f3n del predio de la empresa Los Pinos y actuaci\u00f3n del Ejecutivo sobre el mismo (actas labradas, sanciones y judicializaciones, etc)<br /> Una inspecci\u00f3n al predio y an\u00e1lisis de sus efluentes.<br /> Saneamiento del conducto pluvial. <br /> Se trata de un primer paso para la soluci\u00f3n definitiva, y una victoria para los vecinos y las organizaciones que nos unimos para afrontar una de las muchas situaciones donde el Estado se ausenta y deja expuesta la vida y la salud de los barrios de Rosario. <br /> El pr\u00f3ximo compromiso es hacer que el Municipio cumpla efectivamente con este pedido. <br /> Tanto TECHO como Ciudad Futura seguiremos el tema junto a los/as vecinos/as para eso no ocurra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529629287,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Juan Monteverde Concejal",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/35972930_1065057110313047_2087079245128925184_n.jpg?_nc_cat=0&oh=fc3c69e2f2048ae4a221a789d443a1a6&oe=5C038848",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/35819481_1065057106979714_3849258555211251712_n.jpg?_nc_cat=0&oh=ae6f05a7db76544ce00a6acad0760451&oe=5BFC4101"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 233734300112003,
+                    "page_is_deleted": false,
+                    "page_like_count": 24359,
+                    "page_name": "Juan Monteverde Concejal",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35867061_2022602797804656_3823975220906033152_n.jpg?_nc_cat=0&oh=5a046c79ab0d900d9706cee7fda7318b&oe=5C0A9180",
+                    "page_profile_uri": "https://www.facebook.com/juanmonteverdeconcejal/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529564400
+            }
+        ],
+        "totalCount": 175,
+        "viewAllPageName": null
+    },
+    "qexData": {}
+}

@@ -128,8 +128,12 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
 
-    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
-        MODEL_FILE, 
+    model_name = MODEL_FILE.replace (SKL_FOLDER, '')
+    model_name = model_name.replace ('.politics_ben.skl', '')
+    model_name = model_name.replace('_', ' ').upper()
+
+    save_report_to_csv (REPORT_FOLDER + model_name +'_validation_report.csv', [
+        model_name, 
         p,
         r, 
         f1,

@@ -1,0 +1,2129 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQHsMU5LojPW:AQFZyhuUdBJc",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591217115527340926",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfbgA5SugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp38PGXkKG6sQOSkoGRteBq/KGmh5rMjAGw88ayldOKA5qr7O6llJQBvtfY4br6lQbO3snV5Oy5AcCYpM7Hp8ADmtDD2sKaeozn9bfR3G2cxuisrdKUAfC8hIT45tMB4OWivPStZM6imqjeqJEB7PqsmrXE3QGKkqDY56vBArS0uq7U2sECmLXBg4fzwQaAuOzVmJvFBqrHjbTDsaQH9u6hmt72zAeohOLWu51/+Nm25rm9kQGY16OEv4DVAazrzJ6bsWX4y/fYsZP2BubWnMf4ycECgpXwluygyAOW56XAy4jyA+LZ7oy83+oHioaAmZWl8gesp76Y17ZrlPO9jrbNZc7Ky5et0rsB+P7G8PKh5QGI+7TnoP/5BvqsoqTk1YMB1s6B4r3watjejsuZ2Wf4mbmdguzvBq62zr/As9YBuMHUg6u86AHkj7Htt6CXBbLhnNvv57IGttSRg7HoTaSY9ZDFr37ClYKZ7MmCAbS9hN3i5+cB1LHwucT9qgLsk6P62Py1BuLO/Mq0yuYHttqVw+fO6AeS7aOyrpNzlLnjgev5dfaU/Kr6/NQBtrfE8a209gHu/eXZi9LuA7KMh86oy/8D/KXRqtOElgTY95nKsOXiBo69lKLx3MAH1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgK27Lz9s/n0BorrqLGRrKwC2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAHWxuLb3LCHAaTzh/vFoZkH6q6NzpHDqALqwZfr95hxyLqIjKSKwAHI25eCmZVtjo7kupSlrQaE/faCx7i9Arydu4rBg9EHutCDiY3JcIKD6vTbuJAItPbWwqHE1wfgltGNzOGvAdLcnKawinLy+vi/xPDyAdym1qmw3ZgGzKbrkfv+ccLex9Sb3rwDlOmCjNTwsgfYsaPO+unYAZDP5+rX+tcB8N+Aq9z3c5CE5Z65/nvSh9f5m6XWAZj07Zuyn8MB/K3S4c/2+QbSgLaJ76NhhPvP9OvswQHoqaq/3te4B76l/MbgjFvo1sf+qudj2qCO/72jxAHKrIu9gd7aAeikq5fYgY8Giuj/tvLywAfKlsLUzaTfAcqPsbfDq6kGmqH4/tbIkQP644WdyeXYBpitsNWwolyO4tLMpPNehNyl9emK5QG2/YyN+M16nIOQjI3u1gHM9/XbzcvMAfix956cmOoFuqWGj83KzwGe+p7N0rbAAY6O5dSTz8cDsOu186aE7Qes0uOe96ybAYqtlaya0qUCyqHd/5acxQf+r5+a2reeBu7Ry6X39X7A6oPUo5XBA8a5/I/I1doBxuj52YDG4weK1MG2vLRhnqmRuOGg7QeWvcXytKO0AaiW8/Kz1NwG5NSC/cW0VKr5nNvas7EB4tzCrOLaswHqmPe+6O68AZ6wz5O5p8QBvvqDwLqVU+yz0aPbk1TggdqGl9trqMG2sev/tQa+1MGBu+FxtvLWgNP62AaokPvKk/hNnvPnxYmpgQfiusHx6cDUAcrChJvNh4EBqK3jr7TerwL+xJDgsLm7BqbIlqmb0Ez8i8+2tplWouXzw9qvWbzugrj/51zEp/bctP1e1peayLKZYsiC3uzBv2KY2dXMwchsmrbTyNjLdIi56pHSo3mQ0OHG58qXARn1EDx4tAHwAawC6AKkA+ADnATYBJQF0AWMBsgGhAfABwA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "396432580849483",
+                "adid": "23842850860390405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842850860020405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635605,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554164_396432600849481_8660591489828519936_n.jpg?_nc_cat=0&oh=e6fb822394470924d6f47e27d986c666&oe=5C069869",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36519159_396432604182814_4425462361096192000_n.jpg?_nc_cat=0&oh=d1e9be363c31fcb291894450db54d767&oe=5BED3298",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36537867_396432610849480_2886621917341548544_n.jpg?_nc_cat=0&oh=88a36a50d84d4fe648fe7c390b0f38c9&oe=5BF32E74",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "1892610074371476",
+                "adid": "23842850860860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842850860530405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635896,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36617221_1892610097704807_2568596863431213056_n.jpg?_nc_cat=0&oh=3dd57fe902a940c2c0b65a8e994f0f23&oe=5BF703DB",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36538533_1892610101038140_4692084164076240896_n.jpg?_nc_cat=0&oh=15a9c1d7063d524e7c18d766d59aff33&oe=5C0D8ADB",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527111_1892610111038139_2437190818591670272_n.jpg?_nc_cat=0&oh=13d33ebbfa8c6db02740bb2a04334ad1&oe=5C0C1509",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "185620698780978",
+                "adid": "23843186026160436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530687600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT1tZerAXqaOUVTi37JS0w3D1vLTQyF_kK9wlRqTgZjPi0__C6yoe6klsdidYl20v42NWMDN0rjpth0_y1Bs8b15KgLBZ0IltD0JqqrmAb5lhmtiUb2n3k7vInU9pNG150v5cSyI5yE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT3bdPCwN05IG4s9PAz70IQnAEEpPCPfTn9CVf9hgX8MeJBX0OIH69nVDHM6XUKhZ-5THFmF1IegIEnAUFnaRmjO_jeFtxF9MvgHjvlPTJPox9gR1jdvZ6wfG6fgNGJBJUsL-UMP0QE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "390115464814165",
+                "adid": "23843186023990436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531033200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT0hH-oHHY_ZHiy_nybgPVdpTY5cGZyNeymA-tGWgRMHrmSgqk6tF30TNyzObgRJ2EujzKJuTp05VKhrZ6c1aWoMKyAQlYQ_ptJPolYd_5DVn0aZs_cHxrHHHoktHVrNoYsjgOYRsIs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT3_saP1UgdSHSHMW_Eg2hYsKUpy2MvLA2gThpdkuR7ou5Zr8Pm2EE74z8CBN8EkxxKB3Eu4_WNCjv9CUxAbL6ECfRQRfiheP3cs-5yRYp1wTI75qS3yvQFIZN3bKvntunbe5aih4HI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "395184550991665",
+                "adid": "6096326538405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530601200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096326534805,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "AQUI LA VEMOS A LA DELCY ELOINA, la chimpance del circo chavista declarando que la Revoluci\u00f3n y el Chavismo son su &quot;venganza personal&quot; por las muertes de la 4ta Republica, que por su puesto incluyen a la de su guerrillero padre comunista, atracador de bancos, secuestrador, y asesino arrodillado a las botas de Fidel... <br /> <br /> Miserable y apestosa narco-malandra, corrupta y genocida..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "twitter.com",
+                    "cards": [],
+                    "creation_time": 1530208107,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36320085_395184590991661_2058383774055399424_n.jpg?_nc_cat=0&oh=36a92db0b1d866baceaa4006ab203955&oe=5C0D7C2E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36285947_395184587658328_5612978354098536448_n.jpg?_nc_cat=0&oh=967a056e125ae6f8557b2e02bcea2c05&oe=5BEDE7F4"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36339172_395184577658329_3437949268353089536_n.jpg?_nc_cat=0&oh=1fdf19924b11fa4eb63d0494700f0a34&oe=5C0C9931",
+                    "is_reshared": false,
+                    "link_description": "\u201cAqu\u00ed la tienen, con esa naturalidad de quien no rompe un plato, confesando que \"la revoluci\u00f3n es la venganza personal\" por la muerte de su padre. Incre\u00edble. https://t.co/lxvSFWd0X7\u201d",
+                    "link_url": "https://t.co/lxvSFWd0X7",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36367222_395184574324996_6132315341285490688_n.jpg?_nc_cat=0&oh=6b0cf68a459e36456897733cf07e5612&oe=5C05B476",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Hugo Santaromita on Twitter",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "415320182285877",
+                "adid": "23842875335350366",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "618835734893529",
+                "pageName": "Lary",
+                "snapshot": {
+                    "ad_creative_id": "23842875335260366",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "28.06 - Dia Internacional do Orgulho LGBT<br /> \ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\u2764\ufe0f<br /> <br /> Que o amor ven\u00e7a o preconceito, as barreiras e os padr\u00f5es. Que sejamos todos livres pra amar sem medo. O amor \u00e9 lindo em todas as suas vers\u00f5es. <br /> <br /> Fica aqui minha homenagem a esse dia t\u00e3o especial e importante para a comunidade LGBT. Obrigada a toda minha equipe LM Music que idealizou e se entregou a esse projeto com tanto carinho. Obrigada DJ JP por produzir a m\u00fasica com tanto cuidado. Obrigada principalmente aos meus f\u00e3s que se propuseram a fazer parte desse v\u00eddeo. Eu t\u00f4 s\u00f3 emo\u00e7\u00e3o vendo tudo isso pronto \u2764\ufe0f\ud83d\ude2d<br /> <br /> Assista ao clipe completo clicando aqui: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FUmPoucoDeCor&amp;h=AT1NLKm3kIYwPSY8aotQ7Ct8eAXH3apgDVPS1sjFXSjG3w_SPSktDssdLduCif0sPWk8ti6Y5G4lnZ8XgLQ5BXXSK1bA4CI9QVf_HPqy9Ldej5Tl__jKCclKIluouVHrK3SBfyGonjY\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/UmPoucoDeCor</a><br /> <br /> #loveislove #lgbt #pridelgbt #umpoucodecor #lary"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530489837,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lary",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 618835734893529,
+                    "page_is_deleted": false,
+                    "page_like_count": 58166,
+                    "page_name": "Lary",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550598_480857059015521_2075462677148205056_n.jpg?_nc_cat=0&oh=01aa53eb02c117a7e0a9aaa96c33bdb2&oe=5BF4B335",
+                    "page_profile_uri": "https://www.facebook.com/laryoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36240101_643774552653583_7550155453821353984_n.mp4?_nc_cat=0&oh=a74c0c668997d8ed57be7f2f84d4f3ba&oe=5B78E21C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36511179_480857069015520_7058362693199069184_n.jpg?_nc_cat=0&oh=0a4df9458c130132b124e5b5c6e652b6&oe=5BF728DF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36323426_188203631844335_7236112229731401728_n.mp4?_nc_cat=0&oh=8c02d9fecf338ed80a085b76072b6aab&oe=5B78E449"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "431686243970063",
+                "adid": "6096278289805",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096278286405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "HOY ES EL PRIMER ANIVERSARIO DEL OSADO Y VALIENTE GESTO QUE TUVO OSCAR PEREZ DESDE UN HELICOPTERO QUE SOBREVOLO POR LOS CIELOS DE CARACAS, PROCLAMANDO EL 350: DESOBEDIENCIA CIVIL, PARA LOGRAR LA LIBERTAD DE VENEZUELA... <br /> <br /> OSCAR PEREZ y su comando de patriotas fue v\u00edctima de una emboscada y supuestamente muri\u00f3 junto a todos los que estaban con el, a pesar que bajaron las armas y quer\u00edan entregarse... Fueron ejecutados sin juicio previo, lo que hace esta acci\u00f3n aun mas grave y totalmente fuera de la ley... Lastima que muchos venezolanos no reconocieron su valent\u00eda y deseo de liberar a nuestro pueblo... <br /> <br /> Es mas, muchos pensaron que era una trampa del narco-regimen... Hasta la falsa oposici\u00f3n que hacia llamados constantes a las FAN para que despertaran, vieron en Oscar Perez a un enemigo que les iba a quitar protagonismo... <br /> <br /> Estos falsos l\u00edderes, ego\u00edstas y politiqueros, que solo piensan en su ventaja personal, calleron en la trampa de unas elecciones regionales a las que Oscar Perez se opuso y advirti\u00f3 que no la hicieran, as\u00ed fuera por respeto por nuestros estudiantes ca\u00eddos que se merec\u00edan que sigui\u00e9ramos la lucha de calle hasta lograr la libertad, y que su muerte no fuera en vano... <br /> <br /> Pero todo eso ya es historia vieja... Con las regionales hundieron mas al pa\u00eds y se olvidaron de la calle para oxigenar mas a los miserables genocidas de la dictadura, hasta se rumora que entregaron el paradero de aquellos que valientemente se alzaron para salvar a Venezuela, pues no les conven\u00eda ya que pensaban que con las regionales iban a ganar posiciones pol\u00edticas como sucedi\u00f3 con las elecciones de la Asamblea Nacional... <br /> <br /> La falsa oposici\u00f3n perdi\u00f3 por fraude electoral y as\u00ed perdieron tambi\u00e9n al pueblo que por tanto tiempo los apoyo y les entrego sus esperanzas... <br /> <br /> LA FALSA OPOSICION NOS TRAICIONO, NOS ENGANIO, TAL COMO EL REGIMEN LO HA HECHO DURANTE ESTOS 20 ANIOS... <br /> <br /> Oscar Perez y su comando de valientes necesitaban del apoyo del pueblo, para obtener el apoyo militar que necesitaban y as\u00ed derrocar a este narco regimen, corrupto, y genocida... <br /> <br /> Solo nuestros j\u00f3venes vieron la luz y la esperanza que Oscar Perez tra\u00eda a toda nuestra naci\u00f3n y lo siguieron, lo apoyaron... Se apoyaron mutuamente ambos grupos, para ser derrotados por la traici\u00f3n de la falsa oposici\u00f3n y tambi\u00e9n de la tiran\u00eda... <br /> <br /> Pero Oscar Perez vive y su legado aun esta vigente y seguir\u00e1 por muchas generaciones... <br /> <br /> EL CHAVISMO ES LA GRAN DESGRACIA DE VENEZUELA..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530162206,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36272916_431686267303394_1961026168354242560_n.jpg?_nc_cat=0&oh=2871209bd7e8367f531ba20144244aed&oe=5BF0CB43",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36302494_1814021981996070_6265152164285382656_n.jpg?_nc_cat=0&oh=778d2d11fcc14263d1420ed36fc2212a&oe=5BF9E365"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36371016_431686263970061_829650702195228672_n.jpg?_nc_cat=0&oh=754d83b3f09b7c1c370effb40427e9ff&oe=5BFF8F9E",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "182887559233183",
+                "adid": "6096268589205",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096268583405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quieren acabar con toda la oposicion decente y honesta que tenemos y de la cual ya casi no queda nadie... <br /> <br /> Entre los lideres de oposicion con verdadera integridad estan: Maria Corina, Antonio Ledezma, Leopoldo Lopez, Lilian Tintori, Mitzi Ledezma...<br /> <br /> Antonio Ledezma, logra escaparse de sus garras y de su control... Leopoldo y Lilian estan super custodiados en arresto domiciliario, asi como varios otros patriotas y ex-presos politicos... <br /> <br /> Entonces lo que queda es Maria Corina Machado - que anda libre y pa&#039;lante como siempre -- a quien no la para nadie, y a la que quieren destruir tambien porque les estorba...<br /> <br /> Total para que...??? Si el pueblo no los quiere y tampoco mas de la mitad de las FAN, e igualmente se ganaron el desprecio e irrespeto de casi toda la Comunidad Internacional...<br /> <br /> Quitarse a Maria Corina de encima es absurdo, porque con ello no van a ganar mas adeptos sino profundizar el conocimiento que se tiene de ellos como narco-dictadura, como tirania, ademas que ni para competenica les sirve, ya que todas las elecciones son un fraude mas, una burla mas al pueblo que defraudaron..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "lapatilla.com",
+                    "cards": [],
+                    "creation_time": 1530150061,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36361509_182887585899847_6331557662966153216_n.jpg?_nc_cat=0&oh=0ef6ae46ba1a490f8fc7b67e2a6fd743&oe=5C056E89",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36261549_182887582566514_3234457188202184704_n.jpg?_nc_cat=0&oh=b1f0e477e7a0c11bd29f6f8a39773e06&oe=5C0F3F59"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36264901_182887572566515_1826810660852334592_n.jpg?_nc_cat=0&oh=4489e8e122739b747f881d10b12063ca&oe=5C3AA827",
+                    "is_reshared": false,
+                    "link_description": "La conspiraci\u00f3n, con nombre c\u00f3digo Operaci\u00f3n Constituci\u00f3n, involucraba a decenas de capitanes, coroneles y generales de los cuatro componentes de las Fuerzas Armadas de Venezuela. El objetivo era d\u2026",
+                    "link_url": "https://www.lapatilla.com/2018/06/27/bloomberg-destapa-expediente-del-regimen-que-acusa-a-maria-corina-machado-de-encabezar-rebelion-militar/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36268669_182887569233182_1083868648214364160_n.jpg?_nc_cat=0&oh=435ba46db98f1615e2689ba59c07489c&oe=5C022EE2",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Bloomberg destapa expediente del r\u00e9gimen que acusa a Mar\u00eda Corina Machado de encabezar rebeli\u00f3n militar",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "185056622161142",
+                "adid": "23843185163730436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530169200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT1Xkz8Dk4bnqDMlFZy19GpTfOOwM9MPLz5-_JrpULp6ewoZ3db-b2x0kBsrleyQ_wdYih2Gt1RWcklLjSUUbLNGrayczOp2L6M1XtjyHVsraoQgKGGeY8bzSriBzXM8gbfh8yh6n6c\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT3Xub4OT6ZNY60t4R9q86sQylJQtmYA0lOISMg39V56lGUPOeoTYBIWDMZGL4CU_-qNGSogB7TmKI3wOiFUjOcLNiBR7HlEAKfeHpNjUhkGMEIJ14tR6yjGGK6O55SuhlUoFBhzEXE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "236861950476400",
+                "adid": "6096267135405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096267131805,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "EXCELENTE EL VETO MIGRATORIO DE LOS EEUU CONTRA VENEZUELA, QUE SOLO ABARCA A LOS FUNCIONARIOS Y ENCHUFADOS DEL NARCO-REGIMEN CORRUPTO Y GENOCIDA, ASI COMO A SUS FAMILIARES Y ALLEGADOS...<br /> <br /> Les esta llegando a esta banda de demonios y monstruos rojos el momento de pagar por sus fechorias y diabolicas gestiones anti-sociales y politicas... <br /> <br /> Son sancionados en lo personal, asi como sus bienes decomisados y congelados... Su gobierno ilegitimo e inconstitucional tambien es sancionado y no puede hacer negocios con muchos paises del mundo, mientras que la Comunidad Internacional casi en pleno esta en su contra y ahora viene les viene la mejor parte...<br /> <br /> EEUU no los dejaran entrar, ni les daran mas visas de turistas o de negocios, ni podran hacer sus negocios sucios en el Imperio que tanto odian, donde no les da escrupulo alguno de mantener sus dineros y propiedades mal habidos... Ni tampoco les da verguenza alguna de venir a refugiarse a los EEUU para vivir como reyes con el dinero robado al pueblo de Venezuela, ya que la vida en nuestro pais se ha hecho imposible gracias a estos mismos traidores que destrozaron nuestra nacion... <br /> <br /> Ojala que se queden todos en la ruina y que vivan en carne propia lo que le hicieron a los venezolanos, de sumirlos en la miseria absoluta; o que les toque vivir el resto de sus vidas en una carcel nacional o internacional...<br /> <br /> Aquellos chavistas que descaradamente se vinieron para los EEUU para establecerse en este pais y disfrutar de la libertad y de la abundancia que ofrece gringolandia, pueden desde ya bajarse de esa mata de prosperidad y paz, porque seran perseguidos hasta sus ultimas guaridas, en EEUU o en el exterior y pagaran por todo el mal causado, porque hay listados de sus actividades que fueron entregadas al gobierno Americano ya que estos narco-truhanes y terroristas estan vigilados y seran perseguidos hasta que paguen por todo el danio cometido...<br /> <br />  <br /> Jose Antonio Colina<br /> \u200f<br />  <br /> &#064;JoseColinaP<br /> Following &#064;JoseColinaP<br /> Con el veto migratorio en Estados Unidos donde se encuentran los funcionarios del r\u00e9gimen de Venezuela, aprovecharemos para reenviar informaci\u00f3n de chavistas viviendo en USA al Servicio de Inmigraci\u00f3n.<br /> <br /> Translate Tweet<br /> 12:20 PM - 26 Jun 2018"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "noticiasdevenezuela.org",
+                    "cards": [],
+                    "creation_time": 1530147625,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36287677_236861980476397_320867566346043392_n.jpg?_nc_cat=0&oh=f30a930a035639b8edd817129b632c82&oe=5C03DDA1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36257705_236861977143064_5704682648966791168_n.jpg?_nc_cat=0&oh=b3bfad85bc37612f1e3b5021accfa857&oe=5C0BBCDA"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "La Corte Suprema de Estados Unidos respald\u00f3 el veto migratorio impuesto por el presidente Donald Trump, en septiembre pasado y activado desde diciembre. Luego de una exhaustiva revisi\u00f3n, la Corte neg\u00f3 que dicho decreto sea discriminatorio o est\u00e9 por encima de los poderes que le confieren a Trump...",
+                    "link_url": "https://noticiasdevenezuela.org/2018/06/26/ni-la-mascota-podra-entrar-que-es-el-veto-migratorio-de-trump-y-a-cuales-chavistas-afecta/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36346853_236861973809731_9055448917344256_n.jpg?_nc_cat=0&oh=4331d4bc91220c2e9a39b0c58d8d438b&oe=5C002627",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00a1NI LA MASCOTA PODR\u00c1 ENTRAR\u2026! \u00bfQu\u00e9 es el veto migratorio de Trump y a cu\u00e1les chavistas afecta? - Noticias Venezuela",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1807594349318228",
+                "adid": "6096265642405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096265637205,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quieren aislar cada vez mas al pa\u00eds, igual como los Castro hicieron en Cuba... <br /> <br /> No quieren que la gente se informe de nada... Pero sobre todo  quieren mantener al pueblo sin influencias externas para lavarles el cerebro y manipularlo con su basura comunistoide y su robolucion fracasada y fraudulenta... <br /> <br /> Esta escoria y lacra social roja se aferrara al poder con la ultima gota de sangre que les quede porque ya no tienen ni para donde agarrar...<br /> <br /> O una fracci\u00f3n de las FAN se fortalece y finalmente habr\u00e1n de lograr \u00e9xitosamente sacar a esta prodredumbre chavista/madurista, o nos hundimos peor que la Cuba Castro-Comunista que es autora intelectual y complice - junto a Chavez y Fidel -- de nuestra miseria, de la corrupci\u00f3n, y del genocidio que existe en Venezuela..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "elmundo.es",
+                    "cards": [],
+                    "creation_time": 1530144935,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36277155_1807594379318225_7573869381306810368_n.jpg?_nc_cat=0&oh=2d3cb68fc461cc1faf0a268effad529d&oe=5BEE6C5C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35111786_1807594382651558_8075636121142296576_n.jpg?_nc_cat=0&oh=4e2c8d52c8112e99846e9f0bb734ec46&oe=5BF964D5"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36297051_1807594365984893_4415645753779683328_n.jpg?_nc_cat=0&oh=4ff99b95cd730f2ff5476a4bb91f3e1a&oe=5C064680",
+                    "is_reshared": false,
+                    "link_description": "El gobierno de Venezuela ha empezado a bloquear el acceso a Tor, el navegador con el que muchos usuarios intentan evitar los bloqueos estatales de p\u00e1ginas webs. Seg\u00fan informa Acces",
+                    "link_url": "http://www.elmundo.es/tecnologia/2018/06/26/5b324955ca47412e4e8b4674.html",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515745,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36270153_1807594369318226_3951965521204740096_n.jpg?_nc_cat=0&oh=853fc3144f22854ab2919c3ff4fc2f2a&oe=5BEDFC6D",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Venezuela bloquea el navegador Tor como medida de censura de Internet",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "250163995620639",
+                "adid": "23842950269690033",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530428400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1017644601605126",
+                "pageName": "Luciano Victorino",
+                "snapshot": {
+                    "ad_creative_id": "23842950269630033",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Luciano \u00e9 ativista LGBT do PSOL. Foi a candidatura LGBT mais votada em 2016 em Porto Alegre."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534333107,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luciano Victorino 5024",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39241148_250164042287301_5853858184690663424_n.jpg?_nc_cat=0&oh=d26ed2eaa5ccd8791bcd60933902887b&oe=5C109BD3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39147832_250164045620634_4470274336170704896_n.jpg?_nc_cat=0&oh=fa1a5e48a382f12be0cb52ee82bdd986&oe=5C093283"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/lucianovictorino50/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1017644601605126,
+                    "page_is_deleted": false,
+                    "page_like_count": 19432,
+                    "page_name": "Luciano Victorino",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39144127_250164028953969_2591171379042713600_n.jpg?_nc_cat=0&oh=b828e4bb99bb41e5ef7b4d0c92799947&oe=5BFE38A6",
+                    "page_profile_uri": "https://www.facebook.com/lucianovictorino50/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1884470991576219",
+                "adid": "6092626009305",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530169200,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1376429435927935",
+                "pageName": "FONDISMO TOTAL",
+                "snapshot": {
+                    "ad_creative_id": 6092626001905,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#LoNuevoDe #Adidas #AdidasRunning<br /> UltraBOOST Parley es la zapatilla oficial de Run For The Oceans 2018, el evento global<br /> m\u00e1s grande de adidas, que empodera a las comunidades del running a luchar contra la<br /> contaminaci\u00f3n marina por pl\u00e1stico.<br /> - La parte superior Primeknit 85% Parley Ocean Plastic\u00ae de la UltraBOOST est\u00e1 hecha con<br /> aproximadamente 11 botellas de pl\u00e1stico interceptadas de playas y comunidades<br /> costeras.<br /> - La nueva paleta de color Deep Ocean Blue est\u00e1 inspirada en las profundidades de la Fosa<br /> de las Marianas.<br /> Desde 2015, adidas apoya a Parley en sus programas de educaci\u00f3n y comunicaci\u00f3n, mientras se<br /> convierte en pionero de creativas eco-innovaciones, tales como Parley Ocean Plastic \u00ae , para ayudar<br /> a combatir la contaminaci\u00f3n marina por pl\u00e1stico. Este a\u00f1o, adidas aportar\u00e1 US$ 1 por cada<br /> kil\u00f3metro registrado en Runtastic durante la fase de la campa\u00f1a global \u2013 por el primer mill\u00f3n de<br /> kil\u00f3metros \u2013 para apoyar elParley Ocean Plastic Program. El dinero recaudado durante Run For<br /> The Oceans financiar\u00e1 la iniciativa Parley Ocean School, que educa a la pr\u00f3xima generaci\u00f3n sobre<br /> c\u00f3mo proteger nuestros oc\u00e9anos.<br /> Cada nueva UltraBOOST Parley evita que aproximadamente 11 botellas de pl\u00e1stico entren al<br /> oc\u00e9ano mediante el uso de Parley Ocean Plastic \u00ae . Esta revolucionaria eco-innovaci\u00f3n inicia vida, ya<br /> que el desecho de pl\u00e1stico es recolectado de las playas y es reelaborado en tejido para construir la<br /> parte superior Primeknit de la silueta. La silueta tambi\u00e9n presenta la ic\u00f3nica tecnolog\u00eda BOOST de<br /> adidas, ofreciendo el m\u00e1s alto retorno de energ\u00eda contenido en una suela exterior de goma<br /> Continental natural para brindar una adherencia superior en todas las condiciones.<br /> Un chip NFC en el pie derecho permite que el usuario conozca m\u00e1s sobre la alianza y sobre c\u00f3mo<br /> evitar el pl\u00e1stico en sus vidas.<br /> Matthias Amm, Director de la Categor\u00eda Producto de adidas Running, acot\u00f3: \u201cLa nueva silueta<br /> UltraBOOST representa otro hito en nuestra duradera alianza con Parley for the Oceans. Juntos,<br /> estamos transformando las amenazas en hilos y continuaremos haci\u00e9ndolo al invertir en la eco-<br /> innovaci\u00f3n a largo plazo. Con el movimiento Run for the Oceans, nuestra ambici\u00f3n es inspirar a los<br /> entusiastas del running a apoyarnos en la lucha contra la contaminaci\u00f3n marina por pl\u00e1stico \u2013 cada<br /> kil\u00f3metro cuenta\u201d.<br /> Los consumidores pueden unirse al movimiento entre el 8 de junio y 8 de julio junto con las estrellas<br /> m\u00e1s celebradas en las pistas de adidas, incluyendo a Wayde van Niekerk y Shaunae Miller. Para<br /> conocer m\u00e1s, incluyendo c\u00f3mo reg\u00edstrate, visita <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fadidas.com%2FParley&amp;h=AT3T21A9DN51HYRruK2TKvjlBlX-nEAGOCGmt-sI9gWZZChZP6N4OmO2cI7becuRZvuAmGsFbtEFtDXn0SDb_UoysGBKNFhZaw_OLRjTD3t3BrNBA6OrmvgsQ008q_UqC3J20aN5aOw\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">adidas.com/Parley</a>.<br /> La UltraBOOST Parley cuestan S/. 649 y estar\u00e1 disponibles en <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.adidas.pe%2F&amp;h=AT1Bal-iFwWLMxUqCLVNi_t-WM8dgGL5dQgtmwlIDS0vqp3JBI6H69K5kC6Rj99vn0XsWF9HoEaNPZRVo0NhfHGFPBeHi2SwmZLDTb2zOgvznKWaFRknptjjGgJ7OOKxG7HwJnC5n84\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.adidas.pe</a> desde el 20 de junio<br /> y en tiendas a nivel mundial a partir del 27 de junio de 2018. Para conocer m\u00e1s, por favor<br /> visita:<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.adidas.com%2Fultraboost&amp;h=AT3EBFa6E6JRjfNIDrhr-eaw8NN9xX_RPxxVYqO8ILqrJPBssd-9ovhaKVb0sv1vAQh0fYQDlngXaD6sDyEDHPRuo41rSPulrXHGSumrH3nCS3FxlYsNelIBHf-PyanZYqwOzjXvhJA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.adidas.com/ultraboost</a>.<br /> Sigue la conversaci\u00f3n en &#064;adidasrunning enInstagram,Facebook yTwitter, y usando<br /> #UltraBOOST, #RunForTheOceans, #adidasParley."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533046937,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "FONDISMO TOTAL",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36367204_2172320383005499_1511176860048818176_n.jpg?_nc_cat=0&oh=c16acfe3b3d8c7f77f15f9b9802e8ccc&oe=5C0FCFF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36242422_2172320386338832_6820601751893180416_n.jpg?_nc_cat=0&oh=8b2a94a6df6cbc46b4a8fd042263af7f&oe=5BFB6388"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2710": "Rec Site"
+                    },
+                    "page_id": 1376429435927935,
+                    "page_is_deleted": false,
+                    "page_like_count": 252980,
+                    "page_name": "FONDISMO TOTAL",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38032196_1785722841504132_1920266469153701888_n.jpg?_nc_cat=0&oh=dcd6df47d59f189dcb5dd4c893dc883d&oe=5BEDACD1",
+                    "page_profile_uri": "https://www.facebook.com/FondismoTotal/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "171389003719700",
+                "adid": "23842923675560514",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530687600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "127789930632668",
+                "pageName": "Conectas Direitos Humanos",
+                "snapshot": {
+                    "ad_creative_id": "23842923675060514",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Entidades de direitos humanos e defensores p\u00fablicos apresentaram ontem o pr\u00e9-projeto de lei que cria o Mecanismo Estadual de Preven\u00e7\u00e3o e Combate \u00e0 Tortura. O mecanismo \u00e9 um \u00f3rg\u00e3o composto por especialistas independentes e com acesso livre a qualquer local de priva\u00e7\u00e3o de liberdade. A partir de inspe\u00e7\u00f5es, os membros do mecanismo podem solicitar a instaura\u00e7\u00e3o de inqu\u00e9ritos, fazer per\u00edcias, elaborar relat\u00f3rios, fazer recomenda\u00e7\u00f5es, sistematizar dados e sugerir pol\u00edticas p\u00fablicas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "conectas.org",
+                    "cards": [],
+                    "creation_time": 1530538655,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Conectas Direitos Humanos",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36501682_171389047053029_716378941287301120_n.jpg?_nc_cat=0&oh=8587e134a375ed2bbeef98b72bd53e8a&oe=5C3B0279",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36485486_171389043719696_1022848372802846720_n.jpg?_nc_cat=0&oh=b7d4c203bbd6808cb8ba3c1005818a2d&oe=5C078AF0"
+                        }
+                    ],
+                    "instagram_actor_name": "Conectas Direitos Humanos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36474124_171389023719698_5199235345496932352_n.jpg?_nc_cat=0&oh=2a65232b0d2a8a872af61563d36bedb5&oe=5BF75A27",
+                    "is_reshared": false,
+                    "link_description": "Entidades de direitos humanos e defensores p\u00fablicos apresentaram pr\u00e9-projeto de lei que cria mecanismo paulista nos moldes do nacional",
+                    "link_url": "http://www.conectas.org/noticias/ato-mecanismo-de-combate-tortura-sp",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 127789930632668,
+                    "page_is_deleted": false,
+                    "page_like_count": 178140,
+                    "page_name": "Conectas Direitos Humanos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36528462_171389027053031_8013774049320632320_n.jpg?_nc_cat=0&oh=d2ae23719982619b7f0854a50eb27d5f&oe=5BFC729A",
+                    "page_profile_uri": "https://www.facebook.com/conectas/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ato pede cria\u00e7\u00e3o de mecanismo de combate \u00e0 tortura em SP - Conectas",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1973229516029135",
+                "adid": "23842894286840067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894286670067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT1cCUcHEftBCiW19baBizE1Jfv4_qaubzN1vZ_ynYB4kaQf3YXpcMEYMl2TTuO_tMMDBBjspFqg2WhlOcNcAdqkWGUEIwJLmsob2XFOwUD1y27RpCqt4Y-UUO-WvoCGgaTfhmO5BD4\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109640,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36314176_1973229556029131_3958151794529402880_n.jpg?_nc_cat=0&oh=3b15dfdfecbfd90093583e1ee8395489&oe=5C02086C",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36245213_1973229552695798_3243901211400732672_n.jpg?_nc_cat=0&oh=506f91c5e80fd306d592c0cffb57d09d&oe=5C036E25",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=09a499d54972d110ad6269fd4f1455e0&oe=5B78E413",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36267341_1973229569362463_5871337146807222272_n.jpg?_nc_cat=0&oh=8dcd467102b882636202d50456536b08&oe=5BFBF633",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=54e4cb1fcc69eb251721dcde27869b60&oe=5B78DE8C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "467306653691569",
+                "adid": "23842894282560067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894281950067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT3m9M9shXpb-MJC6-KdlAb_sSadwMUwYoCY5jOk9y0GvK4BG6wVshgS23Cf44PNBTsr67Lfg3VB8O5HhGN4LcHuNrC6fYXC90_mnv9cVZythmlmnoS6mPQUKsLO3HSFRXRBmM8lJlM\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530115211,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36320622_467306670358234_6875629289501360128_n.jpg?_nc_cat=0&oh=f95df30b2a701c38b7e631bbc318860d&oe=5C108EB4",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36245625_467306673691567_2890602252513312768_n.jpg?_nc_cat=0&oh=3e0fa572b1cda4a7a318bdce5511e523&oe=5C0F8495",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=09a499d54972d110ad6269fd4f1455e0&oe=5B78E413",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36277120_467306683691566_4920214246811238400_n.jpg?_nc_cat=0&oh=db244b0b3c5ce9d03f27824c55d188c9&oe=5C0B41AB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=54e4cb1fcc69eb251721dcde27869b60&oe=5B78DE8C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "283804622164133",
+                "adid": "23842894284330067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894284240067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT2u0sVLj1Tc47OJAERUE-1vayoj5Hj3IWUzUFPXzQKSQKo5Nf_9l0IlrB-8t9f6ZArvA_WpsNAM0-N7Gyu4H4Lg6fBrAM1mfeZP7y-VQBdRiaaS49Ch87YMC6YgQ3RErJscwhHDf-c\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530113715,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36328616_283804652164130_3053465887664242688_n.jpg?_nc_cat=0&oh=2630190decd65ce6508fa0784019de1d&oe=5C10EADF",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36322778_283804655497463_4148496747859017728_n.jpg?_nc_cat=0&oh=70c355dc48049a95ac5941ab8572ce0e&oe=5C10376A",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=09a499d54972d110ad6269fd4f1455e0&oe=5B78E413",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36254333_283804665497462_7937340493493436416_n.jpg?_nc_cat=0&oh=4ee71821637721a5542aaedbfa9c501b&oe=5BF97E97",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=54e4cb1fcc69eb251721dcde27869b60&oe=5B78DE8C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "667925983554388",
+                "adid": "6098331322818",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530082800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "161154460715395",
+                "pageName": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                "snapshot": {
+                    "ad_creative_id": 6098331275618,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Ateneos Interinstitucionales A\u00f1o 2018: &quot;A los 90...&quot;<br /> 27 de Junio de 2018<br /> Presentado por los Residentes del Instituto de Previsi\u00f3n Social.<br /> Local: Sal\u00f3n Auditorio del Centro Oftalmol\u00f3gico (Av. Brasilia 1155 - 2do. piso).<br /> V\u00e1lido para Certificaci\u00f3n y Recertificaci\u00f3n.<br /> El evento ser\u00e1 transmitido en la plataforma Adobe Connect en el siguiente enlace: \ud83d\udc49\ud83c\udffc<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fmeet79792352.adobeconnect.com%2Fspopy%2F&amp;h=AT2-q0q3tVI4vbLFDrwTjM4B6Urack7ZHbAinrSdJB2QxEUCt4nq2ZSx0UOJFphb5BovjCQb-cnpLur4q206PbdeLL3UdunCbQkR3sgURAtTzyrtBNtgXFVRvZn32n6cS7CDwLiPhhA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://meet79792352.adobeconnect.com/spopy/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530085096,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/35987462_940766666087500_9171232920587730944_n.jpg?_nc_cat=0&oh=9e5a0f55e6c72a71eac1b652cf2e6b17&oe=5BF03D91",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36189346_940766662754167_2213750754244558848_n.jpg?_nc_cat=0&oh=448a55e24c5ae8ef30bc51c494a68d9f&oe=5C03E183"
+                        }
+                    ],
+                    "instagram_actor_name": "Pablo Cibils Farr\u00e9s",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36332341_667926013554385_6457083828857995264_n.jpg?_nc_cat=0&oh=9157e77146447593f2ea013c10f3b356&oe=5BFA9C57",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://meet79792352.adobeconnect.com/spopy/",
+                    "page_categories": {
+                        "176831012360626": "Topic Professional Services"
+                    },
+                    "page_id": 161154460715395,
+                    "page_is_deleted": false,
+                    "page_like_count": 3987,
+                    "page_name": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36275650_667926016887718_862536961838022656_n.jpg?_nc_cat=0&oh=d90d2b418f48de4bd97570a8ab3bad89&oe=5BFA8D0F",
+                    "page_profile_uri": "https://www.facebook.com/SociedadParaguayaDeOftalmologia/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529996400
+            },
+            {
+                "adArchiveID": "1819578028134719",
+                "adid": "23842846831820405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996490405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635592,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36652693_1819578064801382_914204198638190592_n.jpg?_nc_cat=0&oh=99595afa57a09a1ff387b7e151eff4a8&oe=5C05D0BC",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36524492_1819578068134715_409973814022111232_n.jpg?_nc_cat=0&oh=654322af1cd4f795a233a87027df2461&oe=5C394D04",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36588367_1819578071468048_4097123188037648384_n.jpg?_nc_cat=0&oh=09f58fcf3468090c32bd1c369fc51528&oe=5C00BC05",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529910000
+            },
+            {
+                "adArchiveID": "168503824011795",
+                "adid": "23842842998780405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996740405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635588,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554153_168503847345126_4869461369893683200_n.jpg?_nc_cat=0&oh=f879d0f5dd25a20fa01d474824391baf&oe=5C0A172A",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36530633_168503844011793_3575044057505726464_n.jpg?_nc_cat=0&oh=a9c7acae49dc87b0128995f9d5a6ebb7&oe=5BF3BE05",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546898_168503857345125_4966994747131428864_n.jpg?_nc_cat=0&oh=7736884e31e5fb87d0c00147e7f1dca3&oe=5BF41B24",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "189552801735422",
+                "adid": "23842842993860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989140405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635590,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36542571_189552815068754_8338261104866099200_n.jpg?_nc_cat=0&oh=6574573496517c4c9d0f1c151ad67db9&oe=5BF170E7",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36576087_189552818402087_1413117014309863424_n.jpg?_nc_cat=0&oh=3375094bf58093ec28bb66b39fe39dd5&oe=5BEF15D4",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36565446_189552825068753_1614633744512057344_n.jpg?_nc_cat=0&oh=da00702bf8f55ca641cf43b7fb07037d&oe=5C0FA2B0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "196532674394449",
+                "adid": "23842842999660405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842998770405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635580,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36552191_196532704394446_4694129921423835136_n.jpg?_nc_cat=0&oh=69f9a954363b8e33797e748d1bef642d&oe=5C0228CA",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36637463_196532701061113_7051213114544488448_n.jpg?_nc_cat=0&oh=d4829d9e97d2fd75f5e1b2a0758df2d7&oe=5C01C25B",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36572055_196532711061112_5399979088960028672_n.jpg?_nc_cat=0&oh=c0f2dbb774ad73b34aaf0a9e3f4871ab&oe=5BFA9202",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "204096770431902",
+                "adid": "23842842993120405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842990210405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635586,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36636060_204096793765233_3139834299847540736_n.jpg?_nc_cat=0&oh=5127f102e0653a1ae6807f52b31f2813&oe=5BF24853",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36574835_204096797098566_918425215187288064_n.jpg?_nc_cat=0&oh=8b64adaa7b538f47a819880912c357bf&oe=5BF65E74",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36618835_204096807098565_6748924932475846656_n.jpg?_nc_cat=0&oh=c37073faf22fb4ef24b95339e98130b5&oe=5C09C396",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "208862746429922",
+                "adid": "23842842997380405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996780405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635584,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36571530_208862776429919_4372293019613790208_n.jpg?_nc_cat=0&oh=5cd7443397e9170cabd4f708847a0a1f&oe=5C05736D",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36648691_208862773096586_4345573263561195520_n.jpg?_nc_cat=0&oh=9d05566076351ec5994926cdbfde1136&oe=5BFB38AA",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36565118_208862779763252_5762519533273219072_n.jpg?_nc_cat=0&oh=dc2099b0edfa07e0cd43fa17125be988&oe=5BFB48BC",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "215940562372075",
+                "adid": "23842842990640405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989530405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635607,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36531223_215940579038740_2259086569300295680_n.jpg?_nc_cat=0&oh=d402c80f5f244cee114de36f03a87eee&oe=5BFF48C0",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36561011_215940582372073_8397003278084210688_n.jpg?_nc_cat=0&oh=6542adfc8eb7dbe081162f8d9bde8254&oe=5C0C760C",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36658113_215940585705406_7483887059086606336_n.jpg?_nc_cat=0&oh=ae886530b3a436d26b334183171a3e2f&oe=5C0CE836",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "216595448971428",
+                "adid": "23842842997260405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842996750405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635569,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36668637_216595475638092_5665257305910804480_n.jpg?_nc_cat=0&oh=ee4cbbe60c61958bd5656cd6b10f3abe&oe=5BFCDE3C",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36522843_216595472304759_2820871117705576448_n.jpg?_nc_cat=0&oh=0854b4dbb0d6904bb50f55d2a345f79e&oe=5BF36096",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36630804_216595492304757_1084150745961332736_n.jpg?_nc_cat=0&oh=bd0ff991508baf8cd3ea499cbd5bd6b8&oe=5BF38D29",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "238740266726988",
+                "adid": "23842843000040405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842997760405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635596,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527112_238740286726986_6418867338707206144_n.jpg?_nc_cat=0&oh=07854481d2ff6a9f78493bd8479f5f37&oe=5C0B46CA",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36577088_238740283393653_3020727130083295232_n.jpg?_nc_cat=0&oh=dbb998e34469925f92402f70f193f7da&oe=5C02E742",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36574836_238740290060319_3461712703926566912_n.jpg?_nc_cat=0&oh=a6e10ea5f74a4f7548b69555ffc33f63&oe=5C01B6D7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "256387075173773",
+                "adid": "23842842990580405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842989390405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635563,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554158_256387085173772_4241541746833489920_n.jpg?_nc_cat=0&oh=7e4629db94bcbbf3f127bf565a5ca3fa&oe=5BF5E1F8",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36504096_256387088507105_139826263798841344_n.jpg?_nc_cat=0&oh=10691c8bab6be73959b35fa438ac7aa9&oe=5BF742B6",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36548960_256387095173771_2370441580793298944_n.jpg?_nc_cat=0&oh=001b17a9208e5f37cbfa79ebe7b9142e&oe=5C10363D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "266694133894724",
+                "adid": "23842842993400405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842991180405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635582,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550338_266694157228055_5928916547824254976_n.jpg?_nc_cat=0&oh=e03bb88ca10ea04c7a5ff9397d801404&oe=5C008C2D",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36572062_266694153894722_9200182602185572352_n.jpg?_nc_cat=0&oh=f00cbcfc12d845c0442a99d0d4318d51&oe=5BF3FC0C",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36627885_266694170561387_6135111678527799296_n.jpg?_nc_cat=0&oh=1a0325d57be90c95babdf1c1ac2f7f32&oe=5BFBEF53",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            },
+            {
+                "adArchiveID": "333337720534024",
+                "adid": "23842842998610405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842842997720405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635615,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36590737_333337730534023_7086450787177463808_n.jpg?_nc_cat=0&oh=6db864c1dc3d6fa257a749371e804869&oe=5C0221C5",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5055,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36620489_333337727200690_543969702666305536_n.jpg?_nc_cat=0&oh=703e0122558bf5f632659aad1c0d573f&oe=5BF8374A",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=bf0163d16b000f38147eb3479acb46f5&oe=5B78E43F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36613750_333337740534022_2714647793267376128_n.jpg?_nc_cat=0&oh=6153113afaf63222624473c8a6ff51a8&oe=5C0E04F7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=14d4ad7f4e49175cba86f33f99ccc433&oe=5B78F857"
+                        }
+                    ]
+                },
+                "startDate": 1529823600
+            }
+        ],
+        "totalCount": 193,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

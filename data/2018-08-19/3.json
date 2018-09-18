@@ -1,0 +1,2229 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQEC43eCwITp:AQHTrCx83SUQ",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591477479532627148",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfZavtys4eKIvAfm+4Ccz8rwAZSS9tjjt44B4omZsJfevgagx+ny1vKpBuSn2quNuJwEiL2Z4NLL6wHGzvySiJqmAZSro+6Qha4B5OLQzsKo4gfciP3fic2pCMzouc2OqcsB2vi40L+8a4ycrPTMkPoG8OWryOa+5AG4u7SaoJ5r1Kbkw9LWgQG8+5Op0KfjB8y7uo+W2f8BhoHL1eDJbtiHxobZlZQB2q7ota7bbcTA/uvyyZUGkNimrYevc96jg8/frM4BioaAmZWl8geOvZSi8dzAB9bG4tvcsIcBvpOYlK6grAKUroKW2PrZBp6h/ajoxmjy9ZuXs76IAdqk5dzR9nfchOCJ1/JpoJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJnP3lx+XaZbiewJrioL0BkNaV6pLAa4rrqLGRrKwC5P3S1MSUfIKOgNaoy3/Yyt+irNKIAZLVwPa6g226otH/9YjZA4b/oZf6o9MHzJjy9aK4ZPKwxOHZ1Xv+4YeyjP7YB7jn/8qP5swHqMPamaaQvgLizdrx84KZBtTLpby2ke0GxPiO9IT3xAfMg4aEmcGJAa6t5sCT2cQHgPDYv9Cj8AH+4aevwJTiBqz8/OPe5W/W/NPf5MvdAYrI+qu0lWe6hI/41ID6BvTL+/z75I8BvsS28rilcKaOosDP2oIBvqbEg5bnkQOQjbHThtRtmO3PvdqAjAG2+8ze7p7gB8ig9ZWMvOoGxvmR/LGjywf20pnl0N5wrLz8ycXigAG8wqeBl+z/Bda03M/a0MUH7uuh+tvKrwWC4pK7v8vNAcCkssyG598B0tGqxp209AW486eS3OexBpKd5L77wqIGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9Ahk1PHi0AQA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "487286151741227",
+                "adid": "23842963050460220",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1421426154787133",
+                "pageName": "Gustavo Petta",
+                "snapshot": {
+                    "ad_creative_id": "23842963050440220",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quer participar da nossa campanha? \ud83e\udd14<br /> \u00c9 simples #VemDeZap, adicione nosso n\u00famero, envie um \u201coi\u201d e comece a receber novidades. <br /> <br /> \ud83d\udc4d\ud83c\udffc <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FZapZapDoPetta&amp;h=AT2hDbsW2nLH02XN81ILc2NO4Ae5avVd2Cqz_SJh0bIsVAfY7PsxanIQMOfQkNKdiB0VCrjSKA_zh416CyokAhQinDHIC9XkrpSkthMIfgQwVA6041b9WnIbRitWSegfemFtz5bTxng\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/ZapZapDoPetta</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31181832000185",
+                    "byline": "GUSTAVO PETTA 65123",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534623671,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Gustavo Petta",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471116_487286178407891_4125573167370469376_n.jpg?_nc_cat=0&oh=6d72dcc3b42e3a0a6d220efaf0bef17d&oe=5C07A306",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39407843_2114256978837377_5710152169559162880_n.png?_nc_cat=0&oh=604d8be95f3ed88a470e6480569813f4&oe=5C09A6BD"
+                        }
+                    ],
+                    "instagram_actor_name": "Gustavo Petta",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507271_487286168407892_6128633209988055040_n.jpg?_nc_cat=0&oh=54ba13032c30649451fcd6e32d65e047&oe=5BF4FB80",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1421426154787133,
+                    "page_is_deleted": false,
+                    "page_like_count": 33957,
+                    "page_name": "Gustavo Petta",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471358_487286165074559_7579511602534154240_n.jpg?_nc_cat=0&oh=1000fd01d50ed31edf6487247b213aa1&oe=5C3A78D2",
+                    "page_profile_uri": "https://www.facebook.com/gustavopetta/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "226867197989381",
+                "adid": "23842968683070652",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "429621287088989",
+                "pageName": "Rog\u00e9rio Lorenzetti",
+                "snapshot": {
+                    "ad_creative_id": "23842968683060652",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A Lei Maria da Penha completou 12 anos. Agressores covardes n\u00e3o passar\u00e3o! Denunciem!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31224277000121",
+                    "byline": "ELEI\u00c7\u00c3O 2018 ROG\u00c9RIO JOS\u00c9 LORENZETTI DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534639157,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rog\u00e9rio Lorenzetti",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409757_226867227989378_7002147133277077504_n.jpg?_nc_cat=0&oh=1a22021c25a731b592246d2c96d93fda&oe=5BFCA3E1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39516752_226867224656045_2699829743779315712_n.jpg?_nc_cat=0&oh=a57f7ec95758b49b6519c788449aa24b&oe=5BFB1E84"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/SouRogerioPR/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 429621287088989,
+                    "page_is_deleted": false,
+                    "page_like_count": 56589,
+                    "page_name": "Rog\u00e9rio Lorenzetti",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39617131_226867211322713_5915623061402419200_n.jpg?_nc_cat=0&oh=5563de16418983a5771487a8701b9c18&oe=5C02CDA1",
+                    "page_profile_uri": "https://www.facebook.com/SouRogerioPR/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1957142097682717",
+                "adid": "6092325347649",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "230074147788966",
+                "pageName": "Dra Gra\u00e7a Carvalho",
+                "snapshot": {
+                    "ad_creative_id": 6092325347449,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Miguel Daladier Barros, um dos mais renomados juristas em exerc\u00edcio no Maranh\u00e3o, manifesta seu apoio a candidatura de Dra. Gra\u00e7a a Deputada Federal.<br /> #DraGra\u00e7a<br /> #Vote1999"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192769000182",
+                    "byline": "Maria das Gra\u00e7as Carvalho de Souza Magalh\u00e3es",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534633884,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Dra Gra\u00e7a Carvalho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 230074147788966,
+                    "page_is_deleted": false,
+                    "page_like_count": 6432,
+                    "page_name": "Dra Gra\u00e7a Carvalho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39561649_1957142127682714_6605135045222989824_n.jpg?_nc_cat=0&oh=3964d09f591ce781f0cfa8d7b1a5d20c&oe=5BF72159",
+                    "page_profile_uri": "https://www.facebook.com/gracacarvalhooficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Declara\u00e7\u00e3o de apoio Miguel Daladier",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/37629774_692597961083627_4437443679174524928_n.mp4?_nc_cat=0&oh=9c8ced52beaf0f4dc6234aa339374cd0&oe=5B79D640",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39532278_1957142137682713_2049148623706390528_n.jpg?_nc_cat=0&oh=b410a9b01148b5e1edac632aa2888324&oe=5C084215",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/37577342_201815214011333_7785086114758393856_n.mp4?_nc_cat=0&oh=de6600dfff28bcd562ee2bb03d005a8b&oe=5B79D0B0"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "316194952278778",
+                "adid": "6092324220649",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "230074147788966",
+                "pageName": "Dra Gra\u00e7a Carvalho",
+                "snapshot": {
+                    "ad_creative_id": 6092324220249,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "ENTREVISTA COM A DRA. GRA\u00c7A CARVALHO, JU\u00cdZA DE DIREITO APOSENTADA E CANDIDATA A DEPUTADA FEDERAL 1999 PELO PODEMOS-MA. CONFIRA!<br /> #DraGra\u00e7a <br /> #Vote1999"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192769000182",
+                    "byline": "Maria das Gra\u00e7as Carvalho de Souza Magalh\u00e3es",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534627681,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Dra Gra\u00e7a Carvalho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 230074147788966,
+                    "page_is_deleted": false,
+                    "page_like_count": 6432,
+                    "page_name": "Dra Gra\u00e7a Carvalho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349921_316194972278776_4366335732470513664_n.jpg?_nc_cat=0&oh=e38f0d3034807de45e0c4d6b0ee341dc&oe=5BF6941C",
+                    "page_profile_uri": "https://www.facebook.com/gracacarvalhooficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Entrevista com Dra Gra\u00e7a",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39505807_316194992278774_3194893920861421568_n.jpg?_nc_cat=0&oh=7abd0c93e3f54b09bc17bea66621d44c&oe=5C3B5149",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_252279745413475_8898026146763898880_n.mp4?_nc_cat=0&oh=2c81464d14381c83da99aa035ed6ae74&oe=5B79D13E"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "246933895958815",
+                "adid": "6092323943249",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "230074147788966",
+                "pageName": "Dra Gra\u00e7a Carvalho",
+                "snapshot": {
+                    "ad_creative_id": 6092323942649,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Maria das Gra\u00e7as venceu a fome e a mis\u00e9ria para tornar-se Ju\u00edza com as maiores honrarias do Poder Judici\u00e1rio do Estado. Dra. Gra\u00e7a \u00e9 candidata a Deputada Federal com o numero 1999 Para Mudar o Brasil. <br /> #DraGra\u00e7a<br /> #vote1999"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192769000182",
+                    "byline": "Maria das Gra\u00e7as Carvalho de Souza Magalh\u00e3es",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534681946,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Dra Gra\u00e7a Carvalho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 230074147788966,
+                    "page_is_deleted": false,
+                    "page_like_count": 6432,
+                    "page_name": "Dra Gra\u00e7a Carvalho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39617151_246933905958814_278195829309702144_n.jpg?_nc_cat=0&oh=211a26e21c9bba39e60b21e58a0bc6cf&oe=5C090340",
+                    "page_profile_uri": "https://www.facebook.com/gracacarvalhooficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Minha Historia",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_316124625619463_2342508036918083584_n.mp4?_nc_cat=0&oh=4feabf8f6aad36ef0a30e2daea4ad5be&oe=5B79D6DF",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471257_246933909292147_6634653135677685760_n.jpg?_nc_cat=0&oh=d80ed64e1b84cdea3634b69b448db517&oe=5C0D9EA9",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_284557938810085_7856547588810473472_n.mp4?_nc_cat=0&oh=4d8aed660abafae7f4c30e11061bb5db&oe=5B79D40D"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "287429882037139",
+                "adid": "6102189361043",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "339690853169064",
+                "pageName": "Elzivone Magalh\u00e3es",
+                "snapshot": {
+                    "ad_creative_id": 6102189360843,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Sou candidata a Deputada Estadual porque acredito que posso fazer a diferen\u00e7a, e h\u00e1 muitos anos estou na luta pelas pessoas com defici\u00eancia e idosos. Estou disposta a caminhar do seu lado. Vamos juntos?<br /> <br /> #deputadaestadual #pt #ptceara #mulheresnapolitica #elasporelas"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209542000100",
+                    "byline": "Elzivone Magalh\u00e3es 13013",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534622751,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Elzivone Magalh\u00e3es",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39203704_484212342050247_3434878010254163968_n.jpg?_nc_cat=0&oh=52a227c3eb179e506c9530f45b43f3c3&oe=5BFB2066",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39394554_484212345383580_3608904381371514880_n.jpg?_nc_cat=0&oh=d70e637a5b547a189038106fa68ca1f0&oe=5BFF3FA1"
+                        }
+                    ],
+                    "instagram_actor_name": "Elzivone Magalh\u00e3es",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39508520_287429925370468_5428077692723396608_n.jpg?_nc_cat=0&oh=4c3c9edaf2bd1f231bf12ea185ff81c6&oe=5C01C4E7",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 339690853169064,
+                    "page_is_deleted": false,
+                    "page_like_count": 651,
+                    "page_name": "Elzivone Magalh\u00e3es",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395198_287429922037135_3142124281920487424_n.jpg?_nc_cat=0&oh=2ccee1ebd8b7e33fe1dd29e12a0fc65c&oe=5C05DF8D",
+                    "page_profile_uri": "https://www.facebook.com/elzivone/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "883580808497567",
+                "adid": "23842930238380537",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "143803862450980",
+                "pageName": "C\u00e9lio Studart",
+                "snapshot": {
+                    "ad_creative_id": "23842930238370537",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "4321 - COMPARTILHE E COMENTE POR UM DEPUTADO FEDERAL 1 MILH\u00c3O MAIS BARATO E QUE DEFENDA UM HOSPITAL P\u00daBLICO VETERIN\u00c1RIO, CADEIA PRA QUEM MALTRATA ANIMAIS E MENOS IMPOSTOS!<br /> Comente seu apoio e a cidade de onde voc\u00ea apoia! <br /> <br /> J\u00e1 estamos nas ruas apresentando nossas propostas para a popula\u00e7\u00e3o cearense. Propostas simples, que podem ser feitas, sem nenhuma mentira ou falsa promessa. Muito feliz de j\u00e1 estar ganhando o abra\u00e7o apertado das pessoas, que nos d\u00e1 for\u00e7a, coragem e confian\u00e7a! <br /> <br /> Algumas de nossas propostas: <br /> <br /> 1) 1,5 milh\u00e3o para a constru\u00e7\u00e3o de um Hospital P\u00fablico Veterin\u00e1rio do Cear\u00e1 (emendas); <br /> <br /> 2) Cadeia e puni\u00e7\u00e3o pesada pra quem maltrata animais, chega de impunidade; <br /> <br /> 3) Votar contra todos os aumentos de impostos; <br /> <br /> 4) Puni\u00e7\u00e3o para empresas que desrespeitem a igualdade salarial para as mulheres; <br /> <br /> 5) Tornar a corrup\u00e7\u00e3o crime hediondo; <br /> <br /> 6) Ser um deputado 1 milh\u00e3o mais barato. <br /> <br /> Por favor, COMPARTILHEM! Comentem seu apoio!!<br /> <br /> Propaganda Eleitoral <br /> CNPJ: 31.207.980/0001-21"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31207980000121",
+                    "byline": "ELEICAO 2018 CELIO STUDART BARBOSA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534619185,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "C\u00e9lio Studart",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39392449_883580835164231_5129062258554437632_n.jpg?_nc_cat=0&oh=ad0542de4d60191d4d38413fa843ba74&oe=5C033B01",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39342215_1098063913691632_6481796336239771648_n.jpg?_nc_cat=0&oh=e78d940aa24a514744986c29b3111f6a&oe=5BEE119E"
+                        }
+                    ],
+                    "instagram_actor_name": "C\u00e9lio Studart",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39376306_883580831830898_5194052647115554816_n.jpg?_nc_cat=0&oh=b2766e68bf3d36bc26aafd32867992b9&oe=5BEF12D8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 143803862450980,
+                    "page_is_deleted": false,
+                    "page_like_count": 700980,
+                    "page_name": "C\u00e9lio Studart",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471346_883580828497565_7855639899012071424_n.jpg?_nc_cat=0&oh=6807789c93af77951f73e8bff57fe202&oe=5BFA7EAB",
+                    "page_profile_uri": "https://www.facebook.com/celio.studart/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "241137536607048",
+                "adid": "23843005177380683",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "894038504020410",
+                "pageName": "Alexandre Padilha",
+                "snapshot": {
+                    "ad_creative_id": "23843005172830683",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Muito bom ver que at\u00e9 a maior economia capitalista do mundo oferece acesso gratuito \u00e0 faculdade de medicina. Enquanto isso, a direita brasileira discute a privatiza\u00e7\u00e3o da nossa educa\u00e7\u00e3o superior. <br /> <br /> Fico alegre de ver que o Mais M\u00e9dicos j\u00e1 apontava para essa tend\u00eancia: melhorar a forma\u00e7\u00e3o dos profissionais e criar oportunidades para os alunos que n\u00e3o querem apenas abrir suas cl\u00ednicas, mas que tamb\u00e9m t\u00eam interesse em trabalhar pela sa\u00fade do povo. Transformar a educa\u00e7\u00e3o em neg\u00f3cio n\u00e3o \u00e9 a solu\u00e7\u00e3o. #Mudan\u00e7aDeVerdade #Padilha1354"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13192679808",
+                    "byline": "Alexandre Rocha Santos Padilha",
+                    "caption": "noticias.uol.com.br",
+                    "cards": [],
+                    "creation_time": 1534622708,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Alexandre Padilha",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39505805_241137573273711_2058134137671254016_n.jpg?_nc_cat=0&oh=5d69217817577211a927f8ac2ce45e80&oe=5BF01B31",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39613755_241137569940378_382767648628277248_n.jpg?_nc_cat=0&oh=96611d01b79a96ae4615c8a9666b8f84&oe=5C088A52"
+                        }
+                    ],
+                    "instagram_actor_name": "Alexandre Padilha",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39508772_241137556607046_8297777331544522752_n.jpg?_nc_cat=0&oh=4888408d13995be839e492127c302dfb&oe=5BFCCB5D",
+                    "is_reshared": false,
+                    "link_description": "Nova York, 16 Ago 2018 (AFP) - Os estudantes do primeiro ano da faculdade de medicina da Universidade de Nova York tiveram uma surpresa e tanto quando rece...",
+                    "link_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2018/08/16/faculdade-de-medicina-passa-a-ser-gratuita-na-universidade-de-ny.htm",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 894038504020410,
+                    "page_is_deleted": false,
+                    "page_like_count": 48005,
+                    "page_name": "Alexandre Padilha",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349886_241137559940379_7609226771858194432_n.jpg?_nc_cat=0&oh=3a7618a593b03fcbf0728095bd3fcbd1&oe=5C004D1C",
+                    "page_profile_uri": "https://www.facebook.com/padilhando/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Faculdade de medicina passa a ser gratuita na Universidade de NY",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "307875399990092",
+                "adid": "6111410150709",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "330349650460917",
+                "pageName": "Deputado Delegado Recalcatti",
+                "snapshot": {
+                    "ad_creative_id": 6111410150109,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Este \u00e9 o meu primeiro v\u00eddeo com pedido de voto desta campanha. Sei que estamos todos decepcionados com a pol\u00edtica. Mas a Democracia \u00e9 o melhor sistema de governo e o seu voto pode fazer a diferen\u00e7a. Quero continuar trabalhando pela seguran\u00e7a p\u00fablica. <br /> <br /> Agrade\u00e7o imensamente se puder compartilhar. Vamos juntos! <br /> <br /> #DelegadoRecalcatti55555<br /> <br /> Propaganda Eleitoral<br /> Coliga\u00e7\u00e3o: Inova Paran\u00e1 - PSD/PSC<br /> CNPJ: 31.223.850/0001-82"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31223850000182",
+                    "byline": "Rubens Recalcatti",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534622718,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Deputado Delegado Recalcatti",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Deputado Delegado Recalcatti",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39366974_307875413323424_5966565324902891520_n.jpg?_nc_cat=0&oh=1084c7add20a41116d39d2b02ab658d5&oe=5C0E310A",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 330349650460917,
+                    "page_is_deleted": false,
+                    "page_like_count": 18914,
+                    "page_name": "Deputado Delegado Recalcatti",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39396129_307875416656757_8966194849778761728_n.jpg?_nc_cat=0&oh=3599b41c69ae152aaf0b2b3a2b8f6366&oe=5BF533FC",
+                    "page_profile_uri": "https://www.facebook.com/DelegadoRecalcatti/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "V\u00cdDEO #01 - PEDIDO DE VOTO",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39347727_734083313589520_5229645839961423872_n.mp4?_nc_cat=0&oh=ce172ebd21fce31be2e82da3386e9b64&oe=5B79D880",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39608901_307875423323423_5307489944653004800_n.jpg?_nc_cat=0&oh=b115c5dc192f17272c631828da4f9705&oe=5BF3A85E",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39504927_282116285916445_6505744824774164480_n.mp4?_nc_cat=0&oh=e9177fc948564abdf1b40c54e2bd2e8d&oe=5B79CCDD"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2181961328729819",
+                "adid": "23842979319790001",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "2134782856537565",
+                "pageName": "Jilmar Tatto",
+                "snapshot": {
+                    "ad_creative_id": "23842979319780001",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Agora pela manh\u00e3, estive na caminhada em Osasco organizada pelo companheiro <a href=\"https://www.facebook.com/EmidiodeSouzaOficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=561073473937544&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Emidio de Souza</a>, que muito j\u00e1 fez pela cidade e regi\u00e3o, e \u00e9 candidato a deputado estadual pelo PT-SP. Estiveram comigo os companheiros <a href=\"https://www.facebook.com/carlosgabas1377/\" data-hovercard=\"/ajax/hovercard/page.php?id=905285412966346&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Carlos Gabas</a>, <a href=\"https://www.facebook.com/valmir.prascidelli/\" data-hovercard=\"/ajax/hovercard/page.php?id=1381896935368501&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Valmir Prascidelli</a> e Zezinho, que s\u00e3o candidatos a deputado federal; o <a href=\"https://www.facebook.com/LuizMarinhoPT/\" data-hovercard=\"/ajax/hovercard/page.php?id=429364167086359&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Luiz Marinho</a>, candidato a governador, al\u00e9m do deputado estadual <a href=\"https://www.facebook.com/marcosmartinspt/\" data-hovercard=\"/ajax/hovercard/page.php?id=316394078508243&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Marcos Martins</a>. Juntos faremos mais! #MarinhoGovernador #JilmarTatto #Tatto132"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "03946999808",
+                    "byline": "Jilmar Augustinho Tatto ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534617291,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jilmar Tatto",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349308_2181961355396483_4404802932747272192_n.jpg?_nc_cat=0&oh=003d8522c60f54d40da219dce3aa6458&oe=5C02DFC1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39441151_2289178274431355_7185401361888968704_n.jpg?_nc_cat=0&oh=50a4ad45dafd4829448df545c60d1131&oe=5BFBD9B0"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39521942_2289178354431347_6359038830820982784_n.jpg?_nc_cat=0&oh=8bdc26d2c2686c4c8aabd1c7e46c3c94&oe=5C027B40",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39467627_2289178351098014_3945663854993735680_n.jpg?_nc_cat=0&oh=d05b0ca29288c7fd92e5b792e558f7eb&oe=5C09442F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39509062_2289178294431353_6957001005451968512_n.jpg?_nc_cat=0&oh=478cb2f35b2a806f058668701a2c4a5d&oe=5C0811FA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39569852_2289178297764686_2831528108387991552_n.jpg?_nc_cat=0&oh=285a95096abb343606640edec4e20bd8&oe=5C004C89"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39442651_2289178304431352_2073135015327170560_n.jpg?_nc_cat=0&oh=24e7af9b6d763317b2ef1cd8e43df81b&oe=5C093B49",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39404442_2289178307764685_5914137702797672448_n.jpg?_nc_cat=0&oh=497ee338b50494c2482c5acdfd8d30e6&oe=5BF00A11"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39507000_2289178407764675_2537239393102462976_n.jpg?_nc_cat=0&oh=97fcd92a01b999c54a8f50b752139d46&oe=5C08A78C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442316_2289178404431342_8160303116391022592_n.jpg?_nc_cat=0&oh=7927dfa28ae0d8f0053c6bd835f0bf13&oe=5BF26534"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39442625_2289178424431340_3346690112485326848_n.jpg?_nc_cat=0&oh=3c240feab802daa4c99fd88e2a386108&oe=5C0E6D61",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39441294_2289178427764673_4545510085748588544_n.jpg?_nc_cat=0&oh=d0f6dc3ae98a5e68668ec36a655fbaf7&oe=5BFC7838"
+                        }
+                    ],
+                    "instagram_actor_name": "Jilmar Tatto",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39494235_2181961348729817_3813530156794904576_n.jpg?_nc_cat=0&oh=84cf778e43f1e3adea81bf505d084156&oe=5BF91D2F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 2134782856537565,
+                    "page_is_deleted": false,
+                    "page_like_count": 7345,
+                    "page_name": "Jilmar Tatto",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39573266_2181961352063150_3437395346420924416_n.jpg?_nc_cat=0&oh=5d7d82a7983c9871295ad23bd0ba7b2a&oe=5C0E8406",
+                    "page_profile_uri": "https://www.facebook.com/jilmartatto13/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1922978751096868",
+                "adid": "23842971968070622",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "397405070321390",
+                "pageName": "Orlando Silva",
+                "snapshot": {
+                    "ad_creative_id": "23842971968060622",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Voc\u00ea tamb\u00e9m pode participar da nossa campanha pelo whatsapp. Saiba das novidades, tire suas d\u00favidas, solicite material e denuncie fake news no n\u00famero (11) 94500-9920. Junte-se a mim e vamos unir for\u00e7as pelo Brasil! <br /> <br /> Clique aqui: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FWhatsappDoOrlando&amp;h=AT0mdoMjI_dwB6jrjQ9DtBNSi0JO2nuH2Hvexo07s4rMqpHe3fcnz__WQDhheolsLEGig8XoIBYVLgeBWBH5PF4f4yJuhXLz490Tk5Yw7PxlGg2l_eSNJRRoRPnFjh_Ak6UKh6wY8uU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/WhatsappDoOrlando</a><br /> <br /> #OrlandoSilva6565 #DeputadoFederal."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31236381000136",
+                    "byline": "Elei\u00e7\u00f5es 2018 Orlando Silva 6565",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534620384,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Orlando Silva",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39378030_1922978777763532_245631460285874176_n.jpg?_nc_cat=0&oh=4cbb75b28ab9fbdb413b77f402d9bca6&oe=5C01D3A4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39504602_1984197488308799_61045551294054400_n.png?_nc_cat=0&oh=cf33f5f0d4caa477e3fdea9f04f8fce4&oe=5BF65B55"
+                        }
+                    ],
+                    "instagram_actor_name": "Orlando Silva",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297029_1922978761096867_684016427136450560_n.jpg?_nc_cat=0&oh=39584a0fc3eebbe06d02162abb737cdd&oe=5C079A4F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 397405070321390,
+                    "page_is_deleted": false,
+                    "page_like_count": 39251,
+                    "page_name": "Orlando Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39600880_1922978764430200_3178944581282562048_n.jpg?_nc_cat=0&oh=e6b1cab3d56c9afe6988e8daab88ab82&oe=5BF89DF3",
+                    "page_profile_uri": "https://www.facebook.com/orlandosilvasp/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2135859583401571",
+                "adid": "23842971958980622",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "397405070321390",
+                "pageName": "Orlando Silva",
+                "snapshot": {
+                    "ad_creative_id": "23842971958970622",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Saiba mais sobre o meu trabalho e apoie a nossa campanha. Seu apoio \u00e9 fundamental!<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FDoeOrlando&amp;h=AT2iWM2KotO_jrD-fT3ojrRmjLqQ1a1jJydJYxp_VN8x2y5RDwy6w73A_h9YI2k4nH_JBqjyuCWjuJkBlAH-xv_0xE5yj5DpWHJhzr-4GLahbAUqvugkMqZ-TxrAXsA-XukhjLRSc_Y\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/DoeOrlando</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31236381000136",
+                    "byline": "Elei\u00e7\u00f5es 2018 Orlando Silva 6565",
+                    "caption": "doe.orlandosilva.umamais.com.br",
+                    "cards": [
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "No Button",
+                            "cta_type": "NO_BUTTON",
+                            "image_crops": {},
+                            "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39518938_2135859646734898_3828446694178029568_n.jpg?_nc_cat=0&oh=eee015d6e4c1c96b270485a62f4f2320&oe=5C039ED2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39395178_2135859630068233_2264439189472804864_n.jpg?_nc_cat=0&oh=fd535b06ced33bd3017d7d16eb2a29ec&oe=5C00110B",
+                            "title": "Voc\u00ea sabe o que um deputado federal faz?"
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "No Button",
+                            "cta_type": "NO_BUTTON",
+                            "image_crops": {},
+                            "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471183_2135859616734901_7070336112832544768_n.jpg?_nc_cat=0&oh=7fee18dc10a55036c3f9ae615da7e688&oe=5BF52A0D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39205823_2135859636734899_8706673418012983296_n.jpg?_nc_cat=0&oh=771eb7f5db832f0cc7515530325d8b9f&oe=5C0BE191",
+                            "title": "\u00c9 importante conhecer como funciona a rotina na C\u00e2mara dos Deputados."
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "No Button",
+                            "cta_type": "NO_BUTTON",
+                            "image_crops": {},
+                            "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471249_2135859620068234_1480797877759377408_n.jpg?_nc_cat=0&oh=33583431a37cab69d203b6a91886c17c&oe=5BF6B7B2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39400821_2135859633401566_1335629035421564928_n.jpg?_nc_cat=0&oh=a42d18d0a14217172a7f8cdf073cebec&oe=5BF50900",
+                            "title": "Compartilhe com seus familiares e amigos."
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "No Button",
+                            "cta_type": "NO_BUTTON",
+                            "image_crops": {},
+                            "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39394435_2135859640068232_8500619544488837120_n.jpg?_nc_cat=0&oh=33423a17b14bbbd34ca4e8fc119ec157&oe=5C03BC96",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39573857_2135859623401567_7985790357407268864_n.jpg?_nc_cat=0&oh=73d752b042ca9a62c12f689f66b762b7&oe=5BF2EC77",
+                            "title": "E vamos juntos somar for\u00e7as pelo Brasil."
+                        },
+                        {
+                            "body": " ",
+                            "caption": "",
+                            "cta_text": "No Button",
+                            "cta_type": "NO_BUTTON",
+                            "image_crops": {},
+                            "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39360021_2135859626734900_7506343768040144896_n.jpg?_nc_cat=0&oh=6b53587f901d6480bf1142b1e9a9741b&oe=5C023BB3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349852_2135859643401565_3593414160911695872_n.jpg?_nc_cat=0&oh=64e79e9a34a461af289237f7089ac1f0&oe=5C05BCC2",
+                            "title": "Contribua com a nossa campanha. Toda ajuda \u00e9 bem-vinda."
+                        }
+                    ],
+                    "creation_time": 1534615600,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Orlando Silva",
+                    "disclaimer_label": 2,
+                    "display_format": "carousel",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Orlando Silva",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39392694_2135859593401570_1609928736688308224_n.jpg?_nc_cat=0&oh=858ed9687628cfee8c96978047119f95&oe=5C3B44AD",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://doe.orlandosilva.umamais.com.br/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 397405070321390,
+                    "page_is_deleted": false,
+                    "page_like_count": 39251,
+                    "page_name": "Orlando Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39700754_2135859596734903_2035522333153689600_n.jpg?_nc_cat=0&oh=d349655d3c027aba14de268977b9d469&oe=5C088A16",
+                    "page_profile_uri": "https://www.facebook.com/orlandosilvasp/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Orlando Silva",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "247916355859643",
+                "adid": "23842968598910652",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "429621287088989",
+                "pageName": "Rog\u00e9rio Lorenzetti",
+                "snapshot": {
+                    "ad_creative_id": "23842968598900652",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Tenho 20 anos de vida p\u00fablica e nada h\u00e1 que desabone minha conduta. \u00c9 importante que a popula\u00e7\u00e3o de uma resposta dura em muitos dos atuais representantes na esfera federal. Governar um pa\u00eds sem um bom congresso, \u00e9 imposs\u00edvel. Pe\u00e7o seu apoio e seu voto. Meu n\u00famero \u00e9 5502.<br /> <br /> \u2705 Em Porto Rico, reuni-me com o vereador De\u00edro e com Bananinha, presidente do PSL. Tamb\u00e9m estiveram conosco os vereadores de S\u00e3o Pedro do Paran\u00e1: Edinho da Pesca, Tielio Moreira e Jo\u00e3o do Leite.<br /> <br /> \u2705 J\u00e1 em Ita\u00fana do Sul dei uma palestra na C\u00e2mara Municipal com a presen\u00e7a do prefeito Evandro Marcelo, do vice-prefeito Chico Leite e dos vereadores Silvio de Mazzi, Edson Guimar\u00e3es e Celso Leite, alguns secret\u00e1rios e lideran\u00e7as. Tive um valioso encontro com minha apoiadora, a vereadora Rosana Almeida.<br /> <br /> \u2705 Em Nova Londrina encontre-me com o ex-prefeito de Tamboara, Rog\u00e9rio Gimenez, onde reforcei nossa parceria.<br /> <br /> \u2705 Em Terra Rica participei, com o candidato a Deputado Estadual Maur\u00edcio Gehlen, de uma reuni\u00e3o na Associa\u00e7\u00e3o Comercial, para cerca de 150 pessoas.<br /> <br /> Mais fotos: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2MsBuaZ&amp;h=AT0uxSvsxnso4CRll9EQi2r6G9IPN9eLXywlWYJtFDNSAU0OV6F0fKHKBQSa3Cjo7Wgk-hTePV0U1c4gFx_7hfyX8fdz62MQHOV9Oyofb3iHEsRvKwuDHWkjY_nsh1nhhK4yRs8esaE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://bit.ly/2MsBuaZ</a><br /> <br /> #SouRogerio5502 #RogerioLorenzetti5502 #5502 #PSD #RogerioLorenzetti #ItaunaDoSul #PortoRico #NovaLondrina #TerraRica #NoroesteDoParana #Paranavai #DeputadoFederal5502 #Lorenzetti"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31224277000121",
+                    "byline": "ELEI\u00c7\u00c3O 2018 ROG\u00c9RIO JOS\u00c9 LORENZETTI DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534614002,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rog\u00e9rio Lorenzetti",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39408808_1982043888513380_4455172750121631744_n.jpg?_nc_cat=0&oh=f26d25014889d4c4e80e43a2bf113f0b&oe=5BEFA650",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39454440_1982043891846713_1714968952255283200_n.jpg?_nc_cat=0&oh=9fdb2057d9f80662c98bc53ec2870fca&oe=5C3A3BD8"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39267516_1982044305180005_2788538393447890944_n.jpg?_nc_cat=0&oh=becda6da01d14b16d8a7c5e775ee718e&oe=5C08BF36",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39294451_1982044308513338_4985999045408325632_n.jpg?_nc_cat=0&oh=4cfb415c22d4cd92cb335105fd98e68a&oe=5BFC459C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39347242_1982044121846690_3155460189734305792_n.jpg?_nc_cat=0&oh=98764c33ccbf0d255c0a35276008b453&oe=5BFB55DF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406764_1982044118513357_7512941817059344384_n.jpg?_nc_cat=0&oh=f3a716874df78a8f8f71d402df0466a4&oe=5C103FB2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39296875_1982043955180040_4784319020549537792_n.jpg?_nc_cat=0&oh=64425dc9a9d223681b7075af16746f67&oe=5BF894C1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39273599_1982043951846707_1571586288031629312_n.jpg?_nc_cat=0&oh=6456af4dfdf42a4e9a1c4bb7619fb931&oe=5C10265D"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 429621287088989,
+                    "page_is_deleted": false,
+                    "page_like_count": 56589,
+                    "page_name": "Rog\u00e9rio Lorenzetti",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349935_247916372526308_91441223826407424_n.jpg?_nc_cat=0&oh=5f3d5b2db9be386e07b8d80d955a2ba3&oe=5C0DDDB1",
+                    "page_profile_uri": "https://www.facebook.com/SouRogerioPR/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "283167942479638",
+                "adid": "23842942993440452",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "375349375824563",
+                "pageName": "Senador MOKA",
+                "snapshot": {
+                    "ad_creative_id": "23842942993430452",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quero agradecer o carinho que recebo todas as vezes que visito esta bela cidade. Obrigado pelo reconhecimento e parceria com a gest\u00e3o local. Juntos, podemos fazer mais por Bonito!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31241559000137",
+                    "byline": "Senador Moka",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534622116,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Senador MOKA",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 375349375824563,
+                    "page_is_deleted": false,
+                    "page_like_count": 45044,
+                    "page_name": "Senador MOKA",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39539391_283167952479637_8245810198652911616_n.jpg?_nc_cat=0&oh=e6fbe5b1db816c11987161243222f309&oe=5BF8680D",
+                    "page_profile_uri": "https://www.facebook.com/SenadorWaldemirMOKA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Obrigado, Bonito!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39371479_512775045854347_180882341512609792_n.mp4?_nc_cat=0&oh=797c8016777faa13fcbf70e2f650330d&oe=5B79D0A7",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39501780_283167959146303_7609185364078493696_n.jpg?_nc_cat=0&oh=b6fb07b7955f54e3110d7a17151b4092&oe=5BF0A9F2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39476641_2116199818631800_7883383021217251328_n.mp4?_nc_cat=0&oh=2e6457e79472324de201f3b78a688af5&oe=5B79D29E"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1688509351260318",
+                "adid": "6115903762153",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1800469943518390",
+                "pageName": "Chico Goetten",
+                "snapshot": {
+                    "ad_creative_id": 6115903761953,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Somos 28 cidades com 295 mil habitantes. Temos mais de 200 mil votos. Mas, entregamos mais de 120 mil para pol\u00edticos de outras regi\u00f5es. Jogamos fora nossa for\u00e7a pol\u00edtica. \u00c9 por isso que a duplica\u00e7\u00e3o da BR-470 n\u00e3o chega ao Alto Vale e n\u00e3o temos solu\u00e7\u00e3o para o problema das enchentes.<br /> #chicogoetten #nossoaltovaleemprimeirolugar"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Joici Laide Vogel Uhlendorf",
+                    "caption": "www.chicogoetten.com.br",
+                    "cards": [],
+                    "creation_time": 1534611071,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Chico Goetten",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Chico Goetten",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471234_1688509387926981_2607643691019403264_n.jpg?_nc_cat=0&oh=17e09f201ca9352a6161f830b62eb5d3&oe=5C0BF629",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.chicogoetten.com.br/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1800469943518390,
+                    "page_is_deleted": false,
+                    "page_like_count": 4537,
+                    "page_name": "Chico Goetten",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306639_1688509391260314_4889644941636009984_n.jpg?_nc_cat=0&oh=ecd0ef1f9fc605fdd287ec803818f9d2&oe=5BFE147E",
+                    "page_profile_uri": "https://www.facebook.com/chicogoettendelima/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Nosso Alto Vale em primeiro lugar.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39156263_2632939173597322_1273944723706347520_n.mp4?_nc_cat=0&oh=8be59cfd042c9652784cfbc809b1ab3e&oe=5B79D2AB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485224_1688509407926979_3302836559362916352_n.jpg?_nc_cat=0&oh=96f06c4bc2c8d21fba8f4179e3b1751d&oe=5BFB84C7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39103317_408129336382711_5849997314034237440_n.mp4?_nc_cat=0&oh=da67443cc7a1f4d8017e38573d1ad0a5&oe=5B79D8D0"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2123443994332459",
+                "adid": "6115903350953",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1800469943518390",
+                "pageName": "Chico Goetten",
+                "snapshot": {
+                    "ad_creative_id": 6115903350753,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O Alto Vale joga fora sua for\u00e7a pol\u00edtica. <br /> Somos 28 cidades com 295 mil habitantes. Temos mais de 200 mil votos. Mas, entregamos mais de 120 mil para pol\u00edticos de outras regi\u00f5es. Jogamos fora nossa for\u00e7a pol\u00edtica. \u00c9 por isso que a duplica\u00e7\u00e3o da BR-470 n\u00e3o chega ao Alto Vale e n\u00e3o temos solu\u00e7\u00e3o para o problema das enchentes. #chicogoetten #nossoaltovaleemprimeirolugar #voto11000pelonossoaltovale"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Joici Laide Vogel Uhlendorf",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534612708,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Chico Goetten",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Chico Goetten",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39581522_2123444024332456_1763845555529711616_n.jpg?_nc_cat=0&oh=0c3924ae3ae0c97952091bd451fa30be&oe=5C0445D8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1800469943518390,
+                    "page_is_deleted": false,
+                    "page_like_count": 4537,
+                    "page_name": "Chico Goetten",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39398597_2123444020999123_5502583113177366528_n.jpg?_nc_cat=0&oh=412acfb9d25c551b1622aabc0ed46ab3&oe=5C107E6F",
+                    "page_profile_uri": "https://www.facebook.com/chicogoettendelima/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "O Alto Vale joga fora sua for\u00e7a pol\u00edtica",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1559930677445952_6850084743875133440_n.mp4?_nc_cat=0&oh=53fc31ee121741ce16b41947bd6d3ac6&oe=5B79D9B0",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471139_2123444037665788_3738943479854661632_n.jpg?_nc_cat=0&oh=81c990f797fb3bd6f2dfb3c41e13de5b&oe=5C0BD16F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39246886_886552714876573_4444615033313296384_n.mp4?_nc_cat=0&oh=ee1508abcc0b5dffabda08e434708702&oe=5B79CD71"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1512012628900599",
+                "adid": "6110168300417",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "241789676153937",
+                "pageName": "Carlos Humberto",
+                "snapshot": {
+                    "ad_creative_id": 6110168300217,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Foi com muita alegria que estive na \u00faltima quinta-feira, 16, em Florian\u00f3polis, recebendo apoio incondicional dos diret\u00f3rios do PR da grande Florian\u00f3polis. Os presidentes e membros das executivas do partido na capital, de S\u00e3o Jos\u00e9, de Palho\u00e7a e S\u00e3o Pedro de Alc\u00e2ntara. Na oportunidade o prefeito de Balne\u00e1rio Cambori\u00fa, Fabr\u00edcio Oliveira, trouxe sua mensagem de apoio a candidatura. <br /> <br /> Confira!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192062000176",
+                    "byline": "Carlos Humberto Metzner Silva",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534608178,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Carlos Humberto",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241789676153937,
+                    "page_is_deleted": false,
+                    "page_like_count": 10683,
+                    "page_name": "Carlos Humberto",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39500941_1512012652233930_6322374833908744192_n.jpg?_nc_cat=0&oh=344d30a0f21ed246149fb49319b857db&oe=5BF90562",
+                    "page_profile_uri": "https://www.facebook.com/carloshumbertobc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_523615854743378_6614977619911770112_n.mp4?_nc_cat=0&oh=cf0997a4b08da07a503eeab080fcd045&oe=5B79CFA4",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39370806_1512012662233929_6127879683745775616_n.jpg?_nc_cat=0&oh=f4bd7bdf1e3d7e9d4a5aef35fc16b3a4&oe=5C0BC4EA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2040692276001509_8276231915866947584_n.mp4?_nc_cat=0&oh=daa1c1cf1ad7adaf197d94ca6ec8881e&oe=5B79D53A"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "452096775313537",
+                "adid": "6099481305977",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "154745847946903",
+                "pageName": "Jornal da Chapada",
+                "snapshot": {
+                    "ad_creative_id": 6099481305777,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Chapada: Cavalgada em Itaet\u00ea movimenta o final de semana com programa\u00e7\u00e3o diversificada"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "82237590559",
+                    "byline": "Jornal da Chapada",
+                    "caption": "jornaldachapada.com.br",
+                    "cards": [],
+                    "creation_time": 1534619799,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Jornal da Chapada",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39383401_452096818646866_7942757430801203200_n.jpg?_nc_cat=0&oh=a07078262ce5ffd1056d1ae570f14970&oe=5BF65F5E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39606217_452096815313533_8332367009576648704_n.jpg?_nc_cat=0&oh=6817b6c8ae03a3fe184ab15a4e3b3e2b&oe=5C028A23"
+                        }
+                    ],
+                    "instagram_actor_name": "Jornal da Chapada",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39504894_452096795313535_7999418529155645440_n.jpg?_nc_cat=0&oh=d29de1d34c026f4074a9f3f02e946220&oe=5BFD9EAB",
+                    "is_reshared": false,
+                    "link_description": "Acontece neste domingo (19) a segunda cavalgada da equipe de montaria \u2018Puro Sangue\u2019, no munic\u00edpio de Itaet\u00ea, na Chapada Diamantina. O evento contar\u00e1 com almo\u00e7o para as pessoas e partici\u2026",
+                    "link_url": "https://jornaldachapada.com.br/2018/08/14/chapada-cavalgada-em-itaete-movimenta-o-final-de-semana-com-programacao-diversificada/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 154745847946903,
+                    "page_is_deleted": false,
+                    "page_like_count": 53158,
+                    "page_name": "Jornal da Chapada",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39538775_452096791980202_7017350935252828160_n.jpg?_nc_cat=0&oh=4e99cc61a955e6581028f626383f17be&oe=5C385320",
+                    "page_profile_uri": "https://www.facebook.com/JornaldaChapada/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chapada: Cavalgada em Itaet\u00ea movimenta o final de semana com programa\u00e7\u00e3o diversificada",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "492152597924128",
+                "adid": "6099481172777",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "154745847946903",
+                "pageName": "Jornal da Chapada",
+                "snapshot": {
+                    "ad_creative_id": 6099481172377,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Chapada: Prefeitura de Itaberaba entrega fardamento completo para agentes de endemias"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "82237590559",
+                    "byline": "Jornal da Chapada",
+                    "caption": "jornaldachapada.com.br",
+                    "cards": [],
+                    "creation_time": 1534628745,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Jornal da Chapada",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39396142_492152651257456_5966645288604008448_n.jpg?_nc_cat=0&oh=09a4172e60a765b5701f4316d6bff0ee&oe=5C0A1B7C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39510881_492152647924123_6086703608940724224_n.jpg?_nc_cat=0&oh=e734268afae03066034c66b3fc579510&oe=5BFF20FB"
+                        }
+                    ],
+                    "instagram_actor_name": "Jornal da Chapada",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39575762_492152637924124_6414172737589215232_n.jpg?_nc_cat=0&oh=79de982339b18679774b3be470bbdcdf&oe=5C01EE82",
+                    "is_reshared": false,
+                    "link_description": "A prefeitura do munic\u00edpio de Itaberaba, na Chapada Diamantina, por meio da Secretaria da Sa\u00fade (Sesau), e Coordena\u00e7\u00e3o de Vigil\u00e2ncia Epidemiol\u00f3gica (Viep), realizou entrega \u2013 a todos os progra\u2026",
+                    "link_url": "https://jornaldachapada.com.br/2018/08/15/chapada-prefeitura-de-itaberaba-entrega-fardamento-completo-para-agentes-de-endemias/",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 154745847946903,
+                    "page_is_deleted": false,
+                    "page_like_count": 53158,
+                    "page_name": "Jornal da Chapada",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39410384_492152634590791_2400360975812263936_n.jpg?_nc_cat=0&oh=c2ef62ee19145d3610f189f9a918d48b&oe=5BFC8DAD",
+                    "page_profile_uri": "https://www.facebook.com/JornaldaChapada/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chapada: Prefeitura de Itaberaba entrega fardamento completo para agentes de endemias",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1663358900458601",
+                "adid": "6094822652999",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "151010045338207",
+                "pageName": "Leo Pavanello Jr",
+                "snapshot": {
+                    "ad_creative_id": 6094822652799,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Sejam bem vindos \u00e0 p\u00e1gina oficial do jovem professor, m\u00fasico e vereador de Presidente..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31234663000102",
+                    "byline": "Partido dos Trabalhadores",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534627724,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Leo Pavanello Jr",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39594475_1663358923791932_8142326161406427136_n.jpg?_nc_cat=0&oh=a20a59b9102fa8060176cebd583ed0f5&oe=5BFDE63A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39608900_1663358927125265_1665465451259363328_n.jpg?_nc_cat=0&oh=a2280dd42e8193535302050fd1333d38&oe=5BF094EC"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/LeoPavanelloJr/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 151010045338207,
+                    "page_is_deleted": false,
+                    "page_like_count": 14128,
+                    "page_name": "Leo Pavanello Jr",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471195_1663358910458600_4077383874827517952_n.jpg?_nc_cat=0&oh=27e449e41550e9c4f0731504bfc3fb99&oe=5C0E42E8",
+                    "page_profile_uri": "https://www.facebook.com/LeoPavanelloJr/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1798383893544156",
+                "adid": "23842942943540452",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "375349375824563",
+                "pageName": "Senador MOKA",
+                "snapshot": {
+                    "ad_creative_id": "23842942943530452",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Parab\u00e9ns <a href=\"https://www.facebook.com/mauriciosaitoaprosoja\" data-hovercard=\"/ajax/hovercard/user.php?id=100008083716895&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Mauricio Saito</a> pela posse da nova gest\u00e3o, como presidente da <a href=\"https://www.facebook.com/famasul/\" data-hovercard=\"/ajax/hovercard/page.php?id=287507571270818&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Famasul - Federa\u00e7\u00e3o da Agricultura e Pecu\u00e1ria de MS</a>. E parab\u00e9ns a toda diretoria desta Federa\u00e7\u00e3o que ter\u00e1 mais tri\u00eanio de 2018/2021 pela frente. Um setor que enobrece o nosso Mato Grosso do Sul, que \u00e9 refer\u00eancia em agroneg\u00f3cio. Abastecendo o com\u00e9rcio, que fica mais forte, e estimulando a gera\u00e7\u00e3o de empregos."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31241559000137",
+                    "byline": "Senador Moka",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534622116,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Senador MOKA",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39391922_2602699059756239_3933197072466968576_n.jpg?_nc_cat=0&oh=24e6e4a7e5139b187dbc4f582c3f6542&oe=5C078DF3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39454423_2602699063089572_8848494161544871936_n.jpg?_nc_cat=0&oh=cb5e956c4e099903e6353a8876285678&oe=5C010B7C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39468528_2602699033089575_7176762340115742720_n.jpg?_nc_cat=0&oh=9c3bafffccb16c911d436b525880307d&oe=5C3A6F49",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39410274_2602699029756242_5111363170774024192_n.jpg?_nc_cat=0&oh=c3bc7fc723c3d783b8561394266fa5b3&oe=5BF8F862"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39454529_2602699043089574_2677324321306705920_n.jpg?_nc_cat=0&oh=c222f807d11b587fc7556ad9643f8010&oe=5BEFAB99",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39409667_2602699046422907_2897453777617420288_n.jpg?_nc_cat=0&oh=eb4bdfc13a99b1903fe43b04cc0aaeff&oe=5BFA6E41"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39336121_2602699139756231_2410712856312938496_n.jpg?_nc_cat=0&oh=673c79c611e45823459f0809e521abe4&oe=5C093646",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39343325_2602699143089564_6202714846018928640_n.jpg?_nc_cat=0&oh=5a113e8f492554ed742385bac696f313&oe=5BEDAA1E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39392735_2602699199756225_3145560668074147840_n.jpg?_nc_cat=0&oh=b5972556a037b36f74e3d5090f4951d5&oe=5C0E11F5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39388965_2602699203089558_6874415712132136960_n.jpg?_nc_cat=0&oh=260f4c53430178be3ffb02c4937c979e&oe=5BEEA629"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39331372_2602699176422894_5676927633997168640_n.jpg?_nc_cat=0&oh=2994d6d8b41028bc105f9f968b1ba017&oe=5BF15CA7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39294908_2602699179756227_6775971728813195264_n.jpg?_nc_cat=0&oh=c5be705b450c807874a2add45c4b6795&oe=5BEF6B34"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 375349375824563,
+                    "page_is_deleted": false,
+                    "page_like_count": 45044,
+                    "page_name": "Senador MOKA",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39376313_1798383906877488_2054964181223866368_n.jpg?_nc_cat=0&oh=97bdb2c6060257641bec589dccc6e056&oe=5C0F92E6",
+                    "page_profile_uri": "https://www.facebook.com/SenadorWaldemirMOKA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "1764767096932169",
+                "adid": "6106549403992",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "317777418959849",
+                "pageName": "Graciani - Deputado Federal",
+                "snapshot": {
+                    "ad_creative_id": 6106549403592,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Conecte-se \u00e0 P\u00e1gina Graciani - Deputado Federal"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "12324585000184",
+                    "byline": "PONTO3G PROJETOS",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534684635,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Graciani - Deputado Federal",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39743582_1764767120265500_3071760738948218880_n.jpg?_nc_cat=0&oh=7d71f3545e0ae801e7ed956a281a1841&oe=5C0B5038",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39501185_1764767116932167_7552511621340332032_n.jpg?_nc_cat=0&oh=bb93733cc46d8349bb164404b8577a39&oe=5C0039E7"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/gracianideputado/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 317777418959849,
+                    "page_is_deleted": false,
+                    "page_like_count": 193,
+                    "page_name": "Graciani - Deputado Federal",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39576314_1764767110265501_1910845037483130880_n.jpg?_nc_cat=0&oh=1d1565c38ae5145f18585c2009e86bdd&oe=5BFC3963",
+                    "page_profile_uri": "https://www.facebook.com/gracianideputado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "847585662104162",
+                "adid": "23842911640200657",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842911640190657",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Uma reuni\u00e3o de amigos do Vale do Itaja\u00ed, aqui em Blumenau, mas escutando  as demandas da regi\u00e3o. A BR-470 \u00e9 um dos s\u00edmbolos de desrespeito de Bras\u00edlia para com os catarinenses e quero estar no Senado Federal para lutar por mais recursos para o t\u00e9rmino dessa obra!<br /> <br /> #VamoQueVamo #SomosMauro15 #SCquerMais #SomosTodos15 #MauroEnapoleao15 #JorginhoMello222 #PauloBauer456<br /> <br /> \u2b55 Quer receber nossas novidades pelo messenger? Clique aqui:<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fjorginhomello&amp;h=AT0bKTmy9epV32_XZok-iU0mS0S9VU9kNwgDZVO5V_Od-fds0GwqfD5Cw_OMSqYu9u33B2GIRCp6GWUnQEVNsKy3qfp0mi-V_IXBgTydpnN2WIooaiKM3qdS9xFZKBcm8wolIFJlWrQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/jorginhomello</a><br /> <br />  \ud83d\udcac Converse com a gente pelo WhatsApp: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FWhatsdoJorginho&amp;h=AT1Y-ATqeTbeO4SdsI2K2igJjuIesQLFqBBE9IobOSmxbfs4k23DFEjj7lD0vW7kZy1F5ebZDE4lJkuryHd_vXZFnR_9pv3HERnvz9xL1JuaguZln8DPJgnlRqHld7XwW5fld_5s1hk\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/WhatsdoJorginho</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31193512000145",
+                    "byline": "ELEICAO 2018 JORGINHO DOS SANTOS MELLO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534633936,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jorginho Mello",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39306772_1183834481754379_195676012766298112_n.jpg?_nc_cat=0&oh=05979966453ca22795880c0821e8ce69&oe=5BF696B5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442667_1183834478421046_5052241867907792896_n.jpg?_nc_cat=0&oh=948f9cdc67969d0a346e0d060108ebf7&oe=5C0AA666"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 425866030884565,
+                    "page_is_deleted": false,
+                    "page_like_count": 20722,
+                    "page_name": "Jorginho Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485174_847585678770827_5587640997694668800_n.jpg?_nc_cat=0&oh=7aeb8fec27dea911d0e9ef8c06f309ac&oe=5C0DB91F",
+                    "page_profile_uri": "https://www.facebook.com/jorginhomello.sc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "254862588489183",
+                "adid": "23842911636150657",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842911636140657",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Amigos, come\u00e7a agora a nossa caminhada pela mudan\u00e7a e renova\u00e7\u00e3o no Senado Federal. Todos que me conhecem sabem que tenho condi\u00e7\u00f5es pol\u00edticas e morais para exercer o cargo de senador e representar Santa Catarina. Sou Ficha-Limpa, n\u00e3o respondo a nenhum processo, tenho muito trabalho como deputado e quero utilizar essa experi\u00eancia para cobrar de Bras\u00edlia mais respeito com os catarinenses. Vamos juntos!<br /> Do jeito que est\u00e1 n\u00e3o d\u00e1 para ficar, \u00e9 preciso mudan\u00e7a, as pessoas n\u00e3o aguentam mais! <br /> #VamoQueVamo #JorginhoMello222<br /> <br /> \u2b55 Quer receber nossas novidades pelo messenger? Clique aqui:<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2Fjorginhomello&amp;h=AT0-OqYSij-DBck1y5gNJ_IRdjceNbI-oBW0q3qKHGOLK3O4t-jcOy8ZQrhiOqWd71sTWJ_lawbNscFPyrfiifJD-W3iPH1KP7uOik2stEWuXmdlZ_CjdmTEY5QvblLzlZWwYidl8G8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/jorginhomello</a><br /> <br />  \ud83d\udcac Converse com a gente pelo WhatsApp: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FWhatsdoJorginho&amp;h=AT20ERux4DbhKcBopxv-z4OM2z_iAnbMkEwXPGCOPNFe5WbkrE9hmAFO3tNVaCrQuATFV0_HRINLgNLZ74rrnHTvvrNZVvJTC_cFBX5KTUiTWB67kzm6YsGQVIG8xsuW-W3LO1SfMKU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/WhatsdoJorginho</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31193512000145",
+                    "byline": "ELEICAO 2018 JORGINHO DOS SANTOS MELLO SENADOR",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534633901,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jorginho Mello",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507279_254862608489181_8380447076806295552_n.jpg?_nc_cat=0&oh=b717ad7a894d73ad4e8d4829d5503a6a&oe=5BF81D37",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39203644_1181669371970890_6939654775004725248_n.jpg?_nc_cat=0&oh=70c4c3419bac9806307c6ed8f80df458&oe=5C09262F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 425866030884565,
+                    "page_is_deleted": false,
+                    "page_like_count": 20722,
+                    "page_name": "Jorginho Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485219_254862598489182_8985008709205753856_n.jpg?_nc_cat=0&oh=b49c0f229cbdd7c45540ddbd79901a14&oe=5BF2DA72",
+                    "page_profile_uri": "https://www.facebook.com/jorginhomello.sc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "228620407826376",
+                "adid": "23842885226720573",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "364253843645006",
+                "pageName": "Carlos Chiodini",
+                "snapshot": {
+                    "ad_creative_id": "23842885226710573",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nosso Estado \u00e9 forte, formado por pessoas empreendedoras, gente de bem, que com trabalho e honestidade busca todos os dias o melhor para sua fam\u00edlia. \u00c9 isso que queremos fortalecer, a gera\u00e7\u00e3o de empregos e o crescimento sustent\u00e1vel. Vamos ser a bandeira da infraestrutura, para continuar crescendo pelo futuro de nossa Bela e Santa Catarina. #chiodini1570 #onovo #agoraefederal"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192047000128",
+                    "byline": "ELEICAO 2018 CARLOS ALBERTO CHIODINI",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534615271,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Carlos Chiodini",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39352985_228620421159708_701648229959204864_n.jpg?_nc_cat=0&oh=4628fc2199d88a40ab3f77b243931f06&oe=5C08EC59",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406794_2118369008233472_6875169805310099456_n.jpg?_nc_cat=0&oh=21fa432c483233e47d157e89ac2f6c0e&oe=5BEF9142"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 364253843645006,
+                    "page_is_deleted": false,
+                    "page_like_count": 15324,
+                    "page_name": "Carlos Chiodini",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39380051_228620414493042_5175626245278269440_n.jpg?_nc_cat=0&oh=fc18ae5a8e1eea5914db5be75a3d3fcb&oe=5C0855CD",
+                    "page_profile_uri": "https://www.facebook.com/CarlosChiodini/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2155000851417833",
+                "adid": "23842885226250573",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "364253843645006",
+                "pageName": "Carlos Chiodini",
+                "snapshot": {
+                    "ad_creative_id": "23842885226240573",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Hoje estamos dando mais um passo rumo a um novo desafio: ser um dos representantes de Santa Catarina na C\u00e2mara Federal. Vamos lutar por mais desenvolvimento econ\u00f4mico, defendendo as \u00e1reas priorit\u00e1rias que influenciam no dia a dia dos catarinenses. Nossa representatividade precisa de renova\u00e7\u00e3o e queremos somar, com o trabalho e dedica\u00e7\u00e3o, reafirmando o compromisso com Santa Catarina. <br /> #fichalimpa #renova\u00e7\u00e3o #desenvolvimento #trabalho #Chiodini<br /> <br /> \u2714 Receba nossas novidades pelo messenger, clique aqui: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FCarlosChiodini&amp;h=AT3BRcKa0q8BKNR7PaFYg5RCZvQjSDkAcxpQ5KxP3Tdz-xm58wn-iWs-z3JqXY31vWyp81IlsjUGNmyTTKpfZDd-rfKf7heD7eqB96UaMifXpuLt_xOWfdqBck13oqKB8-JdgW3ZeoU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/CarlosChiodini</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31192047000128",
+                    "byline": "ELEICAO 2018 CARLOS ALBERTO CHIODINI",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534604250,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Carlos Chiodini",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39171397_2113854525351587_8266172337955536896_n.jpg?_nc_cat=0&oh=bbf94cfd25f9f51362246e86b58dad85&oe=5BF8ABA9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39279438_2113854528684920_8006763850944741376_n.jpg?_nc_cat=0&oh=944ab0836254a9de1842640404cd667e&oe=5C0A90AE"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 364253843645006,
+                    "page_is_deleted": false,
+                    "page_like_count": 15324,
+                    "page_name": "Carlos Chiodini",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39509515_2155000898084495_5141158746180812800_n.jpg?_nc_cat=0&oh=686bc62d418e9f374151c1c138831610&oe=5C04654E",
+                    "page_profile_uri": "https://www.facebook.com/CarlosChiodini/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2129122017328603",
+                "adid": "6111397728709",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "330349650460917",
+                "pageName": "Deputado Delegado Recalcatti",
+                "snapshot": {
+                    "ad_creative_id": 6111397728509,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Bom dia!<br /> <br /> A correria n\u00e3o para. Fiquei sabendo que a dona Joana, da Lapa, queria muito reunir amigos para manifestar o seu apoio. Atrav\u00e9s de um conhecido, entrou em contato comigo e ontem estive na casa dela para um encontro olho no olho.<br /> <br /> Me chama que eu vou!<br /> <br /> #DelegadoRecalcatti55555<br /> <br /> Propaganda Eleitoral<br /> Coliga\u00e7\u00e3o: Inova Paran\u00e1 - PSD/PSC<br /> CNPJ: 31.223.850/0001-82"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31223850000182",
+                    "byline": "Rubens Recalcatti",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534610127,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Deputado Delegado Recalcatti",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39393914_2129122050661933_1039468186841382912_n.jpg?_nc_cat=0&oh=6a7f6c7bfb6dba3b25ce5dc288f912de&oe=5BFFD43E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39387668_1131812736981267_8854627194454933504_n.jpg?_nc_cat=0&oh=833bf7fc9942e98bac5e0158cb97b513&oe=5BFB554F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39347174_2129122053995266_7310764868779376640_n.jpg?_nc_cat=0&oh=4b7e8ac95547ce1a50b887bbc5e1f3b1&oe=5BF4C8C6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453711_1131812816981259_1226604675046834176_n.jpg?_nc_cat=0&oh=5653dc82311e25b738dd837de61341a5&oe=5BFD3A06"
+                        }
+                    ],
+                    "instagram_actor_name": "Deputado Delegado Recalcatti",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39368884_2129122040661934_3883034478674706432_n.jpg?_nc_cat=0&oh=ca26d32dadca760ccf495540985ceadd&oe=5C0BF4B3",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 330349650460917,
+                    "page_is_deleted": false,
+                    "page_like_count": 18914,
+                    "page_name": "Deputado Delegado Recalcatti",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39546455_2129122037328601_7168834852689543168_n.jpg?_nc_cat=0&oh=9b47dfaeb0e447672e9114c5275bb4c6&oe=5C0361CC",
+                    "page_profile_uri": "https://www.facebook.com/DelegadoRecalcatti/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "2007283259563530",
+                "adid": "6091751287530",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "138598029627098",
+                "pageName": "Dr. Ronis Silva",
+                "snapshot": {
+                    "ad_creative_id": 6091751287330,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "RECADINHO PARA A CONCORR\u00caNCIA.<br /> <br /> A campanha mal come\u00e7ou e parece que alguns pol\u00edticos que pouco tempo atr\u00e1s n\u00e3o tinham a m\u00ednima ideia de quem \u00e9 Ronis Silva, come\u00e7aram a se preocupar.  <br /> <br /> Tenho recebido uma avalanche de mensagens com o \u00fanico intuito de tentar me desanimar e desistir da campanha ou me render ao \u201csistema\u201d.<br /> <br /> Pois bem, o que eu tenho a dizer para voc\u00ea, eleitor, que est\u00e1 depositando sua confian\u00e7a em mim, para voc\u00ea que ainda n\u00e3o definiu seu voto mas est\u00e1 me acompanhando nas redes sociais, e principalmente para voc\u00ea pol\u00edtico, que est\u00e1 desesperado com a possibilidade real de ter uma pedra nos sapatos (nos dois) pelos pr\u00f3ximos 4 anos, \u00e9 que como j\u00e1 devem saber, eu fui a exce\u00e7\u00e3o \u00e0 regra anos atr\u00e1s quando o pobre se tornou m\u00e9dico em uma federal, fui exce\u00e7\u00e3o ao construir um nome forte como m\u00e9dico em #Palmas, exce\u00e7\u00e3o quando iniciei um novo meio de propaganda (barata, e eficaz) indo contra tudo e contra todos, e em tantas outras oportunidades, fui aprendendo a ser a exce\u00e7\u00e3o.<br /> <br /> Se dessa vez n\u00e3o der certo, tudo bem, vou reconhecer que o \u201csistema\u201d manda no povo e que a corrup\u00e7\u00e3o faz parte da vida do brasileiro, mas se mais uma vez eu for a exce\u00e7\u00e3o, e for eleito SEM FUNDO PARTIDARIO, SEM GASTAR SOMAS EXORBITANTES E SEM DEVER FAVORES, as velhas raposas podem aproveitar seus \u00faltimos dias de farra porque EU TO CHEGANDO e vou fazer absolutamente tudo o que eu tenho prometido aos meus patr\u00f5es, n\u00e3o s\u00f3 os que me contratar\u00e3o no dia 07 de outubro, mas todo o povo tocantinense.<br /> <br /> Anote: 4\u20e35\u20e3.1\u20e34\u20e35\u20e3"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Ronis Ferreira da Silva",
+                    "caption": "https://goo.gl/XQbNx2",
+                    "cards": [],
+                    "creation_time": 1534601702,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Dr. Ronis Silva",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://goo.gl/XQbNx2",
+                    "page_categories": {
+                        "228143393877753": "Medical Center"
+                    },
+                    "page_id": 138598029627098,
+                    "page_is_deleted": false,
+                    "page_like_count": 49962,
+                    "page_name": "Dr. Ronis Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39531842_2007283269563529_6665735650790080512_n.jpg?_nc_cat=0&oh=f8d297f8e614743529f526d4a87a22e7&oe=5C0594D8",
+                    "page_profile_uri": "https://www.facebook.com/DR.RONIS/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39302549_1960490887322564_244925672605089792_n.mp4?_nc_cat=0&oh=88d20a64755cb155144db9ae99a632a2&oe=5B79D9EE",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332588_2007283276230195_192815143640367104_n.jpg?_nc_cat=0&oh=c9171a713ea4f0ac8417c79536671569&oe=5BF2BDD0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39369344_455720178265747_5308011727344893952_n.mp4?_nc_cat=0&oh=6192d56df1354668fda6c562c4b3c311&oe=5B79D9C4"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "263676324255061",
+                "adid": "6091750775130",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "138598029627098",
+                "pageName": "Dr. Ronis Silva",
+                "snapshot": {
+                    "ad_creative_id": 6091750774930,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "RECADINHO PARA A CONCORR\u00caNCIA.<br /> <br /> A campanha mal come\u00e7ou e parece que alguns pol\u00edticos que pouco tempo atr\u00e1s n\u00e3o tinham a m\u00ednima ideia de quem \u00e9 &#064;dr_ronissilva, come\u00e7aram a se preocupar. <br /> Tenho recebido uma avalanche de mensagens com o \u00fanico intuito de tentar me desanimar e desistir da campanha ou me render ao \u201csistema\u201d. Pois bem, o que eu tenho a dizer para voc\u00ea, eleitor, que est\u00e1 depositando sua confian\u00e7a em mim, para voc\u00ea que ainda n\u00e3o definiu seu voto mas est\u00e1 me acompanhando nas redes sociais, e principalmente para voc\u00ea pol\u00edtico, que est\u00e1 desesperado com a possibilidade real de ter uma pedra nos sapatos (nos dois) pelos pr\u00f3ximos 4 anos, \u00e9 que como j\u00e1 devem saber, eu fui a exce\u00e7\u00e3o \u00e0 regra anos atr\u00e1s quando o pobre se tornou m\u00e9dico em uma federal, fui exce\u00e7\u00e3o ao construir um nome forte como m\u00e9dico em #Palmas, exce\u00e7\u00e3o quando iniciei um novo meio de propaganda (barata, e eficaz) indo contra tudo e contra todos, e em tantas outras oportunidades, fui aprendendo a ser a exce\u00e7\u00e3o.<br /> <br /> Se dessa vez n\u00e3o der certo, tudo bem, vou reconhecer que o \u201csistema\u201d manda no povo e que a corrup\u00e7\u00e3o faz parte da vida do brasileiro, mas se mais uma vez eu for a exce\u00e7\u00e3o, e for eleito SEM FUNDO PARTIDARIO, SEM GASTAR SOMAS EXORBITANTES E SEM DEVER FAVORES, as velhas raposas podem aproveitar seus \u00faltimos dias de farra porque EU TO CHEGANDO e vou fazer absolutamente tudo o que eu tenho prometido aos meus patr\u00f5es, n\u00e3o s\u00f3 os que me contratar\u00e3o no dia 07 de outubro, mas todo o povo tocantinense."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Ronis Ferreira da Silva",
+                    "caption": "goo.gl",
+                    "cards": [],
+                    "creation_time": 1534606269,
+                    "cta_text": "Contact Us",
+                    "cta_type": "Fale conosco",
+                    "current_page_name": "Dr. Ronis Silva",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Dr. Ronis Silva",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39398572_263676344255059_7225012432215736320_n.jpg?_nc_cat=0&oh=c3c926d82e101dcbd343a65237b31c73&oe=5C3A6ECB",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://goo.gl/XQbNx2",
+                    "page_categories": {
+                        "228143393877753": "Medical Center"
+                    },
+                    "page_id": 138598029627098,
+                    "page_is_deleted": false,
+                    "page_like_count": 49962,
+                    "page_name": "Dr. Ronis Silva",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39501325_263676340921726_7337063348669775872_n.jpg?_nc_cat=0&oh=ce5dd277d1cc0607ef73d6202e937bfb&oe=5C04BA05",
+                    "page_profile_uri": "https://www.facebook.com/DR.RONIS/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39503939_265530047603418_2181865715902971904_n.mp4?_nc_cat=0&oh=176ad7c215390e8d5fe49ea581f8a6b3&oe=5B79D849",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39338437_263676360921724_4652431728919445504_n.jpg?_nc_cat=0&oh=cd7ae0bf87d6279abb0eb7469528ab45&oe=5C388FE5",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39360673_313220022767436_5659718795258757120_n.mp4?_nc_cat=0&oh=a0473537da23e2173376796221ab55b8&oe=5B79CFD4"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            },
+            {
+                "adArchiveID": "839226846466195",
+                "adid": "6117478746565",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "456333841201344",
+                "pageName": "Clecinho",
+                "snapshot": {
+                    "ad_creative_id": 6117478739965,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Ol\u00e1 amigos(as),<br /> <br /> Hoje, venho humildemente dividir com voc\u00eas uma novidade: Sou candidato a Deputado Estadual pelo Estado do Rio de Janeiro! Pe\u00e7o licen\u00e7a a voc\u00ea e a todos os seus familiares para expor o meu trabalho j\u00e1 realizado e divulgar minhas propostas durante os 45 dias de campanha politica. <br /> <br /> Conto com o seu apoio!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31167049000167",
+                    "byline": "Partido PTB",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534599001,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Clecinho",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 456333841201344,
+                    "page_is_deleted": false,
+                    "page_like_count": 2598,
+                    "page_name": "Clecinho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340478_839226876466192_5472756128674742272_n.jpg?_nc_cat=0&oh=e0993e79fe90cae557207edc50f199f3&oe=5C0A2C0C",
+                    "page_profile_uri": "https://www.facebook.com/clecinhosousatr/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Clecinho 14777",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_281031199156598_5013550543352627200_n.mp4?_nc_cat=0&oh=cdd37f656190fc623329282bbb22db6e&oe=5B79D791",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39502185_839226883132858_8656045855356223488_n.jpg?_nc_cat=0&oh=e4f28927807fc5b234140f0175bd90de&oe=5BFDAA55",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38894490_1936937519938962_568323064882790400_n.mp4?_nc_cat=0&oh=c21733f4f36ec83bbec5ebd543962bb0&oe=5B79D3CF"
+                        }
+                    ]
+                },
+                "startDate": 1534575600
+            }
+        ],
+        "totalCount": 624,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

@@ -1,0 +1,2321 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQH1XZnC7AMk:AQEmfKN74rit",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591217488248712999",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfacBJSugpbY+tkG8vWbl7O+iAHapOXc0fZ3oJ6subv8uAbMjYWR8uSBAaaVk6Pan8oJuJ7AmuKgvQGQ1pXqksBrgo6A1qjLf9jK36Ks0ogBktXA9rqDbbqi0f/1iNkDhv+hl/qj0wfMmPL1orhk8rDE4dnVe/7hh7KM/tgHuOf/yo/mzAeow9qZppC+AuLN2vHzgpkGxPiO9IT3xAeurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QG6hI/41ID6BvTL+/z75I8Bpo6iwM/aggG+psSDlueRA5CNsdOG1G2Y7c+92oCMAbb7zN7unuAHyKD1lYy86gbG+ZH8saPLB/bSmeXQ3nCsvPzJxeKAAbzCp4GX7P8F1rTcz9rQxQfu66H628qvBYLikru/y80BwKSyzIbn3wHS0arGnbT0Bbjzp5Lc57EGxMnzpP23gQO+t+2g+vJzkJ+T47r7Z9Kr6sPH/dMHtve1mJubyAeU+LLaoeeQB6rVpNr983emwo6ht9H9ArDMqoO398oC5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAbjXuNWvkZgBuOvtv/fN9QG+++CY57+CAfD52pfX8o8BrOKPwZCtoAj+o6fz5YOGAtaDn83T2ZYHuJbW5buzxwGK6cPMhfehAvyRqK/uu60BkpfK9cHT1gGiudyEvLalB/Da+c/4ioIDzqqk0OPkVPT9s5Xzt+sBgJ2sjcGWbJLfiITSnd0HqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIBgp2l1pnkiQaSjL+Y6Ldgtviy6+vPjgHeytK/8PNzxpfA9bTJxQfYmv6H/PCPAayJoNzM38EGjK/O+uDlePDWyMCb2Hj2rZO0ibq+As6SlKyJwX+AqrGwgOKeAfi2hZ/ynn2w4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPAcb0/66GunjEyt228qxojqaBrpWGZ4Dr0+31764CwO/vr83mmwPM3/zE/afVCb7+0bCu7sUCrJnvh4Cp2QHSmLuJ5KZjksLEqdzhgAGqhOySqtVopK/ivfrArAK4zPbVtLK2AprHsung68sDjMucxM3Y0AfCnvuNrJ9n1pjO1vH1avzPxIm47Wvetaa65710ysyt8vfa1QHE8eXqlryxAubW2NO609cE9rXegvSq7wXk4vD/wKCfBvjqndTeqK0H3s2T4cegduqLm4SIlsgBuq6xk8jHzAHct6bV9oXvA/LYneKCzs0B/tffyrzi9gGCo7W93KuyAojwxa+qoc8CrsHaoNmhgwWurJuczLyNBvKGs/fnyJwG7vaKlbn1sAbE6MvZzZe8BvbaxKDUtPAGjNWi3f7Y0QeM6/v0x8TbB7LP/4P7n/UBoJKj3KPHbvDq7ZOo+dcH0oPt34/hcYywi4HWx4cBzOT7vYXy6QeYh8Oq+qVzpLGNv/z62ge2no/e/fKkB+DfnZjJiL0GmIbYsuvVesTPgd+t6YABlqeey+e/vgKu8paK+uSCAaiMo5vm6/AGxommyvOqjAHW4Yb+wpWUAsSNnvjj9fgD2qutxJjRaabdiLvJgZQB5rj2joj3ugP+2+WR0M7IB6bCoYCikuQB4K/+ytKQ9AHW2KWR3bZ5uImMlvnA/AeahoXdxJqJA8rnxt3qpO0H9IrM4a7/Y6TvmOfxuq8C/P7a0uqozQfUurekpet4nM6MvuaYxwGSn+HRqaTGAsyDr632qcsC0pHa2ufEugG6mODauLvYB6SWuLXG0HP+qu6ogJ6CAZ6QxpLekOoB3Mnc5dOeZui5hvn96Y4BxLnP7MORc4bhoquei5kE6pGOnqC/kAKajt/Q097EA9Lk5fn0meMG/pyfspjskQHq6uzL3b3XB8LN4J2Z7JUB7v/gmb6QtQK+sv/hxM/TBoiOoNTJsqwH2LGsx+WKZryd0ovM5JMBxtzI5beJdcquvYmC38MB6KvtzpvnY8qO4vuXl7ACnIrbgYq6ZIiLo86noWq015bXyMqYA8LWwfSxo6EBruq5p9qw+wPkv8nck/tx9PnSztqfhwGU9cfn4/h1rofrntvedZiFjoXQkNYHpsj9+LzbkgTckY3/9rWKA8zAr7KMy4ICjsyUtJPhggH4moDn36//Ara/3rm7oYQBhtSS+YGX5wfA+8ngrbCGAc61nZX+imnUtbGPooeDAeCKt9a/sZIB7pDKvoGl2Ab2qam+yuq/B5rzhdLm89EHsLDWyvvTlweWxI/nyK9p9ImKnYjo6AHGlomkuKXgB8awmcqv29ABqpzZjIHz9AWG18XvhJp38PGXkKG6sQOSkoGRteBq/KGmh5rMjAGw88ayldOKA5qr7O6llJQBvtfY4br6lQbO3snV5Oy5AcCYpM7Hp8ADmtDD2sKaeozn9bfR3G2cxuisrdKUAfC8hIT45tMB4OWivPStZM6imqjeqJEB7PqsmrXE3QGKkqDY56vBArS0uq7U2sECmLXBg4fzwQaAuOzVmJvFBqrHjbTDsaQH9u6hmt72zAeohOLWu51/+Nm25rm9kQGY16OEv4DVAazrzJ6bsWX4y/fYsZP2BubWnMf4ycECgpXwluygyAOW56XAy4jyA+LZ7oy83+oHioaAmZWl8gesp76Y17ZrlPO9jrbNZc7Ky5et0rsB+P7G8PKh5QGI+7TnoP/5BvqsoqTk1YMB1s6B4r3watjejsuZ2Wf4mbmdguzvBq62zr/As9YBuMHUg6u86AHkj7Htt6CXBbLhnNvv57IGttSRg7HoTaSY9ZDFr37ClYKZ7MmCAbS9hN3i5+cB1LHwucT9qgLsk6P62Py1BuLO/Mq0yuYHttqVw+fO6AeS7aOyrpNzlLnjgev5dfaU/Kr6/NQBtrfE8a209gHu/eXZi9LuA7KMh86oy/8D/KXRqtOElgTY95nKsOXiBo69lKLx3MAH1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgK27Lz9s/n0BorrqLGRrKwC2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAHWxuLb3LCHAaTzh/vFoZkH6q6NzpHDqALqwZfr95hxyLqIjKSKwAHI25eCmZVtjo7kupSlrQaE/faCx7i9Arydu4rBg9EHutCDiY3JcIKD6vTbuJAItPbWwqHE1wfgltGNzOGvAdLcnKawinLy+vi/xPDyAdym1qmw3ZgGzKbrkfv+ccLex9Sb3rwDlOmCjNTwsgfYsaPO+unYAZDP5+rX+tcB8N+Aq9z3c5CE5Z65/nvSh9f5m6XWAZj07Zuyn8MB/K3S4c/2+QbSgLaJ76NhhPvP9OvswQHoqaq/3te4B76l/MbgjFvo1sf+qudj2qCO/72jxAHKrIu9gd7aAeikq5fYgY8Giuj/tvLywAfKlsLUzaTfAcqPsbfDq6kGmqH4/tbIkQP644WdyeXYBpitsNWwolyO4tLMpPNehNyl9emK5QG2/YyN+M16nIOQjI3u1gHM9/XbzcvMAfix956cmOoFuqWGj83KzwGe+p7N0rbAAY6O5dSTz8cDsOu186aE7Qes0uOe96ybAYqtlaya0qUCyqHd/5acxQf+r5+a2reeBu7Ry6X39X7A6oPUo5XBA8a5/I/I1doBxuj52YDG4weK1MG2vLRhnqmRuOGg7QeWvcXytKO0AaiW8/Kz1NwG5NSC/cW0VKr5nNvas7EB4tzCrOLaswHqmPe+6O68AZ6wz5O5p8QBvvqDwLqVU+yz0aPbk1TggdqGl9trqMG2sev/tQa+1MGBu+FxtvLWgNP62AaokPvKk/hNnvPnxYmpgQfiusHx6cDUAcrChJvNh4EBqK3jr7TerwL+xJDgsLm7BqbIlqmb0Ez8i8+2tplWouXzw9qvWbzugrj/51zEp/bctP1e1peayLKZYsiC3uzBv2KY2dXMwchsmrbTyNjLdIi56pHSo3mQ0OHG58qXAb6r6erR7aoB7vemq8HduQHEz8mljdK9AYLC/8OLi9kBqKX02smIpALalf7O3dTFBIz764Cvmo0GgujXpZKWggfy5YnR4uKaB4aL5dusmJwHjumdr4+vrAesqN+HuLK7B/S5jLvFmsYH7PqY48O4yAfYjdiG9I+VAvC039O40cIHjM2plam0bIzLmY794pcHmNDZ08rBWL6E8taAp6wB9t2V0rqwuQfsj+2+hvZQ2s3Ssoz7twG4+vPuhL6nBO6wk6mLmZMBwsiI1JK1mAKM4qjwovpUmsKq5ori1QH+jIyOl9nwB963trTR5PkGjqbX8tSmqgPU2oTVx8WeAprU4dP08FCGmNKgo5dTlumS4/aYtgfi6pfe1+9a7vLZrKONfd7hjafAx8oBose59PWredKKkI+B2agG7LL/q8DyrAay/sHfhs3YCIrvmP/YuHaS6M7q2ebeBIaJoND78YUB+uvvgNaFiQamhLykxYurAqjsjLqd958DsraV2MWg4AeE7NS084jzAZDuw/+1gI8HivWC99Oc/gWUlKeorNN2pt/y4aX5e6S/qpLewa8CjO7EoNPa/gKCjvj1xZz/BfqtvcbJ++AHuuu71tnirAfe7YecpI1OGfUSPHi0AfABrALoAqQD4AOcBNgElAXQBYwGyAaEB8AH/Ae4CAA=",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "937448136436103",
+                "adid": "23842896233360453",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530082800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround",
+                "snapshot": {
+                    "ad_creative_id": "23842896233260453",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El hombre que secuestr\u00f3 a una modelo brit\u00e1nica para obtener rescate ir\u00e1 a la c\u00e1rcel."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529604207,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "PlayGround",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "PlayGround",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35856002_937448149769435_8204991744299761664_n.jpg?_nc_cat=0&oh=8a2a39cb1b3e6a08169db4e9b3b5555b&oe=5BFCCC49",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 102886746417877,
+                    "page_is_deleted": false,
+                    "page_like_count": 16584787,
+                    "page_name": "PlayGround",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35844850_937448153102768_871919124622606336_n.jpg?_nc_cat=0&oh=7d345d7810dc976fa99c4a642985864c&oe=5BF04F76",
+                    "page_profile_uri": "https://www.facebook.com/PlayGroundMag/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Justicia para una modelo secuestrada",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_453316231795874_7430523215715237888_n.mp4?_nc_cat=0&oh=40dc0d86ac383a7745265d8b0e52fd5a&oe=5B78DE26",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35882246_937448169769433_1474809555182419968_n.jpg?_nc_cat=0&oh=7a320eb42892f7b2345a4fd5b9a1422f&oe=5C0F427E",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35339506_389311748244092_8726577146866171904_n.mp4?_nc_cat=0&oh=be6be16074dd304952045feb8a6feea7&oe=5B78F79E"
+                        }
+                    ]
+                },
+                "startDate": 1529218800
+            },
+            {
+                "adArchiveID": "630115680687786",
+                "adid": "6095376704329",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529650800,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1618776078214645",
+                "pageName": "Lucio de Sousa",
+                "snapshot": {
+                    "ad_creative_id": 6095303619929,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "As\u00ed deber\u00edamos de hacer con: Los Pol\u00edticos, Magistrados, Diputados, Militares y Congresistas CORRUPTOS que Roban a Pa\u00edses y son impunes a la Ley creadas por estos Corruptos. Hasta cuando seguiremos bajo estos Inhumanos es tiempo de despertar y decir BASTA !!!!!!!!.<br /> <br /> <a href=\"https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6\" rel=\"nofollow\">https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529098211,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucio de Sousa",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses.",
+                    "link_url": null,
+                    "page_categories": {
+                        "1109": "Movie Writer"
+                    },
+                    "page_id": 1618776078214645,
+                    "page_is_deleted": false,
+                    "page_like_count": 1265,
+                    "page_name": "Lucio de Sousa",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35475423_496417917427913_4263689832322039808_n.jpg?_nc_cat=0&oh=4744e4041fcc2f5dfaeda7226a2e9632&oe=5C119324",
+                    "page_profile_uri": "https://www.facebook.com/luciodsousa/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "198532213496709": "Labor Employment Law"
+                            },
+                            "page_id": 422678664553020,
+                            "page_is_deleted": false,
+                            "page_like_count": 157890,
+                            "page_name": "Abogado Laboral",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35386764_496417914094580_8780652872476917760_n.jpg?_nc_cat=0&oh=53d40097e449f7b748b1138dccb1989b&oe=5BF09524",
+                            "page_profile_uri": "https://www.facebook.com/tusderechos2.0/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses."
+                                }
+                            }
+                        }
+                    },
+                    "title": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses,",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35457883_496417924094579_6552478260842725376_n.jpg?_nc_cat=0&oh=ffeeaa06e8075afa5f3c4f025f9768bc&oe=5C0E8419",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.1790-2/11892720_548902825263936_1325809168_n.mp4?_nc_cat=0&oh=8233a97d53ba9c1f3e50341d0f4ee1ef&oe=5B78E254"
+                        }
+                    ]
+                },
+                "startDate": 1529132400
+            },
+            {
+                "adArchiveID": "177861662881037",
+                "adid": "6095371467729",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529650800,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1618776078214645",
+                "pageName": "Lucio de Sousa",
+                "snapshot": {
+                    "ad_creative_id": 6095303619929,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "As\u00ed deber\u00edamos de hacer con: Los Pol\u00edticos, Magistrados, Diputados, Militares y Congresistas CORRUPTOS que Roban a Pa\u00edses y son impunes a la Ley creadas por estos Corruptos. Hasta cuando seguiremos bajo estos Inhumanos es tiempo de despertar y decir BASTA !!!!!!!!.<br /> <br /> <a href=\"https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6\" rel=\"nofollow\">https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529098211,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucio de Sousa",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses.",
+                    "link_url": null,
+                    "page_categories": {
+                        "1109": "Movie Writer"
+                    },
+                    "page_id": 1618776078214645,
+                    "page_is_deleted": false,
+                    "page_like_count": 1265,
+                    "page_name": "Lucio de Sousa",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35475423_496417917427913_4263689832322039808_n.jpg?_nc_cat=0&oh=4744e4041fcc2f5dfaeda7226a2e9632&oe=5C119324",
+                    "page_profile_uri": "https://www.facebook.com/luciodsousa/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "198532213496709": "Labor Employment Law"
+                            },
+                            "page_id": 422678664553020,
+                            "page_is_deleted": false,
+                            "page_like_count": 157890,
+                            "page_name": "Abogado Laboral",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35386764_496417914094580_8780652872476917760_n.jpg?_nc_cat=0&oh=53d40097e449f7b748b1138dccb1989b&oe=5BF09524",
+                            "page_profile_uri": "https://www.facebook.com/tusderechos2.0/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses."
+                                }
+                            }
+                        }
+                    },
+                    "title": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses,",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35457883_496417924094579_6552478260842725376_n.jpg?_nc_cat=0&oh=ffeeaa06e8075afa5f3c4f025f9768bc&oe=5C0E8419",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.1790-2/11892720_548902825263936_1325809168_n.mp4?_nc_cat=0&oh=8233a97d53ba9c1f3e50341d0f4ee1ef&oe=5B78E254"
+                        }
+                    ]
+                },
+                "startDate": 1529132400
+            },
+            {
+                "adArchiveID": "182918799050243",
+                "adid": "23842880562450067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842880561690067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00danete a miles de l\u00edderes que recibir\u00e1n de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "elreyjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109000,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36248066_182918822383574_823206464544833536_n.jpg?_nc_cat=0&oh=3679c75cd231aca5a866cfd82474d777&oe=5BEDE77D",
+                    "is_reshared": false,
+                    "link_description": "Escuela del Ministerio Sobrenatural\nLa Escuela Sobrenatural del Ministerio reunir\u00e1 a ap\u00f3stoles, profetas, evangelistas, pastores, maestros y l\u00edderes de gran influencia no s\u00f3lo en la iglesia sino en el mundo, bajo la direcci\u00f3n del ap\u00f3stol Guillermo Maldonado",
+                    "link_url": "http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806278,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36292352_182918825716907_9064524183240704_n.jpg?_nc_cat=0&oh=2dd1ad6279aca2b107fd6b7d9f67451b&oe=5C0C168A",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Conferencia de empoderamiento para lideres | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=09a499d54972d110ad6269fd4f1455e0&oe=5B78E413",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36292363_182918842383572_4283977045920186368_n.jpg?_nc_cat=0&oh=04b7b6394b2279045b959431a2043a4e&oe=5BFA71AA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=54e4cb1fcc69eb251721dcde27869b60&oe=5B78DE8C"
+                        }
+                    ]
+                },
+                "startDate": 1529046000
+            },
+            {
+                "adArchiveID": "2089500351289931",
+                "adid": "6095303674929",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529650800,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1618776078214645",
+                "pageName": "Lucio de Sousa",
+                "snapshot": {
+                    "ad_creative_id": 6095303619929,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "As\u00ed deber\u00edamos de hacer con: Los Pol\u00edticos, Magistrados, Diputados, Militares y Congresistas CORRUPTOS que Roban a Pa\u00edses y son impunes a la Ley creadas por estos Corruptos. Hasta cuando seguiremos bajo estos Inhumanos es tiempo de despertar y decir BASTA !!!!!!!!.<br /> <br /> <a href=\"https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6\" rel=\"nofollow\">https://www.facebook.com/tusderechos2.0/videos/548902355263983/?t=6</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529098211,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucio de Sousa",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses.",
+                    "link_url": null,
+                    "page_categories": {
+                        "1109": "Movie Writer"
+                    },
+                    "page_id": 1618776078214645,
+                    "page_is_deleted": false,
+                    "page_like_count": 1265,
+                    "page_name": "Lucio de Sousa",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35475423_496417917427913_4263689832322039808_n.jpg?_nc_cat=0&oh=4744e4041fcc2f5dfaeda7226a2e9632&oe=5C119324",
+                    "page_profile_uri": "https://www.facebook.com/luciodsousa/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "198532213496709": "Labor Employment Law"
+                            },
+                            "page_id": 422678664553020,
+                            "page_is_deleted": false,
+                            "page_like_count": 157890,
+                            "page_name": "Abogado Laboral",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35386764_496417914094580_8780652872476917760_n.jpg?_nc_cat=0&oh=53d40097e449f7b748b1138dccb1989b&oe=5BF09524",
+                            "page_profile_uri": "https://www.facebook.com/tusderechos2.0/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses."
+                                }
+                            }
+                        }
+                    },
+                    "title": "As\u00ed echan a los corruptos a la basura en otros pa\u00edses,",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35457883_496417924094579_6552478260842725376_n.jpg?_nc_cat=0&oh=ffeeaa06e8075afa5f3c4f025f9768bc&oe=5C0E8419",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.1790-2/11892720_548902825263936_1325809168_n.mp4?_nc_cat=0&oh=8233a97d53ba9c1f3e50341d0f4ee1ef&oe=5B78E254"
+                        }
+                    ]
+                },
+                "startDate": 1529046000
+            },
+            {
+                "adArchiveID": "199830834182833",
+                "adid": "6103816071416",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529650800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "293720774085565",
+                "pageName": "Mutir\u00e3o Pela Vida E Sa\u00fade: Droga Mata & Esporte Salva.",
+                "snapshot": {
+                    "ad_creative_id": 6103816067816,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "M\u00c1RCIO FRAN\u00c7A: GOVERNADOR DO ESTADO DE S\u00c3O PAULO."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529609395,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mutir\u00e3o Pela Vida E Sa\u00fade: Droga Mata & Esporte Salva.",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/35429576_1285725734898082_7587845071744008192_n.jpg?_nc_cat=0&oh=2076be7a05dad2da8fef0b1f37b9adeb&oe=5C0AF7A3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/35415147_1285725738231415_8989638035410780160_n.jpg?_nc_cat=0&oh=b6901ae5750001a39637a1b5ff0efeaa&oe=5C08E557"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "\u274c *O novo governador de S\u00e3o Paulo, M\u00e1rcio Fran\u00e7a, entregou em Santos, no \u00faltimo dia 14 de junho, 160 apartamentos para fam\u00edlias inscritas no Programa  Habitacional da CDHU. Aproveitamos para agradecer tamb\u00e9m o governador e a todos que apoiam ou ainda v\u00e3o apoiar este premiado Mutir\u00e3o pela Vida e Sa\u00fade: Droga Mata & Esporte Salva. *Mauro Borges. Coordenador Nacional.\nMutir\u00e3o Pela Vida E Sa\u00fade: Droga Mata & Esporte Salva.",
+                    "link_url": null,
+                    "page_categories": {
+                        "2250": "Education Company"
+                    },
+                    "page_id": 293720774085565,
+                    "page_is_deleted": false,
+                    "page_like_count": 6870,
+                    "page_name": "Mutir\u00e3o Pela Vida E Sa\u00fade: Droga Mata & Esporte Salva.",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35928728_199830840849499_9190977155830382592_n.jpg?_nc_cat=0&oh=494ee6c0e0f04fd4a0b32767bd933991&oe=5C0EF29F",
+                    "page_profile_uri": "https://www.facebook.com/drogamata/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529046000
+            },
+            {
+                "adArchiveID": "275105989737655",
+                "adid": "23842884317070467",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529132400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "216650141692498",
+                "pageName": "DEIDO BOY MAGAZINE",
+                "snapshot": {
+                    "ad_creative_id": "23842884316920467",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udcaf RUSSIA, BABY\ud83c\uddf7\ud83c\uddfa\ufe0f POUTINE NARGUE LES OCCIDENTAUX<br /> +10 MILLIARDS \u20ac POUR LA COUPE DU MONDE CHEZ LUI<br /> L&#039;OUVERTURE AVEC L&#039;ARTISTE ANGLAIS ROBBY WILLIAMS<br /> QUI A FAIT UN DOIGT D&#039;HONNEUR A L&#039;ANGLETERRE<br /> <br /> Malgr\u00e9 les sanctions \u00e9conomiques, Poutine et la Russie se portent bien et carburent d&#039;Euros. Il y a quelques mois, le tsar russe avait rembours\u00e9 toutes les dettes de l&#039;ancien empire URSS.<br /> <br /> Pour l&#039;organisation de la Coupe du monde chez lui, il a rallong\u00e9 \u00e0 10,1 milliards au lieu de 2 milliards le co\u00fbt des travaux allou\u00e9s habituellement aux pays organisateurs.<br /> <br /> Au final, la facture des travaux li\u00e9s \u00e0 l\u2019organisation du Mondial 2018 s\u2019\u00e9l\u00e8ve aux alentours de 10,8 milliards de dollars (soit 10,1 milliards d\u2019euros).<br /> <br /> Et ce n&#039;est pas un hasard s&#039;il a choisi l&#039;artiste anglais Robby Williams pour faire l&#039;ouverture titanesque de cette coupe du monde que nous avons vu hier avec un doigt d&#039;honneur final de l&#039;artiste adress\u00e9 \u00e0 son pays l&#039;Angleterre. Histoire d&#039;ent\u00e9riner la crise diplomatique entre les deux pays apr\u00e8s la mort suspecte d&#039;un espion russe.<br /> <br /> Cette diplomatie du showbiz respire la s\u00e9r\u00e9nit\u00e9 et montre au peuple anglais et aux occidentaux que la Russie n&#039;a de probl\u00e8mes avec personne \u00e0 part sa volont\u00e9 de stabiliser un monde devenu chaotique. Une telle d\u00e9marche montre encore que Poutine est un grand homme d&#039;Etat.<br /> <br /> Le r\u00eave am\u00e9ricain aurait-il chang\u00e9 de camps vers la Russie?! Surtout qu&#039;en face, Donald Trump ne propose rien \u00e0 part tout bloquer selon ses humeurs et son obsession de d\u00e9truire l&#039;h\u00e9ritage d&#039;Obama.<br /> <br /> Tourne ton regard vers le roi du nord, l&#039;ours blanc est sorti de sa tani\u00e8re et il bombe ses muscles. Libre patrie \u00e9ternelle de la Maison Russie.<br /> <br /> \u00a9 Jonas MPOME DISSAKE 2018 DBM"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532686842,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "DEIDO BOY MAGAZINE",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/35329401_1907557515935077_4371444716328189952_n.jpg?_nc_cat=0&oh=38f07176c998ee96c8f8eb85c709cd41&oe=5C10CF03",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/35288640_1907557512601744_5154089303571169280_n.jpg?_nc_cat=0&oh=3f23df8124c29451fcb3853a41da762a&oe=5C10375A"
+                        }
+                    ],
+                    "instagram_actor_name": "DEIDO BOY MAGAZINE",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37836101_275106009737653_1333337936657121280_n.jpg?_nc_cat=0&oh=beaaa53642ef845cfa4701352b05be6c&oe=5C05A637",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1307": "Magazine"
+                    },
+                    "page_id": 216650141692498,
+                    "page_is_deleted": false,
+                    "page_like_count": 110851,
+                    "page_name": "DEIDO BOY MAGAZINE",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37926092_275106006404320_4035871031636787200_n.jpg?_nc_cat=0&oh=15a39828e401705d947af9e67eb336b8&oe=5C0B6EF2",
+                    "page_profile_uri": "https://www.facebook.com/deidoboyofficiel/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529046000
+            },
+            {
+                "adArchiveID": "445431099275375",
+                "adid": "6092301567752",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529910000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6091699719552,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "M\u00e1s de 1000 millones de personas viven sin #electricidad \ud83d\udd0ca nivel mundial \ud83c\udf0e, y otros 3000 millones utilizan combustibles contaminantes \ud83d\udd25 para cocinar o calefaccionar sus viviendas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1534213992,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {
+                                "191x100": [
+                                    [
+                                        0,
+                                        118
+                                    ],
+                                    [
+                                        1997,
+                                        1163
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39080140_445431132608705_6526366096633626624_n.jpg?_nc_cat=0&oh=741380ed70f263ff7b368d6dd4ed6908&oe=5BFAA63A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39125729_445431125942039_8313568045096239104_n.jpg?_nc_cat=0&oh=7d9d2ee1d4fece53bccf9a5f09a80f06&oe=5BF4FBB8"
+                        },
+                        {
+                            "image_crops": {
+                                "100x100": [
+                                    [
+                                        359,
+                                        1
+                                    ],
+                                    [
+                                        1721,
+                                        1363
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087760_445431129275372_6959702939313111040_n.jpg?_nc_cat=0&oh=d5ab8ffdf75f5992edde9a0c0eb2c9a6&oe=5BF12A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39231972_445431135942038_1505401825547780096_n.jpg?_nc_cat=0&oh=424f5afcd365ebe0e8637da74a35c22d&oe=5BEEFD17"
+                        }
+                    ],
+                    "instagram_actor_name": "Banco Mundial",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128510_445431112608707_5692310965605892096_n.jpg?_nc_cat=0&oh=aad0dda4553cc41d00d3f75bffdd6f68&oe=5BED1492",
+                    "is_reshared": false,
+                    "link_description": "El Banco Mundial se ha comprometido a ayudar a los pa\u00edses a garantizar el acceso a energ\u00eda asequible, confiable y sostenible para todos.",
+                    "link_url": "http://www.bancomundial.org/es/topic/energy/overview?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087787_445431109275374_7584806987972476928_n.jpg?_nc_cat=0&oh=51abcbb4b57da4415a6d3bb146bf8528&oe=5BFA2AF5",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La labor del Banco Mundial en la ampliaci\u00f3n del acceso a la energ\u00eda",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528959600
+            },
+            {
+                "adArchiveID": "266836373877201",
+                "adid": "6098257564639",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529046000,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "541670845918340",
+                "pageName": "Soy Latina Emprendedora",
+                "snapshot": {
+                    "ad_creative_id": 6098257561439,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Si ya empez\u00f3 su DESTRUCCI\u00d3N le confiscaron 800 MILLONES y m\u00e1s de una DOCENA DE PROPIEDADES. De \u00d1APA BOTARON A SU HIJA DE LOS EEUU. La hija es IGUALITA a su padre en lo MALO! Q lastima"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "instagram.com",
+                    "cards": [],
+                    "creation_time": 1530511309,
+                    "cta_text": "Visit Instagram Profile",
+                    "cta_type": "Visitar perfil do Instagram",
+                    "current_page_name": "Soy Latina Emprendedora",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36478250_266836393877199_5081109206392635392_n.jpg?_nc_cat=0&oh=c890320850335b6a0e3cfda93459fa98&oe=5BF87287",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36488645_266836397210532_8774146821657198592_n.jpg?_nc_cat=0&oh=68f0733afbe698e30c3400a18b153cc9&oe=5BFD2522"
+                        }
+                    ],
+                    "instagram_actor_name": "Latinasenaccion",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36533408_266836387210533_2239324290900033536_n.jpg?_nc_cat=0&oh=346d9e79bf927ca9e41fc377c3be6ef9&oe=5BFF0534",
+                    "is_reshared": false,
+                    "link_description": "5,123 Followers, 235 Following, 479 Posts - See Instagram photos and videos from Latinasenaccion (@latinasenaction)",
+                    "link_url": "http://instagram.com/latinasenaction",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 541670845918340,
+                    "page_is_deleted": false,
+                    "page_like_count": 16725,
+                    "page_name": "Soy Latina Emprendedora",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36498673_266836390543866_3318332908741066752_n.jpg?_nc_cat=0&oh=9543534d8065cceae766de9141b4f98a&oe=5BF3E65D",
+                    "page_profile_uri": "https://www.facebook.com/soyLatinaemprendedora/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Latinasenaccion (@latinasenaction) \u2022 Instagram photos and videos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528959600
+            },
+            {
+                "adArchiveID": "1778339948921513",
+                "adid": "23842856353930231",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528959600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842856239140231",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "No Congresso de Prefeitos realizado em Florian\u00f3polis, destaquei que j\u00e1 conseguimos o aumento de R$ 212 milh\u00f5es para a sa\u00fade, um diferencial extraordin\u00e1rio que a bancada federal catarinense conquistou. E que continuemos lutando.<br /> Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528940624,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jorginho Mello",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Jorginho Mello",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35196662_1787574057995528_2109906906112851968_n.jpg?_nc_cat=0&oh=8fc41dd8be6cea9e3dc9cdf7860077ba&oe=5BFD26FF",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 425866030884565,
+                    "page_is_deleted": false,
+                    "page_like_count": 20704,
+                    "page_name": "Jorginho Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35362810_1787574061328861_6128102510944059392_n.jpg?_nc_cat=0&oh=bfe30a127e45c11d499d7592c2e242e6&oe=5C0B05CA",
+                    "page_profile_uri": "https://www.facebook.com/jorginhomello.sc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35041771_261495477740895_6400603926583836672_n.mp4?_nc_cat=0&oh=5aba0dd7fbdb1d620d0ac55a19d10f3d&oe=5B78DEFB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35265453_1787574067995527_9005362408897642496_n.jpg?_nc_cat=0&oh=cf7a331f7dd1e0868a9616b87b823a08&oe=5BEFD298",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35015938_1787488574645287_6778398870666739712_n.mp4?_nc_cat=0&oh=d5f99c3a9696c253c78d1eeb6cfc017a&oe=5B78E0A5"
+                        }
+                    ]
+                },
+                "startDate": 1528873200
+            },
+            {
+                "adArchiveID": "1787574024662198",
+                "adid": "23842856239220231",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528959600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842856239140231",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "No Congresso de Prefeitos realizado em Florian\u00f3polis, destaquei que j\u00e1 conseguimos o aumento de R$ 212 milh\u00f5es para a sa\u00fade, um diferencial extraordin\u00e1rio que a bancada federal catarinense conquistou. E que continuemos lutando.<br /> Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528940624,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jorginho Mello",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Jorginho Mello",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35196662_1787574057995528_2109906906112851968_n.jpg?_nc_cat=0&oh=8fc41dd8be6cea9e3dc9cdf7860077ba&oe=5BFD26FF",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 425866030884565,
+                    "page_is_deleted": false,
+                    "page_like_count": 20704,
+                    "page_name": "Jorginho Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35362810_1787574061328861_6128102510944059392_n.jpg?_nc_cat=0&oh=bfe30a127e45c11d499d7592c2e242e6&oe=5C0B05CA",
+                    "page_profile_uri": "https://www.facebook.com/jorginhomello.sc/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35041771_261495477740895_6400603926583836672_n.mp4?_nc_cat=0&oh=5aba0dd7fbdb1d620d0ac55a19d10f3d&oe=5B78DEFB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35265453_1787574067995527_9005362408897642496_n.jpg?_nc_cat=0&oh=cf7a331f7dd1e0868a9616b87b823a08&oe=5BEFD298",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35015938_1787488574645287_6778398870666739712_n.mp4?_nc_cat=0&oh=d5f99c3a9696c253c78d1eeb6cfc017a&oe=5B78E0A5"
+                        }
+                    ]
+                },
+                "startDate": 1528873200
+            },
+            {
+                "adArchiveID": "2446637615562649",
+                "adid": "23842930340480033",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528873200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1017644601605126",
+                "pageName": "Luciano Victorino",
+                "snapshot": {
+                    "ad_creative_id": "23842930340420033",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Luciano \u00e9 ativista LGBT do PSOL. Foi a candidatura LGBT mais votada em 2016 em Porto Alegre."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534333105,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luciano Victorino 5024",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280645_2446637652229312_9070658161043570688_n.jpg?_nc_cat=0&oh=52753ac03c47dae78690bd83cb16aaf5&oe=5BFFE58A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39128234_2446637655562645_1915417330817433600_n.jpg?_nc_cat=0&oh=978ea1d98ec446bc461cb5763fe759e0&oe=5C0CAC7A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/lucianovictorino50/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1017644601605126,
+                    "page_is_deleted": false,
+                    "page_like_count": 19432,
+                    "page_name": "Luciano Victorino",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39091831_2446637642229313_3740053569986887680_n.jpg?_nc_cat=0&oh=414e5ac3c1456c802a8a906c498d5efe&oe=5C0B1B98",
+                    "page_profile_uri": "https://www.facebook.com/lucianovictorino50/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528786800
+            },
+            {
+                "adArchiveID": "260458761362373",
+                "adid": "6092587392699",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529391600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "384936981547930",
+                "pageName": "Fagotti Sociedade de Advogados",
+                "snapshot": {
+                    "ad_creative_id": 6092587388699,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Acompanhem a coluna Direito &amp; Cidadania com as mudan\u00e7as significativas da reforma trabalhista! <br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Frevistapaulista.com.br%2F2018%2F06%2F09%2Fgiuliana-fagotti-direito-cidadania-09-06-18%2F&amp;h=AT06v_4zLG-UM9it9IDNfums33L-eUr3fRJoNm7bxY8ICc4nCkDsJv9wMWV2JKWwC75x0a51Iq6U8TVXZGY3_59uXTaZAXkOk9xJV_TO6EcsCqVzRIos-wsPucKFfDynFzeKhQ3HxUI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://revistapaulista.com.br/2018/06/09/giuliana-fagotti-direito-cidadania-09-06-18/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "revistapaulista.com.br",
+                    "cards": [],
+                    "creation_time": 1528840615,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fagotti Sociedade de Advogados",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35128519_260458784695704_1508112993588609024_n.jpg?_nc_cat=0&oh=02f070bcd06532f62aecc392cad327a3&oe=5BED9D0D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34954511_260458781362371_5049411347020775424_n.jpg?_nc_cat=0&oh=bdf09b7d01965f22e10ce64433306b0c&oe=5C3A2DDA"
+                        }
+                    ],
+                    "instagram_actor_name": "Fagotti Sociedade De Advogados",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35111895_260458771362372_2893978079628099584_n.jpg?_nc_cat=0&oh=71c8af5adefd1b72707fd90ae82f8536&oe=5C10447D",
+                    "is_reshared": false,
+                    "link_description": "Continuaremos a tratar de algumas mudan\u00e7as significativas da reforma trabalhista, sendo esse voltado mais para o cumprimento de horas de",
+                    "link_url": "http://revistapaulista.com.br/2018/06/09/giuliana-fagotti-direito-cidadania-09-06-18/",
+                    "page_categories": {
+                        "198532213496709": "Labor Employment Law"
+                    },
+                    "page_id": 384936981547930,
+                    "page_is_deleted": false,
+                    "page_like_count": 1341,
+                    "page_name": "Fagotti Sociedade de Advogados",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35125708_260458774695705_2956553652891811840_n.jpg?_nc_cat=0&oh=5751097e2d444889d748e06284b864e0&oe=5BFE8FA8",
+                    "page_profile_uri": "https://www.facebook.com/Fagotti-Sociedade-de-Advogados-384936981547930/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Giuliana Fagotti: Direito & Cidadania - 09.06.18 - Revista Paulista",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528786800
+            },
+            {
+                "adArchiveID": "1334372496693769",
+                "adid": "23842929694750033",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528786800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1017644601605126",
+                "pageName": "Luciano Victorino",
+                "snapshot": {
+                    "ad_creative_id": "23842928897070033",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Luciano \u00e9 ativista LGBT do PSOL. Foi a candidatura LGBT mais votada em 2016 em Porto Alegre."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534333104,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luciano Victorino 5024",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35125752_175988519743367_5879526665893183488_n.jpg?_nc_cat=0&oh=b5ff91d805c3d23f0c342bf09314d84a&oe=5C0B025E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35111773_175988523076700_85553927470186496_n.jpg?_nc_cat=0&oh=0478d856d18dcd8c7fb0bb4e59df96b5&oe=5C10D8F4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/lucianovictorino50/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 1017644601605126,
+                    "page_is_deleted": false,
+                    "page_like_count": 19432,
+                    "page_name": "Luciano Victorino",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35273276_175988509743368_4159300583473283072_n.jpg?_nc_cat=0&oh=d765f5f6925c2f2377ed13fd5936c899&oe=5BF4C200",
+                    "page_profile_uri": "https://www.facebook.com/lucianovictorino50/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Luciano Victorino",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528786800
+            },
+            {
+                "adArchiveID": "294428011135555",
+                "adid": "6092063168952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529910000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6091699719552,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "M\u00e1s de 1000 millones de personas viven sin #electricidad \ud83d\udd0ca nivel mundial \ud83c\udf0e, y otros 3000 millones utilizan combustibles contaminantes \ud83d\udd25 para cocinar o calefaccionar sus viviendas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1534213992,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {
+                                "191x100": [
+                                    [
+                                        0,
+                                        118
+                                    ],
+                                    [
+                                        1997,
+                                        1163
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39080140_445431132608705_6526366096633626624_n.jpg?_nc_cat=0&oh=741380ed70f263ff7b368d6dd4ed6908&oe=5BFAA63A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39125729_445431125942039_8313568045096239104_n.jpg?_nc_cat=0&oh=7d9d2ee1d4fece53bccf9a5f09a80f06&oe=5BF4FBB8"
+                        },
+                        {
+                            "image_crops": {
+                                "100x100": [
+                                    [
+                                        359,
+                                        1
+                                    ],
+                                    [
+                                        1721,
+                                        1363
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087760_445431129275372_6959702939313111040_n.jpg?_nc_cat=0&oh=d5ab8ffdf75f5992edde9a0c0eb2c9a6&oe=5BF12A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39231972_445431135942038_1505401825547780096_n.jpg?_nc_cat=0&oh=424f5afcd365ebe0e8637da74a35c22d&oe=5BEEFD17"
+                        }
+                    ],
+                    "instagram_actor_name": "Banco Mundial",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128510_445431112608707_5692310965605892096_n.jpg?_nc_cat=0&oh=aad0dda4553cc41d00d3f75bffdd6f68&oe=5BED1492",
+                    "is_reshared": false,
+                    "link_description": "El Banco Mundial se ha comprometido a ayudar a los pa\u00edses a garantizar el acceso a energ\u00eda asequible, confiable y sostenible para todos.",
+                    "link_url": "http://www.bancomundial.org/es/topic/energy/overview?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087787_445431109275374_7584806987972476928_n.jpg?_nc_cat=0&oh=51abcbb4b57da4415a6d3bb146bf8528&oe=5BFA2AF5",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La labor del Banco Mundial en la ampliaci\u00f3n del acceso a la energ\u00eda",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528700400
+            },
+            {
+                "adArchiveID": "1708738512550653",
+                "adid": "23842889850920642",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528959600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "619684844769133",
+                "pageName": "ENA Advogados",
+                "snapshot": {
+                    "ad_creative_id": "23842889850850642",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udea8 ATEN\u00c7\u00c3O! \ud83d\udea8<br /> <br /> N\u00e3o esque\u00e7a de confirmar sua presen\u00e7a no Sarau &quot;\u00c9 namoro ou uni\u00e3o est\u00e1vel?&quot; - 2\u00aa edi\u00e7\u00e3o<br /> <br /> CONFIRME AGORA!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "Sarau \"\u00c9 namoro ou uni\u00e3o est\u00e1vel?\" - 2\u00aa edi\u00e7\u00e3o",
+                    "cards": [],
+                    "creation_time": 1529353050,
+                    "cta_text": "View Event",
+                    "cta_type": "Visualizar evento",
+                    "current_page_name": "ENA Advogados",
+                    "disclaimer_label": null,
+                    "display_format": "event",
+                    "effective_authorization_category": "NONE",
+                    "event": {
+                        "event_end_timestamp": 1529029800,
+                        "event_location": "El Basco Loco",
+                        "event_promoted_type": "event",
+                        "event_start_timestamp": 1529019000,
+                        "event_timezone": "America/Sao_Paulo"
+                    },
+                    "images": [
+                        {
+                            "image_crops": {},
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35524639_1708738539217317_7753399151718563840_n.jpg?_nc_cat=0&oh=1275edeaf3db1059e44d891699e2196b&oe=5C0EC1CB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35510966_1708738535883984_4671082422538862592_n.jpg?_nc_cat=0&oh=0e547fcee463f7d7321b6fdb34f28d50&oe=5BF6D5F5"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "UM SARAU PARA REFLETIR \u201c\u00c9 NAMORO OU UNI\u00c3O EST\u00c1VEL?\u201d\n\n2\u00aa edi\u00e7\u00e3o do evento recebe como convidada a atriz e escritora CLARA CORLEONE\n\nO clima do amor est\u00e1 no ar...mas quando chega perto do Dia dos Namorados vem tamb\u00e9m aquela velha d\u00favida sobre o formato de rela\u00e7\u00e3o amorosa com seus companheiros.\n\n\"Formalizei a uni\u00e3o est\u00e1vel para ter desconto na academia\"...\n\"Casei mas n\u00e3o fui morar junto\"...\n\"Eu namoro ele, mas ele n\u00e3o sabe\"...\n\"No papel n\u00e3o temos nada, mas no cora\u00e7\u00e3o \u00e9 um casamento\"...\n\nPara refletir melhor o assunto de forma interativa com o p\u00fablico, v\u00eam a\u00ed a 2\u00aa edi\u00e7\u00e3o do sarau \u201c\u00c9 namoro ou uni\u00e3o est\u00e1vel?, marcado para o dia 14/06 (quinta-feira), \u00e0s 20h30, no bar El Basco Loco (Rua Fernandes Vieira 456), com ingresso a 10 reais.\n\nEste ano, as idealizadoras do evento Karina Azen (advogada) e Patr\u00edcia Scheeren (psic\u00f3loga) recebem como convidada a ATRIZ E ESCRITORA CLARA CORLEONE.\n\nO evento \u00e9 promovido pelo escrit\u00f3rio ENA Advogados (OAB/RS 3.059) e tem uma proposta interativa com o olhar multidisciplinar sobre as rela\u00e7\u00f5es afetivas, baseado num trabalho que j\u00e1 vem sendo desenvolvido h\u00e1 dois  anos pelo escrit\u00f3rio em Porto Alegre. Os participantes recebem certificado.\n\nCOLOQUE NA AGENDA\nO que: 2\u00aa Edi\u00e7\u00e3o do Sarau \u201c\u00c9 namoro ou uni\u00e3o est\u00e1vel?\u201d \u2013 Com Clara Corleone\nQuando: Dia 14 de junho (quinta-feira), \u00e0s 20h30min.\nOnde: Bar El Basco Loco (Rua Fernandes Vieira n\u00ba 456, Bom Fim. Porto Alegre. RS)\nQuanto: 10 reais\nInforma\u00e7\u00f5es: (51) 99696.7541",
+                    "link_url": "https://www.facebook.com/events/207477526645804",
+                    "page_categories": {
+                        "1099402320124913": "Law Firm"
+                    },
+                    "page_id": 619684844769133,
+                    "page_is_deleted": false,
+                    "page_like_count": 830,
+                    "page_name": "ENA Advogados",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605143_1708738519217319_5430287277303529472_n.jpg?_nc_cat=0&oh=2e62e2af6448217d23188362551b1910&oe=5BF1C96B",
+                    "page_profile_uri": "https://www.facebook.com/ENAadvogados/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Sarau \"\u00c9 namoro ou uni\u00e3o est\u00e1vel?\" - 2\u00aa edi\u00e7\u00e3o",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528700400
+            },
+            {
+                "adArchiveID": "657706231234835",
+                "adid": "6105032080017",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528527600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6105032074217,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El traslado a gran escala ser\u00e1 temporal, seg\u00fan inform\u00f3 el Servicio de Inmigraci\u00f3n y Control de Aduanas. Son cinco las prisiones a las que ser\u00e1n llevados quienes est\u00e9n esperando sus audiencias. El mayor n\u00famero de estos detenidos ir\u00e1 a una prisi\u00f3n en California.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fice-transfiere-1-600-inmigrantes-indocumentados-a-cinco-prisiones-federales&amp;h=AT2c5pHaFiU8nFGLSyPpSABIKrYb6z2VQcTPzfNi6TFyQIZPFPWTsh856dv32ahMl6Tjm1BYXthh7cRoKYRDhqFONPivmv-0zU2glfWANji2RpGUioNQTSLhUGE3-yqKrovcmQs9spc\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/ice-transfiere-1-600-inmigrantes-indocumentados-a-cinco-prisiones-federales</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1528554299,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34998266_657706277901497_1768234174587600896_n.jpg?_nc_cat=0&oh=1e7a09e3b00ebf7c07142953126a7979&oe=5BFF905C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34815633_657706274568164_2411592933766594560_n.jpg?_nc_cat=0&oh=2eeb35cf70469acfa84c1a1cdd7ee2e4&oe=5C05429C"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "El traslado a gran escala ser\u00e1 temporal, seg\u00fan inform\u00f3 el Servicio de Inmigraci\u00f3n y Control de Aduanas. Son cinco las prisiones a las que ser\u00e1n llevados quienes est\u00e9n esperando sus audiencias. El mayor n\u00famero de estos detenidos ir\u00e1 a una prisi\u00f3n en California.",
+                    "link_url": "https://mpachecolaw.com/latest/ice-transfiere-1-600-inmigrantes-indocumentados-a-cinco-prisiones-federales",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42372,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34954657_657706261234832_209496517445156864_n.jpg?_nc_cat=0&oh=89aca96382ed69ed8ced5bb5ead3fc3e&oe=5C022371",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "ICE transfiere 1,600 inmigrantes indocumentados a cinco prisiones federales",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528527600
+            },
+            {
+                "adArchiveID": "914643008723732",
+                "adid": "6104331814627",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529391600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "389335471120423",
+                "pageName": "Mignone Law Firm",
+                "snapshot": {
+                    "ad_creative_id": 6104331803227,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "CIDADANIA AMERICANA! <br /> A resposta da sua d\u00favida sobre esse assunto pode estar no v\u00eddeo abaixo:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529448934,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mignone Law Firm",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1099402320124913": "Law Firm"
+                    },
+                    "page_id": 389335471120423,
+                    "page_is_deleted": false,
+                    "page_like_count": 2087,
+                    "page_name": "Mignone Law Firm",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35604698_387424138439484_923224965694619648_n.jpg?_nc_cat=0&oh=8923c5c29e274bb999fa46510ae140fd&oe=5C0A3BE7",
+                    "page_profile_uri": "https://www.facebook.com/MLLawFirm/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_207943806482050_828765127183433728_n.mp4?_nc_cat=0&oh=0d9870656ec324d3149e0b68e90cfb1a&oe=5B78F8FF",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605013_387424141772817_8841528338771083264_n.jpg?_nc_cat=0&oh=7649b46c44fc657cdcbbae2640487e0b&oe=5C006DB6",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33597297_1836347206426877_7083909016941756416_n.mp4?_nc_cat=0&oh=c152c472e7803983608b25ec1cd48e23&oe=5B78F727"
+                        }
+                    ]
+                },
+                "startDate": 1528441200
+            },
+            {
+                "adArchiveID": "2181990178794905",
+                "adid": "6108903846523",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528527600,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "191512767645241",
+                "pageName": "Geraldo Resende",
+                "snapshot": {
+                    "ad_creative_id": 6108903841523,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\ude9cAbracei a causa para levar asfalto na Rua Natal de Dourados. Aqui voc\u00ea acompanha o passo a passo dessa luta: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2HIBP7R&amp;h=AT1uNG1lKxrocopnEJyg6ppMeOOo-cQGEznJn4Gmv7Guw-Isw3QaO7hdYajoPfk58Eh5yP8QNjgwzyBxvBSLBcqXactT3SHVZg4lGZs7Ol4vg4xGguIhvs-YMHeBPSKEdP_zol63x_Y\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://bit.ly/2HIBP7R</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529950497,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Geraldo Resende",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/34689881_1549363545193483_1250631147302420480_n.jpg?_nc_cat=0&oh=180abb51ea3db7bdec98a3e52375ff01&oe=5C03F0D5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/34692315_1549363548526816_8625389113236783104_n.jpg?_nc_cat=0&oh=d7a5011d5b915ceb15da03f1d1a8fc04&oe=5C3941EE"
+                        }
+                    ],
+                    "instagram_actor_name": "Geraldo Resende",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36154176_2181990212128235_1234341070788100096_n.jpg?_nc_cat=0&oh=47631f078714c2d45a4cb00b48f19148&oe=5C09866F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://bit.ly/2HIBP7R",
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 191512767645241,
+                    "page_is_deleted": false,
+                    "page_like_count": 36987,
+                    "page_name": "Geraldo Resende",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36278936_2181990215461568_1048155621485969408_n.jpg?_nc_cat=0&oh=f7a82fe0bf3f181d28c519b35b9810c5&oe=5BECD391",
+                    "page_profile_uri": "https://www.facebook.com/GeraldoResendeMS/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528354800
+            },
+            {
+                "adArchiveID": "534515580312322",
+                "adid": "6091773117952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529910000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6091699719552,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "M\u00e1s de 1000 millones de personas viven sin #electricidad \ud83d\udd0ca nivel mundial \ud83c\udf0e, y otros 3000 millones utilizan combustibles contaminantes \ud83d\udd25 para cocinar o calefaccionar sus viviendas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1534213992,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {
+                                "191x100": [
+                                    [
+                                        0,
+                                        118
+                                    ],
+                                    [
+                                        1997,
+                                        1163
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39080140_445431132608705_6526366096633626624_n.jpg?_nc_cat=0&oh=741380ed70f263ff7b368d6dd4ed6908&oe=5BFAA63A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39125729_445431125942039_8313568045096239104_n.jpg?_nc_cat=0&oh=7d9d2ee1d4fece53bccf9a5f09a80f06&oe=5BF4FBB8"
+                        },
+                        {
+                            "image_crops": {
+                                "100x100": [
+                                    [
+                                        359,
+                                        1
+                                    ],
+                                    [
+                                        1721,
+                                        1363
+                                    ]
+                                ]
+                            },
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087760_445431129275372_6959702939313111040_n.jpg?_nc_cat=0&oh=d5ab8ffdf75f5992edde9a0c0eb2c9a6&oe=5BF12A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39231972_445431135942038_1505401825547780096_n.jpg?_nc_cat=0&oh=424f5afcd365ebe0e8637da74a35c22d&oe=5BEEFD17"
+                        }
+                    ],
+                    "instagram_actor_name": "Banco Mundial",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39128510_445431112608707_5692310965605892096_n.jpg?_nc_cat=0&oh=aad0dda4553cc41d00d3f75bffdd6f68&oe=5BED1492",
+                    "is_reshared": false,
+                    "link_description": "El Banco Mundial se ha comprometido a ayudar a los pa\u00edses a garantizar el acceso a energ\u00eda asequible, confiable y sostenible para todos.",
+                    "link_url": "http://www.bancomundial.org/es/topic/energy/overview?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888467,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39087787_445431109275374_7584806987972476928_n.jpg?_nc_cat=0&oh=51abcbb4b57da4415a6d3bb146bf8528&oe=5BFA2AF5",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La labor del Banco Mundial en la ampliaci\u00f3n del acceso a la energ\u00eda",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528354800
+            },
+            {
+                "adArchiveID": "2003317433072520",
+                "adid": "6101732842117",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528614000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "117745282319161",
+                "pageName": "ANEWS",
+                "snapshot": {
+                    "ad_creative_id": 6101732838917,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Redonner un peu de dignit\u00e9 aux migrants, un combat quotidien de l&#039;ONG R\u00eave d&#039;Ivoire.<br /> Ce reportage vous d\u00e9peint la vision de la dite ONG.<br /> \u00c0 d\u00e9couvrir!!! <br /> Si vous souhaitez participer ou faire un don, merci de cliquer sur ce lien .<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.leetchi.com%2Fc%2Freve-divoire-humanitaire&amp;h=AT0UAue7lmwkytKFNEdWsnTTGE3YUNukudLgjCIBMSQy6b_ms38muTup3Xl08_t9YltzxscCkthS8j5VNot3F4sC9nrZNJwGTes7VCinARdVj4aodnBWdtVd20CeImkCUQ6gAEbKQXI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.leetchi.com/c/reve-divoire-humanitaire</a>.<br /> #Migrants #R\u00eavedivoire #SOSM\u00e9dit\u00e9rran\u00e9e #OFAD #WIZODIA  #ANEWS"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528432173,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "ANEWS",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 117745282319161,
+                    "page_is_deleted": false,
+                    "page_like_count": 11097,
+                    "page_name": "ANEWS",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34687239_2003317443072519_4521268379796897792_n.jpg?_nc_cat=0&oh=fd78b4e7c27b76c6aa6eed719ebdf03e&oe=5BF6D938",
+                    "page_profile_uri": "https://www.facebook.com/ANewsOfficiel/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "L'ONG R\u00eave d'Ivoire au secours des migrants.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_456417468161908_3085248460971048960_n.mp4?_nc_cat=0&oh=d6f767de1f07d81d60365e456f324f32&oe=5B78F798",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34765905_2003317459739184_6162451181181337600_n.jpg?_nc_cat=0&oh=61439fe2df50f13edacdd969b370722d&oe=5BEEDE0E",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1996646480663874_5508465624940019712_n.mp4?_nc_cat=0&oh=9ecdfaf547a29a5a1238c17ac7e25caf&oe=5B78E4B6"
+                        }
+                    ]
+                },
+                "startDate": 1528354800
+            },
+            {
+                "adArchiveID": "1684944114965829",
+                "adid": "6100721409904",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "582524415115473",
+                "pageName": "Pinto Matamba",
+                "snapshot": {
+                    "ad_creative_id": 6100721405704,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 muito para ser feito, mas estamos a fazer pouco a pouco o caminho do progresso e desenvolvimento econ\u00f3mico e social. Muito est\u00e1 a ser feito para o aumento de mais postos de trabalho no sector privado e com isto aumentar a distribui\u00e7\u00e3o da riqueza nacional. <br /> O crime n\u00e3o compensa. Um dia, vamos conseguir superar os grandes desafios e prosperar como sempre sonhamos. <br /> <br /> Bom dia e boa Quinta-Feira Juventude Gloriosa<br /> <br /> Pinto Matamba"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532619356,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Pinto Matamba",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/34649081_1968041699897064_9104842016205832192_n.jpg?_nc_cat=0&oh=58bcff3d9818518466630ddde0d2dabd&oe=5BFA91A7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/34610581_1968041703230397_5367461663928745984_n.jpg?_nc_cat=0&oh=4af7a8f748c5936d4229bee2069f5fae&oe=5C024FAD"
+                        }
+                    ],
+                    "instagram_actor_name": "pinto matamba",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37841990_1684944144965826_3535353521694048256_n.jpg?_nc_cat=0&oh=84ed7df23624c474f214e9517e3fb34b&oe=5C0B2834",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 582524415115473,
+                    "page_is_deleted": false,
+                    "page_like_count": 117328,
+                    "page_name": "Pinto Matamba",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37880823_1684944141632493_8976424375251107840_n.jpg?_nc_cat=0&oh=0da3a540b22e71251f6c21af5a311576&oe=5BFCB2B3",
+                    "page_profile_uri": "https://www.facebook.com/PintoMatamba/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528354800
+            },
+            {
+                "adArchiveID": "260916621141258",
+                "adid": "23842886996850453",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529218800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround",
+                "snapshot": {
+                    "ad_creative_id": "23842886996750453",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Asesinan a un periodista ruso y resucita horas despu\u00e9s."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529634271,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "PlayGround",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "PlayGround",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35927837_260916637807923_2964260241560043520_n.jpg?_nc_cat=0&oh=49278e7b33efd70f7977bcd959ebbe71&oe=5BF4085F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 102886746417877,
+                    "page_is_deleted": false,
+                    "page_like_count": 16584787,
+                    "page_name": "PlayGround",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35981834_260916634474590_3621450290080776192_n.jpg?_nc_cat=0&oh=37070555317e03dd5a27f753aa90e183&oe=5C0FD58B",
+                    "page_profile_uri": "https://www.facebook.com/PlayGroundMag/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "El falso asesinato del periodista ruso",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1691215727659107_963415182296481792_n.mp4?_nc_cat=0&oh=b21951200546bbf31fe31fc67861879e&oe=5B78F71B",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35891978_260916641141256_3208912097115111424_n.jpg?_nc_cat=0&oh=7ecaa9cbc66da0f7e0e15ffd1376b4a4&oe=5BEF32F9",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/33940312_413775529089717_7678791356424126464_n.mp4?_nc_cat=0&oh=9cb406535c17a682be8b41e2c835dfdc&oe=5B78F8FE"
+                        }
+                    ]
+                },
+                "startDate": 1528354800
+            },
+            {
+                "adArchiveID": "272563693311955",
+                "adid": "6101606036784",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1529564400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "841453529207669",
+                "pageName": "Marx Sisters",
+                "snapshot": {
+                    "ad_creative_id": 6101606032984,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Breaking News! <br /> Plus de 8000 signataires!<br /> A lire: Le Figaro d\u00e9fend La <a href=\"https://www.facebook.com/vieille.grille\" data-hovercard=\"/ajax/hovercard/user.php?id=100001989900583&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Vieille Grille</a> contre Mme Hidalgo!!!\ud83d\ude43\u2639\ufe0f\ud83d\ude09\ud83c\udfb6<br /> Et n&#039;oubliez pas de signer la p\u00e9tition car on a besoin de vous pour atteindre les 10 000 noms sur cette p\u00e9tition.<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.change.org%2Fp%2Fanne-quesemand-sauver-le-th%C3%A9%C3%A2tre-de-la-vieille-grille-86c3166e-dd3a-4edf-91c0-cc73815147d7%3Frecruiter%3D650014565%26utm_campaign%3Dsignature_receipt%26utm_medium%3Dfacebook%26utm_source%3Dshare_petition&amp;h=AT2mfGA6Itsq72V11LZi4oXrHJeKjSFW3aFBL6dVsEYOvGgFPROg693n9uVwMMn1LTlPeQb0PFxZeFxS7wjZ1m80IDMTNzKY2yzWk_5arka7Uwyhxl3R4dopd-jdSElqVBGrDzjKOSU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.change.org/p/anne-quesemand-sauver-le-th\u00e9\u00e2tre-de-la-vieille-grille-86c3166e-dd3a-4edf-91c0-cc73815147d7?recruiter=650014565&amp;utm_campaign=signature_receipt&amp;utm_medium=facebook&amp;utm_source=share_petition</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "lefigaro.fr",
+                    "cards": [],
+                    "creation_time": 1529635826,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Marx Sisters",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35971658_272563719978619_8641033922454487040_n.jpg?_nc_cat=0&oh=d18f3b4ad6f8235e6224aee481c575d9&oe=5C0CBF92",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35912766_272563723311952_2720151828216938496_n.jpg?_nc_cat=0&oh=19bed8afad310f01fb6d4ce04b6f7402&oe=5C0819E1"
+                        }
+                    ],
+                    "instagram_actor_name": "Mano Siri",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35975214_272563703311954_3793200732258172928_n.jpg?_nc_cat=0&oh=d686f59b921f40a1ce8e06627c20a70d&oe=5C01E7C6",
+                    "is_reshared": false,
+                    "link_description": "Ce lieu culturel du Ve arrondissement, o\u00f9 Coluche et Jacques Higelin ont fait leurs premi\u00e8res armes, aurait \u00e9t\u00e9 vendu \u00e0 un promoteur immobilier. Au grand dam de l'association qui l'animait depuis pr\u00e8s de vingt ans et de la mairie d'arrondissement. Du c\u00f4t\u00e9 de l'H\u00f4tel de Ville, on garde le si...",
+                    "link_url": "http://www.lefigaro.fr/theatre/2018/05/30/03003-20180530ARTFIG00270-le-theatre-de-la-vieille-grille-promis-a-la-fermeture-dans-l-indifference-de-la-ville-de-paris.php",
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 841453529207669,
+                    "page_is_deleted": false,
+                    "page_like_count": 1662,
+                    "page_name": "Marx Sisters",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35972819_272563706645287_3275923126055075840_n.jpg?_nc_cat=0&oh=6643747d5fe7fe2a6b566b75ad90d613&oe=5BF4EEC4",
+                    "page_profile_uri": "https://www.facebook.com/marxsisters/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Le th\u00e9\u00e2tre de la Vieille Grille promis \u00e0 la fermeture dans l'indiff\u00e9rence de la Ville de Paris",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "667433373618130",
+                "adid": "23842822982260196",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528354800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "315167432350460",
+                "pageName": "Future Leaders",
+                "snapshot": {
+                    "ad_creative_id": "23842822982100196",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": ""
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1532675239,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Future Leaders",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37839456_667433406951460_4811972188959670272_n.jpg?_nc_cat=0&oh=0ce8eb0259b9967069fb1bf4271c719e&oe=5C015C0F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/34461036_10156498293662082_5572766039889936384_n.jpg?_nc_cat=0&oh=f66f55b4ca1d88dfea4b77dfac0682cd&oe=5BEF3678"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "[LES DIFF\u00c9RENTS POINTS DE VENTE DU LIVRE  L''AFRIQUE LIBRE OU LA MORT]\n\nListe des points de vente\n-DAKAR:\n\nContactez le fr\u00e8re Kandji d'Urgences Panafricanistes au 77 800 73 18\nPrix:6500 FCFA\n\n-PARIS:\nPour les ventes en mains propres, Contactez Krys au 06 33 57 56 16.\nPour les autres, rdv \u00e0 la librairie francaise, 5 Rue Auguste Bartholdi, 75015 Paris, France\nPRIX 15 EUROS\n\n-BRUXELLES:\n\nPour la vente du livre en mains propres, contactez Stephane au +32 46 59 50 521\n\nPour ceux voulant le r\u00e9cup\u00e9rer en librairie, rdv \u00e0 la librairie Ar-Rissala , Boulevard Maurice Lemonnier 152, 1000 Bruxelles\n\nprix 15 euros\n\n-GUADELOUPE ET MARTINIQUE\nEDITIONS MENAIBUC:Contactez nous au + 590 690 63 49 35\n\nASSOCIATION RACINES: Espace culturel Racines 78 RUE Fran\u00e7ois Arago 97 110 Racines Pointe \u00e0 Pitre\ncontact 06 90 811 023\n\nPrix 15 euros\n\nITALIE: +39 3203411992\n\nBURKINA FASO: Contactez V-R au 70 25 68 62\n\nPrix 6500 fcfa\n\nBENIN: contactez Sewa au 97 17 05 00\nPrix 6500 fcfa\n\nR\u00e9dig\u00e9 dans les conditions du r\u00e9el, retranscrivant au quotidien notre lutte pour la souverainet\u00e9 Africaine au 21\u00e8me si\u00e8cle, \"L'AFRIQUE LIBRE OU LA MORT\" constitue, \u00e0 n'en pas douter , le livre le plus important de notre parcours politique, et surtout un recueuil d'exp\u00e9riences de luttes et de r\u00e9flexions pour la nouvelle g\u00e9n\u00e9ration panafricaniste, tr\u00e8s loin des th\u00e9oriciens qui n'ont jamais v\u00e9cu le combat qu'ils pr\u00f4nent sur leur clavier.\nPr\u00e9fac\u00e9 par:\n-Biram Dah Abeid , (Politicien Mauritanien, prix des droits de l'Homme de l'ONU 2013, l\u00e9gende vivante de la lutte anti-esclavagiste en Mauritanie)\n- Alexandre Douguine (g\u00e9opoliticien Russe, id\u00e9ologue de Vladimir Poutine)\n-Elie Domota (Activiste Guadeloup\u00e9en, Porte Parole du LKP)\n-Pedro Biscay (Avocat Argentin anti-imp\u00e9rialiste, ex Directeur de la Banque centrale d'Argentine)\n- Djimon Hounsou, acteur \u00e0 Hollywood (ayant jou\u00e9 dans Amistad, Blood Diamond)\n- Ganiou Soglo, Ancien Ministre de la Culture du B\u00e9nin\n- Nicolas Anelka , l'enfant terrible du football fran\u00e7ais\n\n#LAfriqueLibreOuLaMort\n#YenAQuiVontB\u00e9gayerTr\u00e8sBient\u00f4t\n#DeLaPolitiqueDuR\u00e9el",
+                    "link_url": null,
+                    "page_categories": {
+                        "373543049350668": "Political Organization"
+                    },
+                    "page_id": 315167432350460,
+                    "page_is_deleted": false,
+                    "page_like_count": 564,
+                    "page_name": "Future Leaders",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37832456_667433400284794_2421742392458608640_n.jpg?_nc_cat=0&oh=bd2c998f575e297b4c3e1f2436d7907b&oe=5BEE5D12",
+                    "page_profile_uri": "https://www.facebook.com/SJCDELAKA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "1700": "Politician"
+                            },
+                            "page_id": 181391612081,
+                            "page_is_deleted": false,
+                            "page_like_count": 475825,
+                            "page_name": "Kemi Seba",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37844518_667433396951461_1752763242825908224_n.jpg?_nc_cat=0&oh=0d0fd79d672cca71180c7fefe0a52433&oe=5C00EC9D",
+                            "page_profile_uri": "https://www.facebook.com/KemiSebaOfficial/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "[LES DIFF\u00c9RENTS POINTS DE VENTE DU LIVRE  L&#039;&#039;AFRIQUE LIBRE OU LA MORT]<br /> <br /> Liste des points de vente<br /> -DAKAR:<br /> <br /> Contactez le fr\u00e8re Kandji d&#039;Urgences Panafricanistes au 77 800 73 18<br /> Prix:6500 FCFA<br /> <br /> -PARIS:<br /> Pour les ventes en mains propres, Contactez Krys au 06 33 57 56 16.<br /> Pour les autres, rdv \u00e0 la librairie francaise, 5 Rue Auguste Bartholdi, 75015 Paris, France<br /> PRIX 15 EUROS<br /> <br /> -BRUXELLES:<br /> <br /> Pour la vente du livre en mains propres, contactez Stephane au +32 46 59 50 521<br /> <br /> Pour ceux voulant le r\u00e9cup\u00e9rer en librairie, rdv \u00e0 la librairie Ar-Rissala , Boulevard Maurice Lemonnier 152, 1000 Bruxelles<br /> <br /> prix 15 euros<br /> <br /> -GUADELOUPE ET MARTINIQUE<br /> EDITIONS MENAIBUC:Contactez nous au + 590 690 63 49 35<br /> <br /> ASSOCIATION RACINES: Espace culturel Racines 78 RUE Fran\u00e7ois Arago 97 110 Racines Pointe \u00e0 Pitre<br /> contact 06 90 811 023<br /> <br /> Prix 15 euros<br /> <br /> ITALIE: +39 3203411992<br /> <br /> BURKINA FASO: Contactez V-R au 70 25 68 62<br /> <br /> Prix 6500 fcfa<br /> <br /> BENIN: contactez Sewa au 97 17 05 00<br /> Prix 6500 fcfa<br /> <br /> R\u00e9dig\u00e9 dans les conditions du r\u00e9el, retranscrivant au quotidien notre lutte pour la souverainet\u00e9 Africaine au 21\u00e8me si\u00e8cle, &quot;L&#039;AFRIQUE LIBRE OU LA MORT&quot; constitue, \u00e0 n&#039;en pas douter , le livre le plus important de notre parcours politique, et surtout un recueuil d&#039;exp\u00e9riences de luttes et de r\u00e9flexions pour la nouvelle g\u00e9n\u00e9ration panafricaniste, tr\u00e8s loin des th\u00e9oriciens qui n&#039;ont jamais v\u00e9cu le combat qu&#039;ils pr\u00f4nent sur leur clavier.<br /> Pr\u00e9fac\u00e9 par:<br /> -Biram Dah Abeid , (Politicien Mauritanien, prix des droits de l&#039;Homme de l&#039;ONU 2013, l\u00e9gende vivante de la lutte anti-esclavagiste en Mauritanie)<br /> - Alexandre Douguine (g\u00e9opoliticien Russe, id\u00e9ologue de Vladimir Poutine)<br /> -Elie Domota (Activiste Guadeloup\u00e9en, Porte Parole du LKP)<br /> -Pedro Biscay (Avocat Argentin anti-imp\u00e9rialiste, ex Directeur de la Banque centrale d&#039;Argentine)<br /> - Djimon Hounsou, acteur \u00e0 Hollywood (ayant jou\u00e9 dans Amistad, Blood Diamond)<br /> - Ganiou Soglo, Ancien Ministre de la Culture du B\u00e9nin<br /> - Nicolas Anelka , l&#039;enfant terrible du football fran\u00e7ais<br /> <br /> #LAfriqueLibreOuLaMort<br /> #YenAQuiVontB\u00e9gayerTr\u00e8sBient\u00f4t<br /> #DeLaPolitiqueDuR\u00e9el"
+                                }
+                            }
+                        }
+                    },
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "841584246037382",
+                "adid": "6090524285162",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil",
+                "snapshot": {
+                    "ad_creative_id": 6090524282162,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mayte Rodr\u00edguez nos explica c\u00f3mo consigui\u00f3 la 3\u00aa mejor nota de 700 candidatos a la oposici\u00f3n de funcionario p\u00fablico del Parlamento de Canarias. <br /> <br /> Una historia de \u00e9xito incre\u00edble gracias al curso Memoria \u00c1gil.<br /> <br /> Hasta el 10 de Junio estar\u00e1n abiertas las inscripciones al curso completo.<br /> <br /> Para unirte a Mayte, inscr\u00edbete AHORA aqu\u00ed &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmemoriaagil.com%2Fvid4reg5r4h2zyznjlcqgib11744a&amp;h=AT2NsG_T_JMLCpFOA9wTZ-k4f9eoS3C3mBT2zcoH643hXxg0XefkSVrnMaBpc-nE323JWa5p0VEKqUaVFzX7-Edz6fQ77ar2O2rNYMMSAf-sGU_qEwd41otK0ZyYgJwzYz0yRbUfk6w\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "memoriaagil.com/curso",
+                    "cards": [],
+                    "creation_time": 1528396266,
+                    "cta_text": "Watch More",
+                    "cta_type": "Assistir mais",
+                    "current_page_name": "Memoria \u00c1gil",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a",
+                    "page_categories": {
+                        "2500": "Local"
+                    },
+                    "page_id": 280587198947012,
+                    "page_is_deleted": false,
+                    "page_like_count": 103577,
+                    "page_name": "Memoria \u00c1gil",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34620352_841584256037381_8702150826040229888_n.jpg?_nc_cat=0&oh=0c211dd0ade9e217c19e435378cd59e8&oe=5C0C3441",
+                    "page_profile_uri": "https://www.facebook.com/memoriaagil/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mayte, qued\u00f3 tercera entre 700 candidatos para una oposici\u00f3n",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1904200386321271_2296502743835082752_n.mp4?_nc_cat=0&oh=ba2a24101858442755c610cf7605e8fa&oe=5B78E34D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34752593_841584259370714_5227293838560722944_n.jpg?_nc_cat=0&oh=55b06d781849a1dcba51d1dc051c9d90&oe=5C39F7C9",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_475934646174740_90269062826819584_n.mp4?_nc_cat=0&oh=d2c5b3782c6f09e6a5b787cfd585e770&oe=5B78E1CD"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "1687141258036097",
+                "adid": "6090524284762",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil",
+                "snapshot": {
+                    "ad_creative_id": 6090524281962,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mayte Rodr\u00edguez nos explica c\u00f3mo consigui\u00f3 la 3\u00aa mejor nota de 700 candidatos a la oposici\u00f3n de funcionario p\u00fablico del Parlamento de Canarias. <br /> <br /> Una historia de \u00e9xito incre\u00edble gracias al curso Memoria \u00c1gil.<br /> <br /> Hasta el 10 de Junio estar\u00e1n abiertas las inscripciones al curso completo.<br /> <br /> Para unirte a Mayte, inscr\u00edbete AHORA aqu\u00ed &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmemoriaagil.com%2Fvid4reg5r4h2zyznjlcqgib11744a&amp;h=AT31vRrOvf5JrBEIhkT2_10hQMCq-R2EAJHa_93AsS4gWuAsToh8ak2eM4RhfltlWsg2HDGlMfjzgXImH4gbQ-p48McvNfejMUVXDxzSf16rClFNg9tWDfXKDifLFLEQdUyXUIUXIv0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "memoriaagil.com/curso",
+                    "cards": [],
+                    "creation_time": 1528396254,
+                    "cta_text": "Watch More",
+                    "cta_type": "Assistir mais",
+                    "current_page_name": "Memoria \u00c1gil",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a",
+                    "page_categories": {
+                        "2500": "Local"
+                    },
+                    "page_id": 280587198947012,
+                    "page_is_deleted": false,
+                    "page_like_count": 103577,
+                    "page_name": "Memoria \u00c1gil",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34699061_1687141268036096_6634116062902222848_n.jpg?_nc_cat=0&oh=5d1ce38feb2c9586f3b6b2f7dc32761a&oe=5C11491D",
+                    "page_profile_uri": "https://www.facebook.com/memoriaagil/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mayte, qued\u00f3 tercera entre 700 candidatos para una oposici\u00f3n",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1904200386321271_2296502743835082752_n.mp4?_nc_cat=0&oh=ba2a24101858442755c610cf7605e8fa&oe=5B78E34D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34846381_1687141294702760_6822951519910887424_n.jpg?_nc_cat=0&oh=fe3e78c41c518672b946f2337f94f0ad&oe=5BFA8BDB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_475934646174740_90269062826819584_n.mp4?_nc_cat=0&oh=d2c5b3782c6f09e6a5b787cfd585e770&oe=5B78E1CD"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "2183554065214333",
+                "adid": "6101585204584",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528354800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "204521736237532",
+                "pageName": "Cl\u00ednica Lumen - Fisioterapia e Terapia Ocupacional",
+                "snapshot": {
+                    "ad_creative_id": 6101585200384,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": ""
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528349308,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Cl\u00ednica Lumen - Fisioterapia e Terapia Ocupacional",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34637692_2183554078547665_7097188914087067648_n.jpg?_nc_cat=0&oh=fdba3c010b258864aa98665956ed5437&oe=5C056A50",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34788035_2183554081880998_1724181240493375488_n.jpg?_nc_cat=0&oh=ac65a67f5fe46ffd4823743e782e2c84&oe=5C0C949E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": true,
+                    "link_description": "Aqui vai um daqueles posts pol\u00e9micos depois de o Jornal P\u00fablico ter lan\u00e7ado um artigo sobre as \u00faltimas provas de aferi\u00e7\u00e3o:\n\u201c40% dos alunos n\u00e3o sabem saltar \u00e0 corda nem dar uma cambalhota\u201d.\nE n\u00f3s pensamos\u2026 \u201cBah, tamb\u00e9m, quem \u00e9 que precisa de dar cambalhotas?! Eles precisam \u00e9 de matem\u00e1tica!\u201d\nPois! S\u00f3 que isto fica mais s\u00e9rio quando percebemos que \u201c31% dos alunos revelaram ainda dificuldades em participar num jogo infantil em grupo\u201d.\nQuando me falaram nas provas de aferi\u00e7\u00e3o, eu sabia que ia dar nisto! Sabem, \u00e9 que na Educa\u00e7\u00e3o n\u00f3s atingimos n\u00edveis recordes de hipocrisia!! Andam especialistas da sa\u00fade e desenvolvimento infantil a dizer, h\u00e1 anos a fio, que a carga escolar, o excesso de TPCs, as atividades extracurriculares para enriquecimento acad\u00e9mico, s\u00e3o tudo coisas que s\u00f3 atrapalham e que as crian\u00e7as, antes de aprenderem o que quer que seja, t\u00eam que aprender sobre o seu pr\u00f3prio corpo, a us\u00e1-lo e a explorar o meio com ele. Toda a gente sabe isto, est\u00e1 provado, mais do que estudado, etc. etc. etc.!!!\nSeria de esperar que educa\u00e7\u00e3o, sa\u00fade e neuropsicologia se alihassem todos para servir as nossas crian\u00e7as da melhor forma\u2026\nMAS!!!\nA educa\u00e7\u00e3o n\u00e3o funciona assim!\nPrimeiro, aumentamos a carga, aumentamos os momentos de teste, aumentamos as horas de atividade lectiva, reduzimos os recreios (em tempo e em equipamento), dizemos \u00e0s nossas crian\u00e7as que n\u00e3o podem correr, nem jogar \u00e0 bola, jogos de lutas e espadas e saltos s\u00e3o proibidos e\u2026\n\u2026lan\u00e7amos uma PROVA DE AFERI\u00c7\u00c3O!\nA prova, qual ju\u00edz supremo, diz-nos que praticamente metade dos alunos das nossas escolas (pois.. s\u00e3o as NOSSAS crian\u00e7as! Reparem\u2026 os NOSSOS filhos) n\u00e3o sabe fazer nada com o corpo! (Relembro que at\u00e9 a SKIP j\u00e1 tinha lan\u00e7ado uma campanha sobre isto!!)\nE ent\u00e3o, depois desta prova\u2026 qual \u00e9 a conclus\u00e3o deste pessoal??\n\u201cOs resultados refor\u00e7am a ideia de que a Educa\u00e7\u00e3o F\u00edsica n\u00e3o \u00e9 dada no 1.\u00ba ciclo como devia\u201d, defende o presidente da Confedera\u00e7\u00e3o Nacional das Associa\u00e7\u00f5es de Professores e Profissionais de Educa\u00e7\u00e3o F\u00edsica\u201d\nAh\u2026 claro! o problema est\u00e1.. nas aulas!\nN\u00c3O senhores!!! O problema est\u00e1 na falta de recreios! Na falta de espa\u00e7os verdes, na falta de \u00e1rvores e de agentes educativos com coragem suficiente para deixarem as crian\u00e7as subirem a essas \u00e1rvores!!!!\nO problema est\u00e1 na falta de oportunidades para brincar!!! Porque hoje em dia, s\u00f3 se p\u00e1ra para brincar no Dia da Crian\u00e7a!\nE enquanto continuarmos a acreditar que o \u201ctrabalho das crian\u00e7as \u00e9 estudar\u201d e passar horas em frente aos livros a ouvir o que elas aprenderiam muito melhor ao fazer\u2026 vamos continuar nesta aferi\u00e7\u00e3o de ver quem lan\u00e7a a medida educativa mais est\u00fapida!",
+                    "link_url": "http://marcoleaoto.pt/a-escola-e-que-nao-sabe-dar-cambalhotas/",
+                    "page_categories": {
+                        "170598252986387": "Occupational Therapist"
+                    },
+                    "page_id": 204521736237532,
+                    "page_is_deleted": false,
+                    "page_like_count": 253,
+                    "page_name": "Cl\u00ednica Lumen - Fisioterapia e Terapia Ocupacional",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34697144_2183554075214332_5199458494817763328_n.jpg?_nc_cat=0&oh=f2325d60c7848a21a4d8e2e96af2016e&oe=5C3BC2BC",
+                    "page_profile_uri": "https://www.facebook.com/clinicalumengv/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "170598252986387": "Occupational Therapist"
+                            },
+                            "page_id": 954389271371459,
+                            "page_is_deleted": false,
+                            "page_like_count": 4792,
+                            "page_name": "Marco Le\u00e3o, Terapeuta Ocupacional",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34687226_2183554071880999_5373876798880743424_n.jpg?_nc_cat=0&oh=d1a46aa0b35e7ec38779251b299f90de&oe=5BEFF574",
+                            "page_profile_uri": "https://www.facebook.com/marcoleao.to/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "Aqui vai um daqueles posts pol\u00e9micos depois de o Jornal P\u00fablico ter lan\u00e7ado um artigo sobre as \u00faltimas provas de aferi\u00e7\u00e3o:<br /> \u201c40% dos alunos n\u00e3o sabem saltar \u00e0 corda nem dar uma cambalhota\u201d.<br /> E n\u00f3s pensamos\u2026 \u201cBah, tamb\u00e9m, quem \u00e9 que precisa de dar cambalhotas?! Eles precisam \u00e9 de matem\u00e1tica!\u201d<br /> Pois! S\u00f3 que isto fica mais s\u00e9rio quando percebemos que \u201c31% dos alunos revelaram ainda dificuldades em participar num jogo infantil em grupo\u201d.<br /> Quando me falaram nas provas de aferi\u00e7\u00e3o, eu sabia que ia dar nisto! Sabem, \u00e9 que na Educa\u00e7\u00e3o n\u00f3s atingimos n\u00edveis recordes de hipocrisia!! Andam especialistas da sa\u00fade e desenvolvimento infantil a dizer, h\u00e1 anos a fio, que a carga escolar, o excesso de TPCs, as atividades extracurriculares para enriquecimento acad\u00e9mico, s\u00e3o tudo coisas que s\u00f3 atrapalham e que as crian\u00e7as, antes de aprenderem o que quer que seja, t\u00eam que aprender sobre o seu pr\u00f3prio corpo, a us\u00e1-lo e a explorar o meio com ele. Toda a gente sabe isto, est\u00e1 provado, mais do que estudado, etc. etc. etc.!!!<br /> Seria de esperar que educa\u00e7\u00e3o, sa\u00fade e neuropsicologia se alihassem todos para servir as nossas crian\u00e7as da melhor forma\u2026<br /> MAS!!!<br /> A educa\u00e7\u00e3o n\u00e3o funciona assim!<br /> Primeiro, aumentamos a carga, aumentamos os momentos de teste, aumentamos as horas de atividade lectiva, reduzimos os recreios (em tempo e em equipamento), dizemos \u00e0s nossas crian\u00e7as que n\u00e3o podem correr, nem jogar \u00e0 bola, jogos de lutas e espadas e saltos s\u00e3o proibidos e\u2026<br /> \u2026lan\u00e7amos uma PROVA DE AFERI\u00c7\u00c3O!<br /> A prova, qual ju\u00edz supremo, diz-nos que praticamente metade dos alunos das nossas escolas (pois.. s\u00e3o as NOSSAS crian\u00e7as! Reparem\u2026 os NOSSOS filhos) n\u00e3o sabe fazer nada com o corpo! (Relembro que at\u00e9 a SKIP j\u00e1 tinha lan\u00e7ado uma campanha sobre isto!!)<br /> E ent\u00e3o, depois desta prova\u2026 qual \u00e9 a conclus\u00e3o deste pessoal??<br /> \u201cOs resultados refor\u00e7am a ideia de que a Educa\u00e7\u00e3o F\u00edsica n\u00e3o \u00e9 dada no 1.\u00ba ciclo como devia\u201d, defende o presidente da Confedera\u00e7\u00e3o Nacional das Associa\u00e7\u00f5es de Professores e Profissionais de Educa\u00e7\u00e3o F\u00edsica\u201d<br /> Ah\u2026 claro! o problema est\u00e1.. nas aulas!<br /> N\u00c3O senhores!!! O problema est\u00e1 na falta de recreios! Na falta de espa\u00e7os verdes, na falta de \u00e1rvores e de agentes educativos com coragem suficiente para deixarem as crian\u00e7as subirem a essas \u00e1rvores!!!!<br /> O problema est\u00e1 na falta de oportunidades para brincar!!! Porque hoje em dia, s\u00f3 se p\u00e1ra para brincar no Dia da Crian\u00e7a!<br /> E enquanto continuarmos a acreditar que o \u201ctrabalho das crian\u00e7as \u00e9 estudar\u201d e passar horas em frente aos livros a ouvir o que elas aprenderiam muito melhor ao fazer\u2026 vamos continuar nesta aferi\u00e7\u00e3o de ver quem lan\u00e7a a medida educativa mais est\u00fapida!"
+                                }
+                            }
+                        }
+                    },
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "2068777523444445",
+                "adid": "6090500964362",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil",
+                "snapshot": {
+                    "ad_creative_id": 6090500963962,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mayte Rodr\u00edguez nos explica c\u00f3mo consigui\u00f3 la 3\u00aa mejor nota de 700 candidatos a la oposici\u00f3n de funcionario p\u00fablico del Parlamento de Canarias. <br /> <br /> Una historia de \u00e9xito incre\u00edble gracias al curso Memoria \u00c1gil.<br /> <br /> Hasta el 10 de Junio estar\u00e1n abiertas las inscripciones al curso completo.<br /> <br /> Para unirte a Mayte, inscr\u00edbete AHORA aqu\u00ed &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmemoriaagil.com%2Fvid4reg5r4h2zyznjlcqgib11744a&amp;h=AT2oaaShZP0r3hly27AuEn-LlWrJDssfeLxQI66MTlth0eh-HdIuTuTH5L9jLh7KexpKAcjepo842oihZX1gD_R_Cn6P4VnjvykjbyOmBK1zMtnSktMo6F8v7Y0ShRL0Hi_CI40Fq_0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "memoriaagil.com/curso",
+                    "cards": [],
+                    "creation_time": 1528396271,
+                    "cta_text": "Watch More",
+                    "cta_type": "Assistir mais",
+                    "current_page_name": "Memoria \u00c1gil",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a",
+                    "page_categories": {
+                        "2500": "Local"
+                    },
+                    "page_id": 280587198947012,
+                    "page_is_deleted": false,
+                    "page_like_count": 103577,
+                    "page_name": "Memoria \u00c1gil",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34599107_2068777536777777_3065136211455639552_n.jpg?_nc_cat=0&oh=1b7119ead9cda07d434fe686221f04da&oe=5BFAF985",
+                    "page_profile_uri": "https://www.facebook.com/memoriaagil/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mayte, qued\u00f3 tercera entre 700 candidatos para una oposici\u00f3n",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1904200386321271_2296502743835082752_n.mp4?_nc_cat=0&oh=ba2a24101858442755c610cf7605e8fa&oe=5B78E34D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34658798_2068777553444442_2810951701756903424_n.jpg?_nc_cat=0&oh=3b7e40cd676d59158b2a1cebb5329338&oe=5BF8E216",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_475934646174740_90269062826819584_n.mp4?_nc_cat=0&oh=d2c5b3782c6f09e6a5b787cfd585e770&oe=5B78E1CD"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            },
+            {
+                "adArchiveID": "171752013495151",
+                "adid": "6090500938162",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil",
+                "snapshot": {
+                    "ad_creative_id": 6090500937762,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mayte Rodr\u00edguez nos explica c\u00f3mo consigui\u00f3 la 3\u00aa mejor nota de 700 candidatos a la oposici\u00f3n de funcionario p\u00fablico del Parlamento de Canarias. <br /> <br /> Una historia de \u00e9xito incre\u00edble gracias al curso Memoria \u00c1gil.<br /> <br /> Hasta el 10 de Junio estar\u00e1n abiertas las inscripciones al curso completo.<br /> <br /> Para unirte a Mayte, inscr\u00edbete AHORA aqu\u00ed &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmemoriaagil.com%2Fvid4reg5r4h2zyznjlcqgib11744a&amp;h=AT0NotuN7aRlty8BfTN_0fCxtzROLFOEbBbAE24HByZUY5AQESeJYn3xjsNRTx4pnofRqpMs-sxX5e4Fc6TZKDT7yTs9xJ6acmZ8nv4KlL8ULk1KaPQqgA9V6blXHucM3XYH_NYPcI0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "memoriaagil.com/curso",
+                    "cards": [],
+                    "creation_time": 1528396231,
+                    "cta_text": "Watch More",
+                    "cta_type": "Assistir mais",
+                    "current_page_name": "Memoria \u00c1gil",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Memoria \u00c1gil",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34762388_171752020161817_1514346575978037248_n.jpg?_nc_cat=0&oh=a0fb4341ce6f1f6e85515e29f3199a51&oe=5BFCB08B",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://memoriaagil.com/vid4reg5r4h2zyznjlcqgib11744a",
+                    "page_categories": {
+                        "2500": "Local"
+                    },
+                    "page_id": 280587198947012,
+                    "page_is_deleted": false,
+                    "page_like_count": 103577,
+                    "page_name": "Memoria \u00c1gil",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34599125_171752023495150_6579591281280811008_n.jpg?_nc_cat=0&oh=b28841ce5f5571041af6172e9712b861&oe=5BF66556",
+                    "page_profile_uri": "https://www.facebook.com/memoriaagil/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mayte, qued\u00f3 tercera entre 700 candidatos para una oposici\u00f3n",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1904200386321271_2296502743835082752_n.mp4?_nc_cat=0&oh=ba2a24101858442755c610cf7605e8fa&oe=5B78E34D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34667568_171752026828483_5050024002630713344_n.jpg?_nc_cat=0&oh=63690fae6264e53400130d832bdafa95&oe=5BF8C742",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_475934646174740_90269062826819584_n.mp4?_nc_cat=0&oh=d2c5b3782c6f09e6a5b787cfd585e770&oe=5B78E1CD"
+                        }
+                    ]
+                },
+                "startDate": 1528268400
+            }
+        ],
+        "totalCount": 133,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

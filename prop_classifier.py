@@ -75,8 +75,8 @@ def train_classifier(classifier, vectorizer, data):
     f1_score_mean = scores3.mean()
     f1_score_std = scores3.std() * 2
 
-    save_report_to_csv (REPORT_FOLDER + 'training_report.csv', [
-        'PolinomialB', 
+    save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_training_report.csv', [
+        'MultinomialNB', 
         POLITICS_FILE.replace(TMP_FOLDER, ''),
         precision_score_mean,
         precision_score_std,

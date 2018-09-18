@@ -1,0 +1,2313 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQFuNjHP3UHo:AQEKwqugO-mV",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591480349842489002",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfbgA77crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHbqi5uEiJbIAbqusZPIx8wB3Lem1faF7wPy2J3igs7NAf7X38q84vYBgqO1vdyrsgKI8MWvqqHPAq7B2qDZoYMFrqybnMy8jQbyhrP358icBu72ipW59bAGxOjL2c2XvAb22sSg1LTwBozVot3+2NEHjOv79MfE2weyz/+D+5/1AaCSo9yjx27w6u2TqPnXB9KD7d+P4XGMsIuB1seHAczk+72F8ukHmIfDqvqlc6Sxjb/8+toHtp6P3v3ypAfg352YyYi9BpiG2LLr1XrEz4HfremAAZannsvnv74CrvKWivrkggGojKOb5uvwBsaJpsrzqowB1uGG/sKVlALEjZ744/X4A9qrrcSY0Wmm3Yi7yYGUAea49o6I97oD/tvlkdDOyAemwqGAopLkAeCv/srSkPQB1tilkd22ebiJjJb5wPwHmoaF3cSaiQPK58bd6qTtB/SKzOGu/2Ok75jn8bqvAvz+2tLqqM0H1Lq3pKXreJzOjL7mmMcBkp/h0amkxgLMg6+t9qnLAtKR2trnxLoBupjg2ri72Aeklri1xtBz/qruqICeggGekMaS3pDqAdzJ3OXTnmbouYb5/emOAcS5z+zDkXOG4aKrnouZBOqRjp6gv5ACmo7f0NPexAPS5OX59JnjBv6cn7KY7JEB6ursy9291wfCzeCdmeyVAe7/4Jm+kLUCvrL/4cTP0waIjqDUybKsB9ixrMflima8ndKLzOSTAcbcyOW3iXXKrr2Jgt/DAeir7c6b52PKjuL7l5ewApyK24GKumSIi6POp6FqtNeW18jKmAPC1sH0saOhAa7quafasPsD5L/J3JP7cfT50s7an4cBlPXH5+P4da6H657b3nWYhY6F0JDWB6bI/fi825IE3JGN//a1igPMwK+yjMuCAo7MlLST4YIB+JqA59+v/wK2v965u6GEAYbUkvmBl+cHwPvJ4K2whgHOtZ2V/opp1LWxj6KHgwHgirfWv7GSAe6Qyr6BpdgG9qmpvsrqvwea84XS5vPRB7Cw1sr705cHlsSP58ivafSJip2I6OgBxpaJpLil4AfGsJnKr9vQAaqc2YyB8/QFhtfF74Sad/Dxl5ChurEDkpKBkbXgavyhpoeazIwBsPPGspXTigOaq+zupZSUAb7X2OG6+pUGzt7J1eTsuQHAmKTOx6fAA5rQw9rCmnqM5/W30dxtnMborK3SlAHwvISE+ObTAeDlorz0rWTOopqo3qiRAez6rJq1xN0BipKg2OerwQK0tLqu1NrBApi1wYOH88EGgLjs1ZibxQaqx420w7GkB/buoZre9swHqITi1rudf/jZtua5vZEBmNejhL+A1QGs68yem7Fl+Mv32LGT9gbm1pzH+MnBAoKV8JbsoMgDluelwMuI8gPi2e6MvN/qB6ynvpjXtmuU872Ots1lzsrLl63SuwH4/sbw8qHlAYj7tOeg//kG+qyipOTVgwHWzoHivfBq2N6Oy5nZZ/iZuZ2C7O8GrrbOv8Cz1gG4wdSDq7zoAeSPse23oJcFsuGc2+/nsga21JGDsehNpJj1kMWvfsKVgpnsyYIBtL2E3eLn5wHUsfC5xP2qAuyTo/rY/LUG4s78yrTK5ge22pXD587oB5Lto7Kuk3OUueOB6/l19pT8qvr81AG2t8TxrbT2Ae795dmL0u4DsoyHzqjL/wP8pdGq04SWBNj3mcqw5eIG1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgKgkOzFoNHTB7bsvP2z+fQG2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAGk84f7xaGZB+qujc6Rw6gC6sGX6/eYcci6iIykisAByNuXgpmVbY6O5LqUpa0GhP32gse4vQK8nbuKwYPRB7rQg4mNyXCCg+r027iQCLT21sKhxNcH4JbRjczhrwHS3JymsIpy8vr4v8Tw8gHcptapsN2YBsym65H7/nHC3sfUm968A5TpgozU8LIH2LGjzvrp2AGQz+fq1/rXAfDfgKvc93OQhOWeuf570ofX+Zul1gGY9O2bsp/DAfyt0uHP9vkG0oC2ie+jYYT7z/Tr7MEB6Kmqv97XuAe+pfzG4Ixb6NbH/qrnY9qgjv+9o8QByqyLvYHe2gHopKuX2IGPBoro/7by8sAHypbC1M2k3wHKj7G3w6upBpqh+P7WyJED+uOFncnl2AaYrbDVsKJcjuLSzKTzXoTcpfXpiuUBtv2MjfjNepyDkIyN7tYBzPf1283LzAH4sfeenJjqBbqlho/Nys8BnvqezdK2wAEZ9RA8eLQB8AGsAugCpAPgA5wE2ASUBdAFjAbIBoQHwAcA",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "2082211431995978",
+                "adid": "6097497213314",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531638000,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "194341747415603",
+                "pageName": "Fernando Dezena Literatura",
+                "snapshot": {
+                    "ad_creative_id": 6097497209914,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "CR\u00d4NICA DO DOMINGO<br /> <br /> MMDC em campo!<br /> <br /> \u00c1guas da Prata, SP, 08 de julho de 2018.<br /> <br /> Podem dizer o que quiserem, mas dia de jogo do Brasil na Copa do Mundo \u00e9 diferente. A cidade fica alucinada aguardando o momento exato da bola rolar e se entregar ao \u00eaxtase dos noventa minutos. O Brasil ficou pelo caminho, depois do sufoco da \u00faltima sexta-feira. Na segunda teremos o feriado do estado de S\u00e3o Paulo para descansarmos, enquanto nos lembramos da Revolu\u00e7\u00e3o Constitucionalista. Enfrentamos Get\u00falio Vargas, e o resto do pa\u00eds, com a galhardia peculiar dos paulistas. Quer\u00edamos uma Constitui\u00e7\u00e3o leg\u00edtima, n\u00e3o a imposta pelo ditador ga\u00facho. Vale lembrar que o povo da terra Piratininga ficou nervoso porque imperava a conhecida pol\u00edtica \u201ccaf\u00e9 com leite\u201d no comando do executivo da Rep\u00fablica. Sa\u00eda um paulista, entrava um mineiro, sa\u00eda um mineiro, entrava um paulista, at\u00e9 que terminou o mandato de Washington Lu\u00eds e deveria assumir o tamb\u00e9m paulista J\u00falio Prestes que ganhara a (fraudulenta) elei\u00e7\u00e3o para presidente. Todas as elei\u00e7\u00f5es assim o eram! Trapacear na contagem dos votos, usar o poder econ\u00f4mico como cabresto, entre outras maracutaias, acontecia nas elei\u00e7\u00f5es em todos os n\u00edveis, de norte a sul do pa\u00eds. Mas, devemos deixar na lembran\u00e7a o ocorrido e reservar \u00e0 hist\u00f3ria a verdade. Martins, Miragaia, Dr\u00e1uzio e Camargo, nosso famoso MMDC, n\u00e3o \u00e9 a linha de ataque do Brasil, mas os estudantes que participaram de protestos na cidade de S\u00e3o Paulo e foram mortos a tiros tentando, juntamente com uma multid\u00e3o, invadir o pr\u00e9dio do PPP, que ficava na Rua Bar\u00e3o de Itapetininga com a Pra\u00e7a da Rep\u00fablica, e linchar quem l\u00e1 estivesse que fosse simp\u00e1tico (bra\u00e7o revolucion\u00e1rio) a Get\u00falio. Nota-se que sempre o povo \u00e9 usado pelas elites. Os milion\u00e1rios cafeicultores incitaram a popula\u00e7\u00e3o para ver atendidas as suas reivindica\u00e7\u00f5es. Depois eclodiu a revolu\u00e7\u00e3o, S\u00e3o Paulo pegou em armas, os estados irm\u00e3os que coadunavam com a ideia de derrubada da ditadura rec\u00e9m-empossada no Brasil viraram a bandeira e ficamos sozinhos. Perdemos a guerra, mas amanh\u00e3 nos lembraremos da necessidade de lutar.<br /> <br /> O Brasil sexta-feira, no campo de futebol, perdeu mais uma batalha, mas fora de campo teremos tantas outras a lutar. Pelas ruas do Brasil, os assaltos continuam (principalmente no Congresso Nacional), os corruptos soltos, crian\u00e7as morrem desnutridas. Se no campo perdemos com as bolas perdidas, pelas ruas vidas se v\u00e3o com as balas perdidas e gera\u00e7\u00f5es de brasileiros amainam sem saber que ao acreditarem na reden\u00e7\u00e3o pelo futebol, enrolam-se em um caracol sem fim. Avante Brasil!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531073464,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernando Dezena Literatura",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36853519_2082211448662643_5381272071139491840_n.jpg?_nc_cat=0&oh=aeda3f6e081aed17338df34680027857&oe=5BF3928E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36828203_895322757317495_636316851059556352_n.jpg?_nc_cat=0&oh=f21d2b96689a5e3a62bf3201b6ab125d&oe=5BF179FD"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1301": "Author"
+                    },
+                    "page_id": 194341747415603,
+                    "page_is_deleted": false,
+                    "page_like_count": 16695,
+                    "page_name": "Fernando Dezena Literatura",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36832133_2082211438662644_5865363890975539200_n.jpg?_nc_cat=0&oh=4327a5a8b79272a02fb95da6a3e7de98&oe=5C02593B",
+                    "page_profile_uri": "https://www.facebook.com/ferdezena/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1531033200
+            },
+            {
+                "adArchiveID": "476809366105196",
+                "adid": "6097068605205",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531378800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6097068599605,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que el mundo sea testigo y juez de la ilegitimidad e inconstitucionalidad de este narco-regimen corrupto y genocida...<br /> <br /> Que la Comunidad Internacional se una y denuncie p\u00fablicamente y muy en alto el secuestro de Venezuela por unos criminales sin escr\u00fapulos, fraudulentos y falsos gobernantes que llevaron al pa\u00eds a su peor crisis humanitaria, sin ni siquiera tratar de rectificar y de ayudar a solventarla..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "noticiasaldiayalahora.co",
+                    "cards": [],
+                    "creation_time": 1531012993,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36769996_476809406105192_1787157031694630912_n.jpg?_nc_cat=0&oh=ed7c921f4495749f7ed8f122fdfd9ac9&oe=5C0815DD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36894181_476809402771859_1657383735852531712_n.jpg?_nc_cat=0&oh=960bbca8a0a72208abbbd0911e37ba0a&oe=5C083758"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36783994_476809392771860_7705541800018051072_n.jpg?_nc_cat=0&oh=dc5293be7c1fdc5d933757c45716ef7a&oe=5BF5530C",
+                    "is_reshared": true,
+                    "link_description": "El gobierno de Venezuela rechaz\u00f3 las declaraciones de Mike Pompeo, secretario de Estado de Estados Unidos, que pretend\u00edan desconocer a las instituciones",
+                    "link_url": "https://www.noticiasaldiayalahora.co/internacionales/gobierno-de-venezuela-rechazo-el-comunicado-de-mike-pompeo/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36730077_476809396105193_3671523827726155776_n.jpg?_nc_cat=0&oh=56353f1b34133ec13a5093e6381215c4&oe=5C041407",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": {
+                        "branded_content": null,
+                        "page": {
+                            "page_categories": {
+                                "2709": "News Site"
+                            },
+                            "page_id": 113048215379177,
+                            "page_is_deleted": false,
+                            "page_like_count": 631718,
+                            "page_name": "NOTICIAS AL DIA Y A LA HORA",
+                            "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36725297_476809389438527_8243672726573678592_n.jpg?_nc_cat=0&oh=23a375d4477468726eca38c2b825677a&oe=5BF67862",
+                            "page_profile_uri": "https://www.facebook.com/Notidiahora/"
+                        },
+                        "text": {
+                            "body": {
+                                "context": [],
+                                "markup": {
+                                    "__html": "El gobierno de Venezuela rechaz\u00f3 las declaraciones de Mike Pompeo, secretario de Estado de Estados Unidos, que pretend\u00edan desconocer a las instituciones"
+                                }
+                            }
+                        }
+                    },
+                    "title": "Gobierno de Venezuela rechaz\u00f3 el comunicado de Mike Pompeo",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530946800
+            },
+            {
+                "adArchiveID": "474897732924360",
+                "adid": "6108083761740",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531119600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "813720875379458",
+                "pageName": "Soldado Noelio",
+                "snapshot": {
+                    "ad_creative_id": 6108083402540,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "QUEREMOS A REVOGA\u00c7\u00c3O DA LEI DOS ALVAR\u00c1S! <br /> CHEGA DE EXPLORA\u00c7\u00c3O!<br /> <br /> O prefeito aumentou absurdamente o valor das taxas de alvar\u00e1s em Fortaleza. Os empres\u00e1rios, principalmente os pequenos, donos de padarias, oficinas mec\u00e2nicas, cabeleireiros, mercadinhos, pizzarias e outros com\u00e9rcios, ser\u00e3o prejudicados. <br /> <br /> Hoje, por exemplo, funcion\u00e1rios est\u00e3o sendo demitidos por conta da crise que o Pa\u00eds est\u00e1 passando, com a nova lei muitos empres\u00e1rios n\u00e3o conseguir\u00e3o nem manter seus neg\u00f3cios e fechar\u00e3o as portas, gerando uma onda de desemprego ainda muito maior! \ud83d\ude13<br /> <br /> \ud83d\udce2Essa lei N\u00c3O teve a nossa aprova\u00e7\u00e3o e por isso vamos lutar para que ela seja revogada o quanto antes. Se voc\u00ea tamb\u00e9m est\u00e1 indignado e acha justa a revoga\u00e7\u00e3o dessa lei, COMPARTILHE a nossa mensagem para que mais pessoas saibam do absurdo! <br /> <br /> #RevogaPrefeito #LeiDosAlvar\u00e1s #Absurdo #SoldadoNoelio #EuProtesto #Fortaleza #Com\u00e9rcio"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531036410,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Soldado Noelio",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36788603_1769698706448332_7303794600714436608_n.jpg?_nc_cat=0&oh=3f4fa0c5b4b9e78dcba6bb6f6c602c88&oe=5BFFE9B4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36681136_1769698703114999_1844960316471902208_n.jpg?_nc_cat=0&oh=19cec734857ad0dbfb2e3b898f9b3642&oe=5BF71B93"
+                        }
+                    ],
+                    "instagram_actor_name": "Soldado Noelio",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36761886_474897746257692_2559396437892792320_n.jpg?_nc_cat=0&oh=a42146faab034e5d71eb2ef469277c6c&oe=5BF6A1F5",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 813720875379458,
+                    "page_is_deleted": false,
+                    "page_like_count": 70117,
+                    "page_name": "Soldado Noelio",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36826727_474897749591025_848496159696617472_n.jpg?_nc_cat=0&oh=79f8bd5780ac2cb0c930b88a8065c297&oe=5C074920",
+                    "page_profile_uri": "https://www.facebook.com/SoldadoNoelio/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530946800
+            },
+            {
+                "adArchiveID": "254944471947256",
+                "adid": "6092153104122",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531119600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "189220204428972",
+                "pageName": "TKART",
+                "snapshot": {
+                    "ad_creative_id": 6092153083722,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La #candela: spiegazione tecnica del funzionamento e la pratica sulla corretta lettura per valutare la carburazione - Su <a href=\"https://www.facebook.com/TKartMagazine/\" data-hovercard=\"/ajax/hovercard/page.php?id=189220204428972&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">TKART</a> Digital Magazine!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "tkart.it",
+                    "cards": [],
+                    "creation_time": 1531232266,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "TKART",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36873397_2382098481818363_4854942189999882240_n.jpg?_nc_cat=0&oh=f12917b24d1f6a2a20c7f343aeb24057&oe=5BFF4B19",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36984420_2382098478485030_4637343186686050304_n.jpg?_nc_cat=0&oh=b2efd5a7c8de7ab94a9f4d35d1d83e2f&oe=5BF8EA68"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Particolare piccolo, ma fondamentale: \u00e8 la candela a far scattare quella la scintilla che \u201cd\u00e0 la vita\u201d al motore",
+                    "link_url": "https://www.tkart.it/magazine/tecnica/la-candela/",
+                    "page_categories": {
+                        "2710": "Rec Site"
+                    },
+                    "page_id": 189220204428972,
+                    "page_is_deleted": false,
+                    "page_like_count": 45752,
+                    "page_name": "TKART",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36917302_2382098468485031_6454693885716201472_n.jpg?_nc_cat=0&oh=7877799e5ec4c7721a96ea87336163f0&oe=5BF283A3",
+                    "page_profile_uri": "https://www.facebook.com/TKartMagazine/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "CANDELA: cos'\u00e8 e come si \"legge\" per regolare la carburazione",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530946800
+            },
+            {
+                "adArchiveID": "272652206645512",
+                "adid": "6093183868100",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531465200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "687900908223902",
+                "pageName": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                "snapshot": {
+                    "ad_creative_id": 6093183865100,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "P\u00e1gina que busca a troca de informa\u00e7\u00f5es pol\u00edticas para o Estado do Rio de Janeiro. Esse..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531017744,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36783036_272652226645510_7735029464924422144_n.jpg?_nc_cat=0&oh=c1fe8a27e7268476bfdaccc214ef7c7a&oe=5BF93CF9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36776661_272652229978843_2713975755439603712_n.jpg?_nc_cat=0&oh=c2903ca4f9c1ab2dd071b7bf5e28c591&oe=5C109282"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/politicanorio/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 687900908223902,
+                    "page_is_deleted": false,
+                    "page_like_count": 6735,
+                    "page_name": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36870117_272652219978844_915590863189442560_n.jpg?_nc_cat=0&oh=39dc1f16dad50d4c09b2d4dd06e42b1a&oe=5C071E28",
+                    "page_profile_uri": "https://www.facebook.com/politicanorio/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530860400
+            },
+            {
+                "adArchiveID": "471230383317481",
+                "adid": "6107041902417",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530946800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6107041899017,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Abogados de inmigraci\u00f3n conocen decenas de casos de alistados o reservistas dados de baja de las Fuerzas Armadas sin razones aparentes o alegando cuestiones de seguridad.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fel-ejercito-esta-dando-de-baja-silenciosamente-a-inmigrantes-a-quienes-prometio-la-ciudadania%3Fv%3D82281295&amp;h=AT0JzJWiEejm_Kb2F3pWqxAzFCI3yS62xZf0mM3TZ2giHj6EZO_3QvTxqs-j8J2swYsK0BHZG_YNI6CrhdT0OqGq18v4awv_bTkkeQYULSMMYsM-Bi3V19lD3CmL9v6C_nlwkjCh0e8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/el-ejercito-esta-dando-de-baja-silenciosamente-a-inmigrantes-a-quienes-prometio-la-ciudadania?v=82281295</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1530882363,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36742949_471230416650811_6929351822771486720_n.jpg?_nc_cat=0&oh=f5dd30b922b7eb869c5223b9bef98d91&oe=5C0B5BB8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36698481_471230413317478_7112337706121691136_n.jpg?_nc_cat=0&oh=e942a49ec423ad4e92ed71326be93308&oe=5C0A82E1"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36712514_471230393317480_8514248558050803712_n.jpg?_nc_cat=0&oh=69a256e24d0c09ae708409409570a52b&oe=5C05B949",
+                    "is_reshared": false,
+                    "link_description": "Abogados de inmigraci\u00f3n conocen decenas de casos de alistados o reservistas dados de baja de las Fuerzas Armadas sin razones aparentes o alegando cuestiones de seguridad.",
+                    "link_url": "https://mpachecolaw.com/latest/el-ejercito-esta-dando-de-baja-silenciosamente-a-inmigrantes-a-quienes-prometio-la-ciudadania?v=82281295",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36656075_471230396650813_1548200169630072832_n.jpg?_nc_cat=0&oh=d5109599e6a5240d2df053f6dfa16743&oe=5BED7E59",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "El Ej\u00e9rcito est\u00e1 dando de baja silenciosamente a inmigrantes a quienes prometi\u00f3 la ciudadan\u00eda",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530860400
+            },
+            {
+                "adArchiveID": "429348850875660",
+                "adid": "23842921418320151",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530774000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "646275725724885",
+                "pageName": "Celeste y Blanca SAGAI",
+                "snapshot": {
+                    "ad_creative_id": "23842921418140151",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Avanza el d\u00eda de #elecciones. Es muy  importante que te acerques a votar. Hay tiempo hasta las 22 hs. Ven\u00ed, particip\u00e1. Somos muchos, somos uno, #SomosSAGAI."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530827363,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Celeste y Blanca SAGAI",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36712437_666102990408825_470600610299772928_n.jpg?_nc_cat=0&oh=4ab807eaeb815a34b24a03ddb6d2c210&oe=5BFF53AF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36675846_666102993742158_964415862431809536_n.jpg?_nc_cat=0&oh=e3a575516b66c3a23c7008a62db790e5&oe=5C3B23D4"
+                        }
+                    ],
+                    "instagram_actor_name": "Lista Celeste y Blanca",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36671472_221013295388256_3631970919846510592_n.jpg?_nc_cat=0&oh=0641038de4e95fbe50157629ad544157&oe=5BF28CF9",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 646275725724885,
+                    "page_is_deleted": false,
+                    "page_like_count": 2247,
+                    "page_name": "Celeste y Blanca SAGAI",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36690420_221013292054923_7872426594004893696_n.jpg?_nc_cat=0&oh=8282ba3a2865bcb200dce714b223cc6a&oe=5BF1DCFD",
+                    "page_profile_uri": "https://www.facebook.com/celesteyblancasagai/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530774000
+            },
+            {
+                "adArchiveID": "1956969604336510",
+                "adid": "6106970379817",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530860400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6106970376417,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Varios menores de edad se sientan frente a un juez que les habla en ingl\u00e9s y les pregunta por su abogado. Sus caras de miedo e incomprensi\u00f3n reflejan lo que la cineasta Linda Freedman quer\u00eda, la reflexi\u00f3n y cr\u00edtica frente a un sistema que se muestra cruel con los m\u00e1s necesitados.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fninos-inmigrantes-solos-frente-a-la-corte-el-video-de-dramatizacion-que-conmueve-a-las-redes&amp;h=AT0oEf0Zrj1nXlGV9hSaMjNoGLEMjo_plPv8P_qriic8CchIDX-xo7KsB5n1OEqJz9kmsR0FQAfAG0eKz2VBTXAAYUhMVnLnJwcqEkzukF-KLZVyS4evTrGozXqzW3uw2WpkQ4jTKvI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/ninos-inmigrantes-solos-frente-a-la-corte-el-video-de-dramatizacion-que-conmueve-a-las-redes</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1530800759,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36666174_1956969647669839_7364025083179827200_n.jpg?_nc_cat=0&oh=50a3293b035ce2b754c054e264a888bf&oe=5BF19A67",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36635288_1956969644336506_3435423531230298112_n.jpg?_nc_cat=0&oh=65b2b64b24f361b85362c84927133c30&oe=5C063974"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36651264_1956969631003174_195385011552124928_n.jpg?_nc_cat=0&oh=2fc60673c11ae6c4e0baaf7d643c1464&oe=5C04A8BB",
+                    "is_reshared": false,
+                    "link_description": "Los manifestantes dicen que tienen tres exigencias principales: reunir a las familias de inmigrantes indocumentados que han sido separadas en la frontera; que el gobierno cancele la detenci\u00f3n de familias inmigrantes que cruzan ilegalmente la frontera y que la administraci\u00f3n Trump ponga fin a la po...",
+                    "link_url": "https://mpachecolaw.com/latest/ninos-inmigrantes-solos-frente-a-la-corte-el-video-de-dramatizacion-que-conmueve-a-las-redes",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36612456_1956969634336507_341162025554018304_n.jpg?_nc_cat=0&oh=04782f674598f1933b838160c9b9e149&oe=5BFD8F23",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ni\u00f1os inmigrantes solos frente a la Corte: el video de dramatizaci\u00f3n que conmueve a las redes",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530774000
+            },
+            {
+                "adArchiveID": "213921459257385",
+                "adid": "6095897367347",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530860400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1682013965438042",
+                "pageName": "Alexsander Franson",
+                "snapshot": {
+                    "ad_creative_id": 6095897362547,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "&gt;&gt;DESINTERDI\u00c7\u00c3O DO AEROPORTO DE ITAPEVA&lt;&lt;<br /> <br /> \u2714\ufe0f Acabo de participar de 2 reuni\u00f5es para tratar da desinterdi\u00e7\u00e3o do aeroporto de Itapeva, a primeira reuni\u00e3o ocorreu na ANAC - Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil com a Senhora Isabela Cristina Diniz - Gerente T\u00e9cnica de Normas, Ela explicou que pelo fato do aeroporto ter ficado interditado por muitos anos, agora a prefeitura ter\u00e1 que seguir todo um cronograma de exig\u00eancias e melhorias para que Itapeva possa ter novamente a reabertura ao tr\u00e1fego de aer\u00f3dromos.<br /> <br /> A segunda reuni\u00e3o ocorreu na Secretaria Nacional de Avia\u00e7\u00e3o Civil com M\u00e1rcio Maffeli Fernandes - Coordenador Geral de Estudos e Projetos ligado ao Departamento de Investimentos em Aeroportos Regionais, solicitei recursos para infraestrutura e estrutura\u00e7\u00e3o do nosso aeroporto, principalmente recursos para realizar o fechamento de alambrado no entorno do aeroporto de Itapeva, principal exig\u00eancia para a reabertura do aeroporto, agora o pedido seguir\u00e1 os tr\u00e2mites legais, hoje foi somente o come\u00e7o de uma grande jornada para a desinterdi\u00e7\u00e3o, mais tenho f\u00e9 que vamos conseguir.<br /> <br /> Agrade\u00e7o ao Deputado Federal Guilherme Mussi que proporcionou as agendas do dia e ao empres\u00e1rio Jota Augusto pela participa\u00e7\u00e3o e apoio.<br /> <br /> #AlexsanderFransonVereador<br /> #OTrabalhoN\u00e3oPara"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531024389,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Alexsander Franson",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36640187_1870788436560593_8775417848508973056_n.jpg?_nc_cat=0&oh=82a0f00e4da5448a24dafa5673af110d&oe=5BFC6E23",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36611102_1870788433227260_8365416078544732160_n.jpg?_nc_cat=0&oh=59fffe9523ce1ca003686302a0dc5e40&oe=5BED19E4"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36621656_1870788479893922_3236699805375791104_n.jpg?_nc_cat=0&oh=9357ae2fc64730b9f1719bc37446d368&oe=5C04F0FD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36673042_1870788476560589_6628240169684172800_n.jpg?_nc_cat=0&oh=687eaeef44c836036f06a5aaab454f21&oe=5C066B71"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36598145_1870788463227257_8610241558152740864_n.jpg?_nc_cat=0&oh=4ba86db6f0b66fdd88846e769e8d36f7&oe=5BED6325",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36726865_1870788466560590_7072439611720466432_n.jpg?_nc_cat=0&oh=3b53d7c8b847b01b6016919ca4158796&oe=5C074993"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36673575_1870788459893924_670608685994606592_n.jpg?_nc_cat=0&oh=417eb783998e370b8b129bc918b5eee3&oe=5C0EE3B4",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36596111_1870788456560591_1325131508284915712_n.jpg?_nc_cat=0&oh=3e7eecc45c88c78804482d6c13f4dce6&oe=5C0B77CB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36633830_1870788586560578_8245119194249560064_n.jpg?_nc_cat=0&oh=7c90a54feba1cc2afa741a96f5cdd861&oe=5C076C4C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36625963_1870788589893911_1771379490807611392_n.jpg?_nc_cat=0&oh=7de79460148cf876cd1e49851fd3c11b&oe=5BF8A8C4"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36661563_1870788613227242_2086654176510607360_n.jpg?_nc_cat=0&oh=cda7a58f6a5a6758a0173a2f63642ce3&oe=5BEF4F75",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36596087_1870788609893909_1351614542920024064_n.jpg?_nc_cat=0&oh=cb22794d6c2ac4fd3ec43881c14eb0c3&oe=5C01BB2B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36660735_1870788639893906_2239241986441740288_n.jpg?_nc_cat=0&oh=e14e846c427f21418571f1049cdb6eb6&oe=5C0EF2BB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36654111_1870788643227239_73098114289893376_n.jpg?_nc_cat=0&oh=3ae0f694a1459c7c77c7df05be578c57&oe=5C065F11"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1682013965438042,
+                    "page_is_deleted": false,
+                    "page_like_count": 1263,
+                    "page_name": "Alexsander Franson",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36806670_213921469257384_5949177514877255680_n.jpg?_nc_cat=0&oh=e8f7689005ef59d1944168e2b74d16f8&oe=5BF619AE",
+                    "page_profile_uri": "https://www.facebook.com/AlexsanderFransonVereador/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530774000
+            },
+            {
+                "adArchiveID": "426281397780162",
+                "adid": "23842931516640037",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1509413712605916",
+                "pageName": "ICAO - International Civil Aviation Organization",
+                "snapshot": {
+                    "ad_creative_id": "23842852302860037",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Montreal has played a key role in aviation, hosting some of the major organizations of the industry including <a href=\"https://www.facebook.com/iata.org/\" data-hovercard=\"/ajax/hovercard/page.php?id=146627512070062&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">International Air Transport Association (IATA)</a>, <a href=\"https://www.facebook.com/AirportsCouncilInternational/\" data-hovercard=\"/ajax/hovercard/page.php?id=169616503052274&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">ACI World</a> and us! Merci, Montreal, for all your hospitality."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "unitingaviation.com",
+                    "cards": [],
+                    "creation_time": 1531282186,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "ICAO - International Civil Aviation Organization",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37011307_426281444446824_7638764430183890944_n.jpg?_nc_cat=0&oh=83c39d3f673663a2cf15239f69571877&oe=5BF3D3A3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36912604_426281447780157_4693357656239243264_n.jpg?_nc_cat=0&oh=a9bd2e1d8f09541e698be89e6268eaf5&oe=5C385E6E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "The Secretary General of ICAO, Dr. Fang Liu (below centre), and the President and CEO of A\u00e9roports de Montr\u00e9al (ADM), Mr. Philippe Rainville (centre left), were joined last Thursday by senior officials from the prominent aviation organizations based in Montr\u00e9al for the unveiling of a new airport ...",
+                    "link_url": "http://www.unitingaviation.com/strategic-objective/general-interest/airport-monument-celebrates-montreal-status-as-capital-of-civil-aviation/",
+                    "page_categories": {
+                        "161422927240513": "Government Organization"
+                    },
+                    "page_id": 1509413712605916,
+                    "page_is_deleted": false,
+                    "page_like_count": 62050,
+                    "page_name": "ICAO - International Civil Aviation Organization",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36951801_426281404446828_5300709368113659904_n.jpg?_nc_cat=0&oh=6d38fa4e6b36948419cda0637838a1ee&oe=5BEF2C9A",
+                    "page_profile_uri": "https://www.facebook.com/InternationalCivilAviationOrganization/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "New airport monument celebrates Montr\u00e9al\u2019s status as World Capital of Civil Aviation - Uniting Aviation",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530687600
+            },
+            {
+                "adArchiveID": "2094977470777972",
+                "adid": "6092962045900",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531033200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "687900908223902",
+                "pageName": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                "snapshot": {
+                    "ad_creative_id": 6092961884700,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "P\u00e1gina que busca a troca de informa\u00e7\u00f5es pol\u00edticas para o Estado do Rio de Janeiro."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531034706,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36821312_2094977500777969_1426365313380777984_n.jpg?_nc_cat=0&oh=e6bc031c02df5dbf9b3274a03ffdc6cb&oe=5BEFA7A5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36808963_2094977504111302_174007576340463616_n.jpg?_nc_cat=0&oh=09168ba55f4364c06246c54d436e3103&oe=5BEE9A2D"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/politicanorio/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 687900908223902,
+                    "page_is_deleted": false,
+                    "page_like_count": 6735,
+                    "page_name": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36745576_2094977490777970_2995182700421185536_n.jpg?_nc_cat=0&oh=f24372afb236304e6476ec427586c715&oe=5BEFD951",
+                    "page_profile_uri": "https://www.facebook.com/politicanorio/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "200330234005855",
+                "adid": "23842855493060405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855492270405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635586,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36572982_200330250672520_875335672322326528_n.jpg?_nc_cat=0&oh=5046acdf62b83427b8802fcba21cc787&oe=5C0920E0",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546026_200330247339187_6638453284086480896_n.jpg?_nc_cat=0&oh=16776f99fd6bb7950d047cb79297c7d3&oe=5C0949B5",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36566373_200330254005853_2979898994873860096_n.jpg?_nc_cat=0&oh=f362f0a59c4493a6d6173e75dfa1c190&oe=5BF6A561",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "219478598677940",
+                "adid": "23842855495690405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855493050405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635617,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36543879_219478622011271_5296383520002801664_n.jpg?_nc_cat=0&oh=e04e459e50ea0801ee80fc1d149d3c4d&oe=5C050261",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554172_219478618677938_7301270542923857920_n.jpg?_nc_cat=0&oh=b42bae4d53135d0d2368185d71043f22&oe=5BF31673",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36525297_219478628677937_2815575053662420992_n.jpg?_nc_cat=0&oh=c42070b88dc6b23582d846b9133094f6&oe=5BFF5475",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "431618174076973",
+                "adid": "23842855493730405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855492800405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635588,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36629664_431618237410300_6307238162271830016_n.jpg?_nc_cat=0&oh=5d65ea01fcb460c12718346d22842136&oe=5BEF3D03",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36636064_431618240743633_2533797840103145472_n.jpg?_nc_cat=0&oh=b4bf4c07efe84ac32ba82d3408ebfe52&oe=5BFF49A0",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550601_431618250743632_5384985212100804608_n.jpg?_nc_cat=0&oh=5018fbae077e26169c0dca51ce6b17b3&oe=5C0EE841",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "481002175687461",
+                "adid": "23842855493970405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855492810405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635580,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36540911_481002195687459_7535203019101569024_n.jpg?_nc_cat=0&oh=7fe11cd1a7769fa69e8762a727cf3798&oe=5C02C3A5",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36591311_481002199020792_1086705448343568384_n.jpg?_nc_cat=0&oh=23b1f015bc3a29f665878630cfc8ed08&oe=5BFC4389",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36588374_481002202354125_91794441936830464_n.jpg?_nc_cat=0&oh=ba143267c9d8dc882f28311b1738c7ce&oe=5BFBABB3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "1721864224598324",
+                "adid": "23842855496070405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855495260405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635590,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36537873_1721864284598318_3032884627720110080_n.jpg?_nc_cat=0&oh=389a8b187d1bfb4e0a04fc3499f5ad47&oe=5BFE7E22",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36650261_1721864287931651_4207696296439447552_n.jpg?_nc_cat=0&oh=9739d549f2a396b860caf434dea1aff4&oe=5C0D72F9",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36594898_1721864317931648_4503530156274483200_n.jpg?_nc_cat=0&oh=3831a90cf4dced86ffd14a7c875de0ad&oe=5BFBDABA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "2113036188908037",
+                "adid": "23842855494930405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855493330405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635562,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36603189_2113036208908035_1120004097861222400_n.jpg?_nc_cat=0&oh=d0da13c4898d080b3e772a1df739495b&oe=5C3A3CD3",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36516504_2113036205574702_3921062969517015040_n.jpg?_nc_cat=0&oh=d9fbbb333545efbd932abe36938f7d91&oe=5C3B573E",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36557945_2113036215574701_6210882361987432448_n.jpg?_nc_cat=0&oh=63f91481acb3ee5fbebca499d00eb139&oe=5C08661F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "491011084666277",
+                "adid": "23842855493190405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855492550405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635564,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36571642_491011111332941_6539127758730035200_n.jpg?_nc_cat=0&oh=867563e7505adb7d3258cddb77c79c98&oe=5BFC6D96",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527131_491011107999608_9033632794172981248_n.jpg?_nc_cat=0&oh=520b6db62c2363ee5d9288a6b770fa08&oe=5C03EFCC",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36534834_491011117999607_2848299938499002368_n.jpg?_nc_cat=0&oh=47bf2417c1625ebe41aa7330a0131f9f&oe=5C38A6DF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "1779757598778341",
+                "adid": "23842855492280405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842855492220405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635612,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36555945_1779757638778337_6456246623767887872_n.jpg?_nc_cat=0&oh=ddb39bec6cdf356f95febc4d7f0df667&oe=5C0412F9",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36533409_1779757635445004_3878969949259038720_n.jpg?_nc_cat=0&oh=a2aa1f78136923a38cc19560cdbd0201&oe=5C0647A6",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36531230_1779757658778335_6620498366579081216_n.jpg?_nc_cat=0&oh=8b192f30a647ceffe02852d619a15a76&oe=5C00E6F7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "883056951887949",
+                "adid": "6099775730439",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530687600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1564749807159252",
+                "pageName": "Greening Deserts",
+                "snapshot": {
+                    "ad_creative_id": 6099775724039,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Drought and heat are also a problem for the farmers. European farms expect harvest losses of 30 to 50 percent compared to the previous year. In parts of Germany, the soil is as dry as it has been for 50 years. Extreme drought, thunderstorms and floods often occur together and can severely affect affected countries. Not only in Africa, these extreme weather conditions are increasing but also in Europe, particularly hard hit countries such as Spain and Italy, where massive forest fires and the resulting desertification increases extremely. This year, even European countries such as Germany and Poland are affected, where some regions even introduced emergency harvesting and water restrictions after the second drought. In some regions, rivers and lakes dry up, even the groundwater and drinking water is scarce. Greening Deserts has been reporting extensively on these topics for years, especially in terms of soil degradation and desertification. Large opencast mining areas, large cities (concrete deserts) and urban regions also contribute to this extreme climate. Many of these consequences of man-made climate change are not exactly predictable, but can be estimated very well with today&#039;s scientific findings in climate research. We discussed with many climate researchers, nature and environmentalists and exchanged about this problem. <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.greeningdeserts.com%2Fextreme-weather-in-germany-and-europe-extreme-drought-heat-waves-and-floods&amp;h=AT2ApEp3RVMS5RqVPgdSlvMpOF7edGTvaQs_-WlEUdvJ9IR0hKYkHBRMTKHz-jrIzX52AiMeiFBZ5PfF8QxMkt1h0ZLVsHPnrSjlJPAB_FPVAUUroA6VHn2YOvOA7Q7jkr0Lbx82X14\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.greeningdeserts.com/extreme-weather-in-germany-and-europe-extreme-drought-heat-waves-and-floods</a> <br /> <br /> Other topics such as the reform of agriculture, soil improvement and water improvement have been and will be discussed in detail. Unfortunately, we have not received any active and financial support from the responsible authorities since years. For a long time we could do research on more effective cultivation and irrigation methods with a first greening and research camp in the surface mining landscape of Leipzig (Lakeland Neuseenland) - if our inquiries and demands had been taken seriously, especially by the big parties who were informed several times. Our demands and requests for help to over 700 German foundations, especially in the field of education, nature and environmental protection were ignored or there were the usual excuses.<br /> <br /> We hope for quick help or support, so that we can work together with all involved parties to make the coal exit and transformation of the energy industry and agriculture to clean energy and technologies (cleantech) fast and efficient. We want to cultivate bamboo, hemp and palm trees on a large scale in opencast mining areas - not just because of the benefits in these areas, but also because of new innovative developments and compensatory measures in relation to global warming. In addition, special desert plants, extremely resistant, robust and undemanding plants are explored, such as rock garden plants and desert bamboo. Thus, many useful plants for improving the quality of soil, air and water can be used not only on land, but also in urban areas and large cities. Of course we will run a diverse agriculture and gardening - this is also called ecofarming. Wild blooms and flowerbeds counteract massive bee and insect deaths or in general the massive extinction of species. As you can see Greening Deserts is not only concerned with deserts and desertification but with many other important tasks and topics. If this is not eligible .. an extensive consultation and accompaniment to appropriate funding would be really appropriate. #desertification #drought #forestation #globalwarming #greening <br /> <br /> D\u00fcrre und Hitze machen auch den Bauern zu schaffen. Europ\u00e4ische Betriebe rechnen mit Ernteeinbu\u00dfen von 30 bis 50 Prozent gegen\u00fcber dem Vorjahr. In Teilen Deutschlands ist der Boden so trocken wie seit 50 Jahren nicht mehr. Extreme D\u00fcrre, Gewitter und \u00dcberschwemmungen kommen oft gemeinsam vor und k\u00f6nnen betroffenen L\u00e4ndern stark zusetzen. Nicht nur in Afrika steigen diese extremen Wetterlagen sondern auch in Europa, besonders stark betroffen sind L\u00e4nder wie Spanien und Italien, wo durch massive Waldbr\u00e4nde die W\u00fcstenbildung extrem zunimmt. Dieses Jahr sind sogar Europ\u00e4ische L\u00e4nder wie Deutschland und Polen betroffen, welche nach der zweiten D\u00fcrreperiode sogar Noternten und Wasserbeschr\u00e4nkungen eingef\u00fchrt haben. In einigen Regionen trocknen Fl\u00fcsse und Seen aus, sogar das Grundwasser und Trinkwasser wird knapp. Greening Deserts berichtet seit Jahren ausf\u00fchrlich \u00fcber diese Themen, besonders im Bezug auf Bodendegradation und Desertifikation. Auch gro\u00dfe Tagebaugebiete (Tagebauw\u00fcsten), gro\u00dfe St\u00e4dte (Betonw\u00fcsten) und Urbane Regionen tragen einen Teil zu diesem extremen Klima bei. Viele dieser Folgen bzw. Konsequenzen des menschengemachten Klimawandels sind nicht genau vorherzusehen, aber mit heutigen wissenschaftlichen Erkenntnisen der Klimaforschung sehr gut abzusch\u00e4tzen. Wir haben mit vielen Klimaforschern, Natur- und Umweltsch\u00fctzern diskutiert und uns \u00fcber diese Problematik ausgetauscht.<br /> <br /> Auch andere Themen wie die Reformation der Landwirtschaft bzw. Agrarwirtschaft, die Bodenverbesserung und Verbesserung der Gew\u00e4sser wurden und werden ausf\u00fchrlich behandelt. Leider haben wir bis heute keine aktive und finanzielle Unterst\u00fctzung seitens der verantwortlichen Stellen bekommen. Wir k\u00f6nnten schon lange mit einem ersten Begr\u00fcnungs- und Forschungscamp im Leipziger Tagebaugebiet und Seenlandschaft  an effektiveren Anbau- und Bew\u00e4sserungsmethoden forschen - wenn unsere Anfragen und Forderungen ernst genommen worden w\u00e4ren, vor allem von den gro\u00dfen Parteien die mehrfach informiert wurden. Auch unsere Bitten und Hilfegesuche an \u00fcber 700 deutsche Stiftungen, besonders im Bereich Bildung, Natur- und Umweltschutz wurden ignoriert oder es gab die \u00fcblichen Ausreden.<br /> <br /> Wir hoffen auf schnelle Hilfe bzw. Unterst\u00fctzung, damit wir mit allen Beteiligten zusammen den Kohleausstieg und Transformation der Energiewirtschaft bzw. Landwirtschaft, zu sauberen Energien und Technologien (Cleantech), schnell und effizient gestalten k\u00f6nnen. Wir wollen Bambus, Hanf und Palmen im gro\u00dfen Ma\u00dfstab in Tagebaugebieten kultivieren - nicht nur wegen der Vorteile in besagten Bereichen, sondern auch wegen neuer innovativer Entwicklungen und Ausgleichsma\u00dfnahmen im Bezug auf die Globale Erw\u00e4rmung. Dazu werden besondere W\u00fcstenpflanzen, extrem resistente, robuste und anspruchslose Gew\u00e4chse erforscht, etwa Steingartenpflanzen und W\u00fcstenbambus. Somit k\u00f6nnen viele n\u00fctzliche Pflanzen f\u00fcr die Verbesserung der Boden-, Luft- und Wasserqualit\u00e4t nicht nur auf dem Land eingesetzt werden, sondern auch in urbanen R\u00e4umen und Gro\u00dfst\u00e4dten. Nat\u00fcrlich werden wir eine vielf\u00e4ltige Landwirtschaft und G\u00e4rtnerei betreiben - man nennt dies auch Ecofarming. Wilde Bl\u00fchstreifen und Bl\u00fctenb\u00e4ume wirken dem massiven Bienen- und Insektensterben entgegen. Wie man also sehen kann besch\u00e4ftigt sich Greening Deserts nicht nur mit W\u00fcsten und Desertifikation sondern mit vielen anderen wichtigen Aufgaben und Themen. Wenn dies nicht f\u00f6rderw\u00fcrdig ist.. eine umfangreiche Beratung und Begleitung zu passenden F\u00f6rderungen w\u00e4re nun wirklich angebracht."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "greeningdeserts.com",
+                    "cards": [],
+                    "creation_time": 1534577672,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Greening Deserts",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39397574_883056985221279_8299353305369280512_n.jpg?_nc_cat=0&oh=56ebd83ee4f121a3ac097e3b056af629&oe=5BF437FB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39373661_883056988554612_1356782913290502144_n.jpg?_nc_cat=0&oh=966c52b446738f3886b4199ffdfdd653&oe=5BF65BFE"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Drought and heat are also a problem for the farmers. European farms expect harvest losses of 30 to 50 percent compared to the previous year. In parts of Germany, the soil is as dry as it has been for 50 years. Extreme drought, thunderstorms and floods often occur together and can severely affect aff...",
+                    "link_url": "http://www.greeningdeserts.com/extreme-weather-in-germany-and-europe-extreme-drought-heat-waves-and-floods",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 1564749807159252,
+                    "page_is_deleted": false,
+                    "page_like_count": 28190,
+                    "page_name": "Greening Deserts",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39518934_883056975221280_6949308925183262720_n.jpg?_nc_cat=0&oh=176e032667180d3da7d0a8a61ef3d30c&oe=5C39B239",
+                    "page_profile_uri": "https://www.facebook.com/GreeningDeserts/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Extreme Weather in Germany and Europe \u2013 Extreme Drought Heat Waves and Floods \u2013 Greening Deserts",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530601200
+            },
+            {
+                "adArchiveID": "1884108901890301",
+                "adid": "6106726732017",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530601200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6106726728817,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Los manifestantes dicen que tienen tres exigencias principales: reunir a las familias de inmigrantes indocumentados que han sido separadas en la frontera; que el gobierno cancele la detenci\u00f3n de familias inmigrantes que cruzan ilegalmente la frontera y que la administraci\u00f3n Trump ponga fin a la pol\u00edtica de &quot;cero tolerancia&quot;.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Fmarchan-en-ee.uu.-contra-las-politicas-sobre-inmigracion-del-gobierno-de-trump%3Fv%3D35988190&amp;h=AT1g9o6-g6LTDLNfFTDdQWIPHj6419Ym6rrExSxPukmscRd6uljtcbd8cRXmZJqpYnqr6f8SUSeGOqciYAP8Y0kj8xQ8b55AF2RRNKgQYEftY8iAKKabOKqU8ChEJw3KfAUohEoK7qY\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/marchan-en-ee.uu.-contra-las-politicas-sobre-inmigracion-del-gobierno-de-trump?v=35988190</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1530536173,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36492918_1884108931890298_2635988718531379200_n.jpg?_nc_cat=0&oh=2bb16c03bcf0882c5854eb756cc71ecf&oe=5C07F561",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36575569_1884108928556965_5926033989113479168_n.jpg?_nc_cat=0&oh=bddfa7493c18882d246dc9e29f4fa652&oe=5BF3168B"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36509208_1884108918556966_5125121991132577792_n.jpg?_nc_cat=0&oh=30a64ef267d5583abcc503075e2b2b3f&oe=5BFD555B",
+                    "is_reshared": false,
+                    "link_description": "Los manifestantes dicen que tienen tres exigencias principales: reunir a las familias de inmigrantes indocumentados que han sido separadas en la frontera; que el gobierno cancele la detenci\u00f3n de familias inmigrantes que cruzan ilegalmente la frontera y que la administraci\u00f3n Trump ponga fin a la po...",
+                    "link_url": "https://mpachecolaw.com/latest/marchan-en-ee.uu.-contra-las-politicas-sobre-inmigracion-del-gobierno-de-trump?v=35988190",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42398,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554172_1884108921890299_9040382279444070400_n.jpg?_nc_cat=0&oh=19660e5fff92408127f7d11ae0e94040&oe=5C10143E",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Marchan en EE.UU. contra las pol\u00edticas sobre inmigraci\u00f3n del gobierno de Trump",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530514800
+            },
+            {
+                "adArchiveID": "202900787039052",
+                "adid": "6108610882888",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "198342317438702",
+                "pageName": "B Studio",
+                "snapshot": {
+                    "ad_creative_id": 6108610879688,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00bfQUIERES AYUDAR? Entra a <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fics-law.org%2F&amp;h=AT0Jw0x7iHrUCjp8IGP6hvOPjYbMKWoZRFE7wLko-kfu-h9jInvrd1LfCNnQtLKLbkurDWPX-ptX0K1TObndoIfPHXMNjS9se61kCc-tt7M55Fn2rvv2vdr5N6KcYjqDKX49xh8pYzw\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://ics-law.org/</a> <br /> DO YOU WANT TO HELP? Enter to <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fics-law.org%2F&amp;h=AT3eDXAKOvdtICHsKDhxmz2TtQ_zZOldNGNl0aXLiSfdAhasWbr0p-HHAP2MngHl6NEYEfPguSU8UgA4W-kyliipfSNxlSHmOLSQmhn1LIYA__-d-G1U0tnjcD8eRjeM1WBS0s3a0NQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://ics-law.org/</a><br /> <br /> Aunque no se permite filmar en corte las audiencias realizadas a menores inmigrantes, la productora y creadora cinematogr\u00e1fica Linda Freedman recrea estas escenas en el cortometraje &quot;UNACCOMPANIED CHILDREN: Alone in America&quot;, una realidad que se vive a diario: los ni\u00f1os arrestados por ingresar ilegalmente al pa\u00eds no tienen derecho a un abogado designado por el tribunal y tampoco tienen forma de comunicarse o contratar a un representante legal. <br /> Este corto pretende recaudar fondos deducibles de impuestos a trav\u00e9s de la organizaci\u00f3n Immigration Counseling Service (ICS) para pagar abogados que defiendan los casos de cada uno de estos menores.<br /> <br /> Although it is not allowed to film in court hearings of immigrant children, the filmmaker and creator Linda Freedman recreates these scenes in the short film &quot;UNACCOMPANIED CHILDREN: Alone in America&quot;, a reality that is experienced daily: children arrested for illegally entering the country does not have the right to a lawyer appointed by the court and they have no way of communicating or hiring a legal representative.<br /> This short film aims to raise tax-deductible funds through the organization ICS (Immigration Counseling Service) to pay lawyers to defend the cases of each of these children."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534564672,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "B Studio",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "502966423232592": "Film Director"
+                    },
+                    "page_id": 198342317438702,
+                    "page_is_deleted": false,
+                    "page_like_count": 1963,
+                    "page_name": "B Studio",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36920076_202900797039051_6686519856528883712_n.jpg?_nc_cat=0&oh=e1c3ee199f52da9bd7ab920f04bcfb4c&oe=5BF947B0",
+                    "page_profile_uri": "https://www.facebook.com/DOCUMENTALESBSTUDIO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "UNACCOMPANIED Alone in America/ SIN COMPA\u00d1\u00cdA, SOLOS EN AM\u00c9RICA.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_405358999968360_2410991363467247616_n.mp4?_nc_cat=0&oh=d66096f0ccffbda3d3c4d76ecc2caa99&oe=5B79D5C4",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36964171_202900807039050_8388741612137611264_n.jpg?_nc_cat=0&oh=ba84b93627400bb82c989f00c259488d&oe=5C0DB299",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36473705_2139748509642894_3505150452675117056_n.mp4?_nc_cat=0&oh=8175bddb93f6256a60adc634ad53ed59&oe=5B79D260"
+                        }
+                    ]
+                },
+                "startDate": 1530428400
+            },
+            {
+                "adArchiveID": "208688783186055",
+                "adid": "6096586288005",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530860400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096586284605,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El General (r) Nestor Gonzalez Gonzalez hace un llamado a las FAN para que tomen consciencia y luchen por lograr la LIBERTAD y la DEMOCRACIA en VENEZUELA... <br /> <br /> La participaci\u00f3n activa de estas fuerzas armadas es crucial para lograr el cambio y que por fin llegue la tan anhelada #LuzParaVENEZUELA..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530480533,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36495823_208688803186053_4942602798928756736_n.jpg?_nc_cat=0&oh=ad362316290bcc476ba31e758c16ff5c&oe=5BF2E2D3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36467671_1819799101418358_291137970226855936_n.jpg?_nc_cat=0&oh=7093a04aa5ef326816c0da338aeeec44&oe=5C0BF8A6"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36487692_208688799852720_9193129114834305024_n.jpg?_nc_cat=0&oh=4f64eee5ab74ef6f5fd156e549bbe373&oe=5C0792EA",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36517968_208688796519387_5683820077254705152_n.jpg?_nc_cat=0&oh=c429b0c9f9336335746170f7b7ce42fe&oe=5BFED6D8",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530428400
+            },
+            {
+                "adArchiveID": "269619806969691",
+                "adid": "6095898195116",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533970800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "260798737433886",
+                "pageName": "Adventistas del  S\u00e9ptimo d\u00eda  en Oraci\u00f3n-P\u00e1gina",
+                "snapshot": {
+                    "ad_creative_id": 6095898193516,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "-------------------------\u2665 NO AL ABORTO SI A LA VIDA \u2665  ---------------------------\u00a1\u00a1Dale Me gusta a la p\u00e1gina y comparte\u00a1\u00a1..------------------  &quot;Yo pedir\u00e9 cuenta de la sangre de cada uno de ustedes: pedir\u00e9 cuenta de ella a todos los animales, y tambi\u00e9n pedir\u00e9 cuenta al hombre de la vida de su pr\u00f3jimo&quot; (G\u00e9n 9, 5)"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533783556,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Adventistas del  S\u00e9ptimo d\u00eda  en Oraci\u00f3n-P\u00e1gina",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "187714557925874": "Religious Organization"
+                    },
+                    "page_id": 260798737433886,
+                    "page_is_deleted": false,
+                    "page_like_count": 10462,
+                    "page_name": "Adventistas del  S\u00e9ptimo d\u00eda  en Oraci\u00f3n-P\u00e1gina",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38769041_882202828637707_6922794721970487296_n.jpg?_nc_cat=0&oh=d1025922c71469e14c0a450ba360fc05&oe=5BFF0B41",
+                    "page_profile_uri": "https://www.facebook.com/adventistasdelseptimodiaenoracion/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35357144_2006102906128190_3855641121426243584_n.mp4?_nc_cat=0&oh=74061d839d2c6aeb342ba4e4d2228684&oe=5B79D1A4",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38874519_882202831971040_7218563749274189824_n.jpg?_nc_cat=0&oh=e11819751a8d6ed69ccb75a1606c2f1a&oe=5C3A67E2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35316920_2018368851746950_2808299958883581952_n.mp4?_nc_cat=0&oh=d20ab6830bf452c5dfcae07334fa5013&oe=5B79D78E"
+                        }
+                    ]
+                },
+                "startDate": 1530428400
+            },
+            {
+                "adArchiveID": "472482519843022",
+                "adid": "6092540529891",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6092432158891,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "YES WE CAN RESTORE A REEF IN ONLY FEWS YEARS !<br /> <br /> With this technique, we will soon no longer need nurseries!<br /> This fast-growing technique can be use to mass-produce reef-building corals and to transplant them to dead or dying reefs that have taken centuries to develop!<br /> <br /> This can slow down or even reverse the alarming loss of corals.<br /> In 1 year or 2 years, it could become a dive site.<br /> The goal is to create &quot;in a very short time a reef like the reefs decades ago.No need to wait a century.<br /> We have just given a try and we will show you their evolution in the coming months!<br /> <br /> Corals will continue to grow on nurseries and around December, when the temperature of the water will be colder, it is not 100 or 500 corals that we will transplant but thousands with the help of biologists with whom we are working and we hope if we have the financial means to bring them to our island and thus serve as an example of what could be done in the Caribbean soon!<br /> <br /> Thanks to Marine Biologist Liza Carne of Fragments of Hopes, Diego Lirman Biologist Dr. Diego Lirman&#039;s Reef Restoration Laboratory of Biology of Austin Bowden-Kerby Coral for Conservatrion and of course biologist David Vaughan of Mote Marine Lab<br /> <br /> Thank you all for your support! Because more than ever, after the recent phenomena that touched us, we need your support for all for our future and those of our children!<br /> <br /> Thank you to the sailing school SaintBarth Yacht Club for the boat made available as well as the place!<br /> <br /> We will never say it enough, for lack of financial means, it will be impossible in the near future to continue our actions. So that we can continue on land as well as on sea, if you wish to give us financial help, go to the link below:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT0ry3viBzXNIJfdqpC3AVCPnQDD7d9RSs0sKd0pTG8NKABDSS1QwW0gabZnb0zY3QTM8f1ZICkcGaqNq5yxh73nXzKfYWegokKr0-_6Utmq0T0UR5qHeBm24XiY8W_C7cS_7IVnlS0vALCpusaFGBS0\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a><br /> <br /> Yes we can restore a reef in only fews years ! <br /> <br /> Avec cette technique nous pourrons prochainement plus avoir besoin de nurseries ! <br /> <br /> Cette technique de croissance rapide, peut permettre de produire en masse des coraux de construction de r\u00e9cifs pour les transplanter sur des r\u00e9cifs morts ou mourants qui ont pris des si\u00e8cles pour se d\u00e9velopper !<br /> <br /> Ce qui peut ralentir ou m\u00eame inverser la perte alarmante de coraux.<br /> <br /> Dans 1 an ou 2, il pourrait devenir un site de plong\u00e9e. Le but, est de cr\u00e9er &quot;dans un tr\u00e8s court laps de temps un r\u00e9cif comme les r\u00e9cifs il y a des d\u00e9cennies.<br /> <br /> Pas besoin d&#039;attendre un si\u00e8cle.<br /> <br /> Nous avons juste fait un essai et vous montrer leur \u00e9volution dans les mois qui viennent ! les coraux continueront de pousser sur les nurseries et vers le mois de d\u00e9cembre quand la temp\u00e9rature de l&#039;eau sera plus froide ce n&#039;est pas 100 ou 500 coraux que nous allons transplanter mais des milliers avec l&#039;aide des biologistes avec lesquels nous travaillions et que nous esp\u00e9rons si nous avons les moyens financiers de leur faire venir sur notre ile et ainsi servir d&#039;exemple de ce qui pourrait \u00eatre entrepris dans la Cara\u00efbe prochainement ! <br /> <br /> Merci \u00e0 la Biologiste Marin Liza Carne de Fragments of Hopes du Biologiste Diego Lirman  Dr. Diego Lirman&#039;s Reef Restoration Laboratory de Floride du Biologsite Austin Bowden-Kerby Coral for Conservatrion et bien sur le biologiste David Vaughan du Mote Marine Lab <br /> <br /> Merci \u00e0 vous tous pour votre soutien ! car plus que jamais apr\u00e8s les r\u00e9cents ph\u00e9nom\u00e8nes qui nous ont touch\u00e9 nous avons besoin de votre soutien \u00e0 tous pour notre futur et ceux de nos enfants ! <br /> <br /> Merci \u00e0 l&#039;\u00e9cole de voile le SaintBarth Yachtclub pour le bateau mis \u00e0 disposition ainsi que l&#039;endroit ! <br /> <br /> Nous ne le dirons jamais assez, par manque de moyens financiers, il nous sera impossible dans un futur proche de poursuivre nos actions. Pour que nous puissions continuer sur terre comme sur mer si vous souhaitez nous apporter une aide financi\u00e8re ,rendez-vous sur le lien ci-dessous :<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT0ZOfPPE1Lu24Vk7PvMVgzP7Y718NK8RfRpq9_uWYmlmZXIXqfbcuWviDTSjIXSkLH84o1BtjgWZFgzJvqqhD2TjLNQrwkFRumsWoWM_zPwCopKPYngEF_JaWv2hfXN1t28I8OjK9E\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531658139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37214279_456479504764122_8542583900411527168_n.jpg?_nc_cat=0&oh=e1fc75eecaa739b907cf279e94ad7391&oe=5C014A88",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372417_2109759685945851_7626400898670919680_n.png?_nc_cat=0&oh=87d60dafc6a48330e20c3ab8ba8ebb43&oe=5BF72EE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36373180_2109759709279182_6987705687996366848_n.jpg?_nc_cat=0&oh=5367571032e0f954ca285e488e2a6da8&oe=5BFB8452",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36359625_2109759705945849_905361445091278848_n.jpg?_nc_cat=0&oh=ff085216266049ef5e75c4acdf11d100&oe=5BEE10DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097625_456479501430789_5996783971768205312_n.jpg?_nc_cat=0&oh=39433be7d1fcc7fcb38bf521b9210939&oe=5C399D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372412_2109759669279186_4963074932343832576_n.png?_nc_cat=0&oh=abc07ce55f7efcd730f758ef43a219bc&oe=5BED6662"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37095941_456479524764120_2134642052267245568_n.jpg?_nc_cat=0&oh=a9a8b75865141b0436d27f8ff409ae6a&oe=5BF0B9B3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36277979_2109759919279161_2271646741595947008_n.png?_nc_cat=0&oh=bd81f4fc0593f3a55eec60a7a526033c&oe=5BF0A9FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097635_456479521430787_59144049013030912_n.jpg?_nc_cat=0&oh=c04ed34eff3ec500c61c6ccaa37a8781&oe=5BF8227F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36404819_2109760029279150_2967285564983738368_n.png?_nc_cat=0&oh=15765bb9a169acf4089c639e69ce0d2f&oe=5C0D8A4E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37109061_456479508097455_8666673696095600640_n.jpg?_nc_cat=0&oh=dccd570152e96dd9a3bd344461c8a13b&oe=5BF807A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36394079_2109760075945812_6200995574905307136_n.jpg?_nc_cat=0&oh=76c0921f8905aa5e16fb3f8dc8d6aeea&oe=5C0C7AD3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37105731_456479518097454_5298275727974596608_n.jpg?_nc_cat=0&oh=0dc1354882b73be8de2a6afad4b68394&oe=5BFFA25E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36521843_2109760149279138_5793071684349067264_n.png?_nc_cat=0&oh=c09f8e3740a34db6c1438d6b8c710333&oe=5C0BA329"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36406591_2109760455945774_6264159343940206592_n.jpg?_nc_cat=0&oh=2dff5c9c48abf1b68cc26fd3dbb4caf0&oe=5C08BF2C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36396815_2109760459279107_3093124468919238656_n.jpg?_nc_cat=0&oh=4e6366b2d747a9fb226d9a0e3b564ff9&oe=5BFDE559"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37006026_456479531430786_4509991925981380608_n.jpg?_nc_cat=0&oh=6333f7db946c04ec8ff2739cb46b414a&oe=5C04DCB1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36395605_2109760292612457_7020721754435747840_n.png?_nc_cat=0&oh=c7a34c6029864560cab876b615ca7c7d&oe=5C0AE2AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36459779_2109760642612422_4961127375128494080_n.jpg?_nc_cat=0&oh=82b8ca51b312801744ef3e9d2c5ececc&oe=5BF913A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36397351_2109760639279089_43989067930533888_n.jpg?_nc_cat=0&oh=fac86defdc31b88220d8a39981cd7770&oe=5C07BA2E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37229597_456479528097453_6602339919161458688_n.jpg?_nc_cat=0&oh=9d2da0f66d4b9a6125a501b0b246ccc9&oe=5C024418",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36322741_2109760569279096_4708479359915130880_n.png?_nc_cat=0&oh=9c3df674dbb0494d19d8afd9799e38e1&oe=5BF5E338"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36370004_2109760885945731_2427970898196692992_n.jpg?_nc_cat=0&oh=976a2f4d88308d061bcf4f83818f7825&oe=5C0C1180",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36333910_2109760882612398_68997975300374528_n.jpg?_nc_cat=0&oh=3f061ff4dd4680bbe7531f6fa24094c0&oe=5BFFF705"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36321743_456479514764121_904661348242161664_n.jpg?_nc_cat=0&oh=88fb2d7a24f1eec95cdbfb65e3e7df00&oe=5C0914CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36499831_2109760949279058_8483343356368257024_n.png?_nc_cat=0&oh=ebfe941977850a3e460df4676557cdfe&oe=5C0E8FA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37119521_456479511430788_4997933964954959872_n.jpg?_nc_cat=0&oh=1d168c846b052ddbd387dd79f04cd5bd&oe=5C1024B7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36410342_2109760995945720_42241918184194048_n.jpg?_nc_cat=0&oh=7b09b74efac38e7611e96e7b2f479f53&oe=5BF539A6"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37144820_456479488097457_7769695576194547712_n.jpg?_nc_cat=0&oh=4646eb0f30a8e4ab51108a045dea9dcf&oe=5BF5C00E",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530428400
+            },
+            {
+                "adArchiveID": "449899665472998",
+                "adid": "23842886879400327",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1691667177798461",
+                "pageName": "Brut",
+                "snapshot": {
+                    "ad_creative_id": "23842877831160327",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Gay conversion therapy is still happening in the U.S., and through increased awareness, <a href=\"https://www.facebook.com/chloegracemoretzpaginaoficial/\" data-hovercard=\"/ajax/hovercard/page.php?id=1491994337763591&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Chlo\u00eb Grace Moretz</a> is hoping her new movie can help put a stop to it."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Brut",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1529810692,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Brut",
+                    "disclaimer_label": 1,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Brut",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35234968_153025988895618_3471554325132607488_n.jpg?_nc_cat=0&oh=b804606f249fe1a858cf2fbf3656b4e3&oe=5BFDAE32",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1691667177798461,
+                    "page_is_deleted": false,
+                    "page_like_count": 1422537,
+                    "page_name": "Brut",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004536_153025985562285_4718926781963304960_n.jpg?_nc_cat=0&oh=6f915789d81786a9f1d85cb2566b62ba&oe=5BF2CD83",
+                    "page_profile_uri": "https://www.facebook.com/brutamerica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Chlo\u00eb Grace Moretz Fighting To End Conversion Therapy",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_210902266215716_6582180210257428480_n.mp4?_nc_cat=0&oh=6fe91a3914a08d92a14e03a8da663113&oe=5B79E7DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36004619_153025998895617_725298119482277888_n.jpg?_nc_cat=0&oh=168cd76b59d464a81bf2d6e32370bbc4&oe=5C0DBEA2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35954187_2117755061779911_7957523897732038656_n.mp4?_nc_cat=0&oh=2941087973ab15ac92376501a26ef718&oe=5B79E6D6"
+                        }
+                    ]
+                },
+                "startDate": 1530428400
+            },
+            {
+                "adArchiveID": "1640887456033916",
+                "adid": "6092515579491",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6092432158891,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "YES WE CAN RESTORE A REEF IN ONLY FEWS YEARS !<br /> <br /> With this technique, we will soon no longer need nurseries!<br /> This fast-growing technique can be use to mass-produce reef-building corals and to transplant them to dead or dying reefs that have taken centuries to develop!<br /> <br /> This can slow down or even reverse the alarming loss of corals.<br /> In 1 year or 2 years, it could become a dive site.<br /> The goal is to create &quot;in a very short time a reef like the reefs decades ago.No need to wait a century.<br /> We have just given a try and we will show you their evolution in the coming months!<br /> <br /> Corals will continue to grow on nurseries and around December, when the temperature of the water will be colder, it is not 100 or 500 corals that we will transplant but thousands with the help of biologists with whom we are working and we hope if we have the financial means to bring them to our island and thus serve as an example of what could be done in the Caribbean soon!<br /> <br /> Thanks to Marine Biologist Liza Carne of Fragments of Hopes, Diego Lirman Biologist Dr. Diego Lirman&#039;s Reef Restoration Laboratory of Biology of Austin Bowden-Kerby Coral for Conservatrion and of course biologist David Vaughan of Mote Marine Lab<br /> <br /> Thank you all for your support! Because more than ever, after the recent phenomena that touched us, we need your support for all for our future and those of our children!<br /> <br /> Thank you to the sailing school SaintBarth Yacht Club for the boat made available as well as the place!<br /> <br /> We will never say it enough, for lack of financial means, it will be impossible in the near future to continue our actions. So that we can continue on land as well as on sea, if you wish to give us financial help, go to the link below:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT3LDN3GszL_6KKeoSICg8GEUzpE9sqZIsrofsv-Ifnzhsy3V013CADzgbqVww75ofAZ3FE1t2gzu4NIEj415M2ourRc0CeGkrUrEqgFkmUaKK2b3H1X_Rv7HDHYPNWh9oYwS5mQBbOf-GKoecI1zedt\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a><br /> <br /> Yes we can restore a reef in only fews years ! <br /> <br /> Avec cette technique nous pourrons prochainement plus avoir besoin de nurseries ! <br /> <br /> Cette technique de croissance rapide, peut permettre de produire en masse des coraux de construction de r\u00e9cifs pour les transplanter sur des r\u00e9cifs morts ou mourants qui ont pris des si\u00e8cles pour se d\u00e9velopper !<br /> <br /> Ce qui peut ralentir ou m\u00eame inverser la perte alarmante de coraux.<br /> <br /> Dans 1 an ou 2, il pourrait devenir un site de plong\u00e9e. Le but, est de cr\u00e9er &quot;dans un tr\u00e8s court laps de temps un r\u00e9cif comme les r\u00e9cifs il y a des d\u00e9cennies.<br /> <br /> Pas besoin d&#039;attendre un si\u00e8cle.<br /> <br /> Nous avons juste fait un essai et vous montrer leur \u00e9volution dans les mois qui viennent ! les coraux continueront de pousser sur les nurseries et vers le mois de d\u00e9cembre quand la temp\u00e9rature de l&#039;eau sera plus froide ce n&#039;est pas 100 ou 500 coraux que nous allons transplanter mais des milliers avec l&#039;aide des biologistes avec lesquels nous travaillions et que nous esp\u00e9rons si nous avons les moyens financiers de leur faire venir sur notre ile et ainsi servir d&#039;exemple de ce qui pourrait \u00eatre entrepris dans la Cara\u00efbe prochainement ! <br /> <br /> Merci \u00e0 la Biologiste Marin Liza Carne de Fragments of Hopes du Biologiste Diego Lirman  Dr. Diego Lirman&#039;s Reef Restoration Laboratory de Floride du Biologsite Austin Bowden-Kerby Coral for Conservatrion et bien sur le biologiste David Vaughan du Mote Marine Lab <br /> <br /> Merci \u00e0 vous tous pour votre soutien ! car plus que jamais apr\u00e8s les r\u00e9cents ph\u00e9nom\u00e8nes qui nous ont touch\u00e9 nous avons besoin de votre soutien \u00e0 tous pour notre futur et ceux de nos enfants ! <br /> <br /> Merci \u00e0 l&#039;\u00e9cole de voile le SaintBarth Yachtclub pour le bateau mis \u00e0 disposition ainsi que l&#039;endroit ! <br /> <br /> Nous ne le dirons jamais assez, par manque de moyens financiers, il nous sera impossible dans un futur proche de poursuivre nos actions. Pour que nous puissions continuer sur terre comme sur mer si vous souhaitez nous apporter une aide financi\u00e8re ,rendez-vous sur le lien ci-dessous :<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT2VpAAX3Xka5em2O4LyZQQ7RQcnONUCUz2wQycRwJAgT0drVmIVu0nvZoqYi7tR0zOxKlh8AC3UDntkCqA2iWDvM502FRsQjfhu_4r1qy8JgdDL1IoDRXQBRNHDi8HeHgBN_aUK6PY\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531658139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37214279_456479504764122_8542583900411527168_n.jpg?_nc_cat=0&oh=e1fc75eecaa739b907cf279e94ad7391&oe=5C014A88",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372417_2109759685945851_7626400898670919680_n.png?_nc_cat=0&oh=87d60dafc6a48330e20c3ab8ba8ebb43&oe=5BF72EE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36373180_2109759709279182_6987705687996366848_n.jpg?_nc_cat=0&oh=5367571032e0f954ca285e488e2a6da8&oe=5BFB8452",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36359625_2109759705945849_905361445091278848_n.jpg?_nc_cat=0&oh=ff085216266049ef5e75c4acdf11d100&oe=5BEE10DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097625_456479501430789_5996783971768205312_n.jpg?_nc_cat=0&oh=39433be7d1fcc7fcb38bf521b9210939&oe=5C399D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372412_2109759669279186_4963074932343832576_n.png?_nc_cat=0&oh=abc07ce55f7efcd730f758ef43a219bc&oe=5BED6662"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37095941_456479524764120_2134642052267245568_n.jpg?_nc_cat=0&oh=a9a8b75865141b0436d27f8ff409ae6a&oe=5BF0B9B3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36277979_2109759919279161_2271646741595947008_n.png?_nc_cat=0&oh=bd81f4fc0593f3a55eec60a7a526033c&oe=5BF0A9FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097635_456479521430787_59144049013030912_n.jpg?_nc_cat=0&oh=c04ed34eff3ec500c61c6ccaa37a8781&oe=5BF8227F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36404819_2109760029279150_2967285564983738368_n.png?_nc_cat=0&oh=15765bb9a169acf4089c639e69ce0d2f&oe=5C0D8A4E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37109061_456479508097455_8666673696095600640_n.jpg?_nc_cat=0&oh=dccd570152e96dd9a3bd344461c8a13b&oe=5BF807A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36394079_2109760075945812_6200995574905307136_n.jpg?_nc_cat=0&oh=76c0921f8905aa5e16fb3f8dc8d6aeea&oe=5C0C7AD3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37105731_456479518097454_5298275727974596608_n.jpg?_nc_cat=0&oh=0dc1354882b73be8de2a6afad4b68394&oe=5BFFA25E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36521843_2109760149279138_5793071684349067264_n.png?_nc_cat=0&oh=c09f8e3740a34db6c1438d6b8c710333&oe=5C0BA329"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36406591_2109760455945774_6264159343940206592_n.jpg?_nc_cat=0&oh=2dff5c9c48abf1b68cc26fd3dbb4caf0&oe=5C08BF2C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36396815_2109760459279107_3093124468919238656_n.jpg?_nc_cat=0&oh=4e6366b2d747a9fb226d9a0e3b564ff9&oe=5BFDE559"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37006026_456479531430786_4509991925981380608_n.jpg?_nc_cat=0&oh=6333f7db946c04ec8ff2739cb46b414a&oe=5C04DCB1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36395605_2109760292612457_7020721754435747840_n.png?_nc_cat=0&oh=c7a34c6029864560cab876b615ca7c7d&oe=5C0AE2AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36459779_2109760642612422_4961127375128494080_n.jpg?_nc_cat=0&oh=82b8ca51b312801744ef3e9d2c5ececc&oe=5BF913A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36397351_2109760639279089_43989067930533888_n.jpg?_nc_cat=0&oh=fac86defdc31b88220d8a39981cd7770&oe=5C07BA2E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37229597_456479528097453_6602339919161458688_n.jpg?_nc_cat=0&oh=9d2da0f66d4b9a6125a501b0b246ccc9&oe=5C024418",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36322741_2109760569279096_4708479359915130880_n.png?_nc_cat=0&oh=9c3df674dbb0494d19d8afd9799e38e1&oe=5BF5E338"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36370004_2109760885945731_2427970898196692992_n.jpg?_nc_cat=0&oh=976a2f4d88308d061bcf4f83818f7825&oe=5C0C1180",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36333910_2109760882612398_68997975300374528_n.jpg?_nc_cat=0&oh=3f061ff4dd4680bbe7531f6fa24094c0&oe=5BFFF705"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36321743_456479514764121_904661348242161664_n.jpg?_nc_cat=0&oh=88fb2d7a24f1eec95cdbfb65e3e7df00&oe=5C0914CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36499831_2109760949279058_8483343356368257024_n.png?_nc_cat=0&oh=ebfe941977850a3e460df4676557cdfe&oe=5C0E8FA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37119521_456479511430788_4997933964954959872_n.jpg?_nc_cat=0&oh=1d168c846b052ddbd387dd79f04cd5bd&oe=5C1024B7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36410342_2109760995945720_42241918184194048_n.jpg?_nc_cat=0&oh=7b09b74efac38e7611e96e7b2f479f53&oe=5BF539A6"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37144820_456479488097457_7769695576194547712_n.jpg?_nc_cat=0&oh=4646eb0f30a8e4ab51108a045dea9dcf&oe=5BF5C00E",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530342000
+            },
+            {
+                "adArchiveID": "456479474764125",
+                "adid": "6092515519291",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6092432158891,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "YES WE CAN RESTORE A REEF IN ONLY FEWS YEARS !<br /> <br /> With this technique, we will soon no longer need nurseries!<br /> This fast-growing technique can be use to mass-produce reef-building corals and to transplant them to dead or dying reefs that have taken centuries to develop!<br /> <br /> This can slow down or even reverse the alarming loss of corals.<br /> In 1 year or 2 years, it could become a dive site.<br /> The goal is to create &quot;in a very short time a reef like the reefs decades ago.No need to wait a century.<br /> We have just given a try and we will show you their evolution in the coming months!<br /> <br /> Corals will continue to grow on nurseries and around December, when the temperature of the water will be colder, it is not 100 or 500 corals that we will transplant but thousands with the help of biologists with whom we are working and we hope if we have the financial means to bring them to our island and thus serve as an example of what could be done in the Caribbean soon!<br /> <br /> Thanks to Marine Biologist Liza Carne of Fragments of Hopes, Diego Lirman Biologist Dr. Diego Lirman&#039;s Reef Restoration Laboratory of Biology of Austin Bowden-Kerby Coral for Conservatrion and of course biologist David Vaughan of Mote Marine Lab<br /> <br /> Thank you all for your support! Because more than ever, after the recent phenomena that touched us, we need your support for all for our future and those of our children!<br /> <br /> Thank you to the sailing school SaintBarth Yacht Club for the boat made available as well as the place!<br /> <br /> We will never say it enough, for lack of financial means, it will be impossible in the near future to continue our actions. So that we can continue on land as well as on sea, if you wish to give us financial help, go to the link below:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT2EwV7c0kV81jGOKxQNqDzhDEoc3kiUczo37c-d7IHlCmxSFSeeBHDP0QCF9DttaTfweGAqOC3hHMqz5R64oRL0gI0BMI94Bmob3-DDYaqgzF7kCDRHEc1b-I9g7aPgkgrlBDi9JmU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a><br /> <br /> Yes we can restore a reef in only fews years ! <br /> <br /> Avec cette technique nous pourrons prochainement plus avoir besoin de nurseries ! <br /> <br /> Cette technique de croissance rapide, peut permettre de produire en masse des coraux de construction de r\u00e9cifs pour les transplanter sur des r\u00e9cifs morts ou mourants qui ont pris des si\u00e8cles pour se d\u00e9velopper !<br /> <br /> Ce qui peut ralentir ou m\u00eame inverser la perte alarmante de coraux.<br /> <br /> Dans 1 an ou 2, il pourrait devenir un site de plong\u00e9e. Le but, est de cr\u00e9er &quot;dans un tr\u00e8s court laps de temps un r\u00e9cif comme les r\u00e9cifs il y a des d\u00e9cennies.<br /> <br /> Pas besoin d&#039;attendre un si\u00e8cle.<br /> <br /> Nous avons juste fait un essai et vous montrer leur \u00e9volution dans les mois qui viennent ! les coraux continueront de pousser sur les nurseries et vers le mois de d\u00e9cembre quand la temp\u00e9rature de l&#039;eau sera plus froide ce n&#039;est pas 100 ou 500 coraux que nous allons transplanter mais des milliers avec l&#039;aide des biologistes avec lesquels nous travaillions et que nous esp\u00e9rons si nous avons les moyens financiers de leur faire venir sur notre ile et ainsi servir d&#039;exemple de ce qui pourrait \u00eatre entrepris dans la Cara\u00efbe prochainement ! <br /> <br /> Merci \u00e0 la Biologiste Marin Liza Carne de Fragments of Hopes du Biologiste Diego Lirman  Dr. Diego Lirman&#039;s Reef Restoration Laboratory de Floride du Biologsite Austin Bowden-Kerby Coral for Conservatrion et bien sur le biologiste David Vaughan du Mote Marine Lab <br /> <br /> Merci \u00e0 vous tous pour votre soutien ! car plus que jamais apr\u00e8s les r\u00e9cents ph\u00e9nom\u00e8nes qui nous ont touch\u00e9 nous avons besoin de votre soutien \u00e0 tous pour notre futur et ceux de nos enfants ! <br /> <br /> Merci \u00e0 l&#039;\u00e9cole de voile le SaintBarth Yachtclub pour le bateau mis \u00e0 disposition ainsi que l&#039;endroit ! <br /> <br /> Nous ne le dirons jamais assez, par manque de moyens financiers, il nous sera impossible dans un futur proche de poursuivre nos actions. Pour que nous puissions continuer sur terre comme sur mer si vous souhaitez nous apporter une aide financi\u00e8re ,rendez-vous sur le lien ci-dessous :<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT1kn9Kg5YWPNZ_0Vqp3FWu9bdQ3ywOy9Fza_S2B3PhwBQ6yQiXSp7R_qBSJlRmjfT3QvF-twUNSRvUsAtQsUWO1apSvp4vaDCKY0paCbTdVdTYcWUcf2O5iNhfB5_k8p5dWGMf2gVs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531658139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37214279_456479504764122_8542583900411527168_n.jpg?_nc_cat=0&oh=e1fc75eecaa739b907cf279e94ad7391&oe=5C014A88",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372417_2109759685945851_7626400898670919680_n.png?_nc_cat=0&oh=87d60dafc6a48330e20c3ab8ba8ebb43&oe=5BF72EE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36373180_2109759709279182_6987705687996366848_n.jpg?_nc_cat=0&oh=5367571032e0f954ca285e488e2a6da8&oe=5BFB8452",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36359625_2109759705945849_905361445091278848_n.jpg?_nc_cat=0&oh=ff085216266049ef5e75c4acdf11d100&oe=5BEE10DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097625_456479501430789_5996783971768205312_n.jpg?_nc_cat=0&oh=39433be7d1fcc7fcb38bf521b9210939&oe=5C399D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372412_2109759669279186_4963074932343832576_n.png?_nc_cat=0&oh=abc07ce55f7efcd730f758ef43a219bc&oe=5BED6662"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37095941_456479524764120_2134642052267245568_n.jpg?_nc_cat=0&oh=a9a8b75865141b0436d27f8ff409ae6a&oe=5BF0B9B3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36277979_2109759919279161_2271646741595947008_n.png?_nc_cat=0&oh=bd81f4fc0593f3a55eec60a7a526033c&oe=5BF0A9FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097635_456479521430787_59144049013030912_n.jpg?_nc_cat=0&oh=c04ed34eff3ec500c61c6ccaa37a8781&oe=5BF8227F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36404819_2109760029279150_2967285564983738368_n.png?_nc_cat=0&oh=15765bb9a169acf4089c639e69ce0d2f&oe=5C0D8A4E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37109061_456479508097455_8666673696095600640_n.jpg?_nc_cat=0&oh=dccd570152e96dd9a3bd344461c8a13b&oe=5BF807A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36394079_2109760075945812_6200995574905307136_n.jpg?_nc_cat=0&oh=76c0921f8905aa5e16fb3f8dc8d6aeea&oe=5C0C7AD3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37105731_456479518097454_5298275727974596608_n.jpg?_nc_cat=0&oh=0dc1354882b73be8de2a6afad4b68394&oe=5BFFA25E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36521843_2109760149279138_5793071684349067264_n.png?_nc_cat=0&oh=c09f8e3740a34db6c1438d6b8c710333&oe=5C0BA329"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36406591_2109760455945774_6264159343940206592_n.jpg?_nc_cat=0&oh=2dff5c9c48abf1b68cc26fd3dbb4caf0&oe=5C08BF2C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36396815_2109760459279107_3093124468919238656_n.jpg?_nc_cat=0&oh=4e6366b2d747a9fb226d9a0e3b564ff9&oe=5BFDE559"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37006026_456479531430786_4509991925981380608_n.jpg?_nc_cat=0&oh=6333f7db946c04ec8ff2739cb46b414a&oe=5C04DCB1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36395605_2109760292612457_7020721754435747840_n.png?_nc_cat=0&oh=c7a34c6029864560cab876b615ca7c7d&oe=5C0AE2AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36459779_2109760642612422_4961127375128494080_n.jpg?_nc_cat=0&oh=82b8ca51b312801744ef3e9d2c5ececc&oe=5BF913A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36397351_2109760639279089_43989067930533888_n.jpg?_nc_cat=0&oh=fac86defdc31b88220d8a39981cd7770&oe=5C07BA2E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37229597_456479528097453_6602339919161458688_n.jpg?_nc_cat=0&oh=9d2da0f66d4b9a6125a501b0b246ccc9&oe=5C024418",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36322741_2109760569279096_4708479359915130880_n.png?_nc_cat=0&oh=9c3df674dbb0494d19d8afd9799e38e1&oe=5BF5E338"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36370004_2109760885945731_2427970898196692992_n.jpg?_nc_cat=0&oh=976a2f4d88308d061bcf4f83818f7825&oe=5C0C1180",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36333910_2109760882612398_68997975300374528_n.jpg?_nc_cat=0&oh=3f061ff4dd4680bbe7531f6fa24094c0&oe=5BFFF705"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36321743_456479514764121_904661348242161664_n.jpg?_nc_cat=0&oh=88fb2d7a24f1eec95cdbfb65e3e7df00&oe=5C0914CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36499831_2109760949279058_8483343356368257024_n.png?_nc_cat=0&oh=ebfe941977850a3e460df4676557cdfe&oe=5C0E8FA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37119521_456479511430788_4997933964954959872_n.jpg?_nc_cat=0&oh=1d168c846b052ddbd387dd79f04cd5bd&oe=5C1024B7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36410342_2109760995945720_42241918184194048_n.jpg?_nc_cat=0&oh=7b09b74efac38e7611e96e7b2f479f53&oe=5BF539A6"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37144820_456479488097457_7769695576194547712_n.jpg?_nc_cat=0&oh=4646eb0f30a8e4ab51108a045dea9dcf&oe=5BF5C00E",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530342000
+            },
+            {
+                "adArchiveID": "423151264849551",
+                "adid": "6092511570491",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6092432158891,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "YES WE CAN RESTORE A REEF IN ONLY FEWS YEARS !<br /> <br /> With this technique, we will soon no longer need nurseries!<br /> This fast-growing technique can be use to mass-produce reef-building corals and to transplant them to dead or dying reefs that have taken centuries to develop!<br /> <br /> This can slow down or even reverse the alarming loss of corals.<br /> In 1 year or 2 years, it could become a dive site.<br /> The goal is to create &quot;in a very short time a reef like the reefs decades ago.No need to wait a century.<br /> We have just given a try and we will show you their evolution in the coming months!<br /> <br /> Corals will continue to grow on nurseries and around December, when the temperature of the water will be colder, it is not 100 or 500 corals that we will transplant but thousands with the help of biologists with whom we are working and we hope if we have the financial means to bring them to our island and thus serve as an example of what could be done in the Caribbean soon!<br /> <br /> Thanks to Marine Biologist Liza Carne of Fragments of Hopes, Diego Lirman Biologist Dr. Diego Lirman&#039;s Reef Restoration Laboratory of Biology of Austin Bowden-Kerby Coral for Conservatrion and of course biologist David Vaughan of Mote Marine Lab<br /> <br /> Thank you all for your support! Because more than ever, after the recent phenomena that touched us, we need your support for all for our future and those of our children!<br /> <br /> Thank you to the sailing school SaintBarth Yacht Club for the boat made available as well as the place!<br /> <br /> We will never say it enough, for lack of financial means, it will be impossible in the near future to continue our actions. So that we can continue on land as well as on sea, if you wish to give us financial help, go to the link below:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT3TeoAG1lFeuUc-dKsLQlt1rPyz4VIwxlaEhOegZsBymTzlci7QQaLEDCgW26kIgV-UIYPyVbjmNSi6jPiPkTi7mWnSUMq-ALzHLTFNc6reXopDKq-B_df1OYa5yit851rH-ys12Ew\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a><br /> <br /> Yes we can restore a reef in only fews years ! <br /> <br /> Avec cette technique nous pourrons prochainement plus avoir besoin de nurseries ! <br /> <br /> Cette technique de croissance rapide, peut permettre de produire en masse des coraux de construction de r\u00e9cifs pour les transplanter sur des r\u00e9cifs morts ou mourants qui ont pris des si\u00e8cles pour se d\u00e9velopper !<br /> <br /> Ce qui peut ralentir ou m\u00eame inverser la perte alarmante de coraux.<br /> <br /> Dans 1 an ou 2, il pourrait devenir un site de plong\u00e9e. Le but, est de cr\u00e9er &quot;dans un tr\u00e8s court laps de temps un r\u00e9cif comme les r\u00e9cifs il y a des d\u00e9cennies.<br /> <br /> Pas besoin d&#039;attendre un si\u00e8cle.<br /> <br /> Nous avons juste fait un essai et vous montrer leur \u00e9volution dans les mois qui viennent ! les coraux continueront de pousser sur les nurseries et vers le mois de d\u00e9cembre quand la temp\u00e9rature de l&#039;eau sera plus froide ce n&#039;est pas 100 ou 500 coraux que nous allons transplanter mais des milliers avec l&#039;aide des biologistes avec lesquels nous travaillions et que nous esp\u00e9rons si nous avons les moyens financiers de leur faire venir sur notre ile et ainsi servir d&#039;exemple de ce qui pourrait \u00eatre entrepris dans la Cara\u00efbe prochainement ! <br /> <br /> Merci \u00e0 la Biologiste Marin Liza Carne de Fragments of Hopes du Biologiste Diego Lirman  Dr. Diego Lirman&#039;s Reef Restoration Laboratory de Floride du Biologsite Austin Bowden-Kerby Coral for Conservatrion et bien sur le biologiste David Vaughan du Mote Marine Lab <br /> <br /> Merci \u00e0 vous tous pour votre soutien ! car plus que jamais apr\u00e8s les r\u00e9cents ph\u00e9nom\u00e8nes qui nous ont touch\u00e9 nous avons besoin de votre soutien \u00e0 tous pour notre futur et ceux de nos enfants ! <br /> <br /> Merci \u00e0 l&#039;\u00e9cole de voile le SaintBarth Yachtclub pour le bateau mis \u00e0 disposition ainsi que l&#039;endroit ! <br /> <br /> Nous ne le dirons jamais assez, par manque de moyens financiers, il nous sera impossible dans un futur proche de poursuivre nos actions. Pour que nous puissions continuer sur terre comme sur mer si vous souhaitez nous apporter une aide financi\u00e8re ,rendez-vous sur le lien ci-dessous :<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT1XArOxhAFugBIS7-gi1tMl2Ayp6ASXejqFSW5B7N4zOzKtIi4w0i0grT1VsMhOp957JU83IG8nmcqgs0BWkV3ref4mG7eIQNWnEW46SdBBWUaR4QmGftd6E4IX4gPQVKLNsl8wWvY\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531658139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37214279_456479504764122_8542583900411527168_n.jpg?_nc_cat=0&oh=e1fc75eecaa739b907cf279e94ad7391&oe=5C014A88",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372417_2109759685945851_7626400898670919680_n.png?_nc_cat=0&oh=87d60dafc6a48330e20c3ab8ba8ebb43&oe=5BF72EE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36373180_2109759709279182_6987705687996366848_n.jpg?_nc_cat=0&oh=5367571032e0f954ca285e488e2a6da8&oe=5BFB8452",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36359625_2109759705945849_905361445091278848_n.jpg?_nc_cat=0&oh=ff085216266049ef5e75c4acdf11d100&oe=5BEE10DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097625_456479501430789_5996783971768205312_n.jpg?_nc_cat=0&oh=39433be7d1fcc7fcb38bf521b9210939&oe=5C399D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372412_2109759669279186_4963074932343832576_n.png?_nc_cat=0&oh=abc07ce55f7efcd730f758ef43a219bc&oe=5BED6662"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37095941_456479524764120_2134642052267245568_n.jpg?_nc_cat=0&oh=a9a8b75865141b0436d27f8ff409ae6a&oe=5BF0B9B3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36277979_2109759919279161_2271646741595947008_n.png?_nc_cat=0&oh=bd81f4fc0593f3a55eec60a7a526033c&oe=5BF0A9FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097635_456479521430787_59144049013030912_n.jpg?_nc_cat=0&oh=c04ed34eff3ec500c61c6ccaa37a8781&oe=5BF8227F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36404819_2109760029279150_2967285564983738368_n.png?_nc_cat=0&oh=15765bb9a169acf4089c639e69ce0d2f&oe=5C0D8A4E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37109061_456479508097455_8666673696095600640_n.jpg?_nc_cat=0&oh=dccd570152e96dd9a3bd344461c8a13b&oe=5BF807A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36394079_2109760075945812_6200995574905307136_n.jpg?_nc_cat=0&oh=76c0921f8905aa5e16fb3f8dc8d6aeea&oe=5C0C7AD3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37105731_456479518097454_5298275727974596608_n.jpg?_nc_cat=0&oh=0dc1354882b73be8de2a6afad4b68394&oe=5BFFA25E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36521843_2109760149279138_5793071684349067264_n.png?_nc_cat=0&oh=c09f8e3740a34db6c1438d6b8c710333&oe=5C0BA329"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36406591_2109760455945774_6264159343940206592_n.jpg?_nc_cat=0&oh=2dff5c9c48abf1b68cc26fd3dbb4caf0&oe=5C08BF2C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36396815_2109760459279107_3093124468919238656_n.jpg?_nc_cat=0&oh=4e6366b2d747a9fb226d9a0e3b564ff9&oe=5BFDE559"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37006026_456479531430786_4509991925981380608_n.jpg?_nc_cat=0&oh=6333f7db946c04ec8ff2739cb46b414a&oe=5C04DCB1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36395605_2109760292612457_7020721754435747840_n.png?_nc_cat=0&oh=c7a34c6029864560cab876b615ca7c7d&oe=5C0AE2AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36459779_2109760642612422_4961127375128494080_n.jpg?_nc_cat=0&oh=82b8ca51b312801744ef3e9d2c5ececc&oe=5BF913A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36397351_2109760639279089_43989067930533888_n.jpg?_nc_cat=0&oh=fac86defdc31b88220d8a39981cd7770&oe=5C07BA2E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37229597_456479528097453_6602339919161458688_n.jpg?_nc_cat=0&oh=9d2da0f66d4b9a6125a501b0b246ccc9&oe=5C024418",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36322741_2109760569279096_4708479359915130880_n.png?_nc_cat=0&oh=9c3df674dbb0494d19d8afd9799e38e1&oe=5BF5E338"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36370004_2109760885945731_2427970898196692992_n.jpg?_nc_cat=0&oh=976a2f4d88308d061bcf4f83818f7825&oe=5C0C1180",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36333910_2109760882612398_68997975300374528_n.jpg?_nc_cat=0&oh=3f061ff4dd4680bbe7531f6fa24094c0&oe=5BFFF705"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36321743_456479514764121_904661348242161664_n.jpg?_nc_cat=0&oh=88fb2d7a24f1eec95cdbfb65e3e7df00&oe=5C0914CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36499831_2109760949279058_8483343356368257024_n.png?_nc_cat=0&oh=ebfe941977850a3e460df4676557cdfe&oe=5C0E8FA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37119521_456479511430788_4997933964954959872_n.jpg?_nc_cat=0&oh=1d168c846b052ddbd387dd79f04cd5bd&oe=5C1024B7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36410342_2109760995945720_42241918184194048_n.jpg?_nc_cat=0&oh=7b09b74efac38e7611e96e7b2f479f53&oe=5BF539A6"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37144820_456479488097457_7769695576194547712_n.jpg?_nc_cat=0&oh=4646eb0f30a8e4ab51108a045dea9dcf&oe=5BF5C00E",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530342000
+            }
+        ],
+        "totalCount": 235,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

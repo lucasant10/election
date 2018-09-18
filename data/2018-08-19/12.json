@@ -1,0 +1,2124 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQGBbvt1bQtK:AQGi2g9bQchd",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591479636102729136",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfboAr7crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHbqi5uEiJbIAbqusZPIx8wB3Lem1faF7wPy2J3igs7NAf7X38q84vYBgqO1vdyrsgKI8MWvqqHPAq7B2qDZoYMFrqybnMy8jQbyhrP358icBu72ipW59bAGxOjL2c2XvAb22sSg1LTwBozVot3+2NEHjOv79MfE2weyz/+D+5/1AaCSo9yjx27w6u2TqPnXB9KD7d+P4XGMsIuB1seHAczk+72F8ukHmIfDqvqlc6Sxjb/8+toHtp6P3v3ypAfg352YyYi9BpiG2LLr1XrEz4HfremAAZannsvnv74CrvKWivrkggGojKOb5uvwBsaJpsrzqowB1uGG/sKVlALEjZ744/X4A9qrrcSY0Wmm3Yi7yYGUAea49o6I97oD/tvlkdDOyAemwqGAopLkAeCv/srSkPQB1tilkd22ebiJjJb5wPwHmoaF3cSaiQPK58bd6qTtB/SKzOGu/2Ok75jn8bqvAvz+2tLqqM0H1Lq3pKXreJzOjL7mmMcBkp/h0amkxgLMg6+t9qnLAtKR2trnxLoBupjg2ri72Aeklri1xtBz/qruqICeggGekMaS3pDqAdzJ3OXTnmbouYb5/emOAcS5z+zDkXOG4aKrnouZBOqRjp6gv5ACmo7f0NPexAPS5OX59JnjBv6cn7KY7JEB6ursy9291wfCzeCdmeyVAe7/4Jm+kLUCvrL/4cTP0waIjqDUybKsB9ixrMflima8ndKLzOSTAcbcyOW3iXXKrr2Jgt/DAeir7c6b52PKjuL7l5ewApyK24GKumSIi6POp6FqtNeW18jKmAPC1sH0saOhAa7quafasPsD5L/J3JP7cfT50s7an4cBlPXH5+P4da6H657b3nWYhY6F0JDWB6bI/fi825IE3JGN//a1igPMwK+yjMuCAo7MlLST4YIB+JqA59+v/wK2v965u6GEAYbUkvmBl+cHwPvJ4K2whgHOtZ2V/opp1LWxj6KHgwHgirfWv7GSAe6Qyr6BpdgG9qmpvsrqvwea84XS5vPRB7Cw1sr705cHlsSP58ivafSJip2I6OgBxpaJpLil4AfGsJnKr9vQAaqc2YyB8/QFhtfF74Sad/Dxl5ChurEDkpKBkbXgavyhpoeazIwBsPPGspXTigOaq+zupZSUAb7X2OG6+pUGzt7J1eTsuQHAmKTOx6fAA5rQw9rCmnqM5/W30dxtnMborK3SlAHwvISE+ObTAeDlorz0rWTOopqo3qiRAez6rJq1xN0BipKg2OerwQK0tLqu1NrBApi1wYOH88EGgLjs1ZibxQaqx420w7GkB/buoZre9swHqITi1rudf/jZtua5vZEBmNejhL+A1QGs68yem7Fl+Mv32LGT9gbm1pzH+MnBAoKV8JbsoMgDluelwMuI8gPi2e6MvN/qB6ynvpjXtmuU872Ots1lzsrLl63SuwH4/sbw8qHlAYj7tOeg//kG+qyipOTVgwHWzoHivfBq2N6Oy5nZZ/iZuZ2C7O8GrrbOv8Cz1gG4wdSDq7zoAeSPse23oJcFsuGc2+/nsga21JGDsehNpJj1kMWvfsKVgpnsyYIBtL2E3eLn5wHUsfC5xP2qAuyTo/rY/LUG4s78yrTK5ge22pXD587oB5Lto7Kuk3OUueOB6/l19pT8qvr81AG2t8TxrbT2Ae795dmL0u4DsoyHzqjL/wP8pdGq04SWBNj3mcqw5eIG1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkGGcU8eLQB8AGsAugCpAPgA5wE2ASUBdAFAA==",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "287141675418977",
+                "adid": "6103620811981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "509757149450074",
+                "adid": "6103620806381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "657465601297514",
+                "adid": "6103620804781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1807540335961334",
+                "adid": "6103620816981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2195903577297841",
+                "adid": "6103620815581",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2200377180206747",
+                "adid": "6103620810181",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620801581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "N\u00e3o acreditamos em salvadores da p\u00e1tria. <br /> Acreditamos no melhor de n\u00f3s mesmos. <br /> <br /> \u00c9 poss\u00edvel construir a pol\u00edtica que o dinheiro n\u00e3o compra."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39385869_509757172783405_2462604990485626880_n.jpg?_nc_cat=0&oh=fce5ef8a8de0460473e614b147e12ab6&oe=5BF17A64",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39349309_509757176116738_5409388486132236288_n.jpg?_nc_cat=0&oh=d78e4373abe1e4961bd559b26ea9b8f3&oe=5BED069B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289441_509757156116740_8372055127321739264_n.jpg?_nc_cat=0&oh=6348ff7bb5d69c66c2f8d47975744e5f&oe=5C01E3F7",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "253220318640969",
+                "adid": "6103620773981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620773781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320081_253220338640967_7293953907221331968_n.jpg?_nc_cat=0&oh=abc59c573afa736bba12b0f86e5caff6&oe=5C032E6D",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39561659_253220341974300_6206472306747768832_n.jpg?_nc_cat=0&oh=9c01f3e219fa9de770208b689dc10cb1&oe=5BF695AA",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "259378848230986",
+                "adid": "6103620797381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "468339653575995",
+                "adid": "6103620792781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "541859232910811",
+                "adid": "6103620793981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1087727808069495",
+                "adid": "6103620787381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1124994824332057",
+                "adid": "6103620776581",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620776381,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311101_1124994837665389_8394495476744847360_n.jpg?_nc_cat=0&oh=8da2057b307f32a8610226b875f7ee0d&oe=5BEEA753",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=2111b62704523222d3d29492fe203704&oe=5B79E7AC",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285697_1124994847665388_4792642615629578240_n.jpg?_nc_cat=0&oh=4d892f68b7fd615d1a2d6dc0659f3609&oe=5BF03639",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=0d38c23facdcad86e502d1c84271465e&oe=5B79D6C8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1174358322719102",
+                "adid": "6103620788981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1906095826353644",
+                "adid": "6103620791581",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1237189849757035",
+                "adid": "6103620742981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620742581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341927_1237189856423701_2829518652103983104_n.jpg?_nc_cat=0&oh=f38b5bd8ffd13110f96daed5356e80a5&oe=5C086758",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346390_1237189859757034_3657822512684728320_n.jpg?_nc_cat=0&oh=722ad3509d774b4c8a05cadfd9a6bf6a&oe=5BF2124B",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "222130211789341",
+                "adid": "6103620698981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620698781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346365_222130218456007_5683437696316342272_n.jpg?_nc_cat=0&oh=0adf6fbe24f0faf05563ad3c5d8d39c1&oe=5BFFF312",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301689_222130225122673_4703673699532800000_n.jpg?_nc_cat=0&oh=760aad3b8636180856db928f17c95b13&oe=5BF35EF2",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "306887386743742",
+                "adid": "6103620703381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620702181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409749_306887406743740_2092401650206507008_n.jpg?_nc_cat=0&oh=8b424c539a4651f75168cc920265bf53&oe=5C3A6A2E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332578_306887416743739_1074387898750468096_n.jpg?_nc_cat=0&oh=221fdbd3b24a7fb0f970f3d31115b37c&oe=5BED951D",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "409463462911902",
+                "adid": "6103620708981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620708781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39397546_409463476245234_4412552316469641216_n.jpg?_nc_cat=0&oh=3e69a92b855592a8d068dd08bf4b7645&oe=5BF58088",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=2111b62704523222d3d29492fe203704&oe=5B79E7AC",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39349837_409463479578567_2897451157687369728_n.jpg?_nc_cat=0&oh=b457910fd49252ce4c35d3bae18dd5ed&oe=5C006388",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=0d38c23facdcad86e502d1c84271465e&oe=5B79D6C8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2204541236485155",
+                "adid": "6103620721781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620718781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485288_2204541266485152_7612255063104290816_n.jpg?_nc_cat=0&oh=aa8bdb9ea15e0dba1a39e19aa5e0b289&oe=5C0CF3BB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=2111b62704523222d3d29492fe203704&oe=5B79E7AC",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282059_2204541279818484_7348528858355728384_n.jpg?_nc_cat=0&oh=4afdceff70ba0e2dc8ccfca0179a6ed2&oe=5BF3C086",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=0d38c23facdcad86e502d1c84271465e&oe=5B79D6C8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "234766460520123",
+                "adid": "6103620682781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620682381,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534099,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39332571_234766473853455_1953940009186754560_n.jpg?_nc_cat=0&oh=2d3380491811d70418445f7e397d66a9&oe=5C0AEA68",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39339061_234766477186788_5456603985035132928_n.jpg?_nc_cat=0&oh=4a44a64c59516eac0c1beb9b8a358bd9&oe=5BFE5240",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "244964693020787",
+                "adid": "6103620688981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620688781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nunca fui somente eu, sempre fomos n\u00f3s. Sei que estamos vivendo momentos de muita indigna\u00e7\u00e3o com a pol\u00edtica. Mas n\u00f3s acreditamos que \u00e9 poss\u00edvel mudar essa realidade. \u00c9 da luta dos 99% que nascer\u00e1 a nossa vit\u00f3ria! O futuro nos exige coragem para virar esse jogo! Vamos junt&#064;s! #ApoliticaQueODinheiroN\u00e3oCompra"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": "Like Page",
+                    "cta_type": "Curtir P\u00e1gina",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341929_244964706354119_1659257071738028032_n.jpg?_nc_cat=0&oh=3f5e731e670db2d0f439f66744240ae5&oe=5BF3A3A5",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_781892908866962_5706479624628731904_n.mp4?_nc_cat=0&oh=e9fbae79d594681a95b7fd43d71ee256&oe=5B79E6FB",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343429_244964716354118_4665717956846551040_n.jpg?_nc_cat=0&oh=9fc6414e8649d243583331c6dcd4a18a&oe=5C0D1B83",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2016978888618580_8007356702460477440_n.mp4?_nc_cat=0&oh=b8b99fadfcb44f1d6f78956cc50767b9&oe=5B79D1D3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "894749647388137",
+                "adid": "6100054683329",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054682929,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "VOC\u00ca SABIA? Em 2005, Barros Munhoz assumiu a subprefeitura de Santo Amaro, atendendo a convite do ent\u00e3o prefeito de S\u00e3o Paulo, Jos\u00e9 Serra. Em apenas um ano, Munhoz foi o respons\u00e1vel pela realiza\u00e7\u00e3o de mais de 80 obras na regi\u00e3o, imprimindo, mais uma vez, sua marca de dinamismo e destacando-se como exemplo de administrador p\u00fablico. Como deputado, Barros Munhoz tamb\u00e9m j\u00e1 fez muito por um dos mais importantes bairros da Zona Sul, e entre suas principais lutas est\u00e1 o t\u00e3o sonhado Metr\u00f4 de Santo Amaro, conquista hist\u00f3rica que j\u00e1 est\u00e1 se tornando realidade! #BarrosMunhoz #EsteTrabalha #SantoAmaro"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534560118,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343255_894749660721469_9115455709322936320_n.jpg?_nc_cat=0&oh=6309b81f157add7ca2ae2ecffe0226f4&oe=5BF1B028",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37526107_1034535660056541_7056327333967298560_n.jpg?_nc_cat=0&oh=829ffb5764bb43842750e1bc7c53e3c0&oe=5C0C3994"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18885,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340483_894749654054803_4640424718346747904_n.jpg?_nc_cat=0&oh=5b378bd9176591e487d6f1260260a406&oe=5BFCF8A6",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "269318180554929",
+                "adid": "6103620651981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620651781,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301679_269318203888260_6378443922561040384_n.jpg?_nc_cat=0&oh=869556ce318f90ac324d52f57a755651&oe=5C031352",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39338280_269318207221593_8341166517097857024_n.jpg?_nc_cat=0&oh=b2454ae2e1f81b8bbe2655746556b41a&oe=5C065106"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/l/t39.16868-6/39349853_269318193888261_3071159477886517248_n.jpg?_nc_cat=0&oh=0c74f844da5b5a88aa8e81c7f45a01a4&oe=5BF7EA60",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301670_269318197221594_6767952200237842432_n.jpg?_nc_cat=0&oh=090d122d75a54478621ea16c93032763&oe=5BFFFB01",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "304660343628351",
+                "adid": "6103620634981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620634181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306490_304660396961679_2318495677925031936_n.jpg?_nc_cat=0&oh=5f5531673aaf293f20e471807de2e293&oe=5BEEB9E2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39526100_304660393628346_1873782523440398336_n.jpg?_nc_cat=0&oh=ca596fb2a4d768f3d571fd3b23238547&oe=5C003E08"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39318381_304660380295014_2056733724929687552_n.jpg?_nc_cat=0&oh=7f3dffb6b82820ce745e5c3152da5f2e&oe=5C0A9C8A",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39199791_304660383628347_3133345325817790464_n.jpg?_nc_cat=0&oh=f37fef52ceec77cbfa2ad35e13407bfb&oe=5C03DB41",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2189759174588516",
+                "adid": "6103620644381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620643181,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "H\u00e1 mais de 10 anos mostramos que \u00e9 poss\u00edvel fazer a pol\u00edtica que o dinheiro n\u00e3o compra! <br /> <br /> Enquanto os outros partidos fazem parte do jogo sujo do toma-l\u00e1, d\u00e1-c\u00e1, a nossa alian\u00e7a sempre foi com as pessoas. Precisamos de ti para diminuir o abismo entre Bras\u00edlia e o Brasil e, dessa forma, financiar nossa campanha coletiva! <br /> <br /> N\u00f3s temos a for\u00e7a dos que queremos mudar! Juntos a gente chega l\u00e1! Contribua:"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": "fernandapsol.com.br",
+                    "cards": [],
+                    "creation_time": 1534534095,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301636_2189759207921846_7456293629376593920_n.jpg?_nc_cat=0&oh=519f7382b560068ac825d24c32bd1e69&oe=5BED6371",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39300789_2189759204588513_406710622424662016_n.jpg?_nc_cat=0&oh=367b31feedcdc3335a98f4c065f4b628&oe=5BFFE0B2"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39402094_2189759187921848_4781296166732038144_n.jpg?_nc_cat=0&oh=3031932fc01cfdd1b860aad565f54432&oe=5C0EFE61",
+                    "is_reshared": false,
+                    "link_description": "Seja a mudan\u00e7a que voc\u00ea quer ver no mundo. Contribua, apoie e participe da constru\u00e7\u00e3oda da pr\u00e9-candidatura a deputada Federal da Fernanda Melchionna.",
+                    "link_url": "http://www.fernandapsol.com.br/contribua",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39360007_2189759191255181_1095979858988630016_n.jpg?_nc_cat=0&oh=7ee0b42da91b438bc31554e2c1f24501&oe=5C0189E8",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Vem com a gente contribuir com a pol\u00edtica que o dinheiro n\u00e3o compra!",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1881356738574060",
+                "adid": "6103620423981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT2lh1gpPjNl4lO4kj6dwJZdQNHbQwsiVRfMpbLCpahA53A8Xkfxe8zQSkoeVnROTSRyBnq7OcD9rCLcFFDuB5VbLZL47OV-4cB0OAd2QTm2Rpb2NFpbmqhhKeQS6eoSS-HQs_tAl-s\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1898082530496330",
+                "adid": "6103620417181",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT23QUJZrWUZ1bXhkCZEeFEQ2X8HWeKTSLk2SsG0RiJnK2en6GsFCnnSYsg5D7E1iGxmFmmIhhERn1tubQ3uHsZdfsL2Azn-OMwtw-C-EWvgD2kPK1b3-l-p-Pd1rNHyPl6ZcUfyL7s\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2016991378331350",
+                "adid": "6103620425381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620416981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente financia! Somos do bloco das pessoas, que lutam e sonham, que n\u00e3o deixam de acreditar em novo mundo poss\u00edvel! Muitos dizem que os tempos est\u00e3o dif\u00edceis e de fato, s\u00e3o! Mas milh\u00f5es de pessoas lutaram em circunst\u00e2ncias muito mais dif\u00edceis que as nossas, enfrentaram ditaduras, escraviza\u00e7\u00f5es, restri\u00e7\u00f5es de liberdades democr\u00e1ticas. E se aqui estamos hoje, devemos ao sangue, suor e l\u00e1grimas das gera\u00e7\u00f5es passadas. E fa\u00e7amos nosso dever de casa e deixemos um legado \u00e0s gera\u00e7\u00f5es futuras. N\u00e3o acreditamos em salvadores da p\u00e1tria, acreditamos no melhor de n\u00f3s mesmos... e juntos! Bora? \ud83d\udc9c #PSOL #Pol\u00edticaQueOdinheiroN\u00e3oCompra<br /> <br /> Contribua! <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Ffernandapsol.com.br%2Fcontribua%2F&amp;h=AT0Y7KyFvEr3UY9hvvXsiMBfpgs2HOrmk5JxFqkh9k9OSW5zHoB-iQEmCjM_SH_bf5ZrrmPezIfJAwi_42VXOXbgoC-_5tYAKo7zmF5M9CFRpUdThhoxkNPLzPFYosggSeewj1ysS14\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://fernandapsol.com.br/contribua/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524397,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38949052_1616339411811169_3166837566691344384_n.jpg?_nc_cat=0&oh=15ee58124d7ad7a4ea6356b7b875e9e3&oe=5BFBB983",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38926291_1616339408477836_6471326438627737600_n.jpg?_nc_cat=0&oh=5bec3eae93a11ca266627377326fa28f&oe=5C09A6B9"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485293_1881356771907390_2682515532313264128_n.jpg?_nc_cat=0&oh=aa73563d020c4056cb03d91bef949a6b&oe=5BFC5DF2",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://fernandapsol.com.br/contribua/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39507044_1881356775240723_6084112880372809728_n.jpg?_nc_cat=0&oh=d3f373920eb49e3010397e823f1f0750&oe=5BF2CB7E",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "279434572668394",
+                "adid": "6100054352729",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054352329,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O deputado Barros Munhoz fez hoje uma visita a dirigentes e representantes das Associa\u00e7\u00f5es Comerciais das cidades de Igarapava e de Guar\u00e1, na regi\u00e3o da Alta Mogiana Paulista. Os encontros serviram para colocar em pauta assuntos importantes e de interesse das entidades que atuam no fortalecimento da economia de suas cidades. <br /> <br /> Vale lembrar que o deputado Barros Munhoz teve atua\u00e7\u00e3o decisiva na Assembleia Legislativa durante as discuss\u00f5es para a aprova\u00e7\u00e3o do Projeto de Lei 874/2016, que aplicou importantes altera\u00e7\u00f5es ao sistema de inclus\u00e3o e exclus\u00e3o dos nomes dos consumidores nos cadastros de prote\u00e7\u00e3o ao cr\u00e9dito, eliminando a obrigatoriedade da comunica\u00e7\u00e3o postal via AR (Aviso de Recebimento), uma exig\u00eancia da legisla\u00e7\u00e3o anterior que onerava o setor do com\u00e9rcio e trazia inconvenientes ao consumidor, especialmente aos de menor poder aquisitivo. #BarrosMunhoz #EsteTrabalha #Igarapava #Guar\u00e1"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39398689_1035936189916488_2103697783562174464_n.jpg?_nc_cat=0&oh=61cd81d62b000ee755578aeadd1a0277&oe=5BF7822B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39288532_1035936193249821_7632662286678622208_n.jpg?_nc_cat=0&oh=5b8c96de01f28144aebcedb75680bd71&oe=5C0EC4AC"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39391875_1035936239916483_3633473088953253888_n.jpg?_nc_cat=0&oh=226ac19aa4f29c6cec4e04e99bb6511f&oe=5C0ABCF3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39306171_1035936236583150_1382184208872505344_n.jpg?_nc_cat=0&oh=274495cbc36e77a8ed6bd744092fead6&oe=5BF89C9E"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18885,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308102_279434579335060_8873045848171216896_n.jpg?_nc_cat=0&oh=ed1ac0b0614c5de9d345ad31b065e2b4&oe=5C046210",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1815100435234991",
+                "adid": "6100054290929",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100054290729,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Um #tbt do meu primeiro mandato como deputado estadual, ainda nos anos 80! Na foto, assinando a Nova Constitui\u00e7\u00e3o do Estado de S\u00e3o Paulo. Em minha primeira elei\u00e7\u00e3o, fui eleito com mais de 40 mil votos \u2013 a maior vota\u00e7\u00e3o do meu partido \u00e0 \u00e9poca! Agora, come\u00e7a uma nova jornada para continuar trabalhando por nossas cidades e fazendo o melhor pelo nosso Estado e pelo nosso Pa\u00eds juntamente com nosso governador &#064;marciofrancasp! #BarrosMunhoz #EsteTrabalha #Vote40540 #SPavan\u00e7a"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534524094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39393031_1035985333244907_2025374708412710912_n.jpg?_nc_cat=0&oh=fea25d0f9769623bb33798bda9a1af9c&oe=5C05921D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39298664_1035985336578240_3910465000275181568_n.jpg?_nc_cat=0&oh=7a80d21c47b7f5c22e2b7bc1ff75e0da&oe=5C0D7B61"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18885,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335657_1815100451901656_1870414255468052480_n.jpg?_nc_cat=0&oh=3aa3bad41b3aa1102269a505978d0b92&oe=5C089158",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 355,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

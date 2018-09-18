@@ -1,0 +1,2122 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQF_Q5m1Z_38:AQFraq3-KZUD",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591479253147923453",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfbKAr7crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHbqi5uEiJbIAbqusZPIx8wB3Lem1faF7wPy2J3igs7NAf7X38q84vYBgqO1vdyrsgKI8MWvqqHPAq7B2qDZoYMFrqybnMy8jQbyhrP358icBu72ipW59bAGxOjL2c2XvAb22sSg1LTwBozVot3+2NEHjOv79MfE2weyz/+D+5/1AaCSo9yjx27w6u2TqPnXB9KD7d+P4XGMsIuB1seHAczk+72F8ukHmIfDqvqlc6Sxjb/8+toHtp6P3v3ypAfg352YyYi9BpiG2LLr1XrEz4HfremAAZannsvnv74CrvKWivrkggGojKOb5uvwBsaJpsrzqowB1uGG/sKVlALEjZ744/X4A9qrrcSY0Wmm3Yi7yYGUAea49o6I97oD/tvlkdDOyAemwqGAopLkAeCv/srSkPQB1tilkd22ebiJjJb5wPwHmoaF3cSaiQPK58bd6qTtB/SKzOGu/2Ok75jn8bqvAvz+2tLqqM0H1Lq3pKXreJzOjL7mmMcBkp/h0amkxgLMg6+t9qnLAtKR2trnxLoBupjg2ri72Aeklri1xtBz/qruqICeggGekMaS3pDqAdzJ3OXTnmbouYb5/emOAcS5z+zDkXOG4aKrnouZBOqRjp6gv5ACmo7f0NPexAPS5OX59JnjBv6cn7KY7JEB6ursy9291wfCzeCdmeyVAe7/4Jm+kLUCvrL/4cTP0waIjqDUybKsB9ixrMflima8ndKLzOSTAcbcyOW3iXXKrr2Jgt/DAeir7c6b52PKjuL7l5ewApyK24GKumSIi6POp6FqtNeW18jKmAPC1sH0saOhAa7quafasPsD5L/J3JP7cfT50s7an4cBlPXH5+P4da6H657b3nWYhY6F0JDWB6bI/fi825IE3JGN//a1igPMwK+yjMuCAo7MlLST4YIB+JqA59+v/wK2v965u6GEAYbUkvmBl+cHwPvJ4K2whgHOtZ2V/opp1LWxj6KHgwHgirfWv7GSAe6Qyr6BpdgG9qmpvsrqvwea84XS5vPRB7Cw1sr705cHlsSP58ivafSJip2I6OgBxpaJpLil4AfGsJnKr9vQAaqc2YyB8/QFhtfF74Sad/Dxl5ChurEDkpKBkbXgavyhpoeazIwBsPPGspXTigOaq+zupZSUAb7X2OG6+pUGzt7J1eTsuQHAmKTOx6fAA5rQw9rCmnqM5/W30dxtnMborK3SlAHwvISE+ObTAeDlorz0rWTOopqo3qiRAez6rJq1xN0BipKg2OerwQK0tLqu1NrBApi1wYOH88EGgLjs1ZibxQaqx420w7GkB/buoZre9swHqITi1rudf/jZtua5vZEBmNejhL+A1QGs68yem7Fl+Mv32LGT9gbm1pzH+MnBAoKV8JbsoMgDluelwMuI8gPi2e6MvN/qB6ynvpjXtmuU872Ots1lzsrLl63SuwH4/sbw8qHlAYj7tOeg//kG+qyipOTVgwHWzoHivfBq2N6Oy5nZZ/iZuZ2C7O8GrrbOv8Cz1gG4wdSDq7zoAeSPse23oJcFsuGc2+/nsga21JGDsehNpJj1kMWvfhm1PHi0AfABrALoAqQD4AOcBNgElAUA",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "706639116371077",
+                "adid": "23843182086770578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182086760578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fundo partid\u00e1rio, fundo eleitoral, aux\u00edlio-moradia, aux\u00edlio-combust\u00edvel, aux\u00edlio-palet\u00f3, farra de passagens a\u00e9reas, carro oficial e muito mais. A lista de privil\u00e9gios dos pol\u00edticos aqui no pa\u00eds \u00e9 enorme. Tudo mantido com recursos dos cofres p\u00fablicos. Dinheiro que sai do seu bolso quando voc\u00ea paga impostos. Se voc\u00ea n\u00e3o quer mais bancar essas regalias, chegou a hora da renova\u00e7\u00e3o. A gente quer um NOVO Brasil e s\u00f3 o NOVO \u00e9 novo."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534520579,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38204184_1842555015783979_8650481480411119616_n.jpg?_nc_cat=0&oh=67b84fe9c900c5f81846c65e52fd7f01&oe=5C0E3642",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38071429_1842555012450646_6499516898856665088_n.jpg?_nc_cat=0&oh=59d69d7a7e40c9d0022acd8622252090&oe=5BF3EACB"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409757_319558248780410_308420532078903296_n.jpg?_nc_cat=0&oh=e1335367d1b456749fbce8ae66b15948&oe=5BFDF4E0",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "707443976260890",
+                "adid": "23843182087700578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182087630578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Sexta-feira (17/8) tem debate na RedeTV! Vamos novamente mostrar que o Brasil quer a renova\u00e7\u00e3o. Vamos pedir a presen\u00e7a de Jo\u00e3o Amo\u00eado no debate, comentando no post da emissora no Facebook: <a href=\"https://www.facebook.com/REDETV/videos/1997086037026078/\" rel=\"nofollow\">https://www.facebook.com/REDETV/videos/1997086037026078/</a>. Use as hashtags #Amo\u00eadoNosDebates #Jo\u00e3oNaRedeTV e #DebateNaRedeTV."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534519807,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39137864_1867006923338788_2731250689429733376_n.png?_nc_cat=0&oh=ef4522610da55ab0177eae89b8dd2926&oe=5C389E3E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39167149_1867006926672121_739755219918782464_n.png?_nc_cat=0&oh=77dd6659558721b8afc4f333d31e26be&oe=5C0E67D1"
+                        }
+                    ],
+                    "instagram_actor_name": "NOVO 30",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301655_707444019594219_7751236751649144832_n.jpg?_nc_cat=0&oh=394615ee7e8884cc0956b177291b7de4&oe=5C067140",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/REDETV/videos/1997086037026078/",
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346372_707444022927552_4561679941833326592_n.jpg?_nc_cat=0&oh=00ba08ea70053baeac10b1be8d9d7bee&oe=5BEF3417",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1833763000036684",
+                "adid": "23843182087990578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182087450578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A #OndaLaranja cresce em todo o Brasil. Em 2018, teremos mais de 400 representantes em 19 estados e no DF, com <a href=\"https://www.facebook.com/JoaoAmoedoNOVO/\" data-hovercard=\"/ajax/hovercard/page.php?id=353551475083023&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Jo\u00e3o Amo\u00eado</a> candidato a presidente da Rep\u00fablica.<br /> Conhe\u00e7a todos os candidatos do NOVO e vem com a gente renovar o Brasil <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fcandidatos.novo.org.br%2F&amp;h=AT14dcQB-cuKNpyLISq0_fdKkKiA79ggH9dLO-tnP5AEC2XaOIv78Uh757qCtSSqmaC5v0kgmvkd0ZGfU_w5iLWxjdKURtd55TYj79ECnzYAhB0QECr1jd8bJ6nSIHv09owMGT672aQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://candidatos.novo.org.br/</a>. <br /> O povo quer o novo. E s\u00f3 o NOVO \u00e9 novo."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534517163,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289437_1833763020036682_3458139312611131392_n.jpg?_nc_cat=0&oh=519641f220e85f35ee9e3f313d590d84&oe=5C058BA7",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "O povo quer o novo. E s\u00f3 o NOVO \u00e9 novo.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1763660680420714_1243584235546083328_n.mp4?_nc_cat=0&oh=94d9ebb347fcf90afec982df79257637&oe=5B79E84F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39310855_1833763046703346_5324790618382139392_n.jpg?_nc_cat=0&oh=5b4bd60dd0b0e3f90022fc22a7c7354c&oe=5BF933E3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39031115_216938592335253_3925469064796831744_n.mp4?_nc_cat=0&oh=7a03e712580818cf8a3a2ce78aaa569e&oe=5B79CCD6"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1841049632607744",
+                "adid": "23843182087840578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182087630578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Sexta-feira (17/8) tem debate na RedeTV! Vamos novamente mostrar que o Brasil quer a renova\u00e7\u00e3o. Vamos pedir a presen\u00e7a de Jo\u00e3o Amo\u00eado no debate, comentando no post da emissora no Facebook: <a href=\"https://www.facebook.com/REDETV/videos/1997086037026078/\" rel=\"nofollow\">https://www.facebook.com/REDETV/videos/1997086037026078/</a>. Use as hashtags #Amo\u00eadoNosDebates #Jo\u00e3oNaRedeTV e #DebateNaRedeTV."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534519807,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39137864_1867006923338788_2731250689429733376_n.png?_nc_cat=0&oh=ef4522610da55ab0177eae89b8dd2926&oe=5C389E3E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39167149_1867006926672121_739755219918782464_n.png?_nc_cat=0&oh=77dd6659558721b8afc4f333d31e26be&oe=5C0E67D1"
+                        }
+                    ],
+                    "instagram_actor_name": "NOVO 30",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301655_707444019594219_7751236751649144832_n.jpg?_nc_cat=0&oh=394615ee7e8884cc0956b177291b7de4&oe=5C067140",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/REDETV/videos/1997086037026078/",
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346372_707444022927552_4561679941833326592_n.jpg?_nc_cat=0&oh=00ba08ea70053baeac10b1be8d9d7bee&oe=5BEF3417",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2050340534989269",
+                "adid": "23843182088340578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182086760578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fundo partid\u00e1rio, fundo eleitoral, aux\u00edlio-moradia, aux\u00edlio-combust\u00edvel, aux\u00edlio-palet\u00f3, farra de passagens a\u00e9reas, carro oficial e muito mais. A lista de privil\u00e9gios dos pol\u00edticos aqui no pa\u00eds \u00e9 enorme. Tudo mantido com recursos dos cofres p\u00fablicos. Dinheiro que sai do seu bolso quando voc\u00ea paga impostos. Se voc\u00ea n\u00e3o quer mais bancar essas regalias, chegou a hora da renova\u00e7\u00e3o. A gente quer um NOVO Brasil e s\u00f3 o NOVO \u00e9 novo."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534520579,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38204184_1842555015783979_8650481480411119616_n.jpg?_nc_cat=0&oh=67b84fe9c900c5f81846c65e52fd7f01&oe=5C0E3642",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38071429_1842555012450646_6499516898856665088_n.jpg?_nc_cat=0&oh=59d69d7a7e40c9d0022acd8622252090&oe=5BF3EACB"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409757_319558248780410_308420532078903296_n.jpg?_nc_cat=0&oh=e1335367d1b456749fbce8ae66b15948&oe=5BFDF4E0",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2139490472967099",
+                "adid": "23843182087780578",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30",
+                "snapshot": {
+                    "ad_creative_id": "23843182087450578",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A #OndaLaranja cresce em todo o Brasil. Em 2018, teremos mais de 400 representantes em 19 estados e no DF, com <a href=\"https://www.facebook.com/JoaoAmoedoNOVO/\" data-hovercard=\"/ajax/hovercard/page.php?id=353551475083023&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Jo\u00e3o Amo\u00eado</a> candidato a presidente da Rep\u00fablica.<br /> Conhe\u00e7a todos os candidatos do NOVO e vem com a gente renovar o Brasil <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fcandidatos.novo.org.br%2F&amp;h=AT3TfRKjmCjhPCGN_ba5k7kqdJ9X2B1MNXSz6bkUoxCsUo0oaZ2llXwWIBrjutSCpABkthtp-9NklAtLlBdx4jtOq80_7V5hOACPIk9oWnQC3wG1cUBoTY0MuUOhpKXmt0hQJraSbgU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://candidatos.novo.org.br/</a>. <br /> O povo quer o novo. E s\u00f3 o NOVO \u00e9 novo."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "13405866000124",
+                    "byline": "NOVO - DIRETORIO NACIONAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534517163,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "NOVO 30",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2618": "Political Party"
+                    },
+                    "page_id": 168865359819628,
+                    "page_is_deleted": false,
+                    "page_like_count": 1942984,
+                    "page_name": "NOVO 30",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289437_1833763020036682_3458139312611131392_n.jpg?_nc_cat=0&oh=519641f220e85f35ee9e3f313d590d84&oe=5C058BA7",
+                    "page_profile_uri": "https://www.facebook.com/NOVO30/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "O povo quer o novo. E s\u00f3 o NOVO \u00e9 novo.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_1763660680420714_1243584235546083328_n.mp4?_nc_cat=0&oh=94d9ebb347fcf90afec982df79257637&oe=5B79E84F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39310855_1833763046703346_5324790618382139392_n.jpg?_nc_cat=0&oh=5b4bd60dd0b0e3f90022fc22a7c7354c&oe=5BF933E3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39031115_216938592335253_3925469064796831744_n.mp4?_nc_cat=0&oh=7a03e712580818cf8a3a2ce78aaa569e&oe=5B79CCD6"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "279782179488020",
+                "adid": "23842932996860698",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "429957570419097",
+                "pageName": "Professor Israel",
+                "snapshot": {
+                    "ad_creative_id": "23842932996830698",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Agora\u00e9Federal<br /> <br /> Come\u00e7o a minha campanha a Deputado Federal. Penso nos oito anos que passei na C\u00e2mara Legislativa. Quanta coisa realizamos! Muito orgulho em ter contribu\u00eddo para diminuir o abismo entre os jovens de fam\u00edlias simples e os jovens mais favorecidos, no caminho mais seguro que existe: o da educa\u00e7\u00e3o! <br /> <br /> Aceitei o desafio de al\u00e7ar voo mais alto. O sonho \u00e9 levar as mesmas oportunidades que geramos em Bras\u00edlia para a juventude de todo Brasil. <br /> <br /> Ser\u00e1 um caminho duro e dif\u00edcil, mas estou confiante. Mar calmo nunca fez bom marinheiro.<br /> E o que me leva a acreditar na vit\u00f3ria \u00e9 saber que posso contar com milhares de pessoas que confiam em mim para fazer a diferen\u00e7a. Vamos juntos! <br /> <br /> #fazadiferen\u00e7a #oportunidade #mandatodaoportunidade  #juventude #educa\u00e7\u00e3o #qualifica\u00e7\u00e3o #economiacriativa #israelfederal #profisrael4343 #PV"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "96311380110",
+                    "byline": "ISRAEL MATOS BATISTA",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534540172,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Professor Israel",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 429957570419097,
+                    "page_is_deleted": false,
+                    "page_like_count": 44890,
+                    "page_name": "Professor Israel",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39330767_279782192821352_4001047505520295936_n.jpg?_nc_cat=0&oh=877335301a25ec4e41503f5e31520470&oe=5BF157FE",
+                    "page_profile_uri": "https://www.facebook.com/profisrael/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Uma vida com prop\u00f3sito - #profisrael4343",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_248103489168678_55775918479638528_n.mp4?_nc_cat=0&oh=faecc9b3f807186e77ae2f389175444a&oe=5B79E7DD",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39378384_279782196154685_7441287121018552320_n.jpg?_nc_cat=0&oh=d3af9e74de1bf4079d663e19bc03992b&oe=5C06CC74",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39315065_524022968033322_3805536986433847296_n.mp4?_nc_cat=0&oh=21529d656ba7a92f20de713476db1726&oe=5B79D31E"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "319914101888636",
+                "adid": "6115250670053",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "423485607762865",
+                "pageName": "Joseildo Ramos",
+                "snapshot": {
+                    "ad_creative_id": 6115250627453,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Um jingle para grudar na cabe\u00e7a o que j\u00e1 est\u00e1 grudado no seu cora\u00e7\u00e3o. Entre de corpo e alma no clima de campanha junto com a gente e se jogue no ritmo!<br /> <br /> VEM COM O 1361!<br /> #Agora\u00c9Federal"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31193232000137",
+                    "byline": "ELEICAO 2018 JOSEILDO RIBEIRO RAMOS DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534615514,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Joseildo Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 423485607762865,
+                    "page_is_deleted": false,
+                    "page_like_count": 50362,
+                    "page_name": "Joseildo Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340744_319914108555302_343693466393378816_n.jpg?_nc_cat=0&oh=f410489dd59766deb3d67d63c0e2ebce&oe=5C067661",
+                    "page_profile_uri": "https://www.facebook.com/deputadojoseildoramos/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "AGORA \u00c9 FEDERAL!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39139454_2060550267608624_8421462652978462720_n.mp4?_nc_cat=0&oh=64866ef88d8fb5e93af36b505c81eddc&oe=5B79E754",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395163_319914111888635_7440317545036382208_n.jpg?_nc_cat=0&oh=f04afa1a3bfbc1edc95e670134401220&oe=5BFB2BF0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39330848_249092235728466_1417280370923012096_n.mp4?_nc_cat=0&oh=c54612778a38c0752630dea437f11d8b&oe=5B79D27D"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "468400413636044",
+                "adid": "6097614183414",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534575600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1489521967767240",
+                "pageName": "Paulo Mathias",
+                "snapshot": {
+                    "ad_creative_id": 6097614183214,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A campanha come\u00e7ou hoje e eu sei que voc\u00ea n\u00e3o acha nada legal. <br /> <br /> Ent\u00e3o, quer conhecer o nosso jingle? \ud83d\ude02<br /> <br /> \u27a1\ufe0f <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fpaulomathiasdetarso%2Fplaylist%2F7B1YyXM3LD2teeyV3hnHOw%3Fsi%3DPQW2x4GtQ0O9OGLdV3ZhrA&amp;h=AT1AQq9ymvtMElj0xnjRAmvCPlRYbKGNimPVjPGezN4i1NIqj57cUUlalTSSrKMovAvFbrsfvpulEZtVX8QqyfXdpuD1io2iPyaWMLZ4JpalrjUjPObL30zNiU2NupaZ4JhpXv5cI60\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://open.spotify.com/user/paulomathiasdetarso/playlist/7B1YyXM3LD2teeyV3hnHOw?si=PQW2x4GtQ0O9OGLdV3ZhrA</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31182197000150",
+                    "byline": "Paulo Mathias de Tarso",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534518505,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Paulo Mathias",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1489521967767240,
+                    "page_is_deleted": false,
+                    "page_like_count": 109469,
+                    "page_name": "Paulo Mathias",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39268542_468400430302709_8979485883774271488_n.jpg?_nc_cat=0&oh=221815708ec6604f41bf5845fb1c0dca&oe=5C3A59EA",
+                    "page_profile_uri": "https://www.facebook.com/paulomathias/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39156222_666602820375869_4499073109797634048_n.mp4?_nc_cat=0&oh=1521ed7fc54b47598b6585d2fba7d900&oe=5B79D17D",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306647_468400433636042_4888049520199335936_n.jpg?_nc_cat=0&oh=abaeb298f0fdc1a7ccfb200f0a7f8ac0&oe=5C3BC20E",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39137339_1169165579890853_3482492563158466560_n.mp4?_nc_cat=0&oh=0de2551e93768b35b58dbde731f92180&oe=5B79CE83"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "222946818366166",
+                "adid": "23842996842880599",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "228058993888678",
+                "pageName": "Raul Henry",
+                "snapshot": {
+                    "ad_creative_id": "23842996842870599",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Entrei na pol\u00edtica bastante jovem, e o #tbt de hoje traz v\u00e1rias imagens da minha trajet\u00f3ria. O v\u00eddeo \u00e9 das inser\u00e7\u00f5es partid\u00e1rias de 2015. J\u00e1 passei por muitas experi\u00eancias em cargos do Executivo e do Legislativo. Agora, estou focado em voltar ao Congresso Nacional, como deputado federal, e com muita vontade de fazer a diferen\u00e7a na nova C\u00e2mara que ser\u00e1 eleita em outubro pelos brasileiros. #T\u00f4ComRaul #DeputadoFederal"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209540000103",
+                    "byline": "ELEICAO 2018 RAUL JEAN LOUIS HENRY JUNIOR DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534517314,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Raul Henry",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Raul Henry",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39282044_222946838366164_3540936592631791616_n.jpg?_nc_cat=0&oh=80aa1a54d651698f496b6bb95fc1075b&oe=5BF8CE5C",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 228058993888678,
+                    "page_is_deleted": false,
+                    "page_like_count": 63729,
+                    "page_name": "Raul Henry",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39370368_222946835032831_4621509051014971392_n.jpg?_nc_cat=0&oh=855d7c2b22797ee8f48fe41c0e8a4863&oe=5BF1FD9C",
+                    "page_profile_uri": "https://www.facebook.com/RaulHenryPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "#TBT: Boas lembran\u00e7as na inser\u00e7\u00e3o de 2015",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39258534_520185385085699_935079968784777216_n.mp4?_nc_cat=0&oh=2e46b4c4b31c7112e625a2a7286dba8d&oe=5B79CE59",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39389346_222946858366162_3516550812002156544_n.jpg?_nc_cat=0&oh=8ef1c4db1c297498ba2d1a5b0c43f633&oe=5BFF09B7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39134247_305950913288858_5548105862389694464_n.mp4?_nc_cat=0&oh=ef20ae156c586088e180c6672466e33a&oe=5B79D684"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1948667691856636",
+                "adid": "23842919164970783",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "278400662362838",
+                "pageName": "Ursula Vidal",
+                "snapshot": {
+                    "ad_creative_id": "23842919164960783",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\ud83d\udd05 ESPERAN\u00c7A<br /> \ud83d\udd05 MUDAN\u00c7A <br /> \ud83d\udd05 RENOVA\u00c7\u00c3O<br /> <br /> \u00c9 com essa for\u00e7a, com essa energia vibrante que inicia nossa caminhada de luta por uma vaga no SENADO agora em 2018.<br /> <br /> Este ano s\u00e3o 2 votos. \ud83d\udc65\ud83d\uddf3 <br /> <br /> Um deles ter\u00e1 a luz da renova\u00e7\u00e3o. Um voto num jeito diferente, democr\u00e1tico e verdadeiro fazer pol\u00edtica. <br /> Um mandato constru\u00eddo por tod&#064;s n\u00f3s!<br /> <br /> \ud83d\udc69\ud83c\udffd\ud83d\udc71\ud83c\udffc\u200d\u2642\ud83e\uddd4\ud83c\udffe\ud83e\uddd3\ud83c\udffd\ud83d\udc74\ud83c\udfff\ud83d\udc71\ud83c\udffb\u200d\u2640\ud83d\udc67\ud83c\udfff\ud83d\udc68\ud83c\udffd\ud83e\uddd2\ud83c\udffb\ud83e\uddd1\ud83c\udffc\ud83d\udc76\ud83c\udffe<br /> <br /> Quando eu for SENADORA, TU TAMB\u00c9M VAIS SER!<br /> <br /> \u270a\ud83c\udffd\ud83c\udf38\u270a\ud83c\udffb\ud83c\udf3c\u270a\ud83c\udfff\ud83c\udf3a\u270a\ud83c\udffe\ud83c\udf3b\u270a\ud83c\udffc\ud83c\udf39\u270a\ud83c\udffe<br /> <br /> \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796<br /> URSULA 5\u20e30\u20e30\u20e3 SENADORA<br /> \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31177303000108",
+                    "byline": "Ursula Vidal 500 - Senadora",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534514351,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ursula Vidal",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Ursula Vidal",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471363_1948667711856634_1580480967733149696_n.jpg?_nc_cat=0&oh=56b41468042be40556f272894e22e13a&oe=5C0BCAE8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 278400662362838,
+                    "page_is_deleted": false,
+                    "page_like_count": 40287,
+                    "page_name": "Ursula Vidal",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39280636_1948667715189967_9021222550595698688_n.jpg?_nc_cat=0&oh=ad3413b08f61573e1b368cf0fade5221&oe=5C04F128",
+                    "page_profile_uri": "https://www.facebook.com/UrsulaVidalPSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "VIDEO 1",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39200387_2068056416578980_6533889285903351808_n.mp4?_nc_cat=0&oh=8265f4e5165161cd5cd780de10a97239&oe=5B79D121",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295081_1948667721856633_3543514728355594240_n.jpg?_nc_cat=0&oh=a2a9a89a84573e8efa10fcbc90d42aee&oe=5BEFF8E7",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39177334_439303366562411_4788759277999226880_n.mp4?_nc_cat=1&oh=3777b3f9b9c388cc515ba67f6087f5c4&oe=5B79D598"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "707156776293811",
+                "adid": "6108004874583",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534662000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1033164463415165",
+                "pageName": "Monica Leal",
+                "snapshot": {
+                    "ad_creative_id": 6108004874383,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Tive a honra de ter como exemplo de vida um homem de car\u00e1ter e pol\u00edtico \u00edntegro, que despertou em mim a vontade de fazer algo pelo nosso povo. Meu pai, Pedro Am\u00e9rico Leal.<br /> Neste v\u00eddeo, a minha trajet\u00f3ria, os meus valores e as minhas convic\u00e7\u00f5es."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31194869000148",
+                    "byline": "Elei\u00e7\u00e3o 2018 M\u00f4nica Leal Markusons Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534587429,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Monica Leal",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1033164463415165,
+                    "page_is_deleted": false,
+                    "page_like_count": 22135,
+                    "page_name": "Monica Leal",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39379268_707156792960476_6071895356273065984_n.jpg?_nc_cat=0&oh=3a1a60c3058f863118dc2029e7696bc1&oe=5C0F6407",
+                    "page_profile_uri": "https://www.facebook.com/MonicaLealPP/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Deputada Estadual",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_875491019321784_3512425478734479360_n.mp4?_nc_cat=0&oh=9055e620cd13ff35ff9e621a633ed71d&oe=5B79D433",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471228_707156799627142_4630289725104586752_n.jpg?_nc_cat=0&oh=3e617809364eeeb84e226ecf6bf8b781&oe=5C080621",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39199248_520386495073785_5098290686189371392_n.mp4?_nc_cat=0&oh=774276709044bbb4330bafdd9eb081df&oe=5B79D77B"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1003318879847745",
+                "adid": "23842925507300609",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente",
+                "snapshot": {
+                    "ad_creative_id": "23842925416430609",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Come\u00e7ou! Adicione o tema \u00e0 sua foto de perfil e manifeste o seu apoio \u00e0 nossa campanha! #IvanValente5050"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31138448000108",
+                    "byline": "IVAN VALENTE DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534519031,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Ivan Valente",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39278312_2085522494825955_8437535842234269696_n.jpg?_nc_cat=0&oh=bcdfb67575cb47383f242cd0c8a26a30&oe=5C0350A3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37141915_2085522491492622_8743117916326592512_n.jpg?_nc_cat=0&oh=3fc76c79fba1039ef4beb6611c5bfa04&oe=5C0B25FD"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 194174003960823,
+                    "page_is_deleted": false,
+                    "page_like_count": 416470,
+                    "page_name": "Ivan Valente",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39326471_1003318896514410_9211764810427924480_n.jpg?_nc_cat=0&oh=e7e51cf3a97db54e454fed0769de52fd&oe=5BF7731A",
+                    "page_profile_uri": "https://www.facebook.com/IvanValentePSOL/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1095261153966539",
+                "adid": "23842932298240399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932298230399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Curta a p\u00e1gina e fique por dentro das novidades!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534541899,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308113_1095261173966537_6649631146927718400_n.jpg?_nc_cat=0&oh=920fd6fd1cf5c54bc5bfa71b31dc3c3a&oe=5C072F09",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39325916_1095261170633204_5513013527155048448_n.jpg?_nc_cat=0&oh=c76bdae7fd87cf9a79b0e5cca9f0be6d&oe=5C02BC3A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/joaoamin11/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306057_1095261167299871_8694090710023929856_n.jpg?_nc_cat=0&oh=bdde197bccef9f6cd77285ddf71e6226&oe=5C049748",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Jo\u00e3o Amin",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2205061456189041",
+                "adid": "23842932298410399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932298400399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Curta a p\u00e1gina e fique por dentro das novidades!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534532731,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340970_2205061512855702_8319607933050552320_n.jpg?_nc_cat=0&oh=6d4e0c1d8ddd47da00f107f7933d2549&oe=5BEE5076",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39297076_2205061516189035_2701578761836429312_n.jpg?_nc_cat=0&oh=3278fb7e961fe593d3f37ab827192f53&oe=5C0013D4"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/joaoamin11/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471106_2205061496189037_1640674908616785920_n.jpg?_nc_cat=0&oh=7dbcc7ccd0649d92e35161cd02ba66b0&oe=5BF8BF1B",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Jo\u00e3o Amin",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "236234903898582",
+                "adid": "6099344233147",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "672773076254570",
+                "pageName": "Rafael Zucco",
+                "snapshot": {
+                    "ad_creative_id": 6099344232947,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Chegou a hora e preciso do seu apoio, ajude a divulgar, atualize sua foto de perfil, VAMOS RENOVAR DE VEZ, VOTE ZUCCO 30123 #S\u00f3Acho<br /> <br /> Acesse--&gt;&gt; <a href=\"https://www.facebook.com/profilepicframes/?selected_overlay_id=2084744798505929\" rel=\"nofollow\">https://www.facebook.com/profilepicframes/?selected_overlay_id=2084744798505929</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31143741000155",
+                    "byline": "Rafael Zucco",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534514853,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rafael Zucco",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39404418_236234930565246_915866046039064576_n.jpg?_nc_cat=0&oh=5eee1224ef3c4be3730850492c9986c3&oe=5BF8561B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406706_861806880684521_1214350884243243008_n.jpg?_nc_cat=0&oh=533f5a81386142eff759e18c8630095f&oe=5C081FD4"
+                        }
+                    ],
+                    "instagram_actor_name": "Rafael Zucco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39336379_236234920565247_6669569098080321536_n.jpg?_nc_cat=0&oh=375db47f4439edd25ee2e2a363e6a902&oe=5C0C3DBE",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/profilepicframes/?selected_overlay_id=2084744798505929",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 672773076254570,
+                    "page_is_deleted": false,
+                    "page_like_count": 100560,
+                    "page_name": "Rafael Zucco",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37534657_236234917231914_8684765305232162816_n.jpg?_nc_cat=0&oh=c9adce55c8446e2f20c02c0efa6270f9&oe=5C0D2128",
+                    "page_profile_uri": "https://www.facebook.com/rafaelzucco82/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "223431461682378",
+                "adid": "6103622288781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103622282581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente conquista nas ruas! #PSOL"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534520521,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39010647_1620138554764588_1371784375061970944_n.jpg?_nc_cat=0&oh=84b3fbe4e133bc7e6dbf1de483c773fd&oe=5C3A73BB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39043776_1620138551431255_1254455338938138624_n.jpg?_nc_cat=0&oh=e8d90799a92baa60d04c145090589bc1&oe=5C06433A"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308095_1957117957643243_6113306919839989760_n.jpg?_nc_cat=0&oh=c48cd63ddabf751f922d1c9f2d965713&oe=5BFB0BC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39279473_1957117960976576_390848401962434560_n.jpg?_nc_cat=0&oh=965733347c63736db156071bb4905544&oe=5C07B251",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "412632162595495",
+                "adid": "6103622285781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103622285581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534518740,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297082_504158693380880_8962036823220027392_n.jpg?_nc_cat=0&oh=803fa6b9dfc8256063a6153dbbc98060&oe=5BEFFFAF",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295148_504158696714213_5732271517421535232_n.jpg?_nc_cat=0&oh=ed26e42d9c5545b3057b21b577b3bbb2&oe=5C05D03C",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=2111b62704523222d3d29492fe203704&oe=5B79E7AC",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39380056_504158700047546_3103765284754817024_n.jpg?_nc_cat=0&oh=2960b5bd20946d21ee3282d5f3f65eab&oe=5C0B16C3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=0d38c23facdcad86e502d1c84271465e&oe=5B79D6C8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "504158680047548",
+                "adid": "6103622290581",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103622285581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 poss\u00edvel a pol\u00edtica que o dinheiro n\u00e3o compra! Ficamos muito felizes com a energia e for\u00e7a das mais de 600 pessoas que vieram no lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal. Sem d\u00favidas ser\u00e1 um grande desafio conquistar nosso lugar em Bras\u00edlia, mas com a garra dos movimentos sociais, militantes do PSOL e da popula\u00e7\u00e3o que n\u00e3o se rendem e n\u00e3o se vendem, vamos multiplicar a nossa for\u00e7a! Contagem regressiva! Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534518740,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297082_504158693380880_8962036823220027392_n.jpg?_nc_cat=0&oh=803fa6b9dfc8256063a6153dbbc98060&oe=5BEFFFAF",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295148_504158696714213_5732271517421535232_n.jpg?_nc_cat=0&oh=ed26e42d9c5545b3057b21b577b3bbb2&oe=5C05D03C",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Lan\u00e7amento da nossa pr\u00e9-candidatura a Deputada Federal!",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_202061093985675_5464512591785099264_n.mp4?_nc_cat=0&oh=2111b62704523222d3d29492fe203704&oe=5B79E7AC",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39380056_504158700047546_3103765284754817024_n.jpg?_nc_cat=0&oh=2960b5bd20946d21ee3282d5f3f65eab&oe=5C0B16C3",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/38132019_226581854661454_3465359835535507456_n.mp4?_nc_cat=0&oh=0d38c23facdcad86e502d1c84271465e&oe=5B79D6C8"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1957117920976580",
+                "adid": "6103622282781",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103622282581,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A pol\u00edtica que o dinheiro n\u00e3o compra, a gente conquista nas ruas! #PSOL"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534520521,
+                    "cta_text": "Send Message",
+                    "cta_type": "Enviar mensagem",
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39010647_1620138554764588_1371784375061970944_n.jpg?_nc_cat=0&oh=84b3fbe4e133bc7e6dbf1de483c773fd&oe=5C3A73BB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39043776_1620138551431255_1254455338938138624_n.jpg?_nc_cat=0&oh=e8d90799a92baa60d04c145090589bc1&oe=5C06433A"
+                        }
+                    ],
+                    "instagram_actor_name": "Fernanda Melchionna",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308095_1957117957643243_6113306919839989760_n.jpg?_nc_cat=0&oh=c48cd63ddabf751f922d1c9f2d965713&oe=5BFB0BC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39279473_1957117960976576_390848401962434560_n.jpg?_nc_cat=0&oh=965733347c63736db156071bb4905544&oe=5C07B251",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "289545795160893",
+                "adid": "23843003232890060",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "478791545599155",
+                "pageName": "Rose Cipriano",
+                "snapshot": {
+                    "ad_creative_id": "23843003232880060",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Negra, feminista, professora da rede p\u00fablica e ativista da educa\u00e7\u00e3o. Candidata a Deputada Estadual pelo PSOL."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31143570000164",
+                    "byline": "ELEICAO 2018 ROSE CIPRIANO LAPA DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534590991,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rose Cipriano",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471101_289545818494224_6009482523615166464_n.jpg?_nc_cat=0&oh=690d0402354683a5de4518d8f3aa4830&oe=5BF7C800",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39502654_289545821827557_8160639575539056640_n.jpg?_nc_cat=0&oh=1cbf698e8b3fb17f6df6d050fbbba5e5&oe=5BF66595"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/professorarosecipriano/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 478791545599155,
+                    "page_is_deleted": false,
+                    "page_like_count": 18123,
+                    "page_name": "Rose Cipriano",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39340971_289545801827559_4508320182975856640_n.jpg?_nc_cat=0&oh=96d69390c7ce5dd39071d02160c6b5e1&oe=5BF15DAF",
+                    "page_profile_uri": "https://www.facebook.com/professorarosecipriano/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "235028900492203",
+                "adid": "23843003232440060",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "478791545599155",
+                "pageName": "Rose Cipriano",
+                "snapshot": {
+                    "ad_creative_id": "23843003232430060",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Negra, feminista, professora da rede p\u00fablica e ativista da educa\u00e7\u00e3o. Candidata a deputada estadual pelo PSOL."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31143570000164",
+                    "byline": "ELEICAO 2018 ROSE CIPRIANO LAPA DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534566867,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Rose Cipriano",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39339055_235028933825533_4426511716095885312_n.jpg?_nc_cat=0&oh=2930b26f0b686eae7d4b153b656b73ea&oe=5BF7718C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39311112_235028930492200_622439966345003008_n.jpg?_nc_cat=0&oh=a06795f9e2a3bfed9e5976b8bd962bdc&oe=5C3AA680"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/professorarosecipriano/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 478791545599155,
+                    "page_is_deleted": false,
+                    "page_like_count": 18123,
+                    "page_name": "Rose Cipriano",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343437_235028920492201_4987135480869945344_n.jpg?_nc_cat=0&oh=2a81ecbbac5b1077d0acc848b9faeb6b&oe=5BF67C3E",
+                    "page_profile_uri": "https://www.facebook.com/professorarosecipriano/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "228031837886380",
+                "adid": "23842932279620399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932279610399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aprendi em casa que a primeira caracter\u00edstica necess\u00e1ria para um bom pol\u00edtico \u00e9 o zelo pela coisa p\u00fablica. Foram meus pais que mostraram que com gest\u00e3o e transpar\u00eancia, nunca faltar\u00e1 sal\u00e1rio para servidor nenhum, n\u00e3o faltar\u00e1 recursos para investimento. Na pol\u00edtica n\u00e3o tem m\u00e1gica, \u00e9 s\u00f3 ter responsabilidade! &#064;esperidiaoamin &#064;angelaaminoficial"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534522883,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39242274_1807780502603985_8556582873866436608_n.jpg?_nc_cat=0&oh=f47623ff532d8e9ac4e6e655611cb681&oe=5BF478E0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39300716_1807780505937318_4724676106790109184_n.jpg?_nc_cat=0&oh=866e5191699a2415326ca7ade6a54d08&oe=5C3AC7EF"
+                        }
+                    ],
+                    "instagram_actor_name": "Jo\u00e3o Amin",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39334563_228031854553045_5822049029831262208_n.jpg?_nc_cat=0&oh=ef7ce471cf63d25103886a021fadf06f&oe=5BF282F4",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39403919_228031851219712_6830459878658539520_n.jpg?_nc_cat=0&oh=874c894c38664cecad5c0345924a367b&oe=5C0A80E4",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1934797166814844",
+                "adid": "23842932279490399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932278020399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aprendi em casa que a primeira caracter\u00edstica necess\u00e1ria para um bom pol\u00edtico \u00e9 o zelo pela coisa p\u00fablica. Foram meus pais que mostraram que com gest\u00e3o e transpar\u00eancia, nunca faltar\u00e1 sal\u00e1rio para servidor nenhum, n\u00e3o faltar\u00e1 recursos para investimento. Na pol\u00edtica n\u00e3o tem m\u00e1gica, \u00e9 s\u00f3 ter responsabilidade!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534526742,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39199485_1806490469399655_696808300032819200_n.jpg?_nc_cat=0&oh=84b5e30e7406a1244a118a955cd7ac7b&oe=5BF94AC3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39167192_1806490466066322_1395327345669177344_n.jpg?_nc_cat=0&oh=a703626143abcba0a6e3c36157720985&oe=5BF79268"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285694_471475819987179_4576888150445522944_n.jpg?_nc_cat=0&oh=df56391811cf7eb9abcd583c41b0ea73&oe=5BFDF54B",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "471475806653847",
+                "adid": "23842932278130399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932278020399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aprendi em casa que a primeira caracter\u00edstica necess\u00e1ria para um bom pol\u00edtico \u00e9 o zelo pela coisa p\u00fablica. Foram meus pais que mostraram que com gest\u00e3o e transpar\u00eancia, nunca faltar\u00e1 sal\u00e1rio para servidor nenhum, n\u00e3o faltar\u00e1 recursos para investimento. Na pol\u00edtica n\u00e3o tem m\u00e1gica, \u00e9 s\u00f3 ter responsabilidade!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534526742,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39199485_1806490469399655_696808300032819200_n.jpg?_nc_cat=0&oh=84b5e30e7406a1244a118a955cd7ac7b&oe=5BF94AC3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39167192_1806490466066322_1395327345669177344_n.jpg?_nc_cat=0&oh=a703626143abcba0a6e3c36157720985&oe=5BF79268"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285694_471475819987179_4576888150445522944_n.jpg?_nc_cat=0&oh=df56391811cf7eb9abcd583c41b0ea73&oe=5BFDF54B",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "511209962639452",
+                "adid": "23842932278360399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932278350399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Ol\u00e1Voc\u00ea de Sider\u00f3polis, tudo bem? <br /> <br /> Vim visitar a regi\u00e3o e fui obrigado a passar na dona Bimba para tomar um cafezinho da manh\u00e3. Diz ela que eu tenho uma polenta e uma galinha caipira de cr\u00e9dito ainda! Vou ter que voltar pra ganhar esse presente. Na primeira vez estava delicioso e estou com \u00e1gua na boca at\u00e9 agora!!!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534542154,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39494234_511209972639451_1783672898389540864_n.jpg?_nc_cat=0&oh=fcdc488e75443935ba9cde63ee0f66ea&oe=5C0CADDC",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39349672_254154348559461_1797896313950437376_n.mp4?_nc_cat=0&oh=0589a130ea05c35dae36dcb304ca04e6&oe=5B79E75E",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37146831_511209979306117_5851787675446542336_n.jpg?_nc_cat=0&oh=246c7bbd9a93249849e0df86b42c78c5&oe=5C0B4DED",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39104788_1071884036270263_6289674567824703488_n.mp4?_nc_cat=0&oh=37ea372a95266cdef4cc12c9f210d0d2&oe=5B79D589"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1458509670917106",
+                "adid": "23842932278880399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932278860399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aprendi em casa que a primeira caracter\u00edstica necess\u00e1ria para um bom pol\u00edtico \u00e9 o zelo pela coisa p\u00fablica. Foram meus pais que mostraram que com gest\u00e3o e transpar\u00eancia, nunca faltar\u00e1 sal\u00e1rio para servidor nenhum, n\u00e3o faltar\u00e1 recursos para investimento. Na pol\u00edtica n\u00e3o tem m\u00e1gica, \u00e9 s\u00f3 ter responsabilidade! &#064;esperidiaoamin &#064;angelaaminoficial"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534536568,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39284519_1807780405937328_8567229436368257024_n.jpg?_nc_cat=0&oh=25a3efee23664cd3197c23a651413629&oe=5BFF2406",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39261694_1807780402603995_3375706963076710400_n.jpg?_nc_cat=0&oh=a3f5da0b0d2964e4c5c5a46a76d1a7b7&oe=5C08D485"
+                        }
+                    ],
+                    "instagram_actor_name": "Jo\u00e3o Amin",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39398590_1458509697583770_1009285098010312704_n.jpg?_nc_cat=0&oh=8ee45056a3c21cdca586c7bf6afcb2d6&oe=5C081475",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297024_1458509694250437_6505239027950551040_n.jpg?_nc_cat=0&oh=1943a3ab76a3bbf69660589a0cd73d55&oe=5C01CF53",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1800585543391321",
+                "adid": "23842932278030399",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin",
+                "snapshot": {
+                    "ad_creative_id": "23842932278020399",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aprendi em casa que a primeira caracter\u00edstica necess\u00e1ria para um bom pol\u00edtico \u00e9 o zelo pela coisa p\u00fablica. Foram meus pais que mostraram que com gest\u00e3o e transpar\u00eancia, nunca faltar\u00e1 sal\u00e1rio para servidor nenhum, n\u00e3o faltar\u00e1 recursos para investimento. Na pol\u00edtica n\u00e3o tem m\u00e1gica, \u00e9 s\u00f3 ter responsabilidade!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31242992000197",
+                    "byline": "Joao Antonio Heizen Amin Helou",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534526742,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Amin",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39199485_1806490469399655_696808300032819200_n.jpg?_nc_cat=0&oh=84b5e30e7406a1244a118a955cd7ac7b&oe=5BF94AC3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39167192_1806490466066322_1395327345669177344_n.jpg?_nc_cat=0&oh=a703626143abcba0a6e3c36157720985&oe=5BF79268"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 512906905424691,
+                    "page_is_deleted": false,
+                    "page_like_count": 56128,
+                    "page_name": "Jo\u00e3o Amin",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285694_471475819987179_4576888150445522944_n.jpg?_nc_cat=0&oh=df56391811cf7eb9abcd583c41b0ea73&oe=5BFDF54B",
+                    "page_profile_uri": "https://www.facebook.com/joaoamin11/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "171118077031707",
+                "adid": "6103620800381",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "277893662811666",
+                "adid": "6103620798981",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna",
+                "snapshot": {
+                    "ad_creative_id": 6103620786981,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Fernanda \u00e9 pr\u00e9-candidata pelo PSOL a Deputada Federal. \u00c9 bibliotec\u00e1ria de forma\u00e7\u00e3o e banc\u00e1ria licenciada do Banrisul. Foi a parlamentar mais votada na cidade em 2016. Acreditamos que a pol\u00edtica \u00e9 muito s\u00e9ria para deixar na m\u00e3o somente dos pol\u00edticos. Nossa for\u00e7a est\u00e1 nas pessoas. Vamos juntos?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31061296000184",
+                    "byline": "ELEICAO 2018 FERNANDA MELCHIONNA E SILVA DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534534094,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Fernanda Melchionna",
+                    "disclaimer_label": 2,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39359995_1174358346052433_9178636013981925376_n.jpg?_nc_cat=0&oh=100e3553ac8a8aeeab5489a57cea52bf&oe=5BF13131",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306582_1174358349385766_5726931880935161856_n.jpg?_nc_cat=0&oh=720f0bd8f1294a56ad6ac0acf4c6ad9e&oe=5C0B8A76"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/fernandapsol/",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 241140532664404,
+                    "page_is_deleted": false,
+                    "page_like_count": 33061,
+                    "page_name": "Fernanda Melchionna",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39341924_1174358339385767_9196787370408542208_n.jpg?_nc_cat=0&oh=9d0dbd54af7cdad6468ca351c9857164&oe=5C02D2DB",
+                    "page_profile_uri": "https://www.facebook.com/fernandapsol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Fernanda Melchionna",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 385,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

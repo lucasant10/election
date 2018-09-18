@@ -169,9 +169,14 @@ def cnn_model(sequence_length, embedding_dim):
 def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZE):
     cv_object = KFold(n_splits=NO_OF_FOLDS, shuffle=True, random_state=42)
     print(cv_object)
-    p, r, f1 = 0., 0., 0.
+    p, r, f1 = [], [], []
     p1, r1, f11 = 0., 0., 0.
     sentence_len = X.shape[1]
+    
+    precision_scores = []
+    recall_scores = []
+    f1_scores = []
+
     for train_index, test_index in cv_object.split(X):
         if INITIALIZE_WEIGHTS_WITH == "word2vec":
             model.layers[0].set_weights([weights])
@@ -210,19 +215,27 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
         #print(classification_report(y_test, y_pred))
         #print(precision_recall_fscore_support(y_test, y_pred))
         #print(y_pred)
-        p += precision_score(y_test, y_pred, average='weighted')
+        p.append (precision_score(y_test, y_pred, average='weighted'))
         p1 += precision_score(y_test, y_pred, average='micro')
-        r += recall_score(y_test, y_pred, average='weighted')
+        r.append(recall_score(y_test, y_pred, average='weighted'))
         r1 += recall_score(y_test, y_pred, average='micro')
-        f1 += f1_score(y_test, y_pred, average='weighted')
+        f1.append (f1_score(y_test, y_pred, average='weighted'))
         f11 += f1_score(y_test, y_pred, average='micro')
 
     print("macro results are")
-    print("average precision is %f" % (p / NO_OF_FOLDS))
-    print("average recall is %f" % (r / NO_OF_FOLDS))
-    print("average f1 is %f" % (f1 / NO_OF_FOLDS))
+    print("average precision is %f" % (np.array(p).mean()))
+    print("average recall is %f" % (np.array(r).mean()))
+    print("average f1 is %f" % (np.array(f1).mean()))
 
-    
+    save_report_to_csv (REPORT_FOLDER  +'cnn_training_report.csv', [
+        'CNN', 
+        np.array(p).mean(),
+        np.array(p).std() * 2,
+        np.array(r).mean(),
+        np.array(r).std() * 2,
+        np.array(f1).mean(),
+        np.array(f1).std() * 2,
+    ])
 
     print("micro results are")
     print("average precision is %f" % (p1 / NO_OF_FOLDS))
@@ -302,12 +315,14 @@ if __name__ == "__main__":
     data, y = sklearn.utils.shuffle(data, y)
     W = get_embedding_weights()
     model = cnn_model(data.shape[1], EMBEDDING_DIM)
-    p, r, f1 = train_CNN(data, y, EMBEDDING_DIM, model, W)
+    train_CNN(data, y, EMBEDDING_DIM, model, W)
 
     input_file = POLITICS_FILE.replace(TMP_FOLDER, '').strip()
 
     model.save(H5_FOLDER + MODEL_NAME + input_file + ".h5")
     np.save(NPY_FOLDER + DICT_NAME + input_file +'.npy', vocab)
+
+    
     
 
 #python cnn.py -f cbow_s300.txt  -d 300 --epochs 10 --batch-size 30 --initialize-weights word2vec --scale-loss-function

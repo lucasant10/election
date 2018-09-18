@@ -1,0 +1,3187 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6590919412716555902",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "GfYe8Pnal9fyjwGiudyEvLalB/T9s5Xzt+sBkt+IhNKd3Qeo4ay0yra1BtionuXLgIEB+IDarqGD2wSWqN7Dr6fpBYSrjcHMgWyCnaXWmeSJBrb4suvrz44B3srSv/Dzc8aXwPW0ycUH2Jr+h/zwjwGMr8764OV49q2TtIm6vgKw4Jm3urFmio/8kcvY0wOMxIHo5um6Arik1LDxps8CitSKlry4ggGm/6u3+/x01Nyn9vzYowLQno7QgfKHCIalw6ze9OMD9qK7g/nWzgLuttm5qpxfvJjF/MOEZ7KksNHOvXy08oPtrPjPARkVPAA=",
+        "pageResults": [
+            {
+                "count": 85,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos"
+            },
+            {
+                "count": 37,
+                "pageID": "393914020704484",
+                "pageName": "Adyen"
+            },
+            {
+                "count": 33,
+                "pageID": "241140532664404",
+                "pageName": "Fernanda Melchionna"
+            },
+            {
+                "count": 24,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer"
+            },
+            {
+                "count": 18,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas"
+            },
+            {
+                "count": 14,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial"
+            },
+            {
+                "count": 11,
+                "pageID": "194174003960823",
+                "pageName": "Ivan Valente"
+            },
+            {
+                "count": 11,
+                "pageID": "169042736456594",
+                "pageName": "All Out"
+            },
+            {
+                "count": 10,
+                "pageID": "168865359819628",
+                "pageName": "NOVO 30"
+            },
+            {
+                "count": 10,
+                "pageID": "406398442733177",
+                "pageName": "Mendon\u00e7a Filho"
+            },
+            {
+                "count": 10,
+                "pageID": "1230950177041255",
+                "pageName": "ColorMade"
+            },
+            {
+                "count": 10,
+                "pageID": "512906905424691",
+                "pageName": "Jo\u00e3o Amin"
+            },
+            {
+                "count": 9,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale"
+            },
+            {
+                "count": 9,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado"
+            },
+            {
+                "count": 7,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth"
+            },
+            {
+                "count": 7,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral"
+            },
+            {
+                "count": 6,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround"
+            },
+            {
+                "count": 6,
+                "pageID": "14892757589",
+                "pageName": "Le Monde"
+            },
+            {
+                "count": 6,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz"
+            },
+            {
+                "count": 5,
+                "pageID": "657061604409444",
+                "pageName": "CELAG / Centro Estrat\u00e9gico Latinoamericano de Geopol\u00edtica"
+            },
+            {
+                "count": 5,
+                "pageID": "280587198947012",
+                "pageName": "Memoria \u00c1gil"
+            },
+            {
+                "count": 4,
+                "pageID": "1069477603133660",
+                "pageName": "Maria Giovana Fortunato"
+            },
+            {
+                "count": 4,
+                "pageID": "1113424338770664",
+                "pageName": "Gabriel Santos"
+            },
+            {
+                "count": 4,
+                "pageID": "964732633641978",
+                "pageName": "Marconi S. Olguins"
+            },
+            {
+                "count": 4,
+                "pageID": "537393773101072",
+                "pageName": "Lucas Gonzalez"
+            },
+            {
+                "count": 4,
+                "pageID": "1017644601605126",
+                "pageName": "Luciano Victorino"
+            },
+            {
+                "count": 4,
+                "pageID": "228058993888678",
+                "pageName": "Raul Henry"
+            },
+            {
+                "count": 4,
+                "pageID": "452241528268710",
+                "pageName": "Los Angeles Times en Espa\u00f1ol"
+            },
+            {
+                "count": 3,
+                "pageID": "138598029627098",
+                "pageName": "Dr. Ronis Silva"
+            },
+            {
+                "count": 3,
+                "pageID": "1691667177798461",
+                "pageName": "Brut"
+            },
+            {
+                "count": 3,
+                "pageID": "1861454424142548",
+                "pageName": "Top Game Apps"
+            },
+            {
+                "count": 3,
+                "pageID": "1618776078214645",
+                "pageName": "Lucio de Sousa"
+            },
+            {
+                "count": 3,
+                "pageID": "1113508038659374",
+                "pageName": "Hendel Machado"
+            },
+            {
+                "count": 3,
+                "pageID": "672773076254570",
+                "pageName": "Rafael Zucco"
+            },
+            {
+                "count": 3,
+                "pageID": "218747811487830",
+                "pageName": "Revista TV Espa\u00f1ol"
+            },
+            {
+                "count": 3,
+                "pageID": "2134782856537565",
+                "pageName": "Jilmar Tatto"
+            },
+            {
+                "count": 3,
+                "pageID": "1771516799805688",
+                "pageName": "Meyomessala International"
+            },
+            {
+                "count": 2,
+                "pageID": "127789930632668",
+                "pageName": "Conectas Direitos Humanos"
+            },
+            {
+                "count": 2,
+                "pageID": "819221691513484",
+                "pageName": "Fabricio Jurado"
+            },
+            {
+                "count": 2,
+                "pageID": "806478769425873",
+                "pageName": "Franklin Ferreira"
+            },
+            {
+                "count": 2,
+                "pageID": "1645489149033303",
+                "pageName": "Vox Populi"
+            },
+            {
+                "count": 2,
+                "pageID": "618835734893529",
+                "pageName": "Lary"
+            },
+            {
+                "count": 2,
+                "pageID": "425866030884565",
+                "pageName": "Jorginho Mello"
+            },
+            {
+                "count": 2,
+                "pageID": "687900908223902",
+                "pageName": "Rio de Janeiro no ar - elei\u00e7\u00f5es 2018"
+            },
+            {
+                "count": 2,
+                "pageID": "154745847946903",
+                "pageName": "Jornal da Chapada"
+            },
+            {
+                "count": 2,
+                "pageID": "375349375824563",
+                "pageName": "Senador MOKA"
+            },
+            {
+                "count": 2,
+                "pageID": "151722774951683",
+                "pageName": "Alexandre Cardoso"
+            },
+            {
+                "count": 2,
+                "pageID": "278400662362838",
+                "pageName": "Ursula Vidal"
+            },
+            {
+                "count": 2,
+                "pageID": "1313923788706996",
+                "pageName": "Repression In Paradise - Venezuelan Documentary"
+            },
+            {
+                "count": 2,
+                "pageID": "1411864629074812",
+                "pageName": "Carlos Batinga"
+            },
+            {
+                "count": 2,
+                "pageID": "236972799793835",
+                "pageName": "Jo\u00e3o Fernando Coutinho"
+            },
+            {
+                "count": 2,
+                "pageID": "22309058308",
+                "pageName": "Americas Society/Council of the Americas"
+            },
+            {
+                "count": 2,
+                "pageID": "275715205937851",
+                "pageName": "\u5927\u7d00\u5143&\u65b0\u5510\u4eba\uff0d\u820a\u91d1\u5c71\uff08EpochTimes & NTDTV - San Francisco\uff09"
+            },
+            {
+                "count": 1,
+                "pageID": "541670845918340",
+                "pageName": "Soy Latina Emprendedora"
+            },
+            {
+                "count": 1,
+                "pageID": "478791545599155",
+                "pageName": "Rose Cipriano"
+            },
+            {
+                "count": 1,
+                "pageID": "294173590636270",
+                "pageName": "Motodestino"
+            },
+            {
+                "count": 1,
+                "pageID": "895194543960710",
+                "pageName": "Kaloni Colombia."
+            },
+            {
+                "count": 1,
+                "pageID": "172991853329681",
+                "pageName": "Congr\u00e8s Expatriation au F\u00e9minin"
+            },
+            {
+                "count": 1,
+                "pageID": "381130535242626",
+                "pageName": "Radio Show Italia"
+            },
+            {
+                "count": 1,
+                "pageID": "1174377252577280",
+                "pageName": "Juan Pablo M\u00e1rquez Garc\u00eda"
+            },
+            {
+                "count": 1,
+                "pageID": "558618490903477",
+                "pageName": "Arthur Oliveira Maia"
+            },
+            {
+                "count": 1,
+                "pageID": "191205631517975",
+                "pageName": "Cu\u00e9ntalo"
+            },
+            {
+                "count": 1,
+                "pageID": "885626698252688",
+                "pageName": "Brut nature FR"
+            },
+            {
+                "count": 1,
+                "pageID": "1134337953346927",
+                "pageName": "Jeronimo Barefoot Club"
+            },
+            {
+                "count": 1,
+                "pageID": "287842647957979",
+                "pageName": "European Commission - Development & Cooperation - EuropeAid"
+            },
+            {
+                "count": 1,
+                "pageID": "1412220549084499",
+                "pageName": "Esteban Pozo Dise\u00f1o Integral y Eventos por David Moscoso & Esteban Pozo"
+            },
+            {
+                "count": 1,
+                "pageID": "201942996498621",
+                "pageName": "Fern"
+            },
+            {
+                "count": 1,
+                "pageID": "1456941464428582",
+                "pageName": "GEDAI - Grupo de Estudos de Defesa e An\u00e1lises Internacionais"
+            },
+            {
+                "count": 1,
+                "pageID": "856423034560460",
+                "pageName": "XV \ufffd"
+            },
+            {
+                "count": 1,
+                "pageID": "152879306925",
+                "pageName": "Middle East Monitor"
+            },
+            {
+                "count": 1,
+                "pageID": "621668134518008",
+                "pageName": "Global March for Elephants and Rhinos"
+            },
+            {
+                "count": 1,
+                "pageID": "118524398580532",
+                "pageName": "Ant\u00f4nio Henrique"
+            },
+            {
+                "count": 1,
+                "pageID": "577641462301931",
+                "pageName": "Felizardo"
+            },
+            {
+                "count": 1,
+                "pageID": "216650141692498",
+                "pageName": "DEIDO BOY MAGAZINE"
+            },
+            {
+                "count": 1,
+                "pageID": "117745282319161",
+                "pageName": "ANEWS"
+            },
+            {
+                "count": 1,
+                "pageID": "841453529207669",
+                "pageName": "Marx Sisters"
+            },
+            {
+                "count": 1,
+                "pageID": "787595328061315",
+                "pageName": "Caryu Cospre"
+            },
+            {
+                "count": 1,
+                "pageID": "1580971412124985",
+                "pageName": "M\u00e3es com Ci\u00eancia"
+            },
+            {
+                "count": 1,
+                "pageID": "119248088160136",
+                "pageName": "UNICEF Mozambique"
+            },
+            {
+                "count": 1,
+                "pageID": "1629990253744016",
+                "pageName": "Brut UK"
+            },
+            {
+                "count": 1,
+                "pageID": "608861729146626",
+                "pageName": "Maia Filho"
+            },
+            {
+                "count": 1,
+                "pageID": "113385982011987",
+                "pageName": "RAREXOTICSEEDS"
+            },
+            {
+                "count": 1,
+                "pageID": "327792884409708",
+                "pageName": "Fashion For Her"
+            },
+            {
+                "count": 1,
+                "pageID": "486363871422169",
+                "pageName": "Sociedade Taoista SP"
+            },
+            {
+                "count": 1,
+                "pageID": "372830962750821",
+                "pageName": "Dra. Regina Cioffi"
+            },
+            {
+                "count": 1,
+                "pageID": "267240947385010",
+                "pageName": "Farangis Music"
+            },
+            {
+                "count": 1,
+                "pageID": "711233809080336",
+                "pageName": "Os Dias S\u00e3o Assim"
+            },
+            {
+                "count": 1,
+                "pageID": "1746031715675035",
+                "pageName": "Introweska"
+            },
+            {
+                "count": 1,
+                "pageID": "364139677032739",
+                "pageName": "Netky.sk"
+            },
+            {
+                "count": 1,
+                "pageID": "183820948635500",
+                "pageName": "Trisha Ray"
+            },
+            {
+                "count": 1,
+                "pageID": "2032867286964666",
+                "pageName": "YARA \u064a\u0627\u0631\u0627"
+            },
+            {
+                "count": 1,
+                "pageID": "1025557940838032",
+                "pageName": "Rapa Nui Plast"
+            },
+            {
+                "count": 1,
+                "pageID": "330369533496",
+                "pageName": "Jerusalem Institute of Justice \u05de\u05db\u05d5\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e6\u05d3\u05e7"
+            },
+            {
+                "count": 1,
+                "pageID": "406003156274315",
+                "pageName": "Soubiose Ecofestival"
+            },
+            {
+                "count": 1,
+                "pageID": "1872610616116411",
+                "pageName": "Defesa - Ag\u00eancia de Not\u00edcias"
+            },
+            {
+                "count": 1,
+                "pageID": "485811434939050",
+                "pageName": "ReclameVoo"
+            },
+            {
+                "count": 1,
+                "pageID": "1720353878043284",
+                "pageName": "Vereador Dirceu Zanatta"
+            },
+            {
+                "count": 1,
+                "pageID": "595910780484178",
+                "pageName": "Rodrigo Fachini"
+            },
+            {
+                "count": 1,
+                "pageID": "147673065320368",
+                "pageName": "Instituto Rodrigo Mendes"
+            },
+            {
+                "count": 1,
+                "pageID": "102539276454846",
+                "pageName": "International Centre for Hydropower - ICH"
+            },
+            {
+                "count": 1,
+                "pageID": "142969969136343",
+                "pageName": "ANIMAL HELP URUGUAY"
+            },
+            {
+                "count": 1,
+                "pageID": "376251339465049",
+                "pageName": "Natalie Unterstell"
+            },
+            {
+                "count": 1,
+                "pageID": "185586181784587",
+                "pageName": "Interior24.no"
+            },
+            {
+                "count": 1,
+                "pageID": "293720774085565",
+                "pageName": "Mutir\u00e3o Pela Vida E Sa\u00fade: Droga Mata & Esporte Salva."
+            },
+            {
+                "count": 1,
+                "pageID": "194341747415603",
+                "pageName": "Fernando Dezena Literatura"
+            },
+            {
+                "count": 1,
+                "pageID": "384936981547930",
+                "pageName": "Fagotti Sociedade de Advogados"
+            },
+            {
+                "count": 1,
+                "pageID": "813720875379458",
+                "pageName": "Soldado Noelio"
+            },
+            {
+                "count": 1,
+                "pageID": "389335471120423",
+                "pageName": "Mignone Law Firm"
+            },
+            {
+                "count": 1,
+                "pageID": "366980073448840",
+                "pageName": "George Hilton"
+            },
+            {
+                "count": 1,
+                "pageID": "619684844769133",
+                "pageName": "ENA Advogados"
+            },
+            {
+                "count": 1,
+                "pageID": "189220204428972",
+                "pageName": "TKART"
+            },
+            {
+                "count": 1,
+                "pageID": "191512767645241",
+                "pageName": "Geraldo Resende"
+            },
+            {
+                "count": 1,
+                "pageID": "582524415115473",
+                "pageName": "Pinto Matamba"
+            },
+            {
+                "count": 1,
+                "pageID": "646275725724885",
+                "pageName": "Celeste y Blanca SAGAI"
+            },
+            {
+                "count": 1,
+                "pageID": "315167432350460",
+                "pageName": "Future Leaders"
+            },
+            {
+                "count": 1,
+                "pageID": "1682013965438042",
+                "pageName": "Alexsander Franson"
+            },
+            {
+                "count": 1,
+                "pageID": "204521736237532",
+                "pageName": "Cl\u00ednica Lumen - Fisioterapia e Terapia Ocupacional"
+            },
+            {
+                "count": 1,
+                "pageID": "1509413712605916",
+                "pageName": "ICAO - International Civil Aviation Organization"
+            },
+            {
+                "count": 1,
+                "pageID": "1456019298036282",
+                "pageName": "Thiago Cota"
+            },
+            {
+                "count": 1,
+                "pageID": "128080957346",
+                "pageName": "Kids-world.dk"
+            },
+            {
+                "count": 1,
+                "pageID": "137866919672782",
+                "pageName": "Gregor Huebner"
+            },
+            {
+                "count": 1,
+                "pageID": "703457909865334",
+                "pageName": "Amor Sana TCR"
+            },
+            {
+                "count": 1,
+                "pageID": "644814065541081",
+                "pageName": "Ant\u00f4nia L\u00facia"
+            },
+            {
+                "count": 1,
+                "pageID": "111832495644760",
+                "pageName": "Esperanza S\u00e1nchez"
+            },
+            {
+                "count": 1,
+                "pageID": "46847613149",
+                "pageName": "iAgua.es"
+            },
+            {
+                "count": 1,
+                "pageID": "212530915913216",
+                "pageName": "Alop\u00e9cicos"
+            },
+            {
+                "count": 1,
+                "pageID": "227622537655549",
+                "pageName": "CGTN en Espa\u00f1ol"
+            },
+            {
+                "count": 1,
+                "pageID": "1524876627600245",
+                "pageName": "Migration Data Portal"
+            },
+            {
+                "count": 1,
+                "pageID": "1419698741415912",
+                "pageName": "Kueez"
+            },
+            {
+                "count": 1,
+                "pageID": "285477048192637",
+                "pageName": "\u00bfEn qu\u00e9 creemos los cat\u00f3licos?"
+            },
+            {
+                "count": 1,
+                "pageID": "1411134208974716",
+                "pageName": "Max Oliveira"
+            },
+            {
+                "count": 1,
+                "pageID": "139122142786837",
+                "pageName": "Peri\u00f3dico S\u00edntesis"
+            },
+            {
+                "count": 1,
+                "pageID": "206871509410716",
+                "pageName": "Clacso - Consejo Latinoamericano de Ciencias Sociales"
+            },
+            {
+                "count": 1,
+                "pageID": "116117765080288",
+                "pageName": "Russia Beyond ES"
+            },
+            {
+                "count": 1,
+                "pageID": "176897033007671",
+                "pageName": "Jack Tsai"
+            },
+            {
+                "count": 1,
+                "pageID": "220135511693656",
+                "pageName": "Le\u00f3n Esquire"
+            },
+            {
+                "count": 1,
+                "pageID": "355165398150790",
+                "pageName": "Cosas De Brujas..buenas"
+            },
+            {
+                "count": 1,
+                "pageID": "143970472302311",
+                "pageName": "Angy Newman M\u00e9xico"
+            },
+            {
+                "count": 1,
+                "pageID": "709284295860428",
+                "pageName": "P\u00e3o de Alho Boa Massa"
+            },
+            {
+                "count": 1,
+                "pageID": "549608648565581",
+                "pageName": "Al\u00ea Silva"
+            },
+            {
+                "count": 1,
+                "pageID": "1975315259400096",
+                "pageName": "Do\u00f1\u00e9"
+            },
+            {
+                "count": 1,
+                "pageID": "204944613039280",
+                "pageName": "DreamAchieve"
+            },
+            {
+                "count": 1,
+                "pageID": "1828907720466976",
+                "pageName": "Artememoria"
+            },
+            {
+                "count": 1,
+                "pageID": "1489521967767240",
+                "pageName": "Paulo Mathias"
+            },
+            {
+                "count": 1,
+                "pageID": "322712121525223",
+                "pageName": "Jefferson CAF\u00c9"
+            },
+            {
+                "count": 1,
+                "pageID": "835671849953023",
+                "pageName": "Human Rights  Derechos Humanos  Mundi"
+            },
+            {
+                "count": 1,
+                "pageID": "434678260071404",
+                "pageName": "Circolo Due Cinisello Balsamo"
+            },
+            {
+                "count": 1,
+                "pageID": "288031487968578",
+                "pageName": "Uni\u00e3o pela volta dos inibidores de apetite"
+            },
+            {
+                "count": 1,
+                "pageID": "99317174788",
+                "pageName": "HebreosNet"
+            },
+            {
+                "count": 1,
+                "pageID": "1858373257540100",
+                "pageName": "SBLY Portugu\u00eas"
+            },
+            {
+                "count": 1,
+                "pageID": "49134323939",
+                "pageName": "IRIN"
+            },
+            {
+                "count": 1,
+                "pageID": "100593656679187",
+                "pageName": "Ctrl ControlPublicidad"
+            },
+            {
+                "count": 1,
+                "pageID": "1376429435927935",
+                "pageName": "FONDISMO TOTAL"
+            },
+            {
+                "count": 1,
+                "pageID": "429957570419097",
+                "pageName": "Professor Israel"
+            },
+            {
+                "count": 1,
+                "pageID": "891508834342027",
+                "pageName": "Comandante Helbingen"
+            },
+            {
+                "count": 1,
+                "pageID": "1239851222775502",
+                "pageName": "Democracy Without Borders"
+            },
+            {
+                "count": 1,
+                "pageID": "329394587151805",
+                "pageName": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs"
+            },
+            {
+                "count": 1,
+                "pageID": "161154460715395",
+                "pageName": "Sociedad Paraguaya de Oftalmolog\u00eda"
+            },
+            {
+                "count": 1,
+                "pageID": "306907899433088",
+                "pageName": "Carta e Cr\u00f4nica"
+            },
+            {
+                "count": 1,
+                "pageID": "164179877047350",
+                "pageName": "Lis Malter Terrada.  Especialista Estancias & Polo"
+            },
+            {
+                "count": 1,
+                "pageID": "876960479015497",
+                "pageName": "El Violin Latino"
+            },
+            {
+                "count": 1,
+                "pageID": "233734300112003",
+                "pageName": "Juan Monteverde Concejal"
+            },
+            {
+                "count": 1,
+                "pageID": "378465008926592",
+                "pageName": "Andr\u00e9 Louren\u00e7o"
+            },
+            {
+                "count": 1,
+                "pageID": "1858817817683851",
+                "pageName": "BahaiTeachings Spanish"
+            },
+            {
+                "count": 1,
+                "pageID": "198342317438702",
+                "pageName": "B Studio"
+            },
+            {
+                "count": 1,
+                "pageID": "1455107038036367",
+                "pageName": "Mujer Imperfecta"
+            },
+            {
+                "count": 1,
+                "pageID": "260798737433886",
+                "pageName": "Adventistas del  S\u00e9ptimo d\u00eda  en Oraci\u00f3n-P\u00e1gina"
+            },
+            {
+                "count": 1,
+                "pageID": "123110834423768",
+                "pageName": "Patrick Moore"
+            },
+            {
+                "count": 1,
+                "pageID": "881661628593250",
+                "pageName": "Gente de Opini\u00e3o"
+            },
+            {
+                "count": 1,
+                "pageID": "1892515131011712",
+                "pageName": "Osias Wurman"
+            },
+            {
+                "count": 1,
+                "pageID": "1489836521055015",
+                "pageName": "Tupa - Milton Carlos de Mello"
+            }
+        ],
+        "results": [
+            {
+                "adArchiveID": "316430532435576",
+                "adid": "23842992581500762",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1489836521055015",
+                "pageName": "Tupa - Milton Carlos de Mello",
+                "snapshot": {
+                    "ad_creative_id": "23842992581490762",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Presidente Prudente \u00e9 a cidade onde governei por dois mandatos. Agora, quero fazer mais pela capital do Oeste Paulista. Assista essa mensagem que tenho para voc\u00eas!  Conto com o seu apoio.<br /> <br /> Vote 2510<br /> CNPJ 31.181.393/0001-00"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31181393000100",
+                    "byline": " ELEICAO 2018 MILTON CARLOS DE MELLO DEPUTADO FEDERAL ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534558404,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Tupa - Milton Carlos de Mello",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1489836521055015,
+                    "page_is_deleted": false,
+                    "page_like_count": 1235,
+                    "page_name": "Tupa - Milton Carlos de Mello",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39244183_316430539102242_9156918980001136640_n.jpg?_nc_cat=0&oh=747a4dfaeff902032aca6ff9d90d6f75&oe=5C109388",
+                    "page_profile_uri": "https://www.facebook.com/tupa.digital/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "PRESIDENTE PRUDENTE",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39216389_657897677919570_7590116679946862592_n.mp4?_nc_cat=0&oh=930a44e9f0b4d69919a0160a81b6fedc&oe=5B77D875",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39333081_316430549102241_4294486723519315968_n.jpg?_nc_cat=0&oh=8bf9fbb8fc6c8cbbefbbd6fe1d38040f&oe=5C079C27",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39230608_452152615270885_5797594946336718848_n.mp4?_nc_cat=0&oh=e1087c98472f108f59e9cbc9d0b7034b&oe=5B77D88E"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2052624468381265",
+                "adid": "23842978504010001",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "2134782856537565",
+                "pageName": "Jilmar Tatto",
+                "snapshot": {
+                    "ad_creative_id": "23842978504000001",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Sextou13 <br /> <br /> N\u00e3o t\u00e1 f\u00e1cil pra concorr\u00eancia! <a href=\"https://www.facebook.com/fernandohaddad/\" data-hovercard=\"/ajax/hovercard/page.php?id=904277726319518&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Fernando Haddad</a> sobe mais que foguete e j\u00e1 ultrapassa a marca dos dois d\u00edgitos na pesquisa semanal da XP Investimentos. #JilmarTatto #Tatto132 <br /> <br /> Saiba mais: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FHaddadSobeEOMercadoDesce&amp;h=AT2VjUIc3xuFrM15AMQ_1f-op-F_acNsViaEXE-oP7gE3hzrSl0QJAhV8btjK5fAS3x9ZV455tP4WjcLA7MEvymRw4ZraaUAAxx141TsnWZqIDgaNRwtZuSIjp2r6YqHx-G3Wzwe05Y\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://bit.ly/HaddadSobeEOMercadoDesce</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "03946999808",
+                    "byline": "Jilmar Augustinho Tatto ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534559171,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jilmar Tatto",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Jilmar Tatto",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311168_2052624475047931_7548840188806430720_n.jpg?_nc_cat=0&oh=0d518391b2c39b731d85b18b65e1d41c&oe=5C064E4A",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://bit.ly/HaddadSobeEOMercadoDesce",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 2134782856537565,
+                    "page_is_deleted": false,
+                    "page_like_count": 6923,
+                    "page_name": "Jilmar Tatto",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395163_2052624478381264_4373555095753719808_n.jpg?_nc_cat=0&oh=712ec2034a0767375fa8c3dd03314758&oe=5C06CA36",
+                    "page_profile_uri": "https://www.facebook.com/jilmartatto13/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Haddad sobe 4% em pesquisa da XP Investimentos",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39378333_1944167432542693_485397696052461568_n.mp4?_nc_cat=0&oh=da19f70253f30bda02b2bc9120261708&oe=5B77D9E2",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39376331_2052624488381263_2052613038816624640_n.jpg?_nc_cat=0&oh=1aae61fa31a0c47b3330a1680a1a49f3&oe=5C00FC12",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39367100_274525440016647_7994014408030289920_n.mp4?_nc_cat=0&oh=19b1fc0ba89eee93ce885a3e31c19e4a&oe=5B77DDE6"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "517730815344506",
+                "adid": "6100097807129",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100097806529,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Cumpri hoje uma extensa agenda de compromissos em Ituverava, uma cidade muito querida que tamb\u00e9m me deu a grande honra de trabalhar por seu povo e conseguir muitas conquistas. Revi amigos e companheiros, visitei autoridades e passei por v\u00e1rios locais, como a Faculdade de Ituverava, a f\u00e1brica Santa Maria, a reda\u00e7\u00e3o do jornal Tribuna, a Santa Casa e a Associa\u00e7\u00e3o dos Funcion\u00e1rios. Um roteiro cansativo, desde ontem j\u00e1 estava na regi\u00e3o, passei tamb\u00e9m por Guar\u00e1 e Igarapava, mas extremamente gratificante diante de tanto apoio e carinho recebidos de todos, com direito a momentos de emo\u00e7\u00e3o por ver de perto as conquistas t\u00e3o importantes em pleno funcionamento - como o setor de hemodi\u00e1lise da Santa Casa de Ituverava! Obrigado a todos pela recep\u00e7\u00e3o maravilhosa! \u2665 Um forte abra\u00e7o em cada um! Vamos juntos conseguir ainda mais coisas boas para essa regi\u00e3o de gente t\u00e3o trabalhadora e querida! #BarrosMunhoz #EsteTrabalha #Ituverava #Guar\u00e1 #Igarapava #Vote40540 #AgendaBM"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534565711,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39385824_1037224753120965_6210330282596237312_n.jpg?_nc_cat=0&oh=dc70d0f2a4fdb68732aa9945213e8ee1&oe=5C0FE26F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39387662_1037224749787632_1473271312645357568_n.jpg?_nc_cat=0&oh=76524065cc4edbded79122a58988ba71&oe=5BF11950"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39453174_1037224903120950_2356666804631240704_n.jpg?_nc_cat=0&oh=f4c1c0b38a75e2fbc22a333112bf8d55&oe=5C1122F0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39309620_1037224906454283_7010402494211686400_n.jpg?_nc_cat=0&oh=3dfb0784e40b0f53b8653fb2f57b63ab&oe=5C08760B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39453193_1037224776454296_8415780514325069824_n.jpg?_nc_cat=0&oh=c2bdc51be74231662856f17f59b399ca&oe=5BF3E2C5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39401656_1037224779787629_5830037883750187008_n.jpg?_nc_cat=0&oh=7303de1ed6fec38c6ef2a1560c299e87&oe=5BF12507"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39387199_1037224943120946_61802741143437312_n.jpg?_nc_cat=0&oh=64c950f9706c3e3de116f9d08f5768da&oe=5BFC8FF6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39330540_1037224946454279_1942591872367067136_n.jpg?_nc_cat=0&oh=c2a572bb0cdc191cc0fdbfbf162973c0&oe=5C02EEAC"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39347269_1037224789787628_5240531224119738368_n.jpg?_nc_cat=0&oh=d1a78344b923aa5e36a500272cc55d28&oe=5BF91B75",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39454338_1037224793120961_8144579717861736448_n.jpg?_nc_cat=0&oh=1a7d3844e8de09bd524856a1c4db9be1&oe=5C0B7B06"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39344146_1037225066454267_7112252030114070528_n.jpg?_nc_cat=0&oh=71d9d0246223c00bda8562ff095f61d9&oe=5C066A97",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39409352_1037225063120934_899693995226038272_n.jpg?_nc_cat=0&oh=bf4d6f6b968bb85943b7848f4d73533e&oe=5C0D61E4"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39441855_1037225246454249_9027911214834909184_n.jpg?_nc_cat=0&oh=5e058aadfa8837b0e5aab3f1a600091e&oe=5C0530B2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39506699_1037225249787582_909511620449796096_n.jpg?_nc_cat=0&oh=620bd02f813341b04c4668e89b51024f&oe=5C0A6370"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39521896_1037224996454274_7762089524120780800_n.jpg?_nc_cat=0&oh=c0e8672f90ac61cd82ac7b319ef2c42f&oe=5BF68C0B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39386920_1037224993120941_1932173827895197696_n.jpg?_nc_cat=0&oh=b09152140aa13f745d33bc1a44730785&oe=5C3AAE6D"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39389194_1037225323120908_6098452839871283200_n.jpg?_nc_cat=0&oh=04dcf4010bdbdd4d476b4d75639758d3&oe=5C08FDBD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39395244_1037225319787575_4731226597636440064_n.jpg?_nc_cat=0&oh=371cf3717e218aee41e01e9d787ad470&oe=5BFD530D"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39292273_1037225179787589_1264286334395088896_n.jpg?_nc_cat=0&oh=af0368391db452de2d3e6f124eb3bdfc&oe=5C000F08",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39409360_1037225176454256_1091037979423539200_n.jpg?_nc_cat=0&oh=c29a3413425f0fdbcddaefb3aa40da68&oe=5C117A74"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39387222_1037225426454231_7389255640926912512_n.jpg?_nc_cat=0&oh=f4f2bc3a4555802d32e090ef30521dc5&oe=5C0D8D47",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39441800_1037225423120898_1555426340436443136_n.jpg?_nc_cat=0&oh=bc9e49f5f02ed14d317886ee58158b20&oe=5C0953DD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39400706_1037225516454222_6998304060965126144_n.jpg?_nc_cat=0&oh=8f52f805d9abbe82f03d2c1acc418858&oe=5C11FDD6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39320634_1037225519787555_8662048188116500480_n.jpg?_nc_cat=0&oh=185d9fd52230837cb114f731f2e0af47&oe=5C08A100"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39406216_1037225563120884_7320801614644641792_n.jpg?_nc_cat=0&oh=47a846851fc0a5b07e93d6e26541f17a&oe=5BF80F6D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442496_1037225566454217_572240319869878272_n.jpg?_nc_cat=0&oh=e2a1e75fc05dc913d66fe37d8174e55b&oe=5BFF08D3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39344119_1037225626454211_5412125793344028672_n.jpg?_nc_cat=0&oh=af5b00a02c9b06c7b8ac3966f1bfd5d7&oe=5C0C301C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39400722_1037225629787544_8307851907481731072_n.jpg?_nc_cat=0&oh=3531d25e0ca7b3e232c9ea44b11a60bf&oe=5BEDE6F2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39404682_1037225769787530_9116662346025009152_n.jpg?_nc_cat=0&oh=9305736697676db84a217c6a6f53c4ff&oe=5BFAA122",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39395253_1037225766454197_604047215576481792_n.jpg?_nc_cat=0&oh=c956fe2782467e1e019c9a930595d465&oe=5C03ACA7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39398719_1037226296454144_7534853477483151360_n.jpg?_nc_cat=0&oh=315ef707850eaaaf9df7fbba7ee11bef&oe=5C10D50A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39390533_1037226293120811_8375960455184646144_n.jpg?_nc_cat=0&oh=d7bc711a73d3fb7af11d4fc5a1ae795f&oe=5BF03C12"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39391986_1037225889787518_5748864818626953216_n.jpg?_nc_cat=0&oh=dbdcb13ebd9b324093f07905ac4fd74d&oe=5C04AF4E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39294898_1037225886454185_1333209186422489088_n.jpg?_nc_cat=0&oh=db3bdf4716f5d9c4459dfa6260302dd7&oe=5C0C9C0B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39294965_1037225959787511_7186320553609789440_n.jpg?_nc_cat=0&oh=b6549b2f13bff0c59aef45e8a188a15a&oe=5C1010C9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453702_1037225956454178_6105283435599757312_n.jpg?_nc_cat=0&oh=4c0d6b9e69f71aec71cd3415e836a4c8&oe=5C11F6E7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39512505_1037226079787499_5502285093986631680_n.jpg?_nc_cat=0&oh=019cdc277f69f359d2c9dac189851809&oe=5C0592A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442047_1037226076454166_1735774117434490880_n.jpg?_nc_cat=0&oh=e5ea4b0f875874c7720f8c71941d33a7&oe=5C05E3A5"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39389838_1037226046454169_1852958709513191424_n.jpg?_nc_cat=0&oh=1bba400dd064bee989c123cf141c65af&oe=5C0F5E35",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39441304_1037226049787502_7650601746598723584_n.jpg?_nc_cat=0&oh=227e8b25c424fdaee619c862f719858d&oe=5BEEA1BF"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39395290_1037226199787487_6076450731731189760_n.jpg?_nc_cat=0&oh=b36e1e8187c2d04b49f93844f9a1565b&oe=5BF3FF7B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39391375_1037226196454154_4783291535523315712_n.jpg?_nc_cat=0&oh=835e5a2dbab9a4a0bc58e3e5c5955752&oe=5BFCE39F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18860,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39504887_517730828677838_2647035460316037120_n.jpg?_nc_cat=0&oh=d8759a7f9d26d483b4fc183c57fcc24c&oe=5C1271BC",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2175343226066889",
+                "adid": "23842997420910599",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "228058993888678",
+                "pageName": "Raul Henry",
+                "snapshot": {
+                    "ad_creative_id": "23842997420900599",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Toda vez que algu\u00e9m me pergunta sobre um projeto que eu me orgulho, a Lei do Patrim\u00f4nio Vivo vem logo \u00e0 minha cabe\u00e7a.  E hoje, Dia Nacional do Patrim\u00f4nio Hist\u00f3rico, ser\u00e3o titulados mais seis novos patrim\u00f4nios vivos, como Mestre Z\u00e9 de Bibi, de Gl\u00f3ria de Goit\u00e1. Quando assumi a Secretaria de Cultura e Educa\u00e7\u00e3o no governo Jarbas, em 2001, tive a oportunidade de andar pelos quatro cantos de Pernambuco e conhecer de perto muitos artistas e manifesta\u00e7\u00f5es culturais. Foi nesta \u00e9poca que idealizei esta Lei que se tornou um importante instrumento de prote\u00e7\u00e3o e reconhecimento da gest\u00e3o p\u00fablica dos produtores da nossa cultura popular. Temos que valorizar os nossos artistas! \ud83d\udcf8 Jan Ribeiro/Secult<br />  #T\u00f4ComRaul #PorPernambuco #PelaCultura #DeputadoFederal #RaulHenry1515"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209540000103",
+                    "byline": "ELEICAO 2018 RAUL JEAN LOUIS HENRY JUNIOR DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534553463,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Raul Henry",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39388154_2206771696017388_4714681464489246720_n.jpg?_nc_cat=0&oh=8a3fe3edec543e1e5037f4c5735327f5&oe=5BF6A73A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406745_2206771692684055_1987381556561313792_n.jpg?_nc_cat=0&oh=c65747548b0dd1807bfd22e8be20567e&oe=5BF09C4B"
+                        }
+                    ],
+                    "instagram_actor_name": "Raul Henry",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39505801_2175343239400221_2748550456920768512_n.jpg?_nc_cat=0&oh=945b6e5fda819498ad7d803e9a6b3b40&oe=5C121253",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 228058993888678,
+                    "page_is_deleted": false,
+                    "page_like_count": 63712,
+                    "page_name": "Raul Henry",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39267581_2175343236066888_3048219804155510784_n.jpg?_nc_cat=0&oh=d4e0ab112858b1352fb1a6f626f7a11b&oe=5BEE15ED",
+                    "page_profile_uri": "https://www.facebook.com/RaulHenryPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1806335792748628",
+                "adid": "23842997419550599",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "228058993888678",
+                "pageName": "Raul Henry",
+                "snapshot": {
+                    "ad_creative_id": "23842997419540599",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O ensino em tempo integral sempre foi uma das minhas bandeiras. Imaginem o tamanho da minha alegria e do meu orgulho em apresentar para Jorge Paulo Lemann o nosso modelo de escolas integrais, que hoje s\u00e3o refer\u00eancia no Brasil. Assim como eu, ele acredita no poder transformador da educa\u00e7\u00e3o e \u00e9 o maior investidor na \u00e1rea no pa\u00eds. Na \u00e9poca, junto com o secret\u00e1rio de Educa\u00e7\u00e3o, Fred Amancio, escolhemos a Escola T\u00e9cnica Estadual (ETE) C\u00edcero Dias, que tem foco no setor de Tecnologia da Informa\u00e7\u00e3o (TI), para apresentarmos os avan\u00e7os que fizemos com o nosso modelo de ensino. #T\u00f4ComRaul #PelaEduca\u00e7\u00e3o #DeputadoFederal #RaulHenry1515"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209540000103",
+                    "byline": "ELEICAO 2018 RAUL JEAN LOUIS HENRY JUNIOR DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534554991,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Raul Henry",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39341406_2206537696040788_6971461520387473408_n.jpg?_nc_cat=0&oh=e8a5363811bd88276e5839cfff893dc9&oe=5C3A6A11",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39507014_2206537699374121_7416662299689091072_n.jpg?_nc_cat=0&oh=8f56f5c10ec4d082a4972060f9a6a64d&oe=5BED700E"
+                        }
+                    ],
+                    "instagram_actor_name": "Raul Henry",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39403928_1806335826081958_7079587725791199232_n.jpg?_nc_cat=0&oh=d7e431c8e344c9a929c23ad87c441aaf&oe=5BFC329A",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 228058993888678,
+                    "page_is_deleted": false,
+                    "page_like_count": 63712,
+                    "page_name": "Raul Henry",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39392003_1806335822748625_8146992699208105984_n.jpg?_nc_cat=0&oh=c70a026925cea5294f3a06180b62ede0&oe=5BFB135E",
+                    "page_profile_uri": "https://www.facebook.com/RaulHenryPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "283684172450348",
+                "adid": "23842935880540043",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "372830962750821",
+                "pageName": "Dra. Regina Cioffi",
+                "snapshot": {
+                    "ad_creative_id": "23842935880530043",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "AT\u00c9 QUANDO VAMOS PERMITIR? SA\u00daDE TEM QUE SER PRIORIDADE!!<br /> <br /> Sempre disse, \u201cSa\u00fade n\u00e3o tem pre\u00e7o, mas tem custo\u201d. A falta de gest\u00e3o e de compromisso do Estado j\u00e1 s\u00e3o conhecidos por todos. Mas at\u00e9 que ponto isto \u00e9 permiss\u00edvel? <br /> <br /> Em Lavras, os pacientes com c\u00e2ncer atendimentos conveniados ao Instituto de Previd\u00eancia dos Servidores do Estado de Minas Gerais, IPSEMG, tiveram o tratamento suspenso. Da mesma forma, desde o dia 9 de julho deste ano, devido aos atrasos do IPSEMG, o Hospital Renascentista, em Pouso Alegre (MG), n\u00e3o realiza as cirurgias de urg\u00eancia e emerg\u00eancia e alguns casos eletivos.<br /> <br /> O problema se estende por hospitais em Itajub\u00e1,Tr\u00eas Cora\u00e7\u00f5es, Tr\u00eas Pontas e em diversos outros munic\u00edpios. Por cerca de dezesseis anos, eu estive \u00e0 frente da Santa Casa de Po\u00e7os de Caldas e trabalhei, junto com os funcion\u00e1rios, com pouqu\u00edssimos recursos. <br /> <br /> Por isso, sei das dificuldades dessas institui\u00e7\u00f5es. Mas, trabalhando muito e com dedica\u00e7\u00e3o, \u00e9 poss\u00edvel garantir a sa\u00fade \u00e0 popula\u00e7\u00e3o. Posso dizer que, durante minha gest\u00e3o, nenhum leito foi fechado e nenhum tratamento foi suspenso. <br /> <br /> Eu, como a maioria da popula\u00e7\u00e3o, me pergunto: Cad\u00ea o Executivo? Cad\u00ea o Legislativo fiscalizando e propondo a\u00e7\u00f5es para evitar essa situa\u00e7\u00e3o de abandono \u00e0 sa\u00fade? Nesse caso, trabalho, compromisso e experi\u00eancia fazem toda a diferen\u00e7a na vida das pessoas.<br /> <br /> Hoje, como candidata \u00e0 Deputada Estadual, posso garantir que estando na Assembleia de Minas vou lutar muito pela sa\u00fade das pessoas, pois a sa\u00fade \u00e9 e sempre ser\u00e1 prioridade! <br /> <br /> DIFEREN\u00c7A SE FAZ AGORA!<br /> #Vote31333 #DraReginaCioffi #DeputadaEstadual #MinasGerais<br /> <br /> Convido voc\u00ea a conhecer mais sobre meu trabalho e sobre o que j\u00e1 fiz pela sa\u00fade da nossa popula\u00e7\u00e3o, acessando meu site por meio do link abaixo:<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.drareginacioffi.com.br%2F&amp;h=AT0yc9OHsLp18UDzk0ics9sIcCk-A4mljLU4fcECRq_f8QfYSMKmTJnRDdoLBKHH391iETyv2N8f4AxMoGKlmlXM0J_ybbpf4jOaGPCDT0zAOOh45BX9eYHp6VXnzPqPqzyN5e14rug\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.drareginacioffi.com.br</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31243316000138",
+                    "byline": "Elei\u00e7\u00e3o 2018 Regina Maria Cioffi Batagini Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534559711,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Dra. Regina Cioffi",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39371557_283684189117013_2171855289597296640_n.jpg?_nc_cat=0&oh=7b528cff02e62c2e7c84dac84fa8e713&oe=5C03E12E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39514981_2106134729420427_6088532302936145920_n.png?_nc_cat=0&oh=a6d8d01ec76a5df68b5aabe602b14dff&oe=5C3A5FF5"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 372830962750821,
+                    "page_is_deleted": false,
+                    "page_like_count": 33690,
+                    "page_name": "Dra. Regina Cioffi",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39396160_283684185783680_8093957493849325568_n.jpg?_nc_cat=0&oh=bfd39a9651fab20b0be75437f6cf75f8&oe=5C06E3AE",
+                    "page_profile_uri": "https://www.facebook.com/Dra.ReginaCioffi/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1326067040862268",
+                "adid": "23842985152600691",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "1113424338770664",
+                "pageName": "Gabriel Santos",
+                "snapshot": {
+                    "ad_creative_id": "23842984645960691",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Eu passei minha juventude na periferia de Rio Branco. Sei muito bem como \u00e9 ter que come\u00e7ar a trabalhar desde cedo pra ajudar em casa. Nosso mandato vai trabalhar lado a lado de institui\u00e7\u00f5es como o CIEE, IEL e a iniciativa privada para encontramos meios de ampliar a oferta de est\u00e1gios e empregos para a juventude.  #Gabriel18000 #Mudar\u00c9Poss\u00edvel"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31123043000198",
+                    "byline": "Gabriel Santos de Souza",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534548308,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Gabriel Santos",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "842783295865930": "Political Candidate"
+                    },
+                    "page_id": 1113424338770664,
+                    "page_is_deleted": false,
+                    "page_like_count": 7092,
+                    "page_name": "Gabriel Santos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485154_220900111939853_8745623235174858752_n.jpg?_nc_cat=0&oh=421424eff9cadfb83a4cda079a7ded34&oe=5C125227",
+                    "page_profile_uri": "https://www.facebook.com/GABRIELRBCO/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "#7 Juventude - 18 Ideias Para Um Acre Melhor",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2145138445557679_3909608858674266112_n.mp4?_nc_cat=0&oh=27120cf5bf28b43a0beb05fb1d9acf2e&oe=5B77D9CA",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308070_220900118606519_8494577083849113600_n.jpg?_nc_cat=0&oh=4d2a28211397eabcc326b11413acd882&oe=5C068878",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39154396_296902174444346_8005335572455358464_n.mp4?_nc_cat=0&oh=0edbcb4ab2cf227e81c0b8503033c09d&oe=5B77D72F"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1638948719544843",
+                "adid": "23842997407020599",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "228058993888678",
+                "pageName": "Raul Henry",
+                "snapshot": {
+                    "ad_creative_id": "23842997407010599",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Hoje \u00e9 o primeiro dia oficial da campanha eleitoral. Temos a oportunidade de retomar o caminho do desenvolvimento e o novo Congresso Nacional ter\u00e1 um papel decisivo para o futuro do pa\u00eds. \u00c9 neste cen\u00e1rio que me apresento como candidato a deputado federal e me coloco \u00e0 disposi\u00e7\u00e3o dos eleitores pernambucanos para defender a agenda da educa\u00e7\u00e3o p\u00fablica de qualidade, da moderniza\u00e7\u00e3o do Estado brasileiro e da luta implac\u00e1vel contra a corrup\u00e7\u00e3o. <br /> <br /> Minha disposi\u00e7\u00e3o para o debate das ideias segue firme, sempre pautado pela \u00e9tica e pela efici\u00eancia da gest\u00e3o p\u00fablica. Pernambuco precisa de uma bancada federal forte e combativa, focada na retomada dos investimentos em infraestrutura para superar as desigualdades regionais que penalizam o Nordeste. <br /> <br /> \u00c9 com essas ideias que eu entro na disputa eleitoral e pe\u00e7o o seu apoio. <br /> Todos n\u00f3s somos respons\u00e1veis pelo futuro do Brasil.<br /> <br /> Meu nome \u00e9 Raul Henry, meu n\u00famero \u00e9 1515."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209540000103",
+                    "byline": "ELEICAO 2018 RAUL JEAN LOUIS HENRY JUNIOR DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549386,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Raul Henry",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39404625_2204616416232916_5788532543867322368_n.jpg?_nc_cat=0&oh=901b2b02407d221dc83dadef4a7c66f1&oe=5BF0BFD9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39286404_2204616419566249_3058528717803356160_n.jpg?_nc_cat=0&oh=5142e64d413299e7c1fbdd05e2e7929a&oe=5C0936AD"
+                        }
+                    ],
+                    "instagram_actor_name": "Raul Henry",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39505668_1638948742878174_6485215937661239296_n.jpg?_nc_cat=0&oh=8059d887c2ab89359a55ba89f072c64d&oe=5BF07375",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 228058993888678,
+                    "page_is_deleted": false,
+                    "page_like_count": 63712,
+                    "page_name": "Raul Henry",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39333081_1638948739544841_1304204705336918016_n.jpg?_nc_cat=0&oh=5474a8467423bf9617b5be15ff234075&oe=5C3A542B",
+                    "page_profile_uri": "https://www.facebook.com/RaulHenryPE/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "237521960282818",
+                "adid": "23842884727930192",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "236972799793835",
+                "pageName": "Jo\u00e3o Fernando Coutinho",
+                "snapshot": {
+                    "ad_creative_id": "23842884727920192",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Eu tinha 32 anos quando assumi o meu 3 mandato como deputado estadual. Esta foto \u00e9 o registro da minha posse. Hoje penso como foram importantes estes 12 anos na Assembleia Legislativa de Pernambuco, tempo de muito aprendizado. Tenho muito orgulho do meu percurso pol\u00edtico, dos amigos que fiz, das discuss\u00f5es e embates que levei \u00e0 frente, das lutas ganhas (e das perdidas tamb\u00e9m). Lideran\u00e7a n\u00e3o se fabrica, se constr\u00f3i com o tempo. \u00c9 desse jeito que penso a vida p\u00fablica."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31220223000198",
+                    "byline": "ELEICAO 2018 JOAO FERNANDO PONTUAL COUTINHO DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534555456,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Fernando Coutinho",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36635926_1051063041718136_7200392292400627712_n.jpg?_nc_cat=0&oh=f1c34d858663485a298c41b5ad17ad38&oe=5BFE9B70",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36711015_1051063038384803_7322061440221708288_n.jpg?_nc_cat=0&oh=78443663e35efb2855bb71302f070097&oe=5BEE703A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 236972799793835,
+                    "page_is_deleted": false,
+                    "page_like_count": 26059,
+                    "page_name": "Jo\u00e3o Fernando Coutinho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/l/t39.16868-6/39303610_237521970282817_7414109779150241792_n.jpg?_nc_cat=0&oh=6c36abe293ea9cdc3d5146a8dffef583&oe=5C054630",
+                    "page_profile_uri": "https://www.facebook.com/joaofernando9090/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1710362502408001",
+                "adid": "23842884728150192",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "236972799793835",
+                "pageName": "Jo\u00e3o Fernando Coutinho",
+                "snapshot": {
+                    "ad_creative_id": "23842884728140192",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Eu tinha 32 anos quando assumi o meu 3o mandato como deputado estadual. Esta foto \u00e9 o registro da minha posse. Hoje penso como foram importantes estes 12 anos na Assembleia Legislativa de Pernambuco, tempo de muito aprendizado. Tenho muito orgulho do meu percurso pol\u00edtico, dos amigos que fiz, das discuss\u00f5es e embates que levei \u00e0 frente, das lutas ganhas (e das perdidas tamb\u00e9m). Lideran\u00e7a n\u00e3o se fabrica, se constr\u00f3i com o tempo. \u00c9 desse jeito que penso a vida p\u00fablica.<br /> <br /> #jfcema\u00e7\u00e3o<br /> #Jo\u00e3oFernandoCoutinho<br /> #Jo\u00e3oFernando90<br /> #deputadofederal <br /> #Jo\u00e3oFernandoPorPernambuco<br /> #PROS<br /> #PROSNacional"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31220223000198",
+                    "byline": "ELEICAO 2018 JOAO FERNANDO PONTUAL COUTINHO DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534553237,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jo\u00e3o Fernando Coutinho",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/38975571_1092362904254816_1912648090523795456_n.png?_nc_cat=0&oh=0f8df37bfc16d0f9e8b8490fc8107b88&oe=5C027423",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38891176_1092362907588149_5602819377758994432_n.png?_nc_cat=0&oh=ff2fa72c7cc88888d3b6723dff8540ad&oe=5C1185F5"
+                        }
+                    ],
+                    "instagram_actor_name": "Jo\u00e3o Fernando Coutinho",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39284379_1710362522407999_4043500504167219200_n.jpg?_nc_cat=0&oh=19046e39cc0d651d053a7cd153b98ef9&oe=5C067051",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 236972799793835,
+                    "page_is_deleted": false,
+                    "page_like_count": 26059,
+                    "page_name": "Jo\u00e3o Fernando Coutinho",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39333850_1710362519074666_7248415923760005120_n.jpg?_nc_cat=0&oh=cd02b2501835d0f396851273828e2d81&oe=5C10BA86",
+                    "page_profile_uri": "https://www.facebook.com/joaofernando9090/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "313632985865755",
+                "adid": "23842919524340264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842919524330264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Vamos dar in\u00edcio a mais uma caminhada. \u00c9 com muita alegria que sempre recebi o apoio da minha querida Tamandar\u00e9 para garantir a continuidade da nossa luta na C\u00e2mara dos Deputados. O trabalho n\u00e3o pode parar e \u00e9 de m\u00e3os dadas com S\u00e9rgio e Hildo Hacker que vamos conquistar mais uma vit\u00f3ria. J\u00e1 fizemos muito e, juntos, vamos fazer ainda mais. Lutando por Tamandart\u00e9. Sempre! <br /> <br /> #JuntoscomDanilo #T\u00f4ComDanilo #Danilo\u00e94010 #Tamandar\u00e9T\u00e1ComDanilo4010 #OtrabalhoN\u00e3oPodeParar #LutandoPorVoc\u00eaSempre #EuVotoDanilo4010"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534565751,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308107_313632999199087_5976953755575255040_n.jpg?_nc_cat=0&oh=b3e8e8048046e9c248ed3d8a7662dc07&oe=5BF88E66",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39471100_313633002532420_7913328340658814976_n.jpg?_nc_cat=0&oh=0a7f9b0150d835a5f87249ae7d42e84c&oe=5C035BE3"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 48993,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311133_313632992532421_5935332060733374464_n.jpg?_nc_cat=0&oh=367dd94a77e36d542a40ddd27ff0e3b9&oe=5BF4F396",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "254878458466991",
+                "adid": "23842913074570228",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "537393773101072",
+                "pageName": "Lucas Gonzalez",
+                "snapshot": {
+                    "ad_creative_id": "23842913074560228",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Tenho grande carinho por Arax\u00e1, cidade a qual j\u00e1 visitei diversas vezes. Como Zema, acredito que precisamos de renova\u00e7\u00e3o. Precisamos de novas pessoas, com novas ideias para um novo Brasil. Pessoas mais transparentes e acess\u00edveis. Pessoas comprometidas com o cidad\u00e3o e que sejam respons\u00e1veis com dinheiro p\u00fablico. Conto com seu apoio e voto nessas elei\u00e7\u00f5es. Para Deputado Federal, Lucas Gonzalez, 3022. Vamos juntos!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31099158000194",
+                    "byline": "Eleicao 2018 Lucas de Vasconcelos Gonzalez Deputado Federal",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534559980,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Gonzalez",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1617": "Entrepreneur"
+                    },
+                    "page_id": 537393773101072,
+                    "page_is_deleted": false,
+                    "page_like_count": 12760,
+                    "page_name": "Lucas Gonzalez",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39339041_254878468466990_8095001712068132864_n.jpg?_nc_cat=0&oh=0d8e80f7ffa05c9fe952207ea249b688&oe=5C04E1B7",
+                    "page_profile_uri": "https://www.facebook.com/lucasvgonzalez/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39253727_204981020374775_2906231702927966208_n.mp4?_nc_cat=0&oh=6812002f90e040c070fe19a80403fbde&oe=5B77D625",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39281444_254878475133656_8374446457737969664_n.jpg?_nc_cat=0&oh=e0c8f286499316e1f143d96d23a1f3fa&oe=5C0BEE45",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39216817_274581140037465_4050584159368773632_n.mp4?_nc_cat=0&oh=ee7d0ddfb1b212cf4276dabab43d2564&oe=5B77C538"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2123318674589155",
+                "adid": "23842919518700264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842919518690264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Vamos dar in\u00edcio a mais uma caminhada. \u00c9 com muita alegria que sempre recebi o apoio de Machados para garantir a continuidade da nossa luta na C\u00e2mara dos Deputados. O trabalho n\u00e3o pode parar e \u00e9 de m\u00e3os dadas com Argemiro Pimentel que vamos conquistar mais uma vit\u00f3ria. J\u00e1 fizemos muito e, juntos, vamos fazer ainda mais. Lutando por Machados. Sempre! <br /> <br /> #JuntoscomDanilo #T\u00f4ComDanilo #Danilo\u00e94010 #MachadosT\u00e1ComDanilo4010 #OtrabalhoN\u00e3oPodeParar #LutandoPorVoc\u00eaSempre #EuVotoDanilo4010"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534556941,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39504883_2123318694589153_7270628077275709440_n.jpg?_nc_cat=0&oh=40beebf258416461e3cfa3991a3e75fd&oe=5BF40FA3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39320799_2123318691255820_3948933635071016960_n.jpg?_nc_cat=0&oh=63cacef8a9aa6da6784f0068cb622bf7&oe=5BF7F49A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 48993,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39346364_2123318681255821_1265380107946557440_n.jpg?_nc_cat=0&oh=8ff6dd6e5c1bb1ffda765dc81aae8632&oe=5C06FE09",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "316401122264748",
+                "adid": "23842919507230264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842919507220264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Vamos dar in\u00edcio a mais uma caminhada. \u00c9 com muita alegria que sempre recebi o apoio da minha querida terra, Surubim, para garantir a continuidade da nossa luta na C\u00e2mara dos Deputados. O trabalho n\u00e3o pode parar e \u00e9 de m\u00e3os dadas com Ana C\u00e9lia, Guilherme e Fl\u00e1vio N\u00f3brega e Nilton Mota que vamos conquistar mais uma vit\u00f3ria. J\u00e1 fizemos muito e, juntos, vamos fazer ainda mais. Lutando por Surubim. Sempre! <br /> <br /> #JuntoscomDanilo #T\u00f4ComDanilo #SurumbimT\u00e1ComDanilo4010 #Danilo\u00e94010 #OtrabalhoN\u00e3oPodeParar #LutandoPorVoc\u00eaSempre #EuVotoDanilo4010"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534564311,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39295098_316401162264744_2432251902554013696_n.jpg?_nc_cat=0&oh=314c409d33550346b00284822a1568ee&oe=5BF5FDE9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39340959_316401165598077_1616193324446646272_n.jpg?_nc_cat=0&oh=7b77755452c55d80c3d3a578d1634ca1&oe=5C0CC8F5"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 48993,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471331_316401142264746_2519015056591552512_n.jpg?_nc_cat=0&oh=ee10bbf26acbb52e4fda6f1089a14986&oe=5BF6C8C8",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "265630970923974",
+                "adid": "23842919498640264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842919498630264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A reforma da previd\u00eancia proposta recentemente \u00e9 uma medida que impacta diretamente a vida de milhares de brasileiros, e que precisa ser discutida amplamente com toda a sociedade. N\u00e3o pode ser analisada da maneira que tentou fazer o governo ileg\u00edtimo do presidente Temer, usando o rolo compressor e ferindo as conquistas dos trabalhadores. A proposta foi engavetada por falta de apoio, mas pode voltar \u00e0 pauta a qualquer momento. Vamos nos manter vigilantes e lutando contra qualquer tentativa de acabar com a aposentadoria diferenciada para homens e mulheres, a aposentadoria especial dos professores e dos trabalhadores rurais e do Benef\u00edcio de Presta\u00e7\u00e3o Continuada.<br /> <br /> #JuntosComDanilo #4010 #ContraAReformaDaPrevid\u00eancia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534559407,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39454258_1029197567240493_198311434763894784_n.jpg?_nc_cat=0&oh=325826830b7f692ad649c5ed30af821b&oe=5C113853",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39402033_1029197570573826_6310820714752507904_n.jpg?_nc_cat=0&oh=44070509edcba957cb7ca8c1e5f6c900&oe=5C09A930"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 48993,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39308075_265630994257305_6315352257437106176_n.jpg?_nc_cat=0&oh=713b1ed76e94204d0d0570c11b06192b&oe=5C0C84E6",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "700287090322299",
+                "adid": "23842919491170264",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "297853750374882",
+                "pageName": "Danilo Cabral",
+                "snapshot": {
+                    "ad_creative_id": "23842919491160264",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Simbora, minha gente! <br /> Hoje foi a largada da campanha vitoriosa \u00e0 reelei\u00e7\u00e3o do governador Paulo C\u00e2mara. Reunimos a nossa tropa de volunt\u00e1rios, que vai ganhar as ruas para renovar a esperan\u00e7a do povo de Pernambuco. Vamos l\u00e1, que \u00e9 Paulo governador com a for\u00e7a do povo!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31209632000193",
+                    "byline": "ELEICAO 2018 DANILO JORGE DE BARROS CABRAL DEPUTADO FEDERAL",
+                    "caption": "Simbora, minha gente! \nHoje foi a largada da campanha vitoriosa \u00e0 reelei\u00e7\u00e3o do governador Paulo C\u00e2mara. Reunimos a nossa tropa de volunt\u00e1rios, que vai ganhar as ruas para renovar a esperan\u00e7a do povo de Pernambuco. Vamos l\u00e1, que \u00e9 Paulo governador com a for\u00e7a do povo!",
+                    "cards": [],
+                    "creation_time": 1534561236,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Danilo Cabral",
+                    "disclaimer_label": 2,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39360015_700287150322293_9142680553529540608_n.jpg?_nc_cat=0&oh=13a09a031d17a76cfc41a0229d3ac1a6&oe=5BF9F0BF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39249565_1028601353966781_6150251872037896192_n.jpg?_nc_cat=0&oh=26718c858e2f8fb51347f40eca17c900&oe=5BF22625"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39397564_700287180322290_4986024802327199744_n.jpg?_nc_cat=0&oh=bea70deb1bd6662c900b2555f1ec2c9b&oe=5C0922F9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39283031_1028601200633463_7839370017433976832_n.jpg?_nc_cat=0&oh=350c624e1c19b0f24152995531b85b5a&oe=5BFFAB40"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39312306_700287143655627_6792868731451080704_n.jpg?_nc_cat=0&oh=c0553e7563f7c2e7cd96b2f1a7008a5b&oe=5BEF6FDF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406818_1028601257300124_8263337011000115200_n.jpg?_nc_cat=0&oh=54c78d43a507ee407f3694e0827bfa17&oe=5BF7F991"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39502660_700287190322289_6894911248824008704_n.jpg?_nc_cat=0&oh=eb08ff62211b290dfccf3d606eaf5bb2&oe=5C0A5D7C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39287904_1028601333966783_968995848052539392_n.jpg?_nc_cat=0&oh=1090617b308b2c98b8053b4899fd1613&oe=5C00A4E0"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39354862_700287153655626_709706743952703488_n.jpg?_nc_cat=0&oh=8af480f1f5f8ff491c7b930468386a6e&oe=5C3AD7BA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39387193_1028601387300111_8420898908456091648_n.jpg?_nc_cat=0&oh=e59eb1319ba9ecd34760d482a2dd62b2&oe=5BED1407"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39586411_700287140322294_5542747723184209920_n.jpg?_nc_cat=0&oh=1eaa1dca7219a35a74dc52fa2ef8615d&oe=5BF2BA68",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39298713_1028601490633434_8752430152748630016_n.jpg?_nc_cat=0&oh=15809dd2129941a8e9d7e54cc8533056&oe=5BF0EC6A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343456_700287173655624_5423236117824536576_n.jpg?_nc_cat=0&oh=a5f1034aef9fc0822003713f91f43e47&oe=5BF925FF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39296853_1028601467300103_2813865622318874624_n.jpg?_nc_cat=0&oh=6d83189249f6a083fc5c697abd41ab23&oe=5C097004"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306631_700287170322291_7450044409011240960_n.jpg?_nc_cat=0&oh=d15305a72620a70b5507d56e1f20cca7&oe=5BF22516",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442678_1028601527300097_2277554774054273024_n.jpg?_nc_cat=0&oh=8ca6cad653bf902790dca4df3d0219c5&oe=5C0D0527"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301613_700287136988961_4921658270650728448_n.jpg?_nc_cat=0&oh=dbb5e9022fd7ce5e15862c745b7ae811&oe=5BEFA1EB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39408839_1028601533966763_2040417526424272896_n.jpg?_nc_cat=0&oh=2f0eb300728fc2ce39831f44f616a149&oe=5BF22C33"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39330775_700287183655623_7919716297057763328_n.jpg?_nc_cat=0&oh=0ef8786b0ec7aab081e8ff202f2b17ec&oe=5C08DD49",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39339125_1028601560633427_8124139002132430848_n.jpg?_nc_cat=0&oh=381c52e50c62c3ba16a4faa7397227e0&oe=5C11E0D3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343246_700287130322295_3949853870468890624_n.jpg?_nc_cat=0&oh=6c6c80ed4ec8003e92fea994b5592b20&oe=5C00E065",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39249468_1028601583966758_2963406359111925760_n.jpg?_nc_cat=0&oh=74cd6ed9ea6291c70c8accc611f1b5e3&oe=5BFD002A"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39333084_700287156988959_7718164764735569920_n.jpg?_nc_cat=0&oh=48180ecbc2b9299f1766e390992d3f27&oe=5C01EA8D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39278248_1028601697300080_8801739654366756864_n.jpg?_nc_cat=0&oh=c4b86423aeb7faaa8169a919c34a7319&oe=5C01B420"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39336394_700287163655625_2220347738111868928_n.jpg?_nc_cat=0&oh=9fe8b40cb286ae06195d37ea030050d5&oe=5BF29825",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/37512099_1028601710633412_3024942417146019840_n.jpg?_nc_cat=0&oh=1207c56a118174e4d727b689ca3c403c&oe=5C064138"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39288637_700287133655628_725213341122822144_n.jpg?_nc_cat=0&oh=b0d35febfe7e68bf342ce917fb8bcab9&oe=5BF3E11E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39270801_1028601767300073_5999776301253132288_n.jpg?_nc_cat=0&oh=c86672451779fa73f82ae4ddae052de6&oe=5C071AE9"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39281435_700287126988962_8691672321313734656_n.jpg?_nc_cat=0&oh=411f7e329081b35c46d6ecccd4d396fb&oe=5C11A7E1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39406749_1028601760633407_6039936551868170240_n.jpg?_nc_cat=0&oh=c0e20ed394ed1577b5968775ff4135d4&oe=5BF7AEE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39378386_700287160322292_7889165885443670016_n.jpg?_nc_cat=0&oh=20a2af89016c63f5df8fdbcea3899866&oe=5BF80955",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453244_1028601813966735_4356109385273966592_n.jpg?_nc_cat=0&oh=32674a4cc1b308f24dd09066828a0e0d&oe=5BFC2BE0"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39320078_700287186988956_6628217633990770688_n.jpg?_nc_cat=0&oh=404c1e3381fa75b04acc473d7cd745f3&oe=5C0CEE44",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39253329_1028601850633398_4178220889369739264_n.jpg?_nc_cat=0&oh=37fd39d7a7593ec04ab6b5d4bcef3698&oe=5C021872"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39329308_700287146988960_3003170759771160576_n.jpg?_nc_cat=0&oh=4f12f006eca78e2bbc2b1475cad88412&oe=5C11B06F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/38829136_1028601953966721_5191337046668476416_n.jpg?_nc_cat=0&oh=5426a433593e3337c3c5d5c37d689f02&oe=5BEEBCC2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39259780_700287176988957_4927600190401019904_n.jpg?_nc_cat=0&oh=fccd8b590a5a583718ec81f9d577f13a&oe=5C07D029",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39347275_1028602040633379_1831326698704994304_n.jpg?_nc_cat=0&oh=2b0d5f8cbfa27628185fef8c6d280454&oe=5BFB4F1B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311099_700287166988958_7864562006374744064_n.jpg?_nc_cat=0&oh=795eb402985cd574d0b510687775040f&oe=5BEF8B34",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39258956_1028602027300047_3466772905545695232_n.jpg?_nc_cat=0&oh=7161066921c46e231e97d6bf0ec49b10&oe=5BF7AA9F"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39288479_1029119033915013_2442741887728091136_n.jpg?_nc_cat=0&oh=ece7dbb5c0e1f1e158510e49647a90c2&oe=5C1126CA",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39278223_1029119037248346_6668519420958081024_n.jpg?_nc_cat=0&oh=38ba6d1388ad3dee21aafc2b1e3293d0&oe=5BFF2EEA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39278339_1029119027248347_2978926064522231808_n.jpg?_nc_cat=0&oh=5ee2bbfd5c1a0c2388413bfb58aa6519&oe=5BF9B4AD",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39385535_1029119023915014_2723901579479482368_n.jpg?_nc_cat=0&oh=d24336a8a5e47a2c2344a225eae1e16a&oe=5BF8E165"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39279417_1029118973915019_237125337685688320_n.jpg?_nc_cat=0&oh=0ff9a7e612c68be516e75436473c706f&oe=5BF5EAF1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39320560_1029118977248352_7132181606080446464_n.jpg?_nc_cat=0&oh=77646879f07cc8db8e485d8a9bef7073&oe=5BFA0C70"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39442333_1029119143915002_395908324408688640_n.jpg?_nc_cat=0&oh=e3a5154e3758c017a801aa32619aa682&oe=5C08E412",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442803_1029119147248335_6664010628715249664_n.jpg?_nc_cat=0&oh=59807bb95b76e691736b44d0fd0e6fec&oe=5BF2F8C1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39468043_1029119207248329_354510423132733440_n.jpg?_nc_cat=0&oh=614a0b08580ffd04b4f2854c1d9844e3&oe=5BF38AC0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442574_1029119203914996_3808047781365415936_n.jpg?_nc_cat=0&oh=5db7fac8d631688cf3d39eb11f8b11eb&oe=5C0D31E4"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39442465_1029119270581656_3277065106319474688_n.jpg?_nc_cat=0&oh=551b36dbe0db4c1f291c3a71eb9c3aeb&oe=5BF21441",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453993_1029119273914989_5693098288945823744_n.jpg?_nc_cat=0&oh=574914357bfa4040eb14d3f748cf3b30&oe=5BF58904"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39389222_1029119347248315_6166332538831765504_n.jpg?_nc_cat=0&oh=6e572fecc3eb60d44edd318b5bcd12a0&oe=5BF868A2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39442138_1029119350581648_6301679830345711616_n.jpg?_nc_cat=0&oh=67d9c2a3a273d4f9e591aa05de01d38c&oe=5C00817D"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39441567_1029119387248311_5416462039570710528_n.jpg?_nc_cat=0&oh=c18a06b9735657b516cdeb21cbf745ce&oe=5BF81107",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39313194_1029119390581644_687204267827658752_n.jpg?_nc_cat=0&oh=99cff9fb0deb72b907dfdb03383cb4a0&oe=5BF42CF7"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39279447_1029119370581646_1419688468891566080_n.jpg?_nc_cat=0&oh=e2acb6e3ff5d444c29c1eff8de50f46f&oe=5C01D5F7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39453798_1029119367248313_8219685883981332480_n.jpg?_nc_cat=0&oh=e17f7e8c503f6e54d9359eeb11eb4dad&oe=5C0C035C"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39393103_1029119423914974_4634428475850096640_n.jpg?_nc_cat=0&oh=a654467b0418abff1291e2b044a8b27c&oe=5C005DCC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39190043_1029119427248307_3120842190687830016_n.jpg?_nc_cat=0&oh=7e316beb6442a89639640073bae69bc6&oe=5BFE1CC1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39443054_1029119443914972_6691823681577943040_n.jpg?_nc_cat=0&oh=8973f7b8608d748da5da5d1268ade398&oe=5C07B888",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39309623_1029119440581639_5329825376615006208_n.jpg?_nc_cat=0&oh=f96ededcabb5fcaf9a90f6163b80d386&oe=5BFB4747"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39521808_1029119463914970_8806846804273397760_n.jpg?_nc_cat=0&oh=15a05f07444151fed731f7826cfaec37&oe=5BFB670C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39390203_1029119467248303_8116488823564664832_n.jpg?_nc_cat=0&oh=d505256adfd1617bcb3df6200daf1529&oe=5C107087"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39454087_1029119533914963_6830443351624384512_n.jpg?_nc_cat=0&oh=e7d7014ec1180914600fef44596eb6b8&oe=5BEFD28D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39391959_1029119530581630_5098313067263950848_n.jpg?_nc_cat=0&oh=c5cdc46ef1410419cfbfba59e6b465b5&oe=5C0A47C1"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39385532_1029119570581626_1539803392602275840_n.jpg?_nc_cat=0&oh=43f3b3cde84af2022fce7d1326b8681e&oe=5BFD7891",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39348562_1029119573914959_153968044916342784_n.jpg?_nc_cat=0&oh=aad4df3f70463b2ef3bd1a7c88b3d5dd&oe=5C3A9A3B"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39344117_1029119563914960_7217902294245834752_n.jpg?_nc_cat=0&oh=3f35d685d2719b2d9cb17781b2155ee2&oe=5BF26E7B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39292272_1029119560581627_6493690208783958016_n.jpg?_nc_cat=0&oh=5145694651c57abfea23a8c0b775da26&oe=5C010094"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 297853750374882,
+                    "page_is_deleted": false,
+                    "page_like_count": 48993,
+                    "page_name": "Danilo Cabral",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39300778_700287110322297_6803270751399968768_n.jpg?_nc_cat=0&oh=3631452c831299f523a3494113cc345f&oe=5C05489A",
+                    "page_profile_uri": "https://www.facebook.com/danilocabral4010/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "225150028167192",
+                "adid": "6100092059329",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100092059129,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O desempenho incr\u00edvel do governador M\u00e1rcio Fran\u00e7a no debate da Band s\u00f3 refor\u00e7a o que eu j\u00e1 vinha dizendo sobre sua compet\u00eancia, seu car\u00e1ter, sua honestidade, comprometimento e sua responsabilidade. M\u00e1rcio \u00e9 o mais preparado para governar S\u00e3o Paulo e fazer com que nosso estado continue sendo a grande locomotiva do pa\u00eds! #M\u00e1rcioFran\u00e7a #Avan\u00e7aSP #Vote40 #Vote40540 #BarrosMunhoz #EsteTrabalha \ud83d\ude0a\ud83d\udc4f"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534550233,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39395236_1037105286466245_7865610017049673728_n.jpg?_nc_cat=0&oh=7d7bcf9241823dcd4d629d5d4183e637&oe=5C001B33",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39332448_1037105289799578_7923968095637471232_n.jpg?_nc_cat=0&oh=5e3fc8c6b0892b058c33bb67284ab762&oe=5BFAD4B0"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18860,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39410359_225150041500524_4233990013211115520_n.jpg?_nc_cat=0&oh=7e6839fe146e99217a30dc6b2b0cace9&oe=5BF165B4",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1028465774003141",
+                "adid": "6100091983329",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "219281048248677",
+                "pageName": "Barros Munhoz",
+                "snapshot": {
+                    "ad_creative_id": 6100091982329,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Visita \u00e0 tradicional empresa Santa Maria, na querida cidade de Ituverava, junto ao Sr. Rubens e prefeita Adriana! #BarrosMunhoz #EsteTrabalha #Ituverava"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31212141000100",
+                    "byline": "ELEI\u00c7\u00d5ES 2018 JOSE ANTONIO BARROS MUNHOZ DEPUTADO ESTADUAL",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534558215,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Barros Munhoz",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39313120_1036858919824215_8604357994123100160_n.jpg?_nc_cat=0&oh=887eecf2573f77e7166610b0e3b575a4&oe=5C0EFA6C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39468592_1036858923157548_1072192337238556672_n.jpg?_nc_cat=0&oh=74a5777824436a486d05c2f36e883168&oe=5C108927"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 219281048248677,
+                    "page_is_deleted": false,
+                    "page_like_count": 18860,
+                    "page_name": "Barros Munhoz",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39335651_1028465787336473_281569620609990656_n.jpg?_nc_cat=0&oh=b5e154d4a6107b1833ce8cbb2a572d5d&oe=5C09D438",
+                    "page_profile_uri": "https://www.facebook.com/barrosmunhoz/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "692310987780358",
+                "adid": "23842913010750228",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1534489200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "537393773101072",
+                "pageName": "Lucas Gonzalez",
+                "snapshot": {
+                    "ad_creative_id": "23842912817900228",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00c9 tempo de mudan\u00e7a. O Brasil n\u00e3o pode mais continuar como est\u00e1. E mais que isso, \u00e9 tempo de assumirmos essa mudan\u00e7a que tanto queremos. Assumirmos a nossa responsabilidade. Conto com voc\u00ea para me ajudar nisso. Caso queira fazer parte dessa equipe, digite &quot;EU QUERO&quot;,  nos coment\u00e1rios, que entraremos em contato com voc\u00ea!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31099158000194",
+                    "byline": "Eleicao 2018 Lucas de Vasconcelos Gonzalez Deputado Federal",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534542750,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Gonzalez",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39091695_899407853566327_1300876977560879104_n.jpg?_nc_cat=0&oh=fc3d20512e7b567f75982e16aaef938b&oe=5BF0ACAF",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39044797_899407850232994_5844350578796265472_n.jpg?_nc_cat=0&oh=6c21ad93bd88e8b92943ac7f018705cb&oe=5BF61357"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1617": "Entrepreneur"
+                    },
+                    "page_id": 537393773101072,
+                    "page_is_deleted": false,
+                    "page_like_count": 12760,
+                    "page_name": "Lucas Gonzalez",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39301621_2162700404011316_6104039252293582848_n.jpg?_nc_cat=0&oh=e219bcf029afd7587aeb987c60e356c7&oe=5BEEFF8B",
+                    "page_profile_uri": "https://www.facebook.com/lucasvgonzalez/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "737340843264284",
+                "adid": "6103165280439",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1411864629074812",
+                "pageName": "Carlos Batinga",
+                "snapshot": {
+                    "ad_creative_id": 6103165280239,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quer participar mais da nossa campanha? A partir de hoje lan\u00e7amos o #desafioBatinga, no qual voc\u00ea vai cumprir cinco miss\u00f5es para conquistar o avatar de &quot;Apoiador Fiel&quot;. \ud83c\udfc6<br /> \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800<br /> Ficou interessado em participar? \u270c Fale conosco no WhatsApp (83) 99385-5433 mencionando a hashtag #desafio300brasil Batinga e aguarde o recebimento das miss\u00f5es!  Voc\u00ea tem at\u00e9 30 de setembro pra participar do #desafioCarlosBatinga e se tornar um apoiador fiel! \ud83d\udc4a<br /> \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800<br /> #batinga14112 #campinagrande #cariri #carlosbatinga #deputadoestadual #elei\u00e7\u00f5es2018 #jo\u00e3oazevedo #jo\u00e3opessoa #monteiro #para\u00edba #pb"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31220370000168",
+                    "byline": "Carlos Alberto Batinga Chaves",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534552288,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Carlos Batinga",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39454635_2119365928324675_1033087531886837760_n.jpg?_nc_cat=0&oh=9a18a042d7492606d26fbf009f7ddada&oe=5C0A7070",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39514669_2119365931658008_1687771372501073920_n.jpg?_nc_cat=0&oh=061003ca9f51c28faccf5cd0920c0543&oe=5BFDEFFD"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1411864629074812,
+                    "page_is_deleted": false,
+                    "page_like_count": 1677,
+                    "page_name": "Carlos Batinga",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39202760_737340859930949_2006103284644839424_n.jpg?_nc_cat=0&oh=b5c1d6874891678210e37fd6d7d8ea4b&oe=5C0A9B31",
+                    "page_profile_uri": "https://www.facebook.com/dep.carlosbatinga/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "286843172115717",
+                "adid": "23842942313780452",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "375349375824563",
+                "pageName": "Senador MOKA",
+                "snapshot": {
+                    "ad_creative_id": "23842942313770452",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Recursos para moradia, sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a que ajudaram a levar mais crescimento para o nosso Estado! #SenadorMoka #TrabalhoPraValer"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31241559000137",
+                    "byline": "Senador Moka",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534553209,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Senador MOKA",
+                    "disclaimer_label": 2,
+                    "display_format": "video",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 375349375824563,
+                    "page_is_deleted": false,
+                    "page_like_count": 45032,
+                    "page_name": "Senador MOKA",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39337064_286843178782383_4147052431961751552_n.jpg?_nc_cat=0&oh=6a870b9357689dc05ca7d0cef0cd808d&oe=5C0D1CCA",
+                    "page_profile_uri": "https://www.facebook.com/SenadorWaldemirMOKA/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "RECURSOS PARA O MS",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39239110_1890082521295139_6322746743716839424_n.mp4?_nc_cat=0&oh=ee16dc30b460322767e63baa4711ea71&oe=5B77DD9A",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39318433_286843182115716_5753296894163943424_n.jpg?_nc_cat=0&oh=8b712a214473cea68f22982a191c1134&oe=5C06B5DD",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/39193118_258793778290400_4261883665430085632_n.mp4?_nc_cat=0&oh=d8099f867c3640a53f65c36576a4206d&oe=5B77DCE3"
+                        }
+                    ]
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "257233568235475",
+                "adid": "23842978357580001",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": true,
+                "isPromotedNews": false,
+                "pageID": "2134782856537565",
+                "pageName": "Jilmar Tatto",
+                "snapshot": {
+                    "ad_creative_id": "23842978357570001",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "A ONU decidiu que Lula deve ter seus direitos pol\u00edticos garantidos nas elei\u00e7\u00f5es de 2018! <br /> <br /> Parte do judici\u00e1rio brasileiro j\u00e1 est\u00e1 batendo cabe\u00e7a\u2026 Mas a pergunta que n\u00e3o quer calar: ser\u00e1 que a Globo n\u00e3o vai mostrar o que o mundo inteiro j\u00e1 viu!?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "03946999808",
+                    "byline": "Jilmar Augustinho Tatto ",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534547226,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Jilmar Tatto",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/39453839_2287654751250374_3000109766644072448_n.png?_nc_cat=0&oh=88c4768d916a973c3ac15139375d2afa&oe=5BF79F22",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/39296959_2287654747917041_37215857260101632_n.png?_nc_cat=0&oh=ab4cfb87e16c6e2a4d93f8c4c7e8ac7c&oe=5BF497EF"
+                        }
+                    ],
+                    "instagram_actor_name": "Jilmar Tatto",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39306562_257233581568807_3967854301744726016_n.jpg?_nc_cat=0&oh=41ceccccc98cd97382d8fdfc6a0a0052&oe=5BFECD0F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 2134782856537565,
+                    "page_is_deleted": false,
+                    "page_like_count": 6923,
+                    "page_name": "Jilmar Tatto",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39310838_257233584902140_981860254356602880_n.jpg?_nc_cat=0&oh=8941670f5d6aab8701d78009ec79c505&oe=5BF13C45",
+                    "page_profile_uri": "https://www.facebook.com/jilmartatto13/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "641444362909482",
+                "adid": "23842942882110487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942882040487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39333864_641444399576145_7414296021817098240_n.jpg?_nc_cat=0&oh=f6c449a8c69c21a6cf9163570a0f9aa1&oe=5BF40A06",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39385307_641444396242812_1912214706848792576_n.jpg?_nc_cat=0&oh=325fcb69e444f108dfeaed052355ebff&oe=5BFDA077"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39400110_641444376242814_7391356932201644032_n.jpg?_nc_cat=0&oh=5865085bab23c185fc50b08f935b7b24&oe=5BFBDB97",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39326480_641444379576147_2176625039758065664_n.jpg?_nc_cat=0&oh=b5822880c42f54b318b8edbc279bc7c2&oe=5C09E968",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "2269151699781544",
+                "adid": "23842942881370487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942881360487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39400803_2269151739781540_3152648991905153024_n.jpg?_nc_cat=0&oh=14dcdaace373ed8a5bf5ef1354746a2c&oe=5C0BFF72",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39395703_2269151736448207_1475236620960530432_n.jpg?_nc_cat=0&oh=964e10e822cfe3a51a74ec6e763ef42a&oe=5C105EA5"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39300781_2269151726448208_9129347038012506112_n.jpg?_nc_cat=0&oh=7ab5b1488cecb8533db3ea8b9703bb8f&oe=5BF88F60",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39396165_2269151729781541_3258039298846359552_n.jpg?_nc_cat=0&oh=2cc58bd58ba3344ef3c4616b33d14862&oe=5C3AE461",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "1064133760411971",
+                "adid": "23842942880910487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942880900487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39485296_1064133783745302_8807349272497356800_n.jpg?_nc_cat=0&oh=854ae5b7b0846931d48a25545eef2d03&oe=5C047F72",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39301656_1064133787078635_3704811202954657792_n.jpg?_nc_cat=0&oh=d486274e21a820ef77372d5780f67592&oe=5BED6A5D"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39327697_1064133770411970_2393597982869028864_n.jpg?_nc_cat=0&oh=e0d03e0c5d6c6d6b284c3d3b77d29095&oe=5C087B5C",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37539927_1064133773745303_3335402547589414912_n.jpg?_nc_cat=0&oh=da1076fccbd142423a18ad18554689e9&oe=5BF93442",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "735967480080571",
+                "adid": "23842942880460487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942880450487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39526109_735967513413901_2574667649380253696_n.jpg?_nc_cat=0&oh=cf14d4236885ac05aeefb181103ef28a&oe=5C07FE3E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39306581_735967510080568_4355150310486835200_n.jpg?_nc_cat=0&oh=2391ab71e31ca9bf55a128fdc52047a9&oe=5BF9ACF9"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39407791_735967496747236_9211613953996619776_n.jpg?_nc_cat=0&oh=cb6e22cc72b71e48c2c141dffbcada29&oe=5BEFFD7D",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39392687_735967500080569_2847794433733165056_n.jpg?_nc_cat=0&oh=8909fed3e1a751884f641b44a52f155b&oe=5BF6210C",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "209393943260599",
+                "adid": "23842942880180487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942880130487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534546476,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39329679_209393959927264_8439158038497067008_n.jpg?_nc_cat=0&oh=a3bf3a2f3ce36fab8294dd392609438a&oe=5C0D7E8A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39300776_209393963260597_1649418341044977664_n.jpg?_nc_cat=0&oh=098254b0cb0a32f76ca47bb4bff5ec54&oe=5BEE7CBC"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39310849_209393953260598_6917577431922507776_n.jpg?_nc_cat=0&oh=136fc963355ca27d35abdf51b1f57297&oe=5C037A55",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39331003_209393949927265_2183545048115707904_n.jpg?_nc_cat=0&oh=320de4eac3bf3b4174efae199994f5af&oe=5BF78FFE",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "226577237976606",
+                "adid": "23842942880120487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942880090487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534548484,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39368066_226577251309938_4556298584034639872_n.jpg?_nc_cat=0&oh=89f3db8684005a415c32b45ef2908341&oe=5BF17CF9",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39291174_226577254643271_703936597124448256_n.jpg?_nc_cat=0&oh=fa854090f6357b0ba97e302242bab829&oe=5BFB854F"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395184_226577244643272_134462107344175104_n.jpg?_nc_cat=0&oh=a17be705ed9d09f07675d411115d2f10&oe=5C053B48",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39297023_226577247976605_3919788691374997504_n.jpg?_nc_cat=0&oh=db5cecb9d7f23b21608f3714b61dc40a&oe=5C09A3F2",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "273737410021657",
+                "adid": "23842942879950487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942879900487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39311144_273737433354988_6581931759284256768_n.jpg?_nc_cat=0&oh=3647b7d941806b7edd017b47c69d26f8&oe=5C0A29C6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39561650_273737430021655_5265741492441317376_n.jpg?_nc_cat=0&oh=09fb4a26639c65f7bcb2c2af94351890&oe=5BF69B85"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39343455_273737416688323_4428424986587299840_n.jpg?_nc_cat=0&oh=37cd03d6e9e605600b5943a31ed7de50&oe=5BFC92C6",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39471292_273737420021656_237587403152293888_n.jpg?_nc_cat=0&oh=e578ba7b7127337e59e6f4cedd99db05&oe=5C0E7B1E",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            },
+            {
+                "adArchiveID": "457265418108058",
+                "adid": "23842942879640487",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "225167147655939",
+                "pageName": "Lucas Ramos",
+                "snapshot": {
+                    "ad_creative_id": "23842942879570487",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Com a experi\u00eancia adquirida ao longo da vida, sendo os quatro \u00faltimos anos na Assembleia Legislativa de Pernambuco, caminhamos por todo o Estado entregando a\u00e7\u00f5es e obras, realizando sonhos e transformando vidas. Acumulamos ainda mais disposi\u00e7\u00e3o para continuar lutando por mais oportunidades para todos os pernambucanos, inaugurando vida na vida das pessoas. Avan\u00e7amos em diversas \u00e1reas - na educa\u00e7\u00e3o, na seguran\u00e7a, no acesso \u00e0 \u00e1gua, na forma\u00e7\u00e3o de cidad\u00e3os, e em tantas outras - sem esquecer jamais da interioriza\u00e7\u00e3o do desenvolvimento. Temos certeza, por\u00e9m, que ainda h\u00e1 muito por fazer e por isso, renovamos nosso compromisso com cada uma das 58.515 pessoas que acreditaram no nosso projeto em 2014 e com todos os novos amigos que fizemos desde ent\u00e3o.<br /> <br /> #EuAvan\u00e7oComLucasRamos #EuAvan\u00e7oComONovo #40110 #DeputadoEstadual"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "31208359000182",
+                    "byline": "Frente Popular de Pernambuco para Deputado Estadual",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534549063,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lucas Ramos",
+                    "disclaimer_label": 2,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395192_457265458108054_7446114432331022336_n.jpg?_nc_cat=0&oh=6efd82678f60bdd3b98ac70dd87cc178&oe=5C0FB5D3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39516709_457265454774721_7348208423730675712_n.jpg?_nc_cat=0&oh=826b5b6bd10ebbe018259a4ce861ff50&oe=5C0F9D9D"
+                        }
+                    ],
+                    "instagram_actor_name": "Lucas Ramos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39409738_457265448108055_3326705118555930624_n.jpg?_nc_cat=0&oh=b8db44fd652f9274a6354d9f438cf709&oe=5C0DA65E",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 225167147655939,
+                    "page_is_deleted": false,
+                    "page_like_count": 46517,
+                    "page_name": "Lucas Ramos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39289451_457265444774722_5225069423458516992_n.jpg?_nc_cat=0&oh=ec8bb4a0fd265841227bc6fd10d0b915&oe=5C10CB88",
+                    "page_profile_uri": "https://www.facebook.com/lucasramosoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1534489200
+            }
+        ],
+        "totalCount": 539,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

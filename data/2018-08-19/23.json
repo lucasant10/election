@@ -1,0 +1,1824 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQGrtYokwx_F:AQHJJptjXfdy",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591482337447308792",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": true,
+        "nextPageToken": "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",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "2119184991699105",
+                "adid": "6103750413395",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1239851222775502",
+                "pageName": "Democracy Without Borders",
+                "snapshot": {
+                    "ad_creative_id": 6103750410195,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "In 150 days this year&#039;s Global Week of Action for a World Parliament will be launched. Join us and call for the establishment of a World Parliament Now that will give representation and political power to all world citizens!<br /> <br /> &quot;The current international system is dysfunctional. In a time when multilateralism and international agreements are under attack, changes to make it more democratic and more efficient are more important than ever.&quot;<br /> <br /> &quot;We, world citizens and human beings around the world are called on to pave the way for future generations. Wherever we live on Earth, in rural areas or in mega cities, in poverty or in luxury, we are responsible for each other and for the life foundations on this planet, and we should now come together to build a better world.&quot;<br /> <br /> Read the full piece by Petter \u00d6lmunger, the week&#039;s coordinator, here:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.democracywithoutborders.org%2F5661%2F&amp;h=AT2gEplwNet9KkX8UWHqivmtH3thosk-Rkd-dUFVn88V3lErHHtjFetSAAjOBt9N15N-ldtDnx8QCt7bzcfzxZ7xxBwgVjlzqSH_UL9LVaUMFF6vOvrWTwy-n_1xdRFUIuvzNZ5n9CM\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.democracywithoutborders.org/5661/</a><br /> <br /> Visit the week&#039;s website here:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.worldparliamentnow.org%2F&amp;h=AT1RNvXZoVyQsXs4my-_Z76tgfH1eKv0sKDtQLu8BEPZLE5Ry6GUuICqHZTMMuN_AHQ3m6R4JXmX4dKsVCXJ37nrmyYJLFNNLhYLw83ufkD-SyTt2rgXCVpiS6X_MkbtfsJsbedNHvo\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.worldparliamentnow.org/</a><br /> <br /> And finally, join the Facebook event page here:<br /> <a href=\"https://www.facebook.com/events/2292670130959963/\" rel=\"nofollow\">https://www.facebook.com/events/2292670130959963/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "democracywithoutborders.org",
+                    "cards": [],
+                    "creation_time": 1529476600,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Democracy Without Borders",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35818993_2119185028365768_3804595194595115008_n.jpg?_nc_cat=0&oh=0516b5b3c3f755912bed4521e733f05b&oe=5C0F31E7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35757088_2119185031699101_5101984366653865984_n.jpg?_nc_cat=0&oh=76eeef2f34a9ad874cdb0d3697ead798&oe=5BF60C03"
+                        }
+                    ],
+                    "instagram_actor_name": "Democracy Without Borders",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605654_2119185015032436_763700044846071808_n.jpg?_nc_cat=0&oh=a79e225764aac2be8a3c7f4c422cbf2e&oe=5BED5CE3",
+                    "is_reshared": false,
+                    "link_description": "Join our Global Week of Action from October 19-28 2018 and join the call for the establishment of a World Parliament that will give representation and political power to all world citizens.Climate change, environmental pollution, terrorism, weapons of mass destruction, arms race, antibiotic resistan",
+                    "link_url": "https://www.democracywithoutborders.org/5661/join-the-week-of-action-for-a-world-parliament-from-october-19-28-2018/",
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 1239851222775502,
+                    "page_is_deleted": false,
+                    "page_like_count": 802,
+                    "page_name": "Democracy Without Borders",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35746383_2119185011699103_7475850410771611648_n.jpg?_nc_cat=0&oh=c3da4b08a317a5cab7143687ceb2211a&oe=5BFDE011",
+                    "page_profile_uri": "https://www.facebook.com/democracywb/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Join the Week of Action for a World Parliament from October 19-28, 2018",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526972400
+            },
+            {
+                "adArchiveID": "359970234542741",
+                "adid": "23842882093810326",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1526972400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "218747811487830",
+                "pageName": "Revista TV Espa\u00f1ol",
+                "snapshot": {
+                    "ad_creative_id": "23842882093650326",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua<br /> <br /> #CIDH #Vistita #24Heridos #19Por #ArmasDeFuego #NorteDeNicaragua #Nicaragua #CrisisInNicaragua #Protests #Protestas #Matagalpa"
+                        }
+                    },
+                    "body_translations": {
+                        "en_XX": "IACHR visits 24 wounded (19 by firearms) in Northern Nicaragua\n\n#CIDH #Vistita #24Heridos #19Por #ArmasDeFuego #NorteDeNicaragua #Nicaragua #CrisisInNicaragua #Protests #Protestas #Matagalpa"
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "tvespanol.net",
+                    "cards": [],
+                    "creation_time": 1534451761,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Revista TV Espa\u00f1ol",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285699_359970277876070_286926205037314048_n.jpg?_nc_cat=0&oh=b90f21d0e0f8ec28cd7b576a1dfd02fa&oe=5BF988AE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39324333_359970281209403_6167613525712699392_n.jpg?_nc_cat=0&oh=0a18125a83f948991072f95df0716c08&oe=5BF9FBA2"
+                        }
+                    ],
+                    "instagram_actor_name": "Tv Espa\u00f1ol",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39395717_359970267876071_1237526940089319424_n.jpg?_nc_cat=0&oh=3bba548c2d1e552bd89e95e50c904d1f&oe=5BF7C33F",
+                    "is_reshared": false,
+                    "link_description": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua En la imagen, el secretario general de la Comisi\u00f3n Interamericana de Derechos Humanos (CIDH), Paulo Abr\u00e3o La Comisi\u00f3n Interamericana de Derechos Humanos (CI",
+                    "link_url": "https://tvespanol.net/noticias-de-hoy/2018/5/21/la-cidh-visita-a-24-heridos-19-por-armas-de-fuego-en-el-norte-de-nicaragua",
+                    "page_categories": {
+                        "164886566892249": "Advertising Agency"
+                    },
+                    "page_id": 218747811487830,
+                    "page_is_deleted": false,
+                    "page_like_count": 2354,
+                    "page_name": "Revista TV Espa\u00f1ol",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39285687_359970264542738_2868458096919838720_n.jpg?_nc_cat=0&oh=6420c66cf34b41eb79800e35edf4649e&oe=5BFA2004",
+                    "page_profile_uri": "https://www.facebook.com/tvespanolmagazine/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "La CIDH visita a 24 heridos, 19 por armas de fuego, en el norte de Nicaragua",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526886000
+            },
+            {
+                "adArchiveID": "212119386082821",
+                "adid": "23842847978320067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842839749510067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Inscripci\u00f3n &gt;&gt; <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.elreyjesus.org%2Feventos%2Fescuela-del-ministerio-sobrenatural-verano-2018&amp;h=AT1H7lnwZ7jM2SxOCZcf8obW6GnxhOD-f1pE2Ba6A_OVyi4Zk4zM2kLhvi4avbGZPHUdLGUZFgv10CGX5ApyGaVyt_wWG7hX4jbPDPzkSfGmoRa0fv6rG2yBAC-ZpiKbqafGJSauCVlFx4lPPhyr25io\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "elreyjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109103,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36347821_510303929387295_4810951004650471424_n.jpg?_nc_cat=0&oh=9df5012e3ec98d2f1bb68f0a6c65a66c&oe=5BEE5CF4",
+                    "is_reshared": false,
+                    "link_description": "Una conferencia que le ayudar\u00e1 a aumentar \nsu influencia y a expandir su llamado.",
+                    "link_url": "http://www.elreyjesus.org/eventos/escuela-del-ministerio-sobrenatural-verano-2018",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36280308_510303932720628_2883147043985948672_n.jpg?_nc_cat=0&oh=22296142aea91b45e8dfc75758e07126&oe=5BEE180E",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Conferencia para l\u00edderes | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_241685109744118_4277610014601904128_n.mp4?_nc_cat=0&oh=af40d96e39e74a1ca944fdacabfcc64a&oe=5B79CFED",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36292362_510303939387294_5140570430150541312_n.jpg?_nc_cat=0&oh=93c482b7c1e757e9e2d9a676bb18f4bc&oe=5BF984C4",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/32273694_185641225418888_5992618849923497984_n.mp4?_nc_cat=0&oh=3ae3bfd9cae142e96d590ead65b7fefa&oe=5B79D2EC"
+                        }
+                    ]
+                },
+                "startDate": 1526886000
+            },
+            {
+                "adArchiveID": "245055216049719",
+                "adid": "6089642753705",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528009200,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "288031487968578",
+                "pageName": "Uni\u00e3o pela volta dos inibidores de apetite",
+                "snapshot": {
+                    "ad_creative_id": 6089642749705,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Pessoal, os deputados envolvidos pediram pra gente pressionar os l\u00edderes para inserir na Ordem do Dia o Requerimento 8505/2018 (do dep. Celso Russomanno), que pede vota\u00e7\u00e3o em regime de urg\u00eancia ao PDC 908/2018. Esse PDC \u00e9 de autoria da deputada Laura Carneiro e pede a susta\u00e7\u00e3o da RDC 50/2014, que a Anvisa usa pra coibir as farm\u00e1cias e, assim, atrapalhar a comercializa\u00e7\u00e3o dos nossos medicamentos! Lembrando que  PDC n\u00e3o precisa de san\u00e7\u00e3o presidencial! Abaixo, a lista atualizada dos l\u00edderes, com telefone, email e Twitter!!  Pedir ao deputado Rodrigo Maia tb, que \u00e9 o presidente da C\u00e2mara!!<br /> <br /> AGUINALDO RIBEIRO- l\u00edder do governo<br /> (61) 3215-9001<br /> Gab. (61) 3215-5735<br /> lid.govcamara&#064;camara.leg.br<br /> &#064;aguinaldo1111<br /> dep.aguinaldoribeiro&#064;camara.leg.br<br /> <br /> LELO COIMBRA \u2013 l\u00edder da maioria<br /> (61) 3215-5801<br /> dep.lelocoimbra&#064;camara.leg.br<br /> &#064;lelocoimbra_<br /> <br /> WEVERTON ROCHA - l\u00edder minoria<br /> (61) 3215-9700/9701/9703<br /> Gab. (61) 3215-5405<br /> lid.min&#064;camara.leg.br<br /> dep.wevertonrocha&#064;camara.leg.br<br /> &#064;wevertonrocha<br /> <br /> BALEIA ROSSI - l\u00edder PMDB<br /> (61) 3215-9181/80<br /> Gab. (61) 3215-5829<br /> lid.pmdb&#064;camara.leg.br<br /> &#064;Baleia_Rossi<br /> dep.baleiarossi&#064;camara.leg.br<br /> <br /> PAULO PIMENTA - l\u00edder PT<br /> Ed. Principal, T\u00e9rreo<br /> (61) 3215-9102<br /> lid.pt&#064;camara.leg.br<br /> &#064;DeputadoFederal<br /> <br /> NILSON LEIT\u00c3O - l\u00edder PSDB<br /> (61) 3215-9345/9346<br /> lid.psdb&#064;camara.leg.br<br /> dep.nilsonleitao&#064;camara.leg.br<br /> &#064;NilsonLeitao_<br /> <br /> ARTHUR LIRA- l\u00edder PP<br /> (61) 3215-9426<br /> Gab. (61) 3215-5942<br /> lid.pp&#064;camara.leg.br<br /> dep.arthurlira&#064;camara.leg.br<br /> &#064;DepArthurLira<br /> <br /> JOS\u00c9 ALVES ROCHA- l\u00edder PR<br /> (61) 3215-9550<br /> Gab. (61) 3215-5908<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Flid.pr%2F&amp;h=AT2HrEic8WOh2t1g0Vd9xlCK73_W9oiNGCxwhOtW73lD_yL2IPLkrFjtmeBvT-zQUgfqaiGsUcSjvJi4TWi0TIWOf48Xo34kC4BDYDhiZS_wKa-F6FrnnMEzFX1MlcX4_YcWdSzOHH3Pk5ohhntHJL91\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">lid.pr</a>&#064;camara.leg.br<br /> dep.joserocha&#064;camara.leg.br<br /> <br /> DOMINGOS NETO- l\u00edder PSD<br /> (61) 3215-9060/9070<br /> lid.psd&#064;camara.leg.br<br /> dep.domingosneto&#064;camara.leg.br<br /> &#064;Domingos_Neto<br /> <br /> J\u00daLIO DELGADO - l\u00edder PSB<br /> (61) 3215-9650<br /> lid.psb&#064;camara.leg.br<br /> dep.juliodelgado&#064;camara.leg.br<br /> &#064;depjuliodelgado<br /> <br /> RODRIGO GARCIA - l\u00edder DEM <br /> (61) 3215-9265/9281<br /> GAB (61) 3215-5242<br /> lid.dem&#064;camara.leg.br<br /> dep.rodrigogarcia&#064;camara.leg.br<br /> &#064;rodrigogarcia_<br /> <br /> CELSO RUSSOMANNO - l\u00edder PRB<br /> (61) 3215-9880/9882/9884<br /> lid.prb&#064;camara.leg.br<br /> dep.celsorussomanno&#064;camara.leg.br<br /> &#064;celsorussomanno<br /> <br /> ANDR\u00c9 FIGUEIREDO - l\u00edder PDT<br /> (61) 3215-9700/9701/9703<br /> lid.pdt&#064;camara.leg.br<br /> dep.andrefigueiredo&#064;camara.leg.br<br /> &#064;andrepdt12<br /> <br /> JOVAIR ARANTES - l\u00edder PTB<br /> (61) 3215-9502/9503<br /> Gab. (61) 3215-5504<br /> lid.ptb&#064;camara.leg.br<br /> dep.jovairarantes&#064;camara.leg.br<br /> &#064;Jovair1414<br /> <br /> RICARDO TEOBALDO \u2013 l\u00edder PODEMOS<br /> (61) 3215-8900<br /> lid.ptn&#064;camara.leg.br<br /> dep.ricardoreobaldo&#064;camara.leg.br<br /> <br /> WLADIMIR COSTA - l\u00edder Solidariedade<br /> Gab. (61) 3215-5212<br /> lid.solidariedade&#064;camara.leg.br<br /> dep.wladimircosta&#064;camara.leg.br<br /> &#064;deputadowlad<br /> <br /> FELIPE BORNIER \u2013 l\u00edder PROS<br />  (61) 3215-9990<br /> lid.pros&#064;camara.leg.br<br /> dep.felipebornier&#064;camara.leg.br<br /> &#064;felipebornierrj<br /> <br /> ORLANDO SILVA - l\u00edder PCdoB<br /> (61) 3215-9732<br /> lid.pcdob&#064;camara.leg.br<br /> dep.orlandosilval&#064;camara.leg.br<br /> &#064;orlandosilva<br /> <br /> GILBERTO NASCIMENTO - l\u00edder PSC<br /> (61) 3215-9762/9771/9761<br /> lid.psc&#064;camara.leg.br<br /> dep.gilbertonascimento&#064;camara.leg.br<br /> &#064;gilbertonjr <br /> <br /> ALEX MANENTE - l\u00edder PPS<br /> (61) 3215-9600<br /> lid.pps&#064;camara.leg.br<br /> dep.alexmanente&#064;camara.leg.br<br /> &#064;AlexManentePPS<br /> <br /> MARCELO ARO - l\u00edder PHS<br /> (61) 3215-8875<br /> lid.phs&#064;camara.leg.br<br /> dep.marceloaroa&#064;camara.leg.br<br /> &#064;marceloaro<br /> <br /> LEANDRE DAL PONTE - l\u00edder PV<br /> (61) 3215-9790 (Fax 3215-9794)<br /> lid.pv&#064;camara.leg.br<br /> &#064;leandredaideal<br /> dep.leandre&#064;camara.leg.br<br /> <br /> CHICO ALENCAR - l\u00edder PSOL<br /> (61) 3215-9835<br /> lid.psol&#064;camara.leg.br<br /> dep.chicoalencar&#064;camara.leg.br<br /> &#064;depChicoAlencar<br /> <br /> JO\u00c3O DERLY - l\u00edder REDE<br /> (61) 3215-9680<br /> Gab. (61) 3215-5901<br /> lid.rede&#064;camara.leg.br<br /> dep.joaoderly&#064;camara.leg.br<br /> &#064;joaoderly<br /> <br /> LUIS TIB\u00c9- l\u00edder AVANTE<br /> (61) 3215-5230<br /> Gab. (61) 3215-5632<br /> dep.luistibe&#064;camara.leg.br<br /> &#064;LuisTibeOFICIAL<br /> <br /> DELEGADO FRANCISCHINI - l\u00edder PSL<br /> Gab. (61) 3215-5818<br /> dep.delegadofrancischini&#064;camara.leg.br<br /> &#064;Francischini_<br /> <br /> JUNIOR MARRECA - l\u00edder PEN<br /> (61) 3215-5265<br /> Gab. (61) 3215-5537<br /> dep.juniormarreca&#064;camara.leg.br<br /> &#064;juniormarreca<br /> <br /> WELITON PRADO \u2013 PMB<br /> (61) 3215-9861<br /> Gab. (61) 3215-5862<br /> lid.pmb&#064;camara.leg.br<br /> dep.welitonprado&#064;camara.leg.br<br /> &#064;pradoweliton<br /> <br /> ULDURICO JUNIOR  - l\u00edder PPL<br /> (61) 3215-5729<br /> dep.ulduricojunior&#064;camara.leg.br<br /> &#064;ulduricopinto<br /> <br /> MESA DIRETORA<br /> <br /> Presidente: Rodrigo Maia<br /> TT- &#064;DepRodrigoMaia<br /> Email: dep.rodrigomaia&#064;camara.leg.br"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1527660685,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Uni\u00e3o pela volta dos inibidores de apetite",
+                    "disclaimer_label": null,
+                    "display_format": "text",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 288031487968578,
+                    "page_is_deleted": false,
+                    "page_like_count": 6641,
+                    "page_name": "Uni\u00e3o pela volta dos inibidores de apetite",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34061893_245055229383051_2213825091538518016_n.jpg?_nc_cat=0&oh=486a02aa5552c2c418af1aa96587caab&oe=5BF5B200",
+                    "page_profile_uri": "https://www.facebook.com/LiberemOsInibidores/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526799600
+            },
+            {
+                "adArchiveID": "227229894553210",
+                "adid": "6090339830552",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6089860206352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Varios #Gobiernos de Europa y Asia central ya est\u00e1n experimentando con cadenas de bloques para digitalizar y simplificar los #servicios p\u00fablicos a fin de lograr que sean m\u00e1s #seguros, #transparentes y #eficientes."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bancomundial.org",
+                    "cards": [],
+                    "creation_time": 1530472289,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36516511_389691498193403_1228096175454814208_n.jpg?_nc_cat=0&oh=402c124396068996807a9671ca5a36f9&oe=5C02E2ED",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36573494_389691494860070_5453003638504947712_n.jpg?_nc_cat=0&oh=8e99aaf979a0509552983da7ff05cf01&oe=5C0F2F1F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Los pa\u00edses de Europa y Asia central deber\u00edan aprovechar las nuevas tecnolog\u00edas digitales para innovar y mejorar sus servicios.",
+                    "link_url": "http://www.bancomundial.org/es/news/press-release/2018/05/08/countries-in-europe-and-central-asia-can-provide-better-opportunities-and-services-for-citizens-by-leveraging-blockchain-technologies?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888475,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36469369_389691474860072_6118825059462152192_n.jpg?_nc_cat=0&oh=d083fdf830029ac7253346f367a9718e&oe=5BECC13A",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Aprovechar las criptomonedas para brindar mejores oportunidades a los ciudadanos",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "981039935389687",
+                "adid": "6090339832952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527750000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "152914224736727",
+                "pageName": "Banco Mundial",
+                "snapshot": {
+                    "ad_creative_id": 6090250743952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Construir alianzas #LGBTI no es solo un tema de #solidaridad, sino una clave para reducir la #pobreza y aumentar el #crecimiento econ\u00f3mico. <br /> <br /> D\u00eda internacional contra la #Homofobia, #Transfobia y  #Bifobia"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1528260418,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banco Mundial",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435840_255903485155067_3261022608899964928_n.jpg?_nc_cat=0&oh=e09113ab181368477a03b033fcb26725&oe=5C0BEDD7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34620349_255903488488400_5026518492728262656_n.jpg?_nc_cat=0&oh=0b5b3f3ca8f9e1f8bef0482bda507cae&oe=5BFAA44F"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Las discriminaciones conducen a la p\u00e9rdida de oportunidades educativas, lo que a su vez lleva a la p\u00e9rdida de oportunidades, es decir, a la p\u00e9rdida de oportunidades econ\u00f3micas durante toda una vida.",
+                    "link_url": "https://blogs.worldbank.org/voices/es/construir-alianzas-lgbti-no-es-solo-un-tema-de-solidaridad-sino-una-clave-para-la-prosperidad?cid=ECR_FB_worldbank_ES_EXT",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 152914224736727,
+                    "page_is_deleted": false,
+                    "page_like_count": 888475,
+                    "page_name": "Banco Mundial",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34565943_255903481821734_747051209713516544_n.jpg?_nc_cat=0&oh=2059a468ea2d787931c74c621b6f298e&oe=5C38B1FE",
+                    "page_profile_uri": "https://www.facebook.com/bancomundial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Alianzas para la solidaridad",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "616293542087234",
+                "adid": "6110309403565",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1526972400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "329394587151805",
+                "pageName": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                "snapshot": {
+                    "ad_creative_id": 6110309400365,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nathalie n\u2019a pas peur d\u2019aller frapper aux portes pour aider les Canadiens. <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fow.ly%2F630l30k3rK8&amp;h=AT05wbP9Jlj2ExUMEqDTePgEfKKiNKzYLKTeUQkyAEZ7djcWU1Wi4EzTFgJ0_ccwXSXLijCgCPnFSUUNB3IBX3hxe9dJuHv1_5wzTi2_XyXljVckZH21OHS9_M-6-McvIhS6INr_WJs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://ow.ly/630l30k3rK8</a> #Aiderlesvoyageurscanadiens"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530085811,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36273313_616293558753899_5923953562789871616_n.jpg?_nc_cat=0&oh=0acbae40674a0f1faef0b373d690f363&oe=5C00D5A2",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/32686179_1701311709960079_7080578729365209088_n.jpg?_nc_cat=0&oh=5789918d5446322cedcf29a2eff313b6&oe=5C09FCE2"
+                        }
+                    ],
+                    "instagram_actor_name": "Voyage.gc.ca : Conseils du gou",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36246403_616293552087233_6062118297015418880_n.jpg?_nc_cat=0&oh=f9e5c7238713d603157c64cea3b51ec2&oe=5BEF3627",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://ow.ly/630l30k3rK8",
+                    "page_categories": {
+                        "161422927240513": "Government Organization"
+                    },
+                    "page_id": 329394587151805,
+                    "page_is_deleted": false,
+                    "page_like_count": 76575,
+                    "page_name": "Voyage.gc.ca : Conseils du gouvernement du Canada \u00e0 l\u2019intention des voyageurs",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36275956_616293555420566_6916102024756985856_n.jpg?_nc_cat=0&oh=fe19f8914a550b4bb988332bd5bf60cd&oe=5C066339",
+                    "page_profile_uri": "https://www.facebook.com/voyageGdC/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "460176064444653",
+                "adid": "23842865343950406",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1858373257540100",
+                "pageName": "SBLY Portugu\u00eas",
+                "snapshot": {
+                    "ad_creative_id": "23842865343520406",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Que grande homem por ter feito isto!"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "news.shareably.net",
+                    "cards": [],
+                    "creation_time": 1529497444,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "SBLY Portugu\u00eas",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35847198_460176094444650_4297827271772733440_n.jpg?_nc_cat=0&oh=dc5fdd7b57e6c2320a05405b71a94f6d&oe=5BF4915D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35773904_460176091111317_1664262001423024128_n.jpg?_nc_cat=0&oh=bd141109f8b09a9760344cfd5ff3a4fc&oe=5BF4AFDF"
+                        }
+                    ],
+                    "instagram_actor_name": "SBLY Portugu\u00eas",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35781646_460176084444651_4176103672356274176_n.jpg?_nc_cat=0&oh=fdebbcec7cfb19b7ff475b7fec6b11f9&oe=5C0F4BB5",
+                    "is_reshared": false,
+                    "link_description": "A cidade alegou que as escadas custariam pelo menos $65,000, mas um homem n\u00e3o acreditou.",
+                    "link_url": "http://news.shareably.net/cidade-escadas-seniores/?utm_source=fb_ad_share&utm_medium=facebook&utm_campaign=233283ee-346c-336b-ef98-57d2f7fbb3ee-1556259461269806",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 1858373257540100,
+                    "page_is_deleted": false,
+                    "page_like_count": 114917,
+                    "page_name": "SBLY Portugu\u00eas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35472515_460176087777984_1697689405470277632_n.jpg?_nc_cat=0&oh=4b0b790676497d48bc1d32b2e3aaf05e&oe=5C0509E9",
+                    "page_profile_uri": "https://www.facebook.com/SBLY-Portugu\u00eas-1858373257540100/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Cidade diz que escadas para seniores custar\u00e3o $65,000. Homem constr\u00f3i por $550, e cidade deita-as abaixo",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526626800
+            },
+            {
+                "adArchiveID": "246702222579963",
+                "adid": "6099576754192",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527145200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "306907899433088",
+                "pageName": "Carta e Cr\u00f4nica",
+                "snapshot": {
+                    "ad_creative_id": 6099576685992,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O grupo sabe que ainda h\u00e1 um ponto ao qual sempre \u00e9 poss\u00edvel recorrer: o isolamento internacional e as condena\u00e7\u00f5es a Israel a partir do enfrentamento de seu ex\u00e9rcito contra a popula\u00e7\u00e3o palestina \u2013 seja ela formada por civis ou por membros militares do gru"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "cartaecronica.com.br",
+                    "cards": [],
+                    "creation_time": 1529490123,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Carta e Cr\u00f4nica",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35853319_801733766698820_7726407842063712256_n.jpg?_nc_cat=0&oh=47bb67744059fe4e484c31198731f49a&oe=5C09AE99",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35606019_801733763365487_6127531555171598336_n.jpg?_nc_cat=0&oh=35aaae8ad90499fd988262b958cfe7ef&oe=5C0B1DBB"
+                        }
+                    ],
+                    "instagram_actor_name": "Carta e Cr\u00f4nica",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605545_801733750032155_566523331851845632_n.jpg?_nc_cat=0&oh=dcab0180b43c69ae1ddb3245a0051d57&oe=5C06FBC5",
+                    "is_reshared": false,
+                    "link_description": "O grupo sabe que ainda h\u00e1 um ponto ao qual sempre \u00e9 poss\u00edvel recorrer: o isolamento internacional e as condena\u00e7\u00f5es a Israel a partir do enfrentamento de seu ex\u00e9rcito contra a popula\u00e7\u00e3o palestina \u2013 seja ela formada por civis ou por membros militares do gru",
+                    "link_url": "http://www.cartaecronica.com.br/detalhe.php?id=512",
+                    "page_categories": {
+                        "1307": "Magazine"
+                    },
+                    "page_id": 306907899433088,
+                    "page_is_deleted": false,
+                    "page_like_count": 7939,
+                    "page_name": "Carta e Cr\u00f4nica",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35605576_801733746698822_946309160780169216_n.jpg?_nc_cat=0&oh=f1b912854ac77e5a771631003acb9fb0&oe=5C0F5368",
+                    "page_profile_uri": "https://www.facebook.com/cartaecronica/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Neutralizado em a\u00e7\u00f5es militares, Hamas encontra ponto fraco de Israel",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526540400
+            },
+            {
+                "adArchiveID": "213332719301416",
+                "adid": "6090193652952",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090193650952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "En #Croatie, les villes du littoral adriatique sont une destination toujours plus pris\u00e9e des touristes. Mais les rejets des eaux us\u00e9es dans la mer, directement et sans traitement, menacent fortement l\u2019\u00e9quilibre \u00e9cologique de ce milieu, sans parler des cons\u00e9quences pour le d\u00e9veloppement \u00e9conomique ax\u00e9 sur le #tourisme. <br /> <br /> Un projet men\u00e9 de 2009 \u00e0 2015 a permis de mettre fin aux d\u00e9versements d\u2019eaux r\u00e9siduaires non trait\u00e9es et d&#039;am\u00e9liorer la surveillance de la qualit\u00e9 de l\u2019eau de mer dans les zones c\u00f4ti\u00e8res. #IDAatWork"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1530196858,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36278892_213332755968079_2607118596907728896_n.jpg?_nc_cat=0&oh=381c17a06a567eb6e5668fc548eabe5c&oe=5BF5B46F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36345195_213332752634746_7064155203922034688_n.jpg?_nc_cat=0&oh=ba1ef507b9b2dea21ea4816bcea2cdee&oe=5BF45E69"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36317545_213332735968081_8691569731724902400_n.jpg?_nc_cat=0&oh=9538ab952637ec16cd8e30ba9a4ec8d1&oe=5C0D9CCA",
+                    "is_reshared": false,
+                    "link_description": "D\u00e9sormais, les eaux r\u00e9siduaires provenant de dizaines de milliers d\u2019habitations et d\u2019entreprises du littoral ne se d\u00e9versent plus directement dans la mer.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2018/01/04/croatia-reducing-wastewater-pollution-in-sensitive-coastal-areas-of-the-adriatic-sea?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36311504_213332732634748_7506057207822155776_n.jpg?_nc_cat=0&oh=fe7b4d3bce6865f898bf88fcf24e0737&oe=5C0873CC",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "R\u00e9duire la pollution sur les c\u00f4tes de la mer Adriatique",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "204628813521462",
+                "adid": "6090192773152",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090192771152,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Le #tourisme \u00e9tant un moteur de d\u00e9veloppement \u00e9conomique, comment renforcer le secteur du tourisme dans un pays \u00e0 revenu faible? L&#039;exemple de ce projet men\u00e9 en Gambie montre l&#039;importance de la formation et de la professionalisation des futurs acteurs du tourisme."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1530196912,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36311387_204628850188125_5600429516221579264_n.jpg?_nc_cat=0&oh=0800b5b9701ff3150cf78289788dabb7&oe=5C0B3007",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36284705_204628853521458_4823409905912250368_n.jpg?_nc_cat=0&oh=53f8c212b9205cea9b73b7407d32f6b0&oe=5BEE7F34"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36283528_204628833521460_5480987119964913664_n.jpg?_nc_cat=0&oh=28138f4d8164468bbebc385d3247831a&oe=5C0A0704",
+                    "is_reshared": false,
+                    "link_description": "Entre 2011 et 2015, la Gambie a vu augmenter de 71 % le nombre de touristes venant de nouveaux pays.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2017/11/02/results-making-progress-in-the-gambias-tourism-and-horticulture-industries?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36287532_204628830188127_8358785288989835264_n.jpg?_nc_cat=0&oh=9800d8788416828316fdf60c10ff1f1f&oe=5C055ABD",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Faire progresser le tourisme en Gambie",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "2133736910204594",
+                "adid": "6090192479752",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090192477952,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Mexique: Des installations solaires centralis\u00e9es ont \u00e9t\u00e9 cr\u00e9\u00e9es dans 40 localit\u00e9s r\u00e9parties entre huit \u00c9tats, afin d\u2019alimenter en \u00e9lectricit\u00e9 des communaut\u00e9s tr\u00e8s isol\u00e9es, majoritairement autochtones et jusque-l\u00e0 priv\u00e9es d\u2019acc\u00e8s \u00e0 l\u2019\u00e9nergie \u00e0 cause des difficult\u00e9s d\u2019installation et de distribution. #IBRDatWork"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1528450734,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34714995_2133736930204592_506503637791408128_n.jpg?_nc_cat=0&oh=33755ef8865986bff7640ba5012f006f&oe=5C0BE0EB",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34887370_2133736926871259_8248330768930045952_n.jpg?_nc_cat=0&oh=f726a2426a7bb15e014a7a685df1a482&oe=5BF4B39A"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34718721_2133736923537926_7906565553874010112_n.jpg?_nc_cat=0&oh=0b7c4b577b8cec1d534dc50adee6c465&oe=5BED445B",
+                    "is_reshared": false,
+                    "link_description": "\u00c0 la cl\u00f4ture du projet, 2 235 familles avaient acc\u00e8s \u00e0 l\u2019\u00e9lectricit\u00e9 gr\u00e2ce aux 2 357 kW g\u00e9n\u00e9r\u00e9s par de nouvelles installations d\u2019\u00e9nergies renouvelables.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2017/11/01/switching-on-remote-communities-through-electricity-access-in-mexico?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34642147_2133736920204593_6040595588829937664_n.jpg?_nc_cat=0&oh=360286337a4c67b18642b38bc69bba6e&oe=5C0A6940",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Raccorder les communaut\u00e9s isol\u00e9es \u00e0 l\u2019\u00e9lectricit\u00e9",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "179987419372335",
+                "adid": "6090192455352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6090192452352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#Br\u00e9sil: Dans l\u2019\u00c9tat d\u2019Amazonas, plusieurs communaut\u00e9s sont sorties de leur isolement gr\u00e2ce \u00e0 des unit\u00e9s mobiles venues proposer des services juridiques et essentiels aux femmes."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1528827769,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35174682_179987439372333_5810125625091948544_n.jpg?_nc_cat=0&oh=8b9b92495fbb585a18db0bb73a8f537e&oe=5C0D6067",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35276093_179987436039000_6744375011626188800_n.jpg?_nc_cat=0&oh=2f015ddfa74668d45d5564b4e0b3226f&oe=5BFD85FD"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35111769_179987429372334_4249687809440350208_n.jpg?_nc_cat=0&oh=d77eab869f5d28f808abff6b5608f060&oe=5BF10997",
+                    "is_reshared": false,
+                    "link_description": "Le gouvernement de l\u2019\u00c9tat d\u2019Amazonas est parvenu \u00e0 am\u00e9liorer le recouvrement des imp\u00f4ts, implanter un syst\u00e8me de march\u00e9s publics plus efficace et transparent et investir dans une s\u00e9curit\u00e9 am\u00e9lior\u00e9e.",
+                    "link_url": "http://www.banquemondiale.org/fr/results/2017/10/19/amazonas-modernizing-public-sector-citizen-security-gender-policies?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35096067_179987426039001_1051590010479837184_n.jpg?_nc_cat=0&oh=2c4a04e668b69fb912a0a8467bd2fc92&oe=5C046280",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "S\u00e9curit\u00e9 et transparence dans l\u2019\u00c9tat d\u2019Amazonas",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "169939297193821",
+                "adid": "6108265022353",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527058800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "100593656679187",
+                "pageName": "Ctrl ControlPublicidad",
+                "snapshot": {
+                    "ad_creative_id": 6108265018353,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Putin toma el mando, Rajoy se deja llevar y Merkel refunfu\u00f1a  en un dram\u00e1tico viaje sin retorno <a href=\"https://www.facebook.com/proactivaservice/\" data-hovercard=\"/ajax/hovercard/page.php?id=111995985497928&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Proactiva Open Arms</a> <a href=\"https://www.facebook.com/publips/\" data-hovercard=\"/ajax/hovercard/page.php?id=282787854060&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Publips Serviceplan</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "controlpublicidad.com",
+                    "cards": [],
+                    "creation_time": 1528867970,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Ctrl ControlPublicidad",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35235870_169939317193819_8361632177997217792_n.jpg?_nc_cat=0&oh=caa9bb1aad60fcee8716a186d0b93c79&oe=5BF55E1B",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35193587_169939320527152_2888944743029407744_n.jpg?_nc_cat=0&oh=62fdb3113a62d58822429ab71e83cb12&oe=5BF14EF3"
+                        }
+                    ],
+                    "instagram_actor_name": "Ctrl ControlPublicidad",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35219754_169939307193820_5222602561747419136_n.jpg?_nc_cat=0&oh=e80b216163d7c114c0622a037da23cce&oe=5C396045",
+                    "is_reshared": false,
+                    "link_description": "La ONG Proactiva Open Arms y la agencia de publicidad Publips-Serviceplan lanzan un campa\u00f1a gr\u00e1fica que muestra a Vladimir Putin, Donald Trump, Mariano ...",
+                    "link_url": "http://controlpublicidad.com/proactiva-open-arms-muestra-a-los-lideres-mundiales-en-patera/",
+                    "page_categories": {
+                        "191684877517919": "Topic Publisher"
+                    },
+                    "page_id": 100593656679187,
+                    "page_is_deleted": false,
+                    "page_like_count": 33880,
+                    "page_name": "Ctrl ControlPublicidad",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35243387_169939310527153_2829611414807642112_n.jpg?_nc_cat=0&oh=b23b198c6d7fbe0f24d13e86b87ce0fe&oe=5BFCAF4C",
+                    "page_profile_uri": "https://www.facebook.com/ctrl.controlpublicidad/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "#Vengandedondevengan: l\u00edderes mundiales en patera, Campa\u00f1as en ControlPublicidad.com",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1526454000
+            },
+            {
+                "adArchiveID": "2067637680185789",
+                "adid": "23842867498750514",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "127789930632668",
+                "pageName": "Conectas Direitos Humanos",
+                "snapshot": {
+                    "ad_creative_id": "23842867498660514",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Migrar \u00e9 direito e acolher \u00e9 humano. Quando uma pessoa \u00e9 obrigada abandonar seu pa\u00eds, precisa ser recebida com dignidade. Ajude-nos a continuar lutando pelos direitos de mais migrantes."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "doe.conectas.org",
+                    "cards": [],
+                    "creation_time": 1528818699,
+                    "cta_text": "Donate Now",
+                    "cta_type": "Doar agora",
+                    "current_page_name": "Conectas Direitos Humanos",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Conectas Direitos Humanos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35096116_2067637686852455_4806750573879623680_n.jpg?_nc_cat=0&oh=e388fc49db629551deb1eb8efe23d62a&oe=5C03CF56",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://doe.conectas.org/",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 127789930632668,
+                    "page_is_deleted": false,
+                    "page_like_count": 178155,
+                    "page_name": "Conectas Direitos Humanos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35223668_2067637690185788_420514660198907904_n.jpg?_nc_cat=0&oh=252dd23038d01833855f6cdcd891f60b&oe=5C045447",
+                    "page_profile_uri": "https://www.facebook.com/conectas/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Migrar \u00c9 Direito",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243565939721174_1899450755534815232_n.mp4?_nc_cat=0&oh=64ae8893e7ed23037c1d69d2d4501294&oe=5B79D265",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35142568_2067637700185787_1639244332319899648_n.jpg?_nc_cat=0&oh=9593ba2ac833f4fe935b78f3a49131ac&oe=5BF49383",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/32455231_208331799971827_1947974175058558976_n.mp4?_nc_cat=0&oh=33ee3053126ff1aa791089b69653e2ff&oe=5B79CD83"
+                        }
+                    ]
+                },
+                "startDate": 1526281200
+            },
+            {
+                "adArchiveID": "206149300259222",
+                "adid": "6089079253900",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527231600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "876960479015497",
+                "pageName": "El Violin Latino",
+                "snapshot": {
+                    "ad_creative_id": 6089079188700,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Los So\u00f1adores/Dreamers Video Premiere!<br /> <br /> I am so proud and happy to present this great video by my friend and producer Richie Bri\u00f1ez. I want to thank Yumaria Grijt, vocalist and lyricist, and the amazing musicians involved in the project: John Benitez (acoustic bass), Louie Bauzo (percussion), Klaus Mueller (piano), Ludwig Afonso (drums), and Jerome Goldschmidt (percussion).<br /> <br /> Special thanks to all the photographers who granted us permission to use their photos in the video. I am also grateful to Marcella Joya for her great pictures from the studio and her help with the text about the video.<br /> <br /> #Dreamers #DACA #LosSo\u00f1adores #ElViolinLatino"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534541195,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "El Violin Latino",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Los So\u00f1adores/Dreamers\n\nHow did Gregor Huebner, a German composer, and violinist of contemporary music, fall in love with Latin Music, and bring El Viol\u00edn Latino to life? Blame it on Johnny Almendra, a Brooklyn born percussionist and bandleader, who hired him to play with his hip Salsa band, Los J\u00f3venes del Barrio. This was in 1995, around the time Gregor decided to move to New York City.\n\nFor his album EL Viol\u00edn Latino Vol. 3, Gregor composed a song titled \"Los So\u00f1adores/Dreamers\u201d. The song pays homage to the young adults who immigrated to the United States as little children but remain out of status \u2014no human being is illegal. Under the Trump administration there is great risk of deportation. \n\nYumaria Grijt, vocalist and lyricist, traveled to New York from Curacao (her native land and where she still resides) for the recording session with El Viol\u00edn Latino. Yumaria learned to speak Spanish, as a little girl, by watching Venezuelan telenovelas (soap operas) with her grandmother. As a result, she is able to sing fluently in English and Spanish. The same languages that many DREAMers speak.\n\nAs I was filming the recording session and heard Yumarya Grijt singing the lyrics she wrote, I felt there was a story we needed to share; and I felt an urgent need to shout our support for the young immigrants. This video represents our shout to all who might not know what DACA is or what a DREAMer means to this country. It is our hope that the message resonates with you.\n\nThe other musicians involved in the project are: John Benitez (acoustic bass), Louie Bauzo (percussion), Klaus Mueller (piano), Ludwig Afonso (drums), and Jerome Goldschmidt (percussion).\n\nI am immensely thankful to all the great photographers who permitted use of their work for this cause. And I am elated with my involvement.",
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 876960479015497,
+                    "page_is_deleted": false,
+                    "page_like_count": 401,
+                    "page_name": "El Violin Latino",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34101368_1387314261369657_2260978558228758528_n.jpg?_nc_cat=0&oh=3b413768e12a7c7200e4ec963a6becda&oe=5BEEB02C",
+                    "page_profile_uri": "https://www.facebook.com/elviolinlatino/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_624743351206358_7111473558701735936_n.mp4?_nc_cat=0&oh=0706692c9b1185344f5b7b5e3e97b0d8&oe=5B79CE94",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34121685_1387314264702990_6716837266167169024_n.jpg?_nc_cat=0&oh=8658794269c153911f1177e7db39665e&oe=5BF1E38F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2136727303226362_6621071220727087104_n.mp4?_nc_cat=0&oh=8214148daeb7984d9e5d932da77fd22d&oe=5B79CE2C"
+                        }
+                    ]
+                },
+                "startDate": 1526022000
+            },
+            {
+                "adArchiveID": "2129946750659737",
+                "adid": "6089078682700",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527490800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "137866919672782",
+                "pageName": "Gregor Huebner",
+                "snapshot": {
+                    "ad_creative_id": 6089078672300,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Los So\u00f1adores/Dreamers Video Premiere!<br /> <br /> I am so proud and happy to present this great video by my friend and producer Richie Bri\u00f1ez. I want to thank Yumaria Grijt, vocalist and lyricist, and the amazing musicians involved in the project: John Benitez (acoustic bass), Louie Bauzo (percussion), Klaus Mueller (piano), Ludwig Afonso (drums), and Jerome Goldschmidt (percussion).<br /> <br /> Special thanks to all the photographers who granted us permission to use their photos in the video. I am also grateful to Marcella Joya for her great pictures from the studio and her help with the text about the video.<br /> <br /> #Dreamers #DACA #LosSo\u00f1adores #ElViolinLatino"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534541073,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Gregor Huebner",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Los So\u00f1adores/Dreamers\n\nHow did Gregor Huebner, a German composer, and violinist of contemporary music, fall in love with Latin Music, and bring El Viol\u00edn Latino to life? Blame it on Johnny Almendra, a Brooklyn born percussionist and bandleader, who hired him to play with his hip Salsa band, Los J\u00f3venes del Barrio. This was in 1995, around the time Gregor decided to move to New York City.\n\nFor his album EL Viol\u00edn Latino Vol. 3, Gregor composed a song titled \"Los So\u00f1adores/Dreamers\u201d. The song pays homage to the young adults who immigrated to the United States as little children but remain out of status \u2014no human being is illegal. Under the Trump administration there is great risk of deportation. \n\nYumaria Grijt, vocalist and lyricist, traveled to New York from Curacao (her native land and where she still resides) for the recording session with El Viol\u00edn Latino. Yumaria learned to speak Spanish, as a little girl, by watching Venezuelan telenovelas (soap operas) with her grandmother. As a result, she is able to sing fluently in English and Spanish. The same languages that many DREAMers speak.\n\nAs I was filming the recording session and heard Yumarya Grijt singing the lyrics she wrote, I felt there was a story we needed to share; and I felt an urgent need to shout our support for the young immigrants. This video represents our shout to all who might not know what DACA is or what a DREAMer means to this country. It is our hope that the message resonates with you.\n\nThe other musicians involved in the project are: John Benitez (acoustic bass), Louie Bauzo (percussion), Klaus Mueller (piano), Ludwig Afonso (drums), and Jerome Goldschmidt (percussion).\n\nI am immensely thankful to all the great photographers who permitted use of their work for this cause. And I am elated with my involvement.",
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 137866919672782,
+                    "page_is_deleted": false,
+                    "page_like_count": 688,
+                    "page_name": "Gregor Huebner",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33584314_231340580957424_843136143590424576_n.jpg?_nc_cat=0&oh=604756765d6040cf93e97299bb49dd17&oe=5BF3B61D",
+                    "page_profile_uri": "https://www.facebook.com/GregorHuebnerViolin/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Status Update",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_624743351206358_7111473558701735936_n.mp4?_nc_cat=0&oh=0706692c9b1185344f5b7b5e3e97b0d8&oe=5B79CE94",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/33675572_231340587624090_8884424238740537344_n.jpg?_nc_cat=0&oh=5bed2363335e1d1c9c1d6023e26a2795&oe=5BFD4E77",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_2136727303226362_6621071220727087104_n.mp4?_nc_cat=0&oh=8214148daeb7984d9e5d932da77fd22d&oe=5B79CE2C"
+                        }
+                    ]
+                },
+                "startDate": 1526022000
+            },
+            {
+                "adArchiveID": "174506896553362",
+                "adid": "23842764500560742",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1858817817683851",
+                "pageName": "BahaiTeachings Spanish",
+                "snapshot": {
+                    "ad_creative_id": "23842763695190742",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Descubriendo la libertad y la democracia a trav\u00e9s de una perspectiva Bah\u00e1&#039;\u00ed.<br /> \u00a1Comparte!<br /> &quot;Todo lo que sobrepase los l\u00edmites de la moderaci\u00f3n dejar\u00e1 de ejercer una influencia beneficiosa. Examinad, por ejemplo, ideas como la libertad, la civilizaci\u00f3n y otras similares. Por muy favorablemente que los hombres de entendimiento las consideren, si son llevadas al exceso, ejercer\u00e1n una influencia perniciosa sobre los hombres.\u201d<br /> <br /> #fe #febahai #libertad #democracia #moderacion #humanidad #servicio #desarollo"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "bahaiteachings.org",
+                    "cards": [],
+                    "creation_time": 1529111652,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "BahaiTeachings Spanish",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35146683_245444819562837_4066051234249834496_n.jpg?_nc_cat=0&oh=f55dd3bf5312e9ee4d97c90f84be8484&oe=5BFE0B24",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35320704_245444816229504_6914883177462890496_n.jpg?_nc_cat=0&oh=41cead2947315ecfcb3ea72094edcab5&oe=5BF56E0B"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Estaba leyendo un editorial el otro d\u00eda que se lamentaba del hecho que el orden liberal democr\u00e1tico parec\u00eda estar retir\u00e1ndose mundialmente y que la dictadura, o formas m\u00e1s autoritarias de...",
+                    "link_url": "https://buff.ly/2FEdjiy",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 1858817817683851,
+                    "page_is_deleted": false,
+                    "page_like_count": 5514,
+                    "page_name": "BahaiTeachings Spanish",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35361812_245444809562838_7543569692703588352_n.jpg?_nc_cat=0&oh=270cd2cbcb90943490e121ecd7c98984&oe=5C071345",
+                    "page_profile_uri": "https://www.facebook.com/BahaiTeachingsSpanish/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Descubriendo la Libertad y la Democracia",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1525417200
+            },
+            {
+                "adArchiveID": "663607407310599",
+                "adid": "6088732814352",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1527836400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6088732812552,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Depuis 15 ans, le #Maroc a r\u00e9alis\u00e9 des progr\u00e8s importants sur le plan de l\u2019\u00e9conomie et du d\u00e9veloppement. Son PIB par habitant a augment\u00e9 de 3,2% en moyenne. La #jeunesse est une source \u00e0 la fois d&#039;opportunit\u00e9s et de pressions suppl\u00e9mentaires sur l\u2019\u00e9conomie. Comment cr\u00e9er des emplois pour les 300 000 jeunes qui se pr\u00e9sentent chaque ann\u00e9e sur le march\u00e9 du travail?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "banquemondiale.org",
+                    "cards": [],
+                    "creation_time": 1528663400,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34563515_663607423977264_2299370673887248384_n.jpg?_nc_cat=0&oh=d44d324983d1f60040276b567a5cec7f&oe=5BFA7522",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/34954227_663607420643931_6025198186908352512_n.jpg?_nc_cat=0&oh=c1142dd6c513bfb0720b2c6dcde94a51&oe=5BECFFCF"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34954688_663607413977265_6827258298366951424_n.jpg?_nc_cat=0&oh=cdfaab9cd93594964c2e2a7c081c93f2&oe=5C015781",
+                    "is_reshared": false,
+                    "link_description": "En collaboration avec le Haut-commissariat au Plan du Maroc, la Banque mondiale a publi\u00e9 en 2017 un rapport intitul\u00e9 Le march\u00e9 du travail au Maroc : d\u00e9fis et opportunit\u00e9s qui examine l\u2019\u00e9volution du march\u00e9 du travail marocain et sa contribution \u00e0 la c",
+                    "link_url": "http://www.banquemondiale.org/fr/country/morocco/publication/labor-market-in-morocco-challenges-and-opportunities?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35048819_663607417310598_8096970945983414272_n.jpg?_nc_cat=0&oh=b4b3880ba3a3064e3cc816a7b7777c9f&oe=5C0516B7",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Le march\u00e9 du travail au Maroc : d\u00e9fis et opportunit\u00e9s",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1524726000
+            },
+            {
+                "adArchiveID": "606915546334205",
+                "adid": "6112330280457",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "46847613149",
+                "pageName": "iAgua.es",
+                "snapshot": {
+                    "ad_creative_id": 6112330278657,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Entrevistamos a Teresa Ribera, probablemente, la mayor experta sobre cambio clim\u00e1tico en Espa\u00f1a \ud83d\udd25<br /> <br /> Lee el texto completo tambi\u00e9n en iAgua Magazine 18: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.iagua.es%2Fmagazine%2F18&amp;h=AT1dWjCjYgKlzQ7t6FSLtIwQ_Md6jg80toS6hceZjUSG983xEIRoIG-_CYOb7wFaIg5Jk4kCMFS6U14D-MhsAYtjWvXW32l1riptoJHqyUMp3Kw0ajRTTOVhv_2fmF-YsIJ57X_a6wU\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://www.iagua.es/magazine/18</a> \ud83d\udcf0"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "iagua.es",
+                    "cards": [],
+                    "creation_time": 1530100845,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "iAgua.es",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36285959_606915569667536_3581084576820232192_n.jpg?_nc_cat=0&oh=73a379b783fc79f46fbae403007117f1&oe=5BFF470C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36324070_606915566334203_1336942505140158464_n.jpg?_nc_cat=0&oh=743085390f2a6e8dabf5a7aa45f3966e&oe=5C02E202"
+                        }
+                    ],
+                    "instagram_actor_name": "iAgua.es",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36247285_606915559667537_4173975116629147648_n.jpg?_nc_cat=0&oh=be8760573485b3610d177ed815bd8dd5&oe=5BF077ED",
+                    "is_reshared": false,
+                    "link_description": "No es habitual encontrar en Espa\u00f1a expertos en cambio clim\u00e1tico al nivel de Teresa Ribera (Madrid, 1969). Su conocimiento de los mecanismos de actuaci\u00f3n...",
+                    "link_url": "https://www.iagua.es/noticias/iddri/teresa-ribera-agua-es-elementos-criticos-escenarios-cambio-climatico",
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 46847613149,
+                    "page_is_deleted": false,
+                    "page_like_count": 282992,
+                    "page_name": "iAgua.es",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36302283_606915556334204_4268894417856757760_n.jpg?_nc_cat=0&oh=52f06e9e7eb6c33a04ef0510ee99951a&oe=5BF515E7",
+                    "page_profile_uri": "https://www.facebook.com/iagua.es/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Teresa Ribera: \"El agua es uno de los elementos cr\u00edticos en escenarios de cambio clim\u00e1tico\"",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1523602800
+            },
+            {
+                "adArchiveID": "2056596177707658",
+                "adid": "6103210585825",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1528441200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1455107038036367",
+                "pageName": "Mujer Imperfecta",
+                "snapshot": {
+                    "ad_creative_id": 6103210582625,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Una de las cosas que m\u00e1s defiendo, y que promulgo desde que Cristo lleg\u00f3 a mi vida, es la pureza sexual, no solo porque es un Mandamiento Divino, sino porque las bendiciones que siguen al sacrificio de haberse mantenido en santidad para Dios, mi Se\u00f1or, son inmensamente grandes y no tienen comparaci\u00f3n."
+                        }
+                    },
+                    "body_translations": {
+                        "bg_BG": "\u0435\u0434\u043d\u043e \u043e\u0442 \u043d\u0435\u0449\u0430\u0442\u0430, \u043a\u043e\u0438\u0442\u043e \u0437\u0430\u0449\u0438\u0442\u0430\u0432\u0430\u043c \u043d\u0430\u0439-\u043c\u043d\u043e\u0433\u043e, \u0438 \u043a\u043e\u0435\u0442\u043e \u043e\u0431\u043d\u0430\u0440\u043e\u0434\u0432\u0430\u043d \u043e\u0442\u043a\u0430\u043a\u0442\u043e \u0445\u0440\u0438\u0441\u0442\u043e\u0441 \u0432\u043b\u0435\u0437\u0435 \u0432 \u0436\u0438\u0432\u043e\u0442\u0430 \u043c\u0438, \u0435 \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u043d\u0430 \u0447\u0438\u0441\u0442\u043e\u0442\u0430, \u043d\u0435 \u0441\u0430\u043c\u043e \u0437\u0430\u0449\u043e\u0442\u043e \u0435 \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u0430 \u0437\u0430\u043f\u043e\u0432\u0435\u0434, \u0430 \u0437\u0430\u0449\u043e\u0442\u043e \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0438\u0438\u0442\u0435, \u043a\u043e\u0438\u0442\u043e \u0441\u043b\u0435\u0434\u0432\u0430\u0442 \u0441\u0430\u043c\u043e\u0436\u0435\u0440\u0442\u0432\u0430\u0442\u0430 \u043d\u0430 \u0434\u0430 \u0432 \u0441\u0432\u044f\u0442\u043e\u0441\u0442 \u0437\u0430 \u0431\u043e\u0433\u0430, \u043c\u0438\u043b\u043e\u0440\u0434, \u0442\u0435 \u0441\u0430 \u0438\u0437\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u043d\u043e \u0433\u043e\u043b\u0435\u043c\u0438 \u0438 \u043d\u0435 \u043c\u043e\u0433\u0430\u0442 \u0434\u0430 \u0441\u0435 \u0441\u0440\u0430\u0432\u043d\u044f\u0432\u0430\u0442.",
+                        "de_DE": "Eines der Dinge, die ich am meisten verteidige und seit Christus in mein Leben kam, ist die sexuelle Reinheit, nicht nur, weil es ein g\u00f6ttliches Gebot ist, sondern weil die Segnungen, die dem Opfer folgen, in Heiligkeit f\u00fcr Gott gehalten zu werden, mein Herr. .",
+                        "en_XX": "One of the things I defend most, and which promulgated since Christ came into my life, is sexual purity, not just because it is a divine commandment, but because the blessings that follow the sacrifice of having kept in holiness for God, my Lord , they are immensely large and have no comparison.",
+                        "zh_TW": "\u6211\u6700\u634d\u885b\u7684\u4e8b\u60c5\u4e4b\u4e00, \u5f9e\u57fa\u7763\u9032\u5165\u6211\u7684\u751f\u547d\u4e2d\u9812\u5e03\u7684, \u662f\u6027\u7d14\u6f54, \u4e0d\u53ea\u662f\u56e0\u70ba\u5b83\u662f\u795e\u8056\u7684\u547d\u4ee4, \u800c\u662f\u56e0\u70ba\u4e0a\u5e1d\u7684\u795d\u798f, \u800c\u72a7\u7272\u4e86\u70ba\u4e0a\u5e1d\u7684\u795e\u8056, \u6211\u7684\u4e3b, \u5b83\u5011\u662f\u5de8\u5927\u7684, \u6c92\u6709\u6bd4\u8f03."
+                    },
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528322124,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Mujer Imperfecta",
+                    "disclaimer_label": null,
+                    "display_format": "text",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 1455107038036367,
+                    "page_is_deleted": false,
+                    "page_like_count": 242095,
+                    "page_name": "Mujer Imperfecta",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34435767_2056596197707656_1066007403943690240_n.jpg?_nc_cat=0&oh=cf6d5f35d945b483899d5a88ea721a85&oe=5C04526C",
+                    "page_profile_uri": "https://www.facebook.com/estrellaisabel.es/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1521788400
+            },
+            {
+                "adArchiveID": "407620966402643",
+                "adid": "23842815188640614",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "227622537655549",
+                "pageName": "CGTN en Espa\u00f1ol",
+                "snapshot": {
+                    "ad_creative_id": "23842815188380614",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00a1Dejen sus preguntas y haremos una serie de programas para uestedes!<br /> <br /> Este a\u00f1o 2018, #China celebra el 40\u00ba aniversario de la Pol\u00edtica de Reforma y Apertura. La reforma y apertura de China iniciada en 1978 ha sido uno de los acontecimientos m\u00e1s importantes en el siglo XX, y los \u00e9xitos logrados en los \u00faltimos 40 a\u00f1os han mostrado la capacidad y el nivel administrativos del Partido Comunista de China (PCCh). Con el motivo de este festejo, en CGTN en Espa\u00f1ol plantearemos una serie de v\u00eddeos especial para responder sus preguntas sobre los avances que ha logrado China en los \u00faltimos 40 a\u00f1os. Las preguntas pueden ser detalladas y de cualquier campo, por ejemplo del desarrollo de la econom\u00eda china, de la construcci\u00f3n de infraestructuras, de la concienciaci\u00f3n ecol\u00f3gica, de los megaproyectos de China, del desarrollo de la ciencia y la tecnolog\u00eda, de la actuaci\u00f3n de la sociedad china, etc. Es por eso que les invitamos a que dejen sus preguntas sobre cualquier aspecto que quieran saber sobre China en los \u00faltimos 40 a\u00f1os. #ReformayApertura"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530606714,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "CGTN en Espa\u00f1ol",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36608729_214800266007232_6544403305714417664_n.jpg?_nc_cat=0&oh=89dd977c361f55acdf81a7cd4e3ea6d2&oe=5BF3BF93",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36561014_214800269340565_615750181119328256_n.jpg?_nc_cat=0&oh=fd092bc5e0dcdd0ac4c22118b3f358e7&oe=5C058C50"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36611938_214800262673899_330510128702816256_n.jpg?_nc_cat=0&oh=40ed1525326c54928ae4f8202244fe40&oe=5C0F48B5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36512382_214800259340566_1788602893780123648_n.jpg?_nc_cat=0&oh=1cb71fec2c6fa62d335cde378d153989&oe=5BFE13FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36533255_214800239340568_4600934967961190400_n.jpg?_nc_cat=0&oh=021ec0da5b03114eb688ad71172e3638&oe=5BF02469",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36543880_214800252673900_6221783706244218880_n.jpg?_nc_cat=0&oh=dd4cf13762ab61f4e4bea0f5e95264f1&oe=5C0B0B44"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36516503_214800246007234_3324823003757281280_n.jpg?_nc_cat=0&oh=79a31358283bf0c2f489729102c0003c&oe=5C3AFB3A",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36488141_214800272673898_4053880452279173120_n.jpg?_nc_cat=0&oh=89f5868846ebccc518befcd6593741e1&oe=5BF2D356"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36542257_214800242673901_5885813445747539968_n.jpg?_nc_cat=0&oh=3bbb58b61e1a9ba910b6dd2b10442038&oe=5C002BB6",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36570351_214800236007235_7551059389818339328_n.jpg?_nc_cat=0&oh=385564dc8fad24beba7317bd2a14ccb5&oe=5BF07D07"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36546885_214800249340567_3078620501799600128_n.jpg?_nc_cat=0&oh=e501972117fb8a552489cabc06259ff7&oe=5BF03A4D",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36548411_214800256007233_8955881692703227904_n.jpg?_nc_cat=0&oh=05f470860678f42a874257889a2f8ca0&oe=5C3AEA55"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2233": "Media News Company"
+                    },
+                    "page_id": 227622537655549,
+                    "page_is_deleted": false,
+                    "page_like_count": 13870708,
+                    "page_name": "CGTN en Espa\u00f1ol",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36540895_214800222673903_5198289980245409792_n.jpg?_nc_cat=0&oh=489a82c730fcdf6c82b1c21ea2b61630&oe=5C38D883",
+                    "page_profile_uri": "https://www.facebook.com/cgtnenespanol/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1521442800
+            },
+            {
+                "adArchiveID": "246772182565014",
+                "adid": "6091351039991",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "123110834423768",
+                "pageName": "Patrick Moore",
+                "snapshot": {
+                    "ad_creative_id": 6091351039391,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "&quot;I Pledge&quot;  by <a href=\"https://www.facebook.com/1patrickmoore\" data-hovercard=\"/ajax/hovercard/user.php?id=608744092&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Patrick Moore</a><br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fpatrick-moore-pm%2Fsets%2Fmoorefreemp3&amp;h=AT0lDZCmDkJx-sRxRTFjyaxzZQVMCnVJZg2ybgfa-ObLgR3QEErL5YOoKRcws66mpZUMZ8NyOwWpUKUJlPEoJFJ2lg2iGkxtw7L1_Xr_ht2iXYHR0zdupkiVNhwsoXQXlYltJDNWokI\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://soundcloud.com/patrick-moore-pm/sets/moorefreemp3</a><br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.patrickmoore.com%2F&amp;h=AT2p89l2eKpM8beXXdAGayvlBZB0U6KQPUsKkeSgHVc4GLp7Kse3q-VHSZXQPiDhmCkYC8tCDNorlF_LJMzq52nQ80twhSBpkX8U5oggii7rTR6wtwGw8mUz1n2okDe6FieyJ3C3vus\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.patrickmoore.com</a><br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.patrickmoore.com%2Ffeatured-music-videos.html&amp;h=AT1DlcIfmAhpZQgZ9LhkumBY3JbK7QK8hRORlXA10j51EiGOj7t2tcl09QUMaq5W7azg1ZHZ2Eh1lmiTJIPRu8L57JxLCYzYyZXRKncWIpGrt6h-nXSJjZU2kDtviK-OSSReAYtU5Cg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.patrickmoore.com/featured-music-videos.html</a><br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.patrickmoore.com%2Flouisville-late-night-interviews.html&amp;h=AT3a8pthJ6vNswATK8LZoR1gkwSI4soj6zZzYUb4G--l5ietDFCeysKQvFHlj4XIDTi9CR25qm2mufGo03C-n4OIvYRB9onO_SZj0EuVrbtf_5d6NcAa8MMgpodty6Cnw6YsZvbgxok\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.patrickmoore.com/louisville-late-night-interviews.html</a><br /> <br /> \u201c&#039;I Pledge\u2019  allegiance to a World in which All people share the same rights to life, liberty &amp; pursuit of happiness!\u201d - patrick moore 11/11/16<br /> \u201cW\u01d2 ch\u00e9ngnu\u00f2\u201d zh\u014dngch\u00e9ng y\u00fa y\u012bg\u00e8 sh\u00ecji\u00e8, su\u01d2y\u01d2u r\u00e9n d\u014du xi\u01cengy\u01d2u sh\u0113ngm\u00ecng, z\u00ecy\u00f3u h\u00e9 zhu\u012bqi\u00fa x\u00ecngf\u00fa de xi\u0101ngt\u00f3ng qu\u00e1nl\u00ec \u201c - patrick moore 11/11/16<br /> &quot;Eu prometo&quot; alian\u00e7a a um mundo no qual todas as pessoas compartilham os mesmos direitos \u00e0 vida, \u00e0 liberdade e \u00e0 busca da felicidade! &quot;- patrick moore 11/11/16<br /> &quot;duniya ke lie main shapath nishtha, jisamen sabhee logon ko jeevan, svaadheenata aur khushee ka peechha karane ke lie ek hee adhikaar ka hissa!&quot; - paitrik moor 11/11/16<br /> &quot; &#039;Prometo&#039; lealtad a un mundo en el que todas las personas comparten los mismos derechos a la vida, la libertad y la b\u00fasqueda de la felicidad!&quot; - patrick moore 11/11/16<br /> &quot;Vernost&#039;&quot; YA zaveryayu &quot;v mir, v kotorom vse lyudi imeyut odinakovyye prava na zhizn&#039;, svobodu i stremleniye k schast&#039;yu!&quot; - Murom 11/11/16 patrik<br /> &quot;Kesetiaan&quot; Aku Ikrar &#039;ke Dunia di mana Semua orang berbagi hak yang sama untuk hidup, kebebasan &amp; mengejar kebahagiaan! &quot;- Patrick moore 11/11/16<br /> \u00abJe jure\u00bb all\u00e9geance \u00e0 un monde dans lequel tous les gens partagent les m\u00eames droits \u00e0 la vie, la libert\u00e9 et la poursuite du bonheur! \u00bb- patrick moore 11/11/16<br /> &quot;Ich gelobe die Treue zu einer Welt, in der alle Menschen das gleiche Recht auf Leben, Freiheit und das Streben nach Gl\u00fcck teilen&quot; - Patrick Moore 11/11/16<br /> <br /> (That being said...)<br /> <br /> &quot;I Pledge&quot;   by Patrick Moore<br /> <br /> What d\u2019ya say,                                                                                                                                                                     what will it be?                                                                                                                                                                      Heaven on earth,                                                                                                                                                                 or catastrophe?<br /> <br /> Soon we will morph,                                                                                                                                                           into one upon earth \u2013<br /> mother of all,                                                                                                                                                                   home of our birth!<br /> <br /> Soon every nation,                                                                                                                                                           toss in the sword.<br /> Global pro army,                                                                                                                                                                can settle the score.<br /> <br /> Soon every nation,                                                                                                                                                            toss in the sword.<br /> Global pro army,                                                                                                                                                                can settle the score.<br /> <br /> Soon every conflict,                                                                                                                                                        cuttin\u2019 us short \u2013<br /> new resolution,                                                                                                                                                                 from our new world court.<br /> <br /> Soon every nation,                                                                                                                                                        shrink into states \u2013  <br /> powerful partners,                                                                                                                                                   regenerate!<br /> <br /> Soon every human,                                                                                                                                                        wake up to the whole \u2013<br /> as brother an\u2019 sister,                                                                                                                                                           we let it all go.<br />        <br /> Soon every human, <br /> wake up to the whole \u2013<br /> as brother an\u2019 sister,                                                                                                                                                           we let it all go.<br /> <br /> i pledge allegiance to the earth!<br /> i pledge allegiance to the earth!<br /> i pledge allegiance to the sun \u2013<br /> here we go now kingdom come!<br /> <br /> &quot;I Pledge&quot; de Patrick Moore<br /> <br /> \u00bfQu\u00e9 dices, qu\u00e9 ser\u00e1? \u00bfEl cielo en la tierra, o la cat\u00e1strofe?<br /> <br /> Pronto nos transformaremos en uno sobre la tierra -<br /> Madre de todos, hogar de nuestro nacimiento!<br /> <br /> Pronto cada naci\u00f3n, lanzar en la espada.<br /> Global pro ej\u00e9rcito, puede resolver la puntuaci\u00f3n.<br /> <br /> Pronto cada naci\u00f3n, lanzar en la espada.<br /> Global pro ej\u00e9rcito, puede resolver la puntuaci\u00f3n.<br /> <br /> Pronto cada conflicto, cuttin &#039;nosotros corto -<br /> Nueva resoluci\u00f3n, de nuestra nueva corte mundial.<br /> <br /> Pronto cada naci\u00f3n, encogerse en los estados -<br /> Socios poderosos, regenerar!<br /> <br /> Pronto cada ser humano, despierta al todo -<br /> Como hermano y hermana, lo dejamos todo ir.<br /> <br /> Pronto cada ser humano, despierta al todo -<br /> Como hermano y hermana, lo dejamos todo ir.<br /> <br /> \u00a1Prometo lealtad a la tierra!<br /> \u00a1Prometo lealtad a la tierra!<br /> Prometo lealtad al sol -<br /> Aqu\u00ed vamos ahora reino venido!<br /> <br /> \u201cW\u01d2 ch\u00e9ngnu\u00f2\u201d t\u014dnggu\u00f2 Patrick Moore<br /> <br /> sh\u00e9nme d&#039;ya shu\u014d, t\u0101 hu\u00ec sh\u00ec sh\u00e9nme? D\u00ecqi\u00fa sh\u00e0ng de ti\u0101nt\u00e1ng, h\u00e1ish\u00ec z\u0101in\u00e0n?<br /> <br /> H\u011bn ku\u00e0i w\u01d2men ji\u0101ng bi\u00e0n sh\u0113n, ch\u00e9ngw\u00e9i y\u012bg\u00e8 z\u00e0i d\u00ecqi\u00fa sh\u00e0ng - <br /> m\u01d4q\u012bn de su\u01d2y\u01d2u, ji\u0101 de w\u01d2men de d\u00e0nsh\u0113ng!<br /> <br /> H\u011bn ku\u00e0i, m\u011bi g\u00e8 gu\u00f3ji\u0101, z\u00e0i ji\u00e0n l\u01d0 zh\u0113teng.<br /> Qu\u00e1nqi\u00fa zhu\u0101ny\u00e8 j\u016bndu\u00ec, k\u011by\u01d0 ji\u011bju\u00e9 f\u0113nsh\u00f9.<br /> <br /> H\u011bn ku\u00e0i, m\u011bi g\u00e8 gu\u00f3ji\u0101, z\u00e0i ji\u00e0n l\u01d0 zh\u0113teng.<br /> Qu\u00e1nqi\u00fa zhu\u0101ny\u00e8 j\u016bndu\u00ec, k\u011by\u01d0 ji\u011bju\u00e9 f\u0113nsh\u00f9.<br /> <br /> H\u011bn ku\u00e0i, m\u011bi y\u012bg\u00e8 ch\u014dngt\u00fa,<br /> x\u012bn de ju\u00e9y\u00ec, c\u00f3ng w\u01d2men x\u012bn de sh\u00ecji\u00e8 f\u01ceyu\u00e0n.<br /> <br /> H\u011bn ku\u00e0i, m\u011bi g\u00e8 gu\u00f3ji\u0101, su\u014dxi\u01ceo d\u00e0o gu\u00f3ji\u0101 - <br /> qi\u00e1ngd\u00e0 de h\u00e9zu\u00f2 hu\u01d2b\u00e0n, z\u00e0ish\u0113ng!<br /> <br /> H\u011bn ku\u00e0i, m\u011bi g\u00e8r\u00e9n, x\u01d0ng l\u00e1i zh\u011bngg\u00e8 - <br /> zu\u00f2w\u00e9i xi\u014dngd\u00ec de y\u012bg\u00e8 ji\u011bji\u011b, w\u01d2men r\u00e0ng t\u0101 y\u012bqi\u00e8 d\u014du z\u01d2ule.<br /> <br /> H\u011bn ku\u00e0i, m\u011bi g\u00e8r\u00e9n, x\u01d0ng l\u00e1i zh\u011bngg\u00e8 - <br /> zu\u00f2w\u00e9i xi\u014dngd\u00ec de y\u012bg\u00e8 ji\u011bji\u011b, w\u01d2men r\u00e0ng t\u0101 y\u012bqi\u00e8 d\u014du z\u01d2ule.<br /> <br /> W\u01d2 xu\u0101nsh\u00ec xi\u00e0ozh\u014dng y\u00fa d\u00ecqi\u00fa!<br /> W\u01d2 xu\u0101nsh\u00ec xi\u00e0ozh\u014dng y\u00fa d\u00ecqi\u00fa!<br /> W\u01d2 xu\u0101nsh\u00ec xi\u00e0ozh\u014dng t\u00e0iy\u00e1ng -"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1528388860,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Patrick Moore",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Patrick Moore",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34779121_246772192565013_5249145244888334336_n.jpg?_nc_cat=0&oh=10ed2249acf94e87aca275dba8482e51&oe=5BEE9B8A",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 123110834423768,
+                    "page_is_deleted": false,
+                    "page_like_count": 25743,
+                    "page_name": "Patrick Moore",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34658200_246772189231680_1236921212261629952_n.jpg?_nc_cat=0&oh=185acf5fded531a575cd2d674c6b06c6&oe=5C0924F8",
+                    "page_profile_uri": "https://www.facebook.com/moorepatrickmoore/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\"I Pledge\" by Patrick Moore",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t43.1792-2/15010051_1236789026394020_3988908858494943232_n.mp4?_nc_cat=0&oh=1b5b814ae436c5ca5e18ee981475e1ca&oe=5B79E7D7",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34788036_246772212565011_2387455135958695936_n.jpg?_nc_cat=0&oh=01fd079105287806678b627dd4c6dc7b&oe=5C076FCB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.1790-2/15031055_190549834729934_2717504586469343232_n.mp4?_nc_cat=0&oh=372f317347fa9e19da51e315b3b2d32c&oe=5B79E850"
+                        }
+                    ]
+                },
+                "startDate": 1521010800
+            },
+            {
+                "adArchiveID": "146858442844354",
+                "adid": "23842808165450250",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1419698741415912",
+                "pageName": "Kueez",
+                "snapshot": {
+                    "ad_creative_id": "23842807830490250",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Qual \u00c9 A Sua Motiva\u00e7\u00e3o Para Acordar Todas As Manh\u00e3s?"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "pt.kueez.com",
+                    "cards": [],
+                    "creation_time": 1528703322,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Kueez",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34954517_227813211327681_3983546329832882176_n.jpg?_nc_cat=0&oh=f4d24e297b15f35c62ad8b8950d6b31a&oe=5BF62790",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35049283_227813207994348_659138456139595776_n.jpg?_nc_cat=0&oh=8eb0d42f927ae828398bd4378b6d5da8&oe=5C0DE09D"
+                        }
+                    ],
+                    "instagram_actor_name": "Kueez Com",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35069239_227813204661015_7299503163881553920_n.jpg?_nc_cat=0&oh=ea491f126cc34b9f08067ada5cde95af&oe=5C09F9EB",
+                    "is_reshared": false,
+                    "link_description": "Qual \u00e9 a sua fonte de motiva\u00e7\u00e3o? Descubra e compartilhe! >>",
+                    "link_url": "https://pt.kueez.com/whats-your-reason-to-wake-up-every-morning?utm_source=page&utm_medium=org&utm_campaign=auto&utm_term=963-whats-yo",
+                    "page_categories": {
+                        "2202": "Website"
+                    },
+                    "page_id": 1419698741415912,
+                    "page_is_deleted": false,
+                    "page_like_count": 705966,
+                    "page_name": "Kueez",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/34954506_227813201327682_2305679594298015744_n.jpg?_nc_cat=0&oh=b028a1eeda19edd282920ca52966965f&oe=5C0C352D",
+                    "page_profile_uri": "https://www.facebook.com/kueezcom.pt/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Qual \u00c9 A Sua Motiva\u00e7\u00e3o Para Acordar Todas As Manh\u00e3s?",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1520409600
+            },
+            {
+                "adArchiveID": "1743390652363835",
+                "adid": "6087517573513",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "881661628593250",
+                "pageName": "Gente de Opini\u00e3o",
+                "snapshot": {
+                    "ad_creative_id": 6087517561913,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "O Portal de Not\u00edcias e Colunista com Credibilidade. Aqui a Not\u00edcia tem mais Opini\u00e3o. Respeito pela Opini\u00e3o e Respeito por Voc\u00ea. Acesse e Compartilhe."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "gentedeopiniao.com.br",
+                    "cards": [],
+                    "creation_time": 1533741962,
+                    "cta_text": "Shop Now",
+                    "cta_type": "Comprar agora",
+                    "current_page_name": "Gente de Opini\u00e3o",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": null,
+                    "event": {},
+                    "images": [
+                        {
+                            "image_crops": {},
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38710887_1743390679030499_5356841322202267648_n.jpg?_nc_cat=0&oh=ed7716d7998d94e43d425a5cd7790e66&oe=5BF0A7F8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38714167_1743390682363832_6255563392099024896_n.jpg?_nc_cat=0&oh=d014dad2692a24921f36657d52a79586&oe=5C0B18AB"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": " ",
+                    "link_url": "http://www.gentedeopiniao.com.br/",
+                    "page_categories": {
+                        "1604": "Journalist"
+                    },
+                    "page_id": 881661628593250,
+                    "page_is_deleted": false,
+                    "page_like_count": 9140,
+                    "page_name": "Gente de Opini\u00e3o",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38694625_1743390672363833_8260885207444357120_n.jpg?_nc_cat=0&oh=bc3a3070bc39d8a85005f1bab65f0e1a&oe=5C3B7CD1",
+                    "page_profile_uri": "https://www.facebook.com/gentedeopiniao.opiniaotv/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Gente De Opini\u00e3o",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1519891200
+            }
+        ],
+        "totalCount": 25,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}

@@ -1,0 +1,2176 @@
+{
+    "__ar": 1,
+    "bootloadable": {
+        "Banzai": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiODS": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "KwxK6"
+            ]
+        },
+        "BanzaiStream": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "ZU1ro",
+                "KwxK6"
+            ]
+        },
+        "ConfirmationDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "oE4Do",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "Dialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ExceptionDialog": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq",
+                "swPXB",
+                "kpjLg",
+                "SPnjx",
+                "uF5ts",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "PerfXSharedFields": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "NDZ0t"
+            ]
+        },
+        "QuickSandSolver": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "8ELCB",
+                "17QGt",
+                "+ClWy",
+                "99wy7",
+                "KwxK6",
+                "W84PE"
+            ]
+        },
+        "ResourceTimingBootloaderHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "NDZ0t"
+            ]
+        },
+        "SnappyCompressUtil": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "3m+iq"
+            ]
+        },
+        "TimeSliceHelper": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "GefKK"
+            ]
+        },
+        "TimeSliceInteractionsLiteTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "99wy7",
+                "ZN6iu",
+                "KwxK6"
+            ]
+        },
+        "WebSpeedInteractionsTypedLogger": {
+            "module": 1,
+            "needsAsync": 1,
+            "resources": [
+                "WwS8Y",
+                "99wy7",
+                "KwxK6"
+            ]
+        }
+    },
+    "bxData": {},
+    "css": [
+        "W84PE"
+    ],
+    "dtsgToken": "AQHfkt9Pk7zJ:AQGPygg3TMfZ",
+    "gkxData": {
+        "AT42vHZv2FMRQFxjYy8soPYLMZQ4FvEb3npoHjDNtK5L_ed7xyu66vqbi4snBVFxLSGN0ZKY0U-z6rBE6MS3Ht3lEToi6aqMBaQBAYDf8hAjMw": {
+            "hash": "AT6UWYHqwuGAIlTE",
+            "result": false
+        },
+        "AT4kYIk7PhRqUACJJM8qs58t-WNCoM2ZYe35b1xv03xf3OtmC7RfXVIT9hWB6yTOgfA": {
+            "hash": "AT419aIcAxBZ9331",
+            "result": true
+        },
+        "AT4miIiW4pJzE0dukYVRr93bo-U7aeRzegmes3xLz6J7QfAO9xBCVDCcWNxQBaSegngcbU8UJ8KqD-c2mDX0kNsMkP4Db418yITqzzh_hAbRIA": {
+            "hash": "AT5PIUst8hN185jZ",
+            "result": false
+        },
+        "AT5Memmu70UpIS1xI3COUT3lBXzz0iUY-TObKzqdfQ0mqqF7VWsxqMFktNJB3nlXh6uBge6Yp5VEZXjYuakRkhRV8mqhGab4muDzekdMtZuu2w": {
+            "hash": "AT4A80my1S3JXFPm",
+            "result": false
+        },
+        "AT5tMpZqIKh0vdvJexCKKhPqDfMAWQPHLQnR8CgtajZUMLAZP8rj8YnSD9bEFc4BrmsaxTBmOCxn2mR6tM_ew1hH": {
+            "hash": "AT6VE1t9RXo81YyR",
+            "result": false
+        },
+        "AT68bJwSI-83elN-7JSMMH9zt32KbiF6pW-XMlf6NViAJ3CbAk_16Vq8cK1tl1029_ApvFwINR8hmoci3nMKFTDhDCBp1wrvYQbOKq0pCjZpqA": {
+            "hash": "AT4E_xpOyqBrYjD0",
+            "result": false
+        }
+    },
+    "ixData": {},
+    "js": [
+        "KwxK6"
+    ],
+    "jsmods": {
+        "require": [
+            [
+                "FBLynx",
+                "setupDelegation",
+                [],
+                []
+            ]
+        ]
+    },
+    "lid": "6591480649880337215",
+    "payload": {
+        "hasResultsWithoutAdTypeFilter": true,
+        "isResultComplete": false,
+        "nextPageToken": "Gfb+A77crOHiiLwH5vuAnM/K8AGUkvbY47eOAeKJmbCX3r4GoMfp8tbyqQbkp9qrjbicBIi9meDSy+sBxs78koiapgGUq6PukIWuAeTi0M7CqOIH3Ij934nNqQjM6LnNjqnLAdr4uNC/vGuMnKz0zJD6BvDlq8jmvuQBuLu0mqCea9Sm5MPS1oEBvPuTqdCn4wfMu7qPltn/AYaBy9XgyW7Yh8aG2ZWUAdqu6LWu223EwP7r8smVBpDYpq2Hr3Peo4PP36zOAYqGgJmVpfIHjr2UovHcwAfWxuLb3LCHAb6TmJSuoKwClK6Cltj62Qaeof2o6MZo8vWbl7O+iAHapOXc0fZ33ITgidfyaaCerLm7/LgGzI2FkfLkgQGmlZOj2p/KCZz95cfl2mW4nsCa4qC9AZDWleqSwGuK66ixkaysAuT90tTElHyCjoDWqMt/2MrfoqzSiAGS1cD2uoNtuqLR//WI2QOG/6GX+qPTB8yY8vWiuGTysMTh2dV7/uGHsoz+2Ae45//Kj+bMB6jD2pmmkL4C4s3a8fOCmQbUy6W8tpHtBsT4jvSE98QHzIOGhJnBiQGurebAk9nEB4Dw2L/Qo/AB/uGnr8CU4gas/Pzj3uVv1vzT3+TL3QGKyPqrtJVnuoSP+NSA+gb0y/v8++SPAb7EtvK4pXCmjqLAz9qCAb6mxIOW55EDkI2x04bUbZjtz73agIwBtvvM3u6e4AfIoPWVjLzqBsb5kfyxo8sH9tKZ5dDecKy8/MnF4oABvMKngZfs/wXWtNzP2tDFB+7rofrbyq8FguKSu7/LzQHApLLMhuffAdLRqsadtPQFuPOnktznsQaSneS++8KiBsTJ86T9t4EDvrftoPryc5Cfk+O6+2fSq+rDx/3TB7b3tZibm8gHlPiy2qHnkAeq1aTa/fN3psKOobfR/QKmz9qMzMJssMyqg7f3ygL2oqTugOJl5LmAjsrFiAGKk7DG7q+FAdSIm+G87dABqMLF1Lmo1wf0usyMlqGGAcia+JHbmGa417jVr5GYAbjr7b/3zfUBvvvgmOe/ggHw+dqX1/KPAazij8GQraAI/qOn8+WDhgLWg5/N09mWB7iW1uW7s8cBiunDzIX3oQL8kaiv7rutAZKXyvXB09YBornchLy2pQfw2vnP+IqCA86qpNDj5FT0/bOV87frAYCdrI3BlmyS34iE0p3dB8zA3s+G0I8EqOGstMq2tQbYqJ7ly4CBAejdiJv+j84D+IDarqGD2wSWqN7Dr6fpBc7+9JyZz8cBhKuNwcyBbKqV3MejhIIB3s6Opr/fnASCnaXWmeSJBpKMv5jot2C2+LLr68+OAd7K0r/w83PGl8D1tMnFB9ia/of88I8BrImg3MzfwQaMr8764OV48NbIwJvYePatk7SJur4CzpKUrInBf4CqsbCA4p4B+LaFn/KefbDgmbe6sWaKj/yRy9jTA4zEgejm6boCuKTUsPGmzwKK1IqWvLiCAab/q7f7/HTU3Kf2/NijAtCejtCB8ocIhqXDrN704wP2oruD+dbOAu622bmqnF+8mMX8w4RnsqSw0c69fLTyg+2s+M8BxvT/roa6eMTK3bbyrGiOpoGulYZngOm189DigQGA69Pt9e+uAsDv76/N5psDzN/8xP2n1Qm+/tGwru7FAqyZ74eAqdkB0pi7ieSmY5LCxKnc4YABqoTskqrVaKSv4r36wKwCuMz21bSytgKax7Lp4OvLA4zLnMTN2NAHwp77jayfZ9aYztbx9Wr8z8SJuO1r3rWmuue9dMrMrfL32tUBxPHl6pa8sQLm1tjTutPXBPa13oL0qu8F5OLw/8Cgnwb46p3U3qitB97Nk+HHoHbqi5uEiJbIAbqusZPIx8wB3Lem1faF7wPy2J3igs7NAf7X38q84vYBgqO1vdyrsgKI8MWvqqHPAq7B2qDZoYMFrqybnMy8jQbyhrP358icBu72ipW59bAGxOjL2c2XvAb22sSg1LTwBozVot3+2NEHjOv79MfE2weyz/+D+5/1AaCSo9yjx27w6u2TqPnXB9KD7d+P4XGMsIuB1seHAczk+72F8ukHmIfDqvqlc6Sxjb/8+toHtp6P3v3ypAfg352YyYi9BpiG2LLr1XrEz4HfremAAZannsvnv74CrvKWivrkggGojKOb5uvwBsaJpsrzqowB1uGG/sKVlALEjZ744/X4A9qrrcSY0Wmm3Yi7yYGUAea49o6I97oD/tvlkdDOyAemwqGAopLkAeCv/srSkPQB1tilkd22ebiJjJb5wPwHmoaF3cSaiQPK58bd6qTtB/SKzOGu/2Ok75jn8bqvAvz+2tLqqM0H1Lq3pKXreJzOjL7mmMcBkp/h0amkxgLMg6+t9qnLAtKR2trnxLoBupjg2ri72Aeklri1xtBz/qruqICeggGekMaS3pDqAdzJ3OXTnmbouYb5/emOAcS5z+zDkXOG4aKrnouZBOqRjp6gv5ACmo7f0NPexAPS5OX59JnjBv6cn7KY7JEB6ursy9291wfCzeCdmeyVAe7/4Jm+kLUCvrL/4cTP0waIjqDUybKsB9ixrMflima8ndKLzOSTAcbcyOW3iXXKrr2Jgt/DAeir7c6b52PKjuL7l5ewApyK24GKumSIi6POp6FqtNeW18jKmAPC1sH0saOhAa7quafasPsD5L/J3JP7cfT50s7an4cBlPXH5+P4da6H657b3nWYhY6F0JDWB6bI/fi825IE3JGN//a1igPMwK+yjMuCAo7MlLST4YIB+JqA59+v/wK2v965u6GEAYbUkvmBl+cHwPvJ4K2whgHOtZ2V/opp1LWxj6KHgwHgirfWv7GSAe6Qyr6BpdgG9qmpvsrqvwea84XS5vPRB7Cw1sr705cHlsSP58ivafSJip2I6OgBxpaJpLil4AfGsJnKr9vQAaqc2YyB8/QFhtfF74Sad/Dxl5ChurEDkpKBkbXgavyhpoeazIwBsPPGspXTigOaq+zupZSUAb7X2OG6+pUGzt7J1eTsuQHAmKTOx6fAA5rQw9rCmnqM5/W30dxtnMborK3SlAHwvISE+ObTAeDlorz0rWTOopqo3qiRAez6rJq1xN0BipKg2OerwQK0tLqu1NrBApi1wYOH88EGgLjs1ZibxQaqx420w7GkB/buoZre9swHqITi1rudf/jZtua5vZEBmNejhL+A1QGs68yem7Fl+Mv32LGT9gbm1pzH+MnBAoKV8JbsoMgDluelwMuI8gPi2e6MvN/qB6ynvpjXtmuU872Ots1lzsrLl63SuwH4/sbw8qHlAYj7tOeg//kG+qyipOTVgwHWzoHivfBq2N6Oy5nZZ/iZuZ2C7O8GrrbOv8Cz1gG4wdSDq7zoAeSPse23oJcFsuGc2+/nsga21JGDsehNpJj1kMWvfsKVgpnsyYIBtL2E3eLn5wHUsfC5xP2qAuyTo/rY/LUG4s78yrTK5ge22pXD587oB5Lto7Kuk3OUueOB6/l19pT8qvr81AG2t8TxrbT2Ae795dmL0u4DsoyHzqjL/wP8pdGq04SWBNj3mcqw5eIG1tWd2PbNsgS66PCF14Fl/I7impnHiwG8/orE9Jm6Acbw2JSYweoH9prgt5rhaubBlJjpsm/S96mupPGWA+Ki3uewvHr+iPm4yMWKAcjh9Zvh5OMH2NvJgbDF1waUveDv+JLfBqzb9umsnJUH1PeI552Jf96C5IrgtLkG2N3S/rmX1QHK2qKAp/Rk2qKVqJyPnweg4vzv0KTuBdLVxJHSq23ywdiTt4SCAfDL29WYlqoGlq6t5u/HZebbmbbh8c0B5v72o+jtuwL+iL/pveBsuIPnwrahsgKgkOzFoNHTB7bsvP2z+fQG2qjZgKe0zgeax7feu/vNB+al+LvnnbICpKGAkv7d4gHArrWV1697ro/qhvrZjwGQn/uVvfP7B9yl9LnuhV/umdbekZLIAfyx3JHBgH/4l++IgIqTBMCx6/vksvgB9L3o55CIbPr82dC5i5AB5vCyzrC+lQesoduQk4+8Buq9g6O/+Xqylcvig/98lpWzk5GchgGkiIKYirWkA5bdztDnq7UGkK6664fPhAGktMLV6tjIAYiLnvLB6WCM2JmA0JP4A4Lql7W5lGGM4Zbyi66bAorIrJeZzmPa97jXxNDxBobL8r3P1JgCsLjHjpjxtgeKzNqR1od4/rmz45vud/7WkPmiyHPIs5Hcl/fnB76k/+zGoqcCvN6CwK+g/gXY/IiijMewAuCxpOb4/u8HpPv4hZDufob9urmJndMHqOu9l6Xgb+rwmeyv7OYBrrGensalhQfYjrK7iPWvBtCrzrbU2qAItvC7442q6wO0rv++ltG3B5CwmOmZ/dkD7JujqJj9XqCo+cvcqMUBmpOcpYLU/AasyMeVsYzmAczUxqy3+32orNTaseDIB+blv9jHns8HrLO20M2J/AHCp/LDm4Zcpo3bqMOpqAGk84f7xaGZB+qujc6Rw6gC6sGX6/eYcci6iIykisAByNuXgpmVbY6O5LqUpa0GhP32gse4vQK8nbuKwYPRB7rQg4mNyXCCg+r027iQCLT21sKhxNcH4JbRjczhrwHS3JymsIpy8vr4v8Tw8gHcptapsN2YBsym65H7/nHC3sfUm968A5TpgozU8LIH2LGjzvrp2AGQz+fq1/rXAfDfgKvc93OQhOWeuf570ofX+Zul1gGY9O2bsp/DAfyt0uHP9vkG0oC2ie+jYYT7z/Tr7MEB6Kmqv97XuAe+pfzG4Ixb6NbH/qrnY9qgjv+9o8QByqyLvYHe2gHopKuX2IGPBoro/7by8sAHypbC1M2k3wHKj7G3w6upBpqh+P7WyJED+uOFncnl2AaYrbDVsKJcjuLSzKTzXoTcpfXpiuUBtv2MjfjNepyDkIyN7tYBzPf1283LzAH4sfeenJjqBbqlho/Nys8BnvqezdK2wAGOjuXUk8/HA7DrtfOmhO0HrNLjnvesmwGKrZWsmtKlAsqh3f+WnMUH/q+fmtq3ngbu0cul9/V+wOqD1KOVwQPGufyPyNXaAcbo+dmAxuMHitTBtry0YZ6pkbjhoO0Hlr3F8rSjtAGolvPys9TcBuTUgv3FtFSq+Zzb2rOxAeLcwqzi2rMB6pj3vujuvAGesM+TuafEAb76g8C6lVPss9Gj25NU4IHahpfba6jBtrHr/7UGvtTBgbvhcbby1oDT+tgGqJD7ypP4TZ7z58WJqYEH4rrB8enA1AHKwoSbzYeBAait46+03q8CGfURPHi0AfABrALoAqQD4AOcBNgElAXQBYwGyAaEB8AH/AcA",
+        "pageResults": null,
+        "results": [
+            {
+                "adArchiveID": "1001915429987207",
+                "adid": "6106200765417",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530428400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "272856506443318",
+                "pageName": "Law Office of Marco Pacheco: Immigration Lawyer",
+                "snapshot": {
+                    "ad_creative_id": 6106200762017,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "El comisionado de seguros de Kansas Ken Selzer (izquierda), el gobernador de Kansas Jeff Colyer (al centro) y el secretario de gobierno Kris Kobach (derecha) aguardan al inicio de un debate antes de las primarias para elegir al candidato republicano a gobernador.<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fmpachecolaw.com%2Flatest%2Finmigracion-clave-en-contienda-por-la-gobernacion-de-kansas%3Fv%3D50705754&amp;h=AT1KIwvt5xY_wVPbrrV_LVV2JIaaprYVGAONvGci4OB5DPaqVmU7flOc7ULW6Skbs6dNgPusUvBa0PseSKQQlUT0F2sdzZaDnQNDXiQ-G6fNcxd3oZK2WcaDpk0JIYJHUJukgkRue1g\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://mpachecolaw.com/latest/inmigracion-clave-en-contienda-por-la-gobernacion-de-kansas?v=50705754</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Law Office of Marco Pacheco",
+                    "caption": "mpachecolaw.com",
+                    "cards": [],
+                    "creation_time": 1529950867,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36251265_1001915456653871_6424164674060681216_n.jpg?_nc_cat=0&oh=750518af5643f1bc18c49a623a7451bf&oe=5BFD47F7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36225088_1001915453320538_6437186121548955648_n.jpg?_nc_cat=0&oh=4ad3ec1168060bc420cd714308d19174&oe=5BF91045"
+                        }
+                    ],
+                    "instagram_actor_name": "Law Office of Marco Pacheco",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36252940_1001915443320539_1241840148111425536_n.jpg?_nc_cat=0&oh=2bbbc433e30da203b6dafe63ff4f5c5b&oe=5C02EA5F",
+                    "is_reshared": false,
+                    "link_description": "El comisionado de seguros de Kansas Ken Selzer (izquierda), el gobernador de Kansas Jeff Colyer (al centro) y el secretario de gobierno Kris Kobach (derecha) aguardan al inicio de un debate antes de las primarias para elegir al candidato republicano a gobernador, el s\u00e1bado 23 de junio de 2018, en S...",
+                    "link_url": "https://mpachecolaw.com/latest/inmigracion-clave-en-contienda-por-la-gobernacion-de-kansas?v=50705754",
+                    "page_categories": {
+                        "1723986644540644": "Immigration Lawyer"
+                    },
+                    "page_id": 272856506443318,
+                    "page_is_deleted": false,
+                    "page_like_count": 42400,
+                    "page_name": "Law Office of Marco Pacheco: Immigration Lawyer",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/35985912_1001915446653872_1024442144972079104_n.jpg?_nc_cat=0&oh=ee91e186840284adfb581b046db91dff&oe=5C08005A",
+                    "page_profile_uri": "https://www.facebook.com/abogadompacheco/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Inmigraci\u00f3n, clave en contienda por la gobernaci\u00f3n de Kansas",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530342000
+            },
+            {
+                "adArchiveID": "2210092312607448",
+                "adid": "6092436019291",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1635464666708691",
+                "pageName": "Coral Restoration St Barth",
+                "snapshot": {
+                    "ad_creative_id": 6092432158891,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "YES WE CAN RESTORE A REEF IN ONLY FEWS YEARS !<br /> <br /> With this technique, we will soon no longer need nurseries!<br /> This fast-growing technique can be use to mass-produce reef-building corals and to transplant them to dead or dying reefs that have taken centuries to develop!<br /> <br /> This can slow down or even reverse the alarming loss of corals.<br /> In 1 year or 2 years, it could become a dive site.<br /> The goal is to create &quot;in a very short time a reef like the reefs decades ago.No need to wait a century.<br /> We have just given a try and we will show you their evolution in the coming months!<br /> <br /> Corals will continue to grow on nurseries and around December, when the temperature of the water will be colder, it is not 100 or 500 corals that we will transplant but thousands with the help of biologists with whom we are working and we hope if we have the financial means to bring them to our island and thus serve as an example of what could be done in the Caribbean soon!<br /> <br /> Thanks to Marine Biologist Liza Carne of Fragments of Hopes, Diego Lirman Biologist Dr. Diego Lirman&#039;s Reef Restoration Laboratory of Biology of Austin Bowden-Kerby Coral for Conservatrion and of course biologist David Vaughan of Mote Marine Lab<br /> <br /> Thank you all for your support! Because more than ever, after the recent phenomena that touched us, we need your support for all for our future and those of our children!<br /> <br /> Thank you to the sailing school SaintBarth Yacht Club for the boat made available as well as the place!<br /> <br /> We will never say it enough, for lack of financial means, it will be impossible in the near future to continue our actions. So that we can continue on land as well as on sea, if you wish to give us financial help, go to the link below:<br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT0gQvm3P1gJhNt-ASsfCIV5lvMfihU7P5hQxeHruN070TiYeVPSaGl3TCmHagEBCgsNhWv4tOElw6I5GQLGN8QOhNS-fjoH5RJuZJ4UvJscehB3x2rR1oGDUeUympFV2-ozYYDMfVQ\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a><br /> <br /> Yes we can restore a reef in only fews years ! <br /> <br /> Avec cette technique nous pourrons prochainement plus avoir besoin de nurseries ! <br /> <br /> Cette technique de croissance rapide, peut permettre de produire en masse des coraux de construction de r\u00e9cifs pour les transplanter sur des r\u00e9cifs morts ou mourants qui ont pris des si\u00e8cles pour se d\u00e9velopper !<br /> <br /> Ce qui peut ralentir ou m\u00eame inverser la perte alarmante de coraux.<br /> <br /> Dans 1 an ou 2, il pourrait devenir un site de plong\u00e9e. Le but, est de cr\u00e9er &quot;dans un tr\u00e8s court laps de temps un r\u00e9cif comme les r\u00e9cifs il y a des d\u00e9cennies.<br /> <br /> Pas besoin d&#039;attendre un si\u00e8cle.<br /> <br /> Nous avons juste fait un essai et vous montrer leur \u00e9volution dans les mois qui viennent ! les coraux continueront de pousser sur les nurseries et vers le mois de d\u00e9cembre quand la temp\u00e9rature de l&#039;eau sera plus froide ce n&#039;est pas 100 ou 500 coraux que nous allons transplanter mais des milliers avec l&#039;aide des biologistes avec lesquels nous travaillions et que nous esp\u00e9rons si nous avons les moyens financiers de leur faire venir sur notre ile et ainsi servir d&#039;exemple de ce qui pourrait \u00eatre entrepris dans la Cara\u00efbe prochainement ! <br /> <br /> Merci \u00e0 la Biologiste Marin Liza Carne de Fragments of Hopes du Biologiste Diego Lirman  Dr. Diego Lirman&#039;s Reef Restoration Laboratory de Floride du Biologsite Austin Bowden-Kerby Coral for Conservatrion et bien sur le biologiste David Vaughan du Mote Marine Lab <br /> <br /> Merci \u00e0 vous tous pour votre soutien ! car plus que jamais apr\u00e8s les r\u00e9cents ph\u00e9nom\u00e8nes qui nous ont touch\u00e9 nous avons besoin de votre soutien \u00e0 tous pour notre futur et ceux de nos enfants ! <br /> <br /> Merci \u00e0 l&#039;\u00e9cole de voile le SaintBarth Yachtclub pour le bateau mis \u00e0 disposition ainsi que l&#039;endroit ! <br /> <br /> Nous ne le dirons jamais assez, par manque de moyens financiers, il nous sera impossible dans un futur proche de poursuivre nos actions. Pour que nous puissions continuer sur terre comme sur mer si vous souhaitez nous apporter une aide financi\u00e8re ,rendez-vous sur le lien ci-dessous :<br /> <br /> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.coral-restoration-stbarth.com%2Fdonation.html&amp;h=AT3yP6az6g8fvvVdyVYq0p2GZj-cARclse7hI9gd2FfVSvC8DtrZ_1MHHgChkXYVoZCwf_q_nX2jEJ99co4ZEYDUbd1CGbWsfkfPcrA6Yr_DgTUC1-L8oLYmPFgwt2DpE6Yx-fbw1kY\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://www.coral-restoration-stbarth.com/donation.html</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531658139,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Coral Restoration St Barth",
+                    "disclaimer_label": null,
+                    "display_format": "multi_images",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37214279_456479504764122_8542583900411527168_n.jpg?_nc_cat=0&oh=e1fc75eecaa739b907cf279e94ad7391&oe=5C014A88",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372417_2109759685945851_7626400898670919680_n.png?_nc_cat=0&oh=87d60dafc6a48330e20c3ab8ba8ebb43&oe=5BF72EE3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36373180_2109759709279182_6987705687996366848_n.jpg?_nc_cat=0&oh=5367571032e0f954ca285e488e2a6da8&oe=5BFB8452",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36359625_2109759705945849_905361445091278848_n.jpg?_nc_cat=0&oh=ff085216266049ef5e75c4acdf11d100&oe=5BEE10DB"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097625_456479501430789_5996783971768205312_n.jpg?_nc_cat=0&oh=39433be7d1fcc7fcb38bf521b9210939&oe=5C399D21",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36372412_2109759669279186_4963074932343832576_n.png?_nc_cat=0&oh=abc07ce55f7efcd730f758ef43a219bc&oe=5BED6662"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37095941_456479524764120_2134642052267245568_n.jpg?_nc_cat=0&oh=a9a8b75865141b0436d27f8ff409ae6a&oe=5BF0B9B3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36277979_2109759919279161_2271646741595947008_n.png?_nc_cat=0&oh=bd81f4fc0593f3a55eec60a7a526033c&oe=5BF0A9FA"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37097635_456479521430787_59144049013030912_n.jpg?_nc_cat=0&oh=c04ed34eff3ec500c61c6ccaa37a8781&oe=5BF8227F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36404819_2109760029279150_2967285564983738368_n.png?_nc_cat=0&oh=15765bb9a169acf4089c639e69ce0d2f&oe=5C0D8A4E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37109061_456479508097455_8666673696095600640_n.jpg?_nc_cat=0&oh=dccd570152e96dd9a3bd344461c8a13b&oe=5BF807A0",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36394079_2109760075945812_6200995574905307136_n.jpg?_nc_cat=0&oh=76c0921f8905aa5e16fb3f8dc8d6aeea&oe=5C0C7AD3"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37105731_456479518097454_5298275727974596608_n.jpg?_nc_cat=0&oh=0dc1354882b73be8de2a6afad4b68394&oe=5BFFA25E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36521843_2109760149279138_5793071684349067264_n.png?_nc_cat=0&oh=c09f8e3740a34db6c1438d6b8c710333&oe=5C0BA329"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36406591_2109760455945774_6264159343940206592_n.jpg?_nc_cat=0&oh=2dff5c9c48abf1b68cc26fd3dbb4caf0&oe=5C08BF2C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36396815_2109760459279107_3093124468919238656_n.jpg?_nc_cat=0&oh=4e6366b2d747a9fb226d9a0e3b564ff9&oe=5BFDE559"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37006026_456479531430786_4509991925981380608_n.jpg?_nc_cat=0&oh=6333f7db946c04ec8ff2739cb46b414a&oe=5C04DCB1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36395605_2109760292612457_7020721754435747840_n.png?_nc_cat=0&oh=c7a34c6029864560cab876b615ca7c7d&oe=5C0AE2AD"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36459779_2109760642612422_4961127375128494080_n.jpg?_nc_cat=0&oh=82b8ca51b312801744ef3e9d2c5ececc&oe=5BF913A8",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36397351_2109760639279089_43989067930533888_n.jpg?_nc_cat=0&oh=fac86defdc31b88220d8a39981cd7770&oe=5C07BA2E"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37229597_456479528097453_6602339919161458688_n.jpg?_nc_cat=0&oh=9d2da0f66d4b9a6125a501b0b246ccc9&oe=5C024418",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36322741_2109760569279096_4708479359915130880_n.png?_nc_cat=0&oh=9c3df674dbb0494d19d8afd9799e38e1&oe=5BF5E338"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36370004_2109760885945731_2427970898196692992_n.jpg?_nc_cat=0&oh=976a2f4d88308d061bcf4f83818f7825&oe=5C0C1180",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36333910_2109760882612398_68997975300374528_n.jpg?_nc_cat=0&oh=3f061ff4dd4680bbe7531f6fa24094c0&oe=5BFFF705"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36321743_456479514764121_904661348242161664_n.jpg?_nc_cat=0&oh=88fb2d7a24f1eec95cdbfb65e3e7df00&oe=5C0914CE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36499831_2109760949279058_8483343356368257024_n.png?_nc_cat=0&oh=ebfe941977850a3e460df4676557cdfe&oe=5C0E8FA2"
+                        },
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37119521_456479511430788_4997933964954959872_n.jpg?_nc_cat=0&oh=1d168c846b052ddbd387dd79f04cd5bd&oe=5C1024B7",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36410342_2109760995945720_42241918184194048_n.jpg?_nc_cat=0&oh=7b09b74efac38e7611e96e7b2f479f53&oe=5BF539A6"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "191523214199822": "Environmental Conservation"
+                    },
+                    "page_id": 1635464666708691,
+                    "page_is_deleted": false,
+                    "page_like_count": 104447,
+                    "page_name": "Coral Restoration St Barth",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37144820_456479488097457_7769695576194547712_n.jpg?_nc_cat=0&oh=4646eb0f30a8e4ab51108a045dea9dcf&oe=5BF5C00E",
+                    "page_profile_uri": "https://www.facebook.com/coralrestorationstbarth97133/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "341620523037846",
+                "adid": "6095773703316",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1892515131011712",
+                "pageName": "Osias Wurman",
+                "snapshot": {
+                    "ad_creative_id": 6095773694916,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Amigos<br /> O momento brasileiro exige que a comunidade esteja unida e coesa.<br /> As diferen\u00e7as do passado devem ser relevadas a segundo plano, em busca do lugar comum: Juda\u00edsmo e Sionismo!<br /> Temos certeza que a comunidade deseja eleger nossos candidatos nas pr\u00f3ximas elei\u00e7\u00f5es, a n\u00edvel estadual e federal.<br /> Atendendo a um gentil convite do candidato a presidente nas pr\u00f3ximas elei\u00e7\u00f5es da FIERJ, eu e MARCELO ITAGIBA almo\u00e7amos com ARY BERGHER.<br /> A foto retrata a total cordialidade que nos aproximou e sa\u00edmos unidos pelo bem maior que temos em comum: a nossa comunidade.<br /> Itagiba \u00e9 pr\u00e9-candidato a deputado federal e Tereza Bergher a deputada estadual.<br /> Tenham certeza que no Rio n\u00e3o haver\u00e1 lugar para o racismo ou o antissemitismo travestido de antissionismo.<br /> Estaremos todos unidos e vigilantes!!!<br /> Shalom, Salam, Paz...."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530610900,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Osias Wurman",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36540494_341620549704510_3990792025560580096_n.jpg?_nc_cat=0&oh=619cc01b089ae7d6cbd61c841a2b62cc&oe=5BFAC2DE",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36461251_2040003396262884_1438436069858082816_n.jpg?_nc_cat=0&oh=e30badfeaa52f4c2b12516f7e50fe300&oe=5C397F17"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "1601": "Artist"
+                    },
+                    "page_id": 1892515131011712,
+                    "page_is_deleted": false,
+                    "page_like_count": 4836,
+                    "page_name": "Osias Wurman",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36518163_341620546371177_3288371689330573312_n.jpg?_nc_cat=0&oh=2fce3eef5a21af4aea065938dcbcd547&oe=5C035122",
+                    "page_profile_uri": "https://www.facebook.com/wurmanosias/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "645726099123013",
+                "adid": "6116247861980",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "206871509410716",
+                "pageName": "Clacso - Consejo Latinoamericano de Ciencias Sociales",
+                "snapshot": {
+                    "ad_creative_id": 6116247857980,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Mark Weisbrot, economista e investigador, en Rumbo a #CLACSO2018, Di\u00e1logos con <a href=\"https://www.facebook.com/Jorge-Gestoso-119107551448766/\" data-hovercard=\"/ajax/hovercard/page.php?id=119107551448766&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Jorge Gestoso</a>.<br /> <br /> Mark Weisbrot: &quot;No existen pruebas de que <a href=\"https://www.facebook.com/Lula/\" data-hovercard=\"/ajax/hovercard/page.php?id=267949976607343&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">Lula</a> acept\u00f3 un soborno. Jam\u00e1s tuvo el t\u00edtulo de ese departamento&quot;.<br /> <br /> Weisbrot es economista, cofundador y codirector del Center for Economic and Policy Research (CEPR) y columnista del <a href=\"https://www.facebook.com/nytimes/\" data-hovercard=\"/ajax/hovercard/page.php?id=5281959998&amp;extragetparams=%7B%22directed_target_id%22%3Anull%7D\" data-hovercard-prefer-more-content-show=\"1\">The New York Times</a>."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530930113,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Clacso - Consejo Latinoamericano de Ciencias Sociales",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2235": "Ngo"
+                    },
+                    "page_id": 206871509410716,
+                    "page_is_deleted": false,
+                    "page_like_count": 269968,
+                    "page_name": "Clacso - Consejo Latinoamericano de Ciencias Sociales",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36728431_645726105789679_4730844405676638208_n.jpg?_nc_cat=0&oh=8d12278f918528828e657336c7b566ee&oe=5C0AA861",
+                    "page_profile_uri": "https://www.facebook.com/CLACSO.Oficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Mark Weisbrot en Rumbo a #CLACSO2018, Di\u00e1logos con Jorge Gestoso",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_424442998032249_1155571894565470208_n.mp4?_nc_cat=0&oh=573080a1bb2a0ffa263528fe260aa775&oe=5B79E6D0",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36686847_645726109123012_4798794559280644096_n.jpg?_nc_cat=0&oh=4842f12da418d2b44c61b0815960065f&oe=5C05431E",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_236900633784884_6635265215762006016_n.mp4?_nc_cat=0&oh=0370cf15e0eeaf90189467ecb29d069f&oe=5B79CEFC"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "2122541564668005",
+                "adid": "6093389287152",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1533020400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "155174084508744",
+                "pageName": "Banque mondiale",
+                "snapshot": {
+                    "ad_creative_id": 6093389282352,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Nombre d\u2019investissements dans l\u2019\u00e9ducation sont ax\u00e9s sur les premi\u00e8res ann\u00e9es du primaire, voire sur l\u2019\u00e9ducation pr\u00e9scolaire, car on consid\u00e8re g\u00e9n\u00e9ralement qu\u2019il est difficile de d\u00e9velopper des #comp\u00e9tences sans bases solides. Mais rappelons que pour ces enfants, l&#039;int\u00e9r\u00eat d\u2019acqu\u00e9rir des comp\u00e9tences, c&#039;est d&#039;avoir, plus tard, une vie meilleure. #endpoverty"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "blogs.worldbank.org",
+                    "cards": [],
+                    "creation_time": 1533123674,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Banque mondiale",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38152711_956714867869184_4584501804611403776_n.jpg?_nc_cat=0&oh=7b6ec198012e738d931d7c22bcc4bb11&oe=5BF5345C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/38120652_956714864535851_2755655088742596608_n.jpg?_nc_cat=0&oh=a45abfcf4d78878b5fe35cb02133bf5f&oe=5C05F7E9"
+                        }
+                    ],
+                    "instagram_actor_name": "Banque mondiale",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38177105_956714857869185_2210066045966745600_n.jpg?_nc_cat=0&oh=3e0caf21d9bd8bf6c7ef8c113619f8bf&oe=5BEE9D6C",
+                    "is_reshared": false,
+                    "link_description": "Cette page en : English Nombre d\u2019investissements dans l\u2019\u00e9ducation sont ax\u00e9s sur les premi\u00e8res ann\u00e9es du primaire, voire sur l\u2019\u00e9ducation pr\u00e9scolaire, car on consid\u00e8re g\u00e9n\u00e9ralement qu\u2019il est difficile de d\u00e9velopper des comp\u00e9tences sans bases solides. Les enfants et les jeunes qui ne...",
+                    "link_url": "http://blogs.worldbank.org/africacan/fr/education-les-effets-des-interventions-se-renforcent-ils-ou-diminuent-ils-a-long-terme?cid=ECR_FB_worldbank_FR_EXT",
+                    "page_categories": {
+                        "198503866828628": "Organization"
+                    },
+                    "page_id": 155174084508744,
+                    "page_is_deleted": false,
+                    "page_like_count": 1354943,
+                    "page_name": "Banque mondiale",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38121358_956714861202518_2673027906606727168_n.jpg?_nc_cat=0&oh=71147f162c64f394682f7daf2a452f33&oe=5C020325",
+                    "page_profile_uri": "https://www.facebook.com/Banquemondiale/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00c9ducation : les effets des interventions se renforcent-ils ou diminuent-ils \u00e0 long terme ?",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "1755777557851135",
+                "adid": "23842847533800303",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1861454424142548",
+                "pageName": "Top Game Apps",
+                "snapshot": {
+                    "ad_creative_id": "23842847527590303",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Moi kumple ci\u0105gle polecali mi t\u0119 gr\u0119. <br />  W ko\u0144cu da\u0142em si\u0119 nam\u00f3wi\u0107, a teraz nie mog\u0119 przesta\u0107...\ud83d\ude32\ud83d\ude32\ud83d\ude32<br />  #darmowegry #silnieuzale\u017cniaj\u0105ce #supergry2018"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "play.google.com",
+                    "cards": [],
+                    "creation_time": 1530510792,
+                    "cta_text": "Play Game",
+                    "cta_type": "Jogar",
+                    "current_page_name": "Top Game Apps",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Top Game Apps",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36509155_1755777567851134_2003241578000285696_n.jpg?_nc_cat=0&oh=d7054bb7b8e07cfb5cf298d2b91837dc&oe=5BF35894",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.diandian.gog",
+                    "page_categories": {
+                        "2300": "Game"
+                    },
+                    "page_id": 1861454424142548,
+                    "page_is_deleted": false,
+                    "page_like_count": 81941,
+                    "page_name": "Top Game Apps",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36463925_1755777571184467_4739003280170942464_n.jpg?_nc_cat=0&oh=a7ba2d9030e8a3958e96108f721d660b&oe=5C09B807",
+                    "page_profile_uri": "https://www.facebook.com/Bestgame4u/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u261dNie dla Dzieci\ud83d\udd1e\ud83d\udd1e\ud83d\udd1e",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34205611_245244919364816_6157690192753852416_n.mp4?_nc_cat=0&oh=e8a4af20974ef924388b0ec9828215e4&oe=5B79D05E",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36617199_1755777577851133_1657184883161694208_n.jpg?_nc_cat=0&oh=eddf9978c7afa34b5dc8a2a6fd006d96&oe=5BF8F4E1",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34303125_173494100003995_5140879745105264640_n.mp4?_nc_cat=0&oh=5c2c80ae38fb84a76d33185137db3da3&oe=5B79E65C"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "279102986220663",
+                "adid": "23842847533960303",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1861454424142548",
+                "pageName": "Top Game Apps",
+                "snapshot": {
+                    "ad_creative_id": "23842847527310303",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Moi kumple ci\u0105gle polecali mi t\u0119 gr\u0119. <br />  W ko\u0144cu da\u0142em si\u0119 nam\u00f3wi\u0107, a teraz nie mog\u0119 przesta\u0107...\ud83d\ude32\ud83d\ude32\ud83d\ude32<br />  #darmowegry #silnieuzale\u017cniaj\u0105ce #supergry2018"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "itunes.apple.com",
+                    "cards": [],
+                    "creation_time": 1530548650,
+                    "cta_text": "Play Game",
+                    "cta_type": "Jogar",
+                    "current_page_name": "Top Game Apps",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Top Game Apps",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36540896_279103002887328_8770204969392406528_n.jpg?_nc_cat=0&oh=662c12b96946c0c145fa660046b3fa38&oe=5C03DF70",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://itunes.apple.com/app/id1274354704",
+                    "page_categories": {
+                        "2300": "Game"
+                    },
+                    "page_id": 1861454424142548,
+                    "page_is_deleted": false,
+                    "page_like_count": 81941,
+                    "page_name": "Top Game Apps",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36477769_279103006220661_2119964143267086336_n.jpg?_nc_cat=0&oh=7835759a1283c746a7e2a84dedb910d0&oe=5BFBA8B2",
+                    "page_profile_uri": "https://www.facebook.com/Bestgame4u/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u261dNie dla Dzieci\ud83d\udd1e\ud83d\udd1e\ud83d\udd1e",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34205611_245244919364816_6157690192753852416_n.mp4?_nc_cat=0&oh=e8a4af20974ef924388b0ec9828215e4&oe=5B79D05E",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36490732_279103019553993_6307662363306754048_n.jpg?_nc_cat=0&oh=343ec7cc4c2dc4df3a2565db9332d83c&oe=5BFB96DF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34303125_173494100003995_5140879745105264640_n.mp4?_nc_cat=0&oh=5c2c80ae38fb84a76d33185137db3da3&oe=5B79E65C"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "987727004727968",
+                "adid": "23842847532930303",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1861454424142548",
+                "pageName": "Top Game Apps",
+                "snapshot": {
+                    "ad_creative_id": "23842847530730303",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Moi kumple ci\u0105gle polecali mi t\u0119 gr\u0119. <br />  W ko\u0144cu da\u0142em si\u0119 nam\u00f3wi\u0107, a teraz nie mog\u0119 przesta\u0107...\ud83d\ude32\ud83d\ude32\ud83d\ude32<br />  #darmowegry #silnieuzale\u017cniaj\u0105ce #supergry2018"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "itunes.apple.com",
+                    "cards": [],
+                    "creation_time": 1530357619,
+                    "cta_text": "Play Game",
+                    "cta_type": "Jogar",
+                    "current_page_name": "Top Game Apps",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Top Game Apps",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36362793_987727034727965_7575272096150847488_n.jpg?_nc_cat=0&oh=23b51c75f157b2781c20e475d6a06bed&oe=5C100847",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://itunes.apple.com/app/id1274354704",
+                    "page_categories": {
+                        "2300": "Game"
+                    },
+                    "page_id": 1861454424142548,
+                    "page_is_deleted": false,
+                    "page_like_count": 81941,
+                    "page_name": "Top Game Apps",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36379189_987727031394632_3564251161173164032_n.jpg?_nc_cat=0&oh=3fd673ba276c998e8a8848d84a5635f5&oe=5BF25781",
+                    "page_profile_uri": "https://www.facebook.com/Bestgame4u/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u261dNie dla Dzieci\ud83d\udd1e\ud83d\udd1e\ud83d\udd1e",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34205611_245244919364816_6157690192753852416_n.mp4?_nc_cat=0&oh=e8a4af20974ef924388b0ec9828215e4&oe=5B79D05E",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36461585_987727044727964_4419333966750810112_n.jpg?_nc_cat=0&oh=91025bb50916d002270b8a8d8b076b09&oe=5BF06B8F",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34303125_173494100003995_5140879745105264640_n.mp4?_nc_cat=0&oh=5c2c80ae38fb84a76d33185137db3da3&oe=5B79E65C"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "480857039015523",
+                "adid": "23842876162280366",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530428400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "618835734893529",
+                "pageName": "Lary",
+                "snapshot": {
+                    "ad_creative_id": "23842875335260366",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "28.06 - Dia Internacional do Orgulho LGBT<br /> \ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\u2764\ufe0f<br /> <br /> Que o amor ven\u00e7a o preconceito, as barreiras e os padr\u00f5es. Que sejamos todos livres pra amar sem medo. O amor \u00e9 lindo em todas as suas vers\u00f5es. <br /> <br /> Fica aqui minha homenagem a esse dia t\u00e3o especial e importante para a comunidade LGBT. Obrigada a toda minha equipe LM Music que idealizou e se entregou a esse projeto com tanto carinho. Obrigada DJ JP por produzir a m\u00fasica com tanto cuidado. Obrigada principalmente aos meus f\u00e3s que se propuseram a fazer parte desse v\u00eddeo. Eu t\u00f4 s\u00f3 emo\u00e7\u00e3o vendo tudo isso pronto \u2764\ufe0f\ud83d\ude2d<br /> <br /> Assista ao clipe completo clicando aqui: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FUmPoucoDeCor&amp;h=AT3ZYcUubfdXhbEjaKC-7yE_leTlCA4D5UMMMFrPMQ5PtksOpECDULRBYwg4WL-7U_ukQlDAI4cYq0hAJGXsZcFtLQ28U9RpkLmzga8uv8g2L6YEfEh7DE3lQPq6YDnrqtMCuPVelIc\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/UmPoucoDeCor</a><br /> <br /> #loveislove #lgbt #pridelgbt #umpoucodecor #lary"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530489837,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lary",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 618835734893529,
+                    "page_is_deleted": false,
+                    "page_like_count": 58163,
+                    "page_name": "Lary",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550598_480857059015521_2075462677148205056_n.jpg?_nc_cat=0&oh=01aa53eb02c117a7e0a9aaa96c33bdb2&oe=5BF4B335",
+                    "page_profile_uri": "https://www.facebook.com/laryoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36240101_643774552653583_7550155453821353984_n.mp4?_nc_cat=0&oh=9202d3085bd81f8788712f13edcea509&oe=5B79D12C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36511179_480857069015520_7058362693199069184_n.jpg?_nc_cat=0&oh=0a4df9458c130132b124e5b5c6e652b6&oe=5BF728DF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36323426_188203631844335_7236112229731401728_n.mp4?_nc_cat=0&oh=bb0cea33d0908c490a570aaf739a147d&oe=5B79D359"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "2189230824438307",
+                "adid": "23842910887980453",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1532847600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "102886746417877",
+                "pageName": "PlayGround",
+                "snapshot": {
+                    "ad_creative_id": "23842910887880453",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Los hombres indios que ense\u00f1an a ni\u00f1os c\u00f3mo erradicar la violencia sexual."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1531488912,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "PlayGround",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "PlayGround",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37086426_2189230907771632_1715171571632439296_n.jpg?_nc_cat=0&oh=5df09340602bb02d00c015bee57d39b8&oe=5C0E0F1F",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2709": "News Site"
+                    },
+                    "page_id": 102886746417877,
+                    "page_is_deleted": false,
+                    "page_like_count": 16586127,
+                    "page_name": "PlayGround",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37085309_2189230911104965_1695923843199139840_n.jpg?_nc_cat=0&oh=4b29a91472d27dd1096ba9463bcdd1d1&oe=5BF3ADB0",
+                    "page_profile_uri": "https://www.facebook.com/PlayGroundMag/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ni\u00f1os que luchan por los derechos de las mujeres",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_645012865839272_6396470411403460608_n.mp4?_nc_cat=0&oh=d38227db947d57d12406a85d3840f13c&oe=5B79E796",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/37032814_2189230931104963_8729392845821050880_n.jpg?_nc_cat=0&oh=13412ae85dfb00f66cc29959de5dba84&oe=5BFCD2F0",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/34337352_180092796036813_5843617904620208128_n.mp4?_nc_cat=0&oh=600f87b87fa700c4a6f7f91b9eb5e23b&oe=5B79CE3E"
+                        }
+                    ]
+                },
+                "startDate": 1530255600
+            },
+            {
+                "adArchiveID": "214206719210757",
+                "adid": "6104559564308",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530428400,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "143970472302311",
+                "pageName": "Angy Newman M\u00e9xico",
+                "snapshot": {
+                    "ad_creative_id": 6104559559508,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "\u00bfVas a tener un evento motivacional con el personal de tu empresa? no dudes en contratar a Angy Newman, ella tiene la gran capacidad de conectar el tema empresarial con la parte personal.<br /> <br /> Tel. (777) 100 1025       Correo: contactos&#064;gonzka.com.mx"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "angynewman.com.mx",
+                    "cards": [],
+                    "creation_time": 1530885930,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Angy Newman M\u00e9xico",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36665306_214206739210755_4425205766865027072_n.jpg?_nc_cat=0&oh=2a7bc5d6e922ed74e9458c99c3b70954&oe=5BEFAA4F",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36738238_214206735877422_6725756113649664000_n.jpg?_nc_cat=0&oh=0d15cbbec585d722dd54a306798017c9&oe=5BF0828A"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "Angy Newman a trav\u00e9s de los a\u00f1os se ha consolidado como una l\u00edder de opini\u00f3n en am\u00e9rica Latina y cada vez m\u00e1s es solicitada por empresas, gobiernos de los estados, escuelas, universidades, expos, partidos pol\u00edticos[...]",
+                    "link_url": "http://www.angynewman.com.mx/contrataciones/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 143970472302311,
+                    "page_is_deleted": false,
+                    "page_like_count": 14367,
+                    "page_name": "Angy Newman M\u00e9xico",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36676981_214206725877423_5034164771465723904_n.jpg?_nc_cat=0&oh=06e8fcfcee0063c7242d00710291ef9c&oe=5C045020",
+                    "page_profile_uri": "https://www.facebook.com/AngyNewmanMexico/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Contrataciones -",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "2210581205625423",
+                "adid": "23842850859860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842850859300405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635575,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36632628_2210581228958754_8348053613121110016_n.jpg?_nc_cat=0&oh=54df9f56825a73ac8d59580e77063ef1&oe=5BFF7FAE",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36568876_2210581232292087_978329417577136128_n.jpg?_nc_cat=0&oh=c3ffbfef63b11879795aa36df8fc3283&oe=5BF6BB38",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36661010_2210581238958753_72578247153418240_n.jpg?_nc_cat=0&oh=053b0623c8b36ea939a6f8f5b09898d7&oe=5C015159",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "396432580849483",
+                "adid": "23842850860390405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842850860020405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635605,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36554164_396432600849481_8660591489828519936_n.jpg?_nc_cat=0&oh=e6fb822394470924d6f47e27d986c666&oe=5C069869",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36519159_396432604182814_4425462361096192000_n.jpg?_nc_cat=0&oh=d1e9be363c31fcb291894450db54d767&oe=5BED3298",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36537867_396432610849480_2886621917341548544_n.jpg?_nc_cat=0&oh=88a36a50d84d4fe648fe7c390b0f38c9&oe=5BF32E74",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "1892610074371476",
+                "adid": "23842850860860405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": null,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "393914020704484",
+                "pageName": "Adyen",
+                "snapshot": {
+                    "ad_creative_id": "23842850860530405",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Aumente a performance e a velocidade de processamento dos pagamentos do seu e-commerce com as solu\u00e7\u00f5es da Adyen."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "www.adyen.com",
+                    "cards": [],
+                    "creation_time": 1530635896,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Adyen",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Adyen",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36617221_1892610097704807_2568596863431213056_n.jpg?_nc_cat=0&oh=3dd57fe902a940c2c0b65a8e994f0f23&oe=5BF703DB",
+                    "is_reshared": false,
+                    "link_description": "Pagamentos sem barreiras. Neg\u00f3cios sem limites.",
+                    "link_url": "https://www.adyen.com/pt_BR/landing/online/br/play2/conversao",
+                    "page_categories": {
+                        "2256": "Internet Company"
+                    },
+                    "page_id": 393914020704484,
+                    "page_is_deleted": false,
+                    "page_like_count": 5057,
+                    "page_name": "Adyen",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36538533_1892610101038140_4692084164076240896_n.jpg?_nc_cat=0&oh=15a9c1d7063d524e7c18d766d59aff33&oe=5C0D8ADB",
+                    "page_profile_uri": "https://www.facebook.com/AdyenPayments/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Finalmente um aumento de taxa que voc\u00ea vai gostar. A taxa de convers\u00e3o.",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35891805_214945819229772_5806949389402374144_n.mp4?_nc_cat=0&oh=cc4b32922f6b5e5162b5d704fa64160a&oe=5B79D34F",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36527111_1892610111038139_2437190818591670272_n.jpg?_nc_cat=0&oh=13d33ebbfa8c6db02740bb2a04334ad1&oe=5C0C1509",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35694223_438710439929956_5287188935619903488_n.mp4?_nc_cat=0&oh=5402e29c16c64c0c1a0f74c8ddb3aad2&oe=5B79E767"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "185620698780978",
+                "adid": "23843186026160436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530687600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT2A0Z9U7JsP5J2DRRtni-tr21sfjYb1WCA7f0TKtl86j2lsBMsfGFoAA8RcixOL05qOxU83F7IwCVC8zaJxUdoHKEm0mviU2NoD1gSSJMzexOd5scWOrwtpqkp3BDJUlBI-_52byG7P7N7LWus0kuQ4\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT1DauN9BbEnnmHd_HUZQbe2qDyLeGejtH12HPx5i5Unyoa-kdoFW85VtPQkltNp8FxQ0bf9BF8Qzdsw-Kp-E_JQUXMRP46t8DpX7PGpz1joQWIUpYnchQOs1pN5An76AdOl6kVyAww\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "390115464814165",
+                "adid": "23843186023990436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1531033200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT1KRJA7FfI6159kH8jJv-Zz531rt-Pv4In_9HItw4xc9rKFji_4yrrvqcClmwLmYe1CnT4v4P0760Lvy_pyz0sPQejnmjZ8qX9LvzKdJ5U-x8VeU0cjoaN31msM5sVkgFtY1qlmpX8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT24wo_gquLq9KxtpuL7kJlGW2JPl7JCv65_di3o_Q8-x2R4HIe6b4kECqH-8LNqTxBmVyvJlNO_IPfpsfkRnpM-A5Q7Ix6Mt-Qv1YbzL4Uahpm2_6duSnG8logEzhIrjAQ9S5FGm2g\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "395184550991665",
+                "adid": "6096326538405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530601200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096326534805,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "AQUI LA VEMOS A LA DELCY ELOINA, la chimpance del circo chavista declarando que la Revoluci\u00f3n y el Chavismo son su &quot;venganza personal&quot; por las muertes de la 4ta Republica, que por su puesto incluyen a la de su guerrillero padre comunista, atracador de bancos, secuestrador, y asesino arrodillado a las botas de Fidel... <br /> <br /> Miserable y apestosa narco-malandra, corrupta y genocida..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "twitter.com",
+                    "cards": [],
+                    "creation_time": 1530208107,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36320085_395184590991661_2058383774055399424_n.jpg?_nc_cat=0&oh=36a92db0b1d866baceaa4006ab203955&oe=5C0D7C2E",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36285947_395184587658328_5612978354098536448_n.jpg?_nc_cat=0&oh=967a056e125ae6f8557b2e02bcea2c05&oe=5BEDE7F4"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36339172_395184577658329_3437949268353089536_n.jpg?_nc_cat=0&oh=1fdf19924b11fa4eb63d0494700f0a34&oe=5C0C9931",
+                    "is_reshared": false,
+                    "link_description": "\u201cAqu\u00ed la tienen, con esa naturalidad de quien no rompe un plato, confesando que \"la revoluci\u00f3n es la venganza personal\" por la muerte de su padre. Incre\u00edble. https://t.co/lxvSFWd0X7\u201d",
+                    "link_url": "https://t.co/lxvSFWd0X7",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36367222_395184574324996_6132315341285490688_n.jpg?_nc_cat=0&oh=6b0cf68a459e36456897733cf07e5612&oe=5C05B476",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Hugo Santaromita on Twitter",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "415320182285877",
+                "adid": "23842875335350366",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "618835734893529",
+                "pageName": "Lary",
+                "snapshot": {
+                    "ad_creative_id": "23842875335260366",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "28.06 - Dia Internacional do Orgulho LGBT<br /> \ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\u2764\ufe0f<br /> <br /> Que o amor ven\u00e7a o preconceito, as barreiras e os padr\u00f5es. Que sejamos todos livres pra amar sem medo. O amor \u00e9 lindo em todas as suas vers\u00f5es. <br /> <br /> Fica aqui minha homenagem a esse dia t\u00e3o especial e importante para a comunidade LGBT. Obrigada a toda minha equipe LM Music que idealizou e se entregou a esse projeto com tanto carinho. Obrigada DJ JP por produzir a m\u00fasica com tanto cuidado. Obrigada principalmente aos meus f\u00e3s que se propuseram a fazer parte desse v\u00eddeo. Eu t\u00f4 s\u00f3 emo\u00e7\u00e3o vendo tudo isso pronto \u2764\ufe0f\ud83d\ude2d<br /> <br /> Assista ao clipe completo clicando aqui: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FUmPoucoDeCor&amp;h=AT119EEjLAa4vlzTTXqOoh2o5e-OI_cqJmD9oYP0101Zg80SE8FDAr97MmlXkK1qyEHbQncBdOhd3PUkNTE-K-DH9BqCtmocgd_-h4slZek12BVLT-eLkyx2bcxbd1YmYZsnoI1j6YA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">bit.ly/UmPoucoDeCor</a><br /> <br /> #loveislove #lgbt #pridelgbt #umpoucodecor #lary"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530489837,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Lary",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "180164648685982": "Bands Musicians"
+                    },
+                    "page_id": 618835734893529,
+                    "page_is_deleted": false,
+                    "page_like_count": 58163,
+                    "page_name": "Lary",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36550598_480857059015521_2075462677148205056_n.jpg?_nc_cat=0&oh=01aa53eb02c117a7e0a9aaa96c33bdb2&oe=5BF4B335",
+                    "page_profile_uri": "https://www.facebook.com/laryoficial/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36240101_643774552653583_7550155453821353984_n.mp4?_nc_cat=0&oh=9202d3085bd81f8788712f13edcea509&oe=5B79D12C",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36511179_480857069015520_7058362693199069184_n.jpg?_nc_cat=0&oh=0a4df9458c130132b124e5b5c6e652b6&oe=5BF728DF",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/36323426_188203631844335_7236112229731401728_n.mp4?_nc_cat=0&oh=bb0cea33d0908c490a570aaf739a147d&oe=5B79D359"
+                        }
+                    ]
+                },
+                "startDate": 1530169200
+            },
+            {
+                "adArchiveID": "431686243970063",
+                "adid": "6096278289805",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530514800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096278286405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "HOY ES EL PRIMER ANIVERSARIO DEL OSADO Y VALIENTE GESTO QUE TUVO OSCAR PEREZ DESDE UN HELICOPTERO QUE SOBREVOLO POR LOS CIELOS DE CARACAS, PROCLAMANDO EL 350: DESOBEDIENCIA CIVIL, PARA LOGRAR LA LIBERTAD DE VENEZUELA... <br /> <br /> OSCAR PEREZ y su comando de patriotas fue v\u00edctima de una emboscada y supuestamente muri\u00f3 junto a todos los que estaban con el, a pesar que bajaron las armas y quer\u00edan entregarse... Fueron ejecutados sin juicio previo, lo que hace esta acci\u00f3n aun mas grave y totalmente fuera de la ley... Lastima que muchos venezolanos no reconocieron su valent\u00eda y deseo de liberar a nuestro pueblo... <br /> <br /> Es mas, muchos pensaron que era una trampa del narco-regimen... Hasta la falsa oposici\u00f3n que hacia llamados constantes a las FAN para que despertaran, vieron en Oscar Perez a un enemigo que les iba a quitar protagonismo... <br /> <br /> Estos falsos l\u00edderes, ego\u00edstas y politiqueros, que solo piensan en su ventaja personal, calleron en la trampa de unas elecciones regionales a las que Oscar Perez se opuso y advirti\u00f3 que no la hicieran, as\u00ed fuera por respeto por nuestros estudiantes ca\u00eddos que se merec\u00edan que sigui\u00e9ramos la lucha de calle hasta lograr la libertad, y que su muerte no fuera en vano... <br /> <br /> Pero todo eso ya es historia vieja... Con las regionales hundieron mas al pa\u00eds y se olvidaron de la calle para oxigenar mas a los miserables genocidas de la dictadura, hasta se rumora que entregaron el paradero de aquellos que valientemente se alzaron para salvar a Venezuela, pues no les conven\u00eda ya que pensaban que con las regionales iban a ganar posiciones pol\u00edticas como sucedi\u00f3 con las elecciones de la Asamblea Nacional... <br /> <br /> La falsa oposici\u00f3n perdi\u00f3 por fraude electoral y as\u00ed perdieron tambi\u00e9n al pueblo que por tanto tiempo los apoyo y les entrego sus esperanzas... <br /> <br /> LA FALSA OPOSICION NOS TRAICIONO, NOS ENGANIO, TAL COMO EL REGIMEN LO HA HECHO DURANTE ESTOS 20 ANIOS... <br /> <br /> Oscar Perez y su comando de valientes necesitaban del apoyo del pueblo, para obtener el apoyo militar que necesitaban y as\u00ed derrocar a este narco regimen, corrupto, y genocida... <br /> <br /> Solo nuestros j\u00f3venes vieron la luz y la esperanza que Oscar Perez tra\u00eda a toda nuestra naci\u00f3n y lo siguieron, lo apoyaron... Se apoyaron mutuamente ambos grupos, para ser derrotados por la traici\u00f3n de la falsa oposici\u00f3n y tambi\u00e9n de la tiran\u00eda... <br /> <br /> Pero Oscar Perez vive y su legado aun esta vigente y seguir\u00e1 por muchas generaciones... <br /> <br /> EL CHAVISMO ES LA GRAN DESGRACIA DE VENEZUELA..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530162206,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36272916_431686267303394_1961026168354242560_n.jpg?_nc_cat=0&oh=2871209bd7e8367f531ba20144244aed&oe=5BF0CB43",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36302494_1814021981996070_6265152164285382656_n.jpg?_nc_cat=0&oh=778d2d11fcc14263d1420ed36fc2212a&oe=5BF9E365"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36371016_431686263970061_829650702195228672_n.jpg?_nc_cat=0&oh=754d83b3f09b7c1c370effb40427e9ff&oe=5BFF8F9E",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "182887559233183",
+                "adid": "6096268589205",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096268583405,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quieren acabar con toda la oposicion decente y honesta que tenemos y de la cual ya casi no queda nadie... <br /> <br /> Entre los lideres de oposicion con verdadera integridad estan: Maria Corina, Antonio Ledezma, Leopoldo Lopez, Lilian Tintori, Mitzi Ledezma...<br /> <br /> Antonio Ledezma, logra escaparse de sus garras y de su control... Leopoldo y Lilian estan super custodiados en arresto domiciliario, asi como varios otros patriotas y ex-presos politicos... <br /> <br /> Entonces lo que queda es Maria Corina Machado - que anda libre y pa&#039;lante como siempre -- a quien no la para nadie, y a la que quieren destruir tambien porque les estorba...<br /> <br /> Total para que...??? Si el pueblo no los quiere y tampoco mas de la mitad de las FAN, e igualmente se ganaron el desprecio e irrespeto de casi toda la Comunidad Internacional...<br /> <br /> Quitarse a Maria Corina de encima es absurdo, porque con ello no van a ganar mas adeptos sino profundizar el conocimiento que se tiene de ellos como narco-dictadura, como tirania, ademas que ni para competenica les sirve, ya que todas las elecciones son un fraude mas, una burla mas al pueblo que defraudaron..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "lapatilla.com",
+                    "cards": [],
+                    "creation_time": 1530150061,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36361509_182887585899847_6331557662966153216_n.jpg?_nc_cat=0&oh=0ef6ae46ba1a490f8fc7b67e2a6fd743&oe=5C056E89",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36261549_182887582566514_3234457188202184704_n.jpg?_nc_cat=0&oh=b1f0e477e7a0c11bd29f6f8a39773e06&oe=5C0F3F59"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36264901_182887572566515_1826810660852334592_n.jpg?_nc_cat=0&oh=4489e8e122739b747f881d10b12063ca&oe=5C3AA827",
+                    "is_reshared": false,
+                    "link_description": "La conspiraci\u00f3n, con nombre c\u00f3digo Operaci\u00f3n Constituci\u00f3n, involucraba a decenas de capitanes, coroneles y generales de los cuatro componentes de las Fuerzas Armadas de Venezuela. El objetivo era d\u2026",
+                    "link_url": "https://www.lapatilla.com/2018/06/27/bloomberg-destapa-expediente-del-regimen-que-acusa-a-maria-corina-machado-de-encabezar-rebelion-militar/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36268669_182887569233182_1083868648214364160_n.jpg?_nc_cat=0&oh=435ba46db98f1615e2689ba59c07489c&oe=5C022EE2",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Bloomberg destapa expediente del r\u00e9gimen que acusa a Mar\u00eda Corina Machado de encabezar rebeli\u00f3n militar",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "185056622161142",
+                "adid": "23843185163730436",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530169200,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23843185154870436",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[VIDEO #4]\u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT2yBt3GorvncIN4_3ZbGbXrtLXFl9FX9J1XY8lIiJa6DRWMI8Xmuxvrc3E9WyUxXcaJTTAM_labcYneM7SgWv1EVcMdUDsIONL_dNNmx67NfS34xrFou7N5fv27XWV5F7lvs24SQUg\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> <br /> \u201cCuando le das a Dios sacrificio, le est\u00e1s dando placer y agrado. Y cuando agradas a Dios, tu sientes gozo. Y gozo; es fortaleza!\u201d. <br /> <br /> Click para ver el video aqu\u00ed: \u279c<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fcf.guillermomaldonado.org%2Fsacerdocio-libro&amp;h=AT1nLLza4bzUVIVeN1Vf17EeI68FYwPOcDAfSgbEMzczYxKWeM0eJ4Rrs-frsOQ3aOSQYK8aT4_QZxEJWVQkyIshjW2tuK79r_PuIRKs5LsdidImEWy8hll8_Q4oBvqaPg8UxsqUYWE\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://cf.guillermomaldonado.org/sacerdocio-libro</a><br /> Ya puedes ordenar mi nuevo libro hoy mismo..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530220809,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36371307_2286712764677927_2510550234396884992_n.jpg?_nc_cat=0&oh=d02243257d45d4bc75bed57783428720&oe=5C0005CC",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36376898_2286712768011260_9220414737123115008_n.jpg?_nc_cat=0&oh=df8ab2a3a83ebbe52f2146311f489c33&oe=5C0AC57B"
+                        }
+                    ],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36366103_1617128658386213_4130657987742138368_n.jpg?_nc_cat=0&oh=c6a625d881920bdf5c08925ea5b54ba6&oe=5BF3ADC8",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://cf.guillermomaldonado.org/sacerdocio-libro",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36336089_1617128655052880_1759654234384498688_n.jpg?_nc_cat=0&oh=b8e673cf3658f7a9940dbaea7311e855&oe=5BF35E37",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "236861950476400",
+                "adid": "6096267135405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096267131805,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "EXCELENTE EL VETO MIGRATORIO DE LOS EEUU CONTRA VENEZUELA, QUE SOLO ABARCA A LOS FUNCIONARIOS Y ENCHUFADOS DEL NARCO-REGIMEN CORRUPTO Y GENOCIDA, ASI COMO A SUS FAMILIARES Y ALLEGADOS...<br /> <br /> Les esta llegando a esta banda de demonios y monstruos rojos el momento de pagar por sus fechorias y diabolicas gestiones anti-sociales y politicas... <br /> <br /> Son sancionados en lo personal, asi como sus bienes decomisados y congelados... Su gobierno ilegitimo e inconstitucional tambien es sancionado y no puede hacer negocios con muchos paises del mundo, mientras que la Comunidad Internacional casi en pleno esta en su contra y ahora viene les viene la mejor parte...<br /> <br /> EEUU no los dejaran entrar, ni les daran mas visas de turistas o de negocios, ni podran hacer sus negocios sucios en el Imperio que tanto odian, donde no les da escrupulo alguno de mantener sus dineros y propiedades mal habidos... Ni tampoco les da verguenza alguna de venir a refugiarse a los EEUU para vivir como reyes con el dinero robado al pueblo de Venezuela, ya que la vida en nuestro pais se ha hecho imposible gracias a estos mismos traidores que destrozaron nuestra nacion... <br /> <br /> Ojala que se queden todos en la ruina y que vivan en carne propia lo que le hicieron a los venezolanos, de sumirlos en la miseria absoluta; o que les toque vivir el resto de sus vidas en una carcel nacional o internacional...<br /> <br /> Aquellos chavistas que descaradamente se vinieron para los EEUU para establecerse en este pais y disfrutar de la libertad y de la abundancia que ofrece gringolandia, pueden desde ya bajarse de esa mata de prosperidad y paz, porque seran perseguidos hasta sus ultimas guaridas, en EEUU o en el exterior y pagaran por todo el mal causado, porque hay listados de sus actividades que fueron entregadas al gobierno Americano ya que estos narco-truhanes y terroristas estan vigilados y seran perseguidos hasta que paguen por todo el danio cometido...<br /> <br />  <br /> Jose Antonio Colina<br /> \u200f<br />  <br /> &#064;JoseColinaP<br /> Following &#064;JoseColinaP<br /> Con el veto migratorio en Estados Unidos donde se encuentran los funcionarios del r\u00e9gimen de Venezuela, aprovecharemos para reenviar informaci\u00f3n de chavistas viviendo en USA al Servicio de Inmigraci\u00f3n.<br /> <br /> Translate Tweet<br /> 12:20 PM - 26 Jun 2018"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "noticiasdevenezuela.org",
+                    "cards": [],
+                    "creation_time": 1530147625,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36287677_236861980476397_320867566346043392_n.jpg?_nc_cat=0&oh=f30a930a035639b8edd817129b632c82&oe=5C03DDA1",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36257705_236861977143064_5704682648966791168_n.jpg?_nc_cat=0&oh=b3bfad85bc37612f1e3b5021accfa857&oe=5C0BBCDA"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": "La Corte Suprema de Estados Unidos respald\u00f3 el veto migratorio impuesto por el presidente Donald Trump, en septiembre pasado y activado desde diciembre. Luego de una exhaustiva revisi\u00f3n, la Corte neg\u00f3 que dicho decreto sea discriminatorio o est\u00e9 por encima de los poderes que le confieren a Trump...",
+                    "link_url": "https://noticiasdevenezuela.org/2018/06/26/ni-la-mascota-podra-entrar-que-es-el-veto-migratorio-de-trump-y-a-cuales-chavistas-afecta/",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36346853_236861973809731_9055448917344256_n.jpg?_nc_cat=0&oh=4331d4bc91220c2e9a39b0c58d8d438b&oe=5C002627",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "\u00a1NI LA MASCOTA PODR\u00c1 ENTRAR\u2026! \u00bfQu\u00e9 es el veto migratorio de Trump y a cu\u00e1les chavistas afecta? - Noticias Venezuela",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1807594349318228",
+                "adid": "6096265642405",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530342000,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "574323562632591",
+                "pageName": "Luz para Venezuela - Luz para las Americas",
+                "snapshot": {
+                    "ad_creative_id": 6096265637205,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Quieren aislar cada vez mas al pa\u00eds, igual como los Castro hicieron en Cuba... <br /> <br /> No quieren que la gente se informe de nada... Pero sobre todo  quieren mantener al pueblo sin influencias externas para lavarles el cerebro y manipularlo con su basura comunistoide y su robolucion fracasada y fraudulenta... <br /> <br /> Esta escoria y lacra social roja se aferrara al poder con la ultima gota de sangre que les quede porque ya no tienen ni para donde agarrar...<br /> <br /> O una fracci\u00f3n de las FAN se fortalece y finalmente habr\u00e1n de lograr \u00e9xitosamente sacar a esta prodredumbre chavista/madurista, o nos hundimos peor que la Cuba Castro-Comunista que es autora intelectual y complice - junto a Chavez y Fidel -- de nuestra miseria, de la corrupci\u00f3n, y del genocidio que existe en Venezuela..."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": "",
+                    "byline": "Videl",
+                    "caption": "elmundo.es",
+                    "cards": [],
+                    "creation_time": 1530144935,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Luz para Venezuela - Luz para las Americas",
+                    "disclaimer_label": 1,
+                    "display_format": "image",
+                    "effective_authorization_category": "POLITICAL",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36277155_1807594379318225_7573869381306810368_n.jpg?_nc_cat=0&oh=2d3cb68fc461cc1faf0a268effad529d&oe=5BEE6C5C",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/35111786_1807594382651558_8075636121142296576_n.jpg?_nc_cat=0&oh=4e2c8d52c8112e99846e9f0bb734ec46&oe=5BF964D5"
+                        }
+                    ],
+                    "instagram_actor_name": "Luz para Venezuela - Luz para",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36297051_1807594365984893_4415645753779683328_n.jpg?_nc_cat=0&oh=4ff99b95cd730f2ff5476a4bb91f3e1a&oe=5C064680",
+                    "is_reshared": false,
+                    "link_description": "El gobierno de Venezuela ha empezado a bloquear el acceso a Tor, el navegador con el que muchos usuarios intentan evitar los bloqueos estatales de p\u00e1ginas webs. Seg\u00fan informa Acces",
+                    "link_url": "http://www.elmundo.es/tecnologia/2018/06/26/5b324955ca47412e4e8b4674.html",
+                    "page_categories": {
+                        "2612": "Community"
+                    },
+                    "page_id": 574323562632591,
+                    "page_is_deleted": false,
+                    "page_like_count": 515741,
+                    "page_name": "Luz para Venezuela - Luz para las Americas",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36270153_1807594369318226_3951965521204740096_n.jpg?_nc_cat=0&oh=853fc3144f22854ab2919c3ff4fc2f2a&oe=5BEDFC6D",
+                    "page_profile_uri": "https://www.facebook.com/luzparavenezuela/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Venezuela bloquea el navegador Tor como medida de censura de Internet",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "250163995620639",
+                "adid": "23842950269690033",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530428400,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1017644601605126",
+                "pageName": "Luciano Victorino",
+                "snapshot": {
+                    "ad_creative_id": "23842950269630033",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Luciano \u00e9 ativista LGBT do PSOL. Foi a candidatura LGBT mais votada em 2016 em Porto Alegre."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1534333107,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Luciano Victorino 5024",
+                    "disclaimer_label": null,
+                    "display_format": "page_like",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39241148_250164042287301_5853858184690663424_n.jpg?_nc_cat=0&oh=d26ed2eaa5ccd8791bcd60933902887b&oe=5C109BD3",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/39147832_250164045620634_4470274336170704896_n.jpg?_nc_cat=0&oh=fa1a5e48a382f12be0cb52ee82bdd986&oe=5C093283"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "https://www.facebook.com/lucianovictorino50/",
+                    "page_categories": {
+                        "1700": "Politician"
+                    },
+                    "page_id": 1017644601605126,
+                    "page_is_deleted": false,
+                    "page_like_count": 19434,
+                    "page_name": "Luciano Victorino",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/39144127_250164028953969_2591171379042713600_n.jpg?_nc_cat=0&oh=b828e4bb99bb41e5ef7b4d0c92799947&oe=5BFE38A6",
+                    "page_profile_uri": "https://www.facebook.com/lucianovictorino50/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1884470991576219",
+                "adid": "6092626009305",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530169200,
+                "gatedType": "taken-down",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "1376429435927935",
+                "pageName": "FONDISMO TOTAL",
+                "snapshot": {
+                    "ad_creative_id": 6092626001905,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "#LoNuevoDe #Adidas #AdidasRunning<br /> UltraBOOST Parley es la zapatilla oficial de Run For The Oceans 2018, el evento global<br /> m\u00e1s grande de adidas, que empodera a las comunidades del running a luchar contra la<br /> contaminaci\u00f3n marina por pl\u00e1stico.<br /> - La parte superior Primeknit 85% Parley Ocean Plastic\u00ae de la UltraBOOST est\u00e1 hecha con<br /> aproximadamente 11 botellas de pl\u00e1stico interceptadas de playas y comunidades<br /> costeras.<br /> - La nueva paleta de color Deep Ocean Blue est\u00e1 inspirada en las profundidades de la Fosa<br /> de las Marianas.<br /> Desde 2015, adidas apoya a Parley en sus programas de educaci\u00f3n y comunicaci\u00f3n, mientras se<br /> convierte en pionero de creativas eco-innovaciones, tales como Parley Ocean Plastic \u00ae , para ayudar<br /> a combatir la contaminaci\u00f3n marina por pl\u00e1stico. Este a\u00f1o, adidas aportar\u00e1 US$ 1 por cada<br /> kil\u00f3metro registrado en Runtastic durante la fase de la campa\u00f1a global \u2013 por el primer mill\u00f3n de<br /> kil\u00f3metros \u2013 para apoyar elParley Ocean Plastic Program. El dinero recaudado durante Run For<br /> The Oceans financiar\u00e1 la iniciativa Parley Ocean School, que educa a la pr\u00f3xima generaci\u00f3n sobre<br /> c\u00f3mo proteger nuestros oc\u00e9anos.<br /> Cada nueva UltraBOOST Parley evita que aproximadamente 11 botellas de pl\u00e1stico entren al<br /> oc\u00e9ano mediante el uso de Parley Ocean Plastic \u00ae . Esta revolucionaria eco-innovaci\u00f3n inicia vida, ya<br /> que el desecho de pl\u00e1stico es recolectado de las playas y es reelaborado en tejido para construir la<br /> parte superior Primeknit de la silueta. La silueta tambi\u00e9n presenta la ic\u00f3nica tecnolog\u00eda BOOST de<br /> adidas, ofreciendo el m\u00e1s alto retorno de energ\u00eda contenido en una suela exterior de goma<br /> Continental natural para brindar una adherencia superior en todas las condiciones.<br /> Un chip NFC en el pie derecho permite que el usuario conozca m\u00e1s sobre la alianza y sobre c\u00f3mo<br /> evitar el pl\u00e1stico en sus vidas.<br /> Matthias Amm, Director de la Categor\u00eda Producto de adidas Running, acot\u00f3: \u201cLa nueva silueta<br /> UltraBOOST representa otro hito en nuestra duradera alianza con Parley for the Oceans. Juntos,<br /> estamos transformando las amenazas en hilos y continuaremos haci\u00e9ndolo al invertir en la eco-<br /> innovaci\u00f3n a largo plazo. Con el movimiento Run for the Oceans, nuestra ambici\u00f3n es inspirar a los<br /> entusiastas del running a apoyarnos en la lucha contra la contaminaci\u00f3n marina por pl\u00e1stico \u2013 cada<br /> kil\u00f3metro cuenta\u201d.<br /> Los consumidores pueden unirse al movimiento entre el 8 de junio y 8 de julio junto con las estrellas<br /> m\u00e1s celebradas en las pistas de adidas, incluyendo a Wayde van Niekerk y Shaunae Miller. Para<br /> conocer m\u00e1s, incluyendo c\u00f3mo reg\u00edstrate, visita <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fadidas.com%2FParley&amp;h=AT38t8aVOLNaMCkB1HhhSWe4CtGaz4xXtJ1cbix-i0ql6fG6919bsrD5rk2eWrjlGB-G9er_Vzexxn4F7TOaOsMXpgblPdHrAXZQwpx231trYAH6fds8H5G5D4s6Q4qj37EnzKio0h8\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">adidas.com/Parley</a>.<br /> La UltraBOOST Parley cuestan S/. 649 y estar\u00e1 disponibles en <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.adidas.pe%2F&amp;h=AT3kjU0fskJFtpcPcQAVQ1zlhxtUN22Rryrq-H5kyAxl41Tvq8O3VWxaHsTsZ_DMipTF7M1RHRLX1isCBosBtIjwuANNu-hODXH0DGilKGBPXhzi1lwCTt1B5iQt8WlhJgaR7ljJbFk\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.adidas.pe</a> desde el 20 de junio<br /> y en tiendas a nivel mundial a partir del 27 de junio de 2018. Para conocer m\u00e1s, por favor<br /> visita:<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.adidas.com%2Fultraboost&amp;h=AT3WAtm7ePc6ivLYQrNFhwN8mIfGpWXH7rXndWbd19Kv90PUTwzYX5bl_jn1VFm9RF7CrcJd4uR2QS-QVvpSfGgBqQV89i3_Y7latTUEZTc5GrjvH0QL5yaxluW4ex_428UMX8hN88o\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">www.adidas.com/ultraboost</a>.<br /> Sigue la conversaci\u00f3n en &#064;adidasrunning enInstagram,Facebook yTwitter, y usando<br /> #UltraBOOST, #RunForTheOceans, #adidasParley."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1533046937,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "FONDISMO TOTAL",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/36367204_2172320383005499_1511176860048818176_n.jpg?_nc_cat=0&oh=c16acfe3b3d8c7f77f15f9b9802e8ccc&oe=5C0FCFF5",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36242422_2172320386338832_6820601751893180416_n.jpg?_nc_cat=0&oh=8b2a94a6df6cbc46b4a8fd042263af7f&oe=5BFB6388"
+                        }
+                    ],
+                    "instagram_actor_name": "",
+                    "instagram_profile_pic_url": "",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": null,
+                    "page_categories": {
+                        "2710": "Rec Site"
+                    },
+                    "page_id": 1376429435927935,
+                    "page_is_deleted": false,
+                    "page_like_count": 253003,
+                    "page_name": "FONDISMO TOTAL",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/38032196_1785722841504132_1920266469153701888_n.jpg?_nc_cat=0&oh=dcd6df47d59f189dcb5dd4c893dc883d&oe=5BEDACD1",
+                    "page_profile_uri": "https://www.facebook.com/FondismoTotal/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "171389003719700",
+                "adid": "23842923675560514",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530687600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "127789930632668",
+                "pageName": "Conectas Direitos Humanos",
+                "snapshot": {
+                    "ad_creative_id": "23842923675060514",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Entidades de direitos humanos e defensores p\u00fablicos apresentaram ontem o pr\u00e9-projeto de lei que cria o Mecanismo Estadual de Preven\u00e7\u00e3o e Combate \u00e0 Tortura. O mecanismo \u00e9 um \u00f3rg\u00e3o composto por especialistas independentes e com acesso livre a qualquer local de priva\u00e7\u00e3o de liberdade. A partir de inspe\u00e7\u00f5es, os membros do mecanismo podem solicitar a instaura\u00e7\u00e3o de inqu\u00e9ritos, fazer per\u00edcias, elaborar relat\u00f3rios, fazer recomenda\u00e7\u00f5es, sistematizar dados e sugerir pol\u00edticas p\u00fablicas."
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "conectas.org",
+                    "cards": [],
+                    "creation_time": 1530538655,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Conectas Direitos Humanos",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36501682_171389047053029_716378941287301120_n.jpg?_nc_cat=0&oh=8587e134a375ed2bbeef98b72bd53e8a&oe=5C3B0279",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/s600x600/36485486_171389043719696_1022848372802846720_n.jpg?_nc_cat=0&oh=b7d4c203bbd6808cb8ba3c1005818a2d&oe=5C078AF0"
+                        }
+                    ],
+                    "instagram_actor_name": "Conectas Direitos Humanos",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36474124_171389023719698_5199235345496932352_n.jpg?_nc_cat=0&oh=2a65232b0d2a8a872af61563d36bedb5&oe=5BF75A27",
+                    "is_reshared": false,
+                    "link_description": "Entidades de direitos humanos e defensores p\u00fablicos apresentaram pr\u00e9-projeto de lei que cria mecanismo paulista nos moldes do nacional",
+                    "link_url": "http://www.conectas.org/noticias/ato-mecanismo-de-combate-tortura-sp",
+                    "page_categories": {
+                        "2603": "Non Profit"
+                    },
+                    "page_id": 127789930632668,
+                    "page_is_deleted": false,
+                    "page_like_count": 178155,
+                    "page_name": "Conectas Direitos Humanos",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36528462_171389027053031_8013774049320632320_n.jpg?_nc_cat=0&oh=d2ae23719982619b7f0854a50eb27d5f&oe=5BFC729A",
+                    "page_profile_uri": "https://www.facebook.com/conectas/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "Ato pede cria\u00e7\u00e3o de mecanismo de combate \u00e0 tortura em SP - Conectas",
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "1973229516029135",
+                "adid": "23842894286840067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894286670067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT3-kaGL9R5eydmszXDAXL5cl0-FlxvpxOngeg6AcWZtHcg4rlTuZach-hdMloJ2lxl8aaUZvlzOBG34JEX_QhLqdpbcxU5ljpgGAe-rErrlt9jiAX18WVpzVMCdi4iprRps50XRMfs\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530109640,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36314176_1973229556029131_3958151794529402880_n.jpg?_nc_cat=0&oh=3b15dfdfecbfd90093583e1ee8395489&oe=5C02086C",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36245213_1973229552695798_3243901211400732672_n.jpg?_nc_cat=0&oh=506f91c5e80fd306d592c0cffb57d09d&oe=5C036E25",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=ca1e05a43d3ebc8735ad75fd7192fd74&oe=5B79D323",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36267341_1973229569362463_5871337146807222272_n.jpg?_nc_cat=0&oh=8dcd467102b882636202d50456536b08&oe=5BFBF633",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=2532179351f274ff988c76a74f52a9ac&oe=5B79CD9C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "467306653691569",
+                "adid": "23842894282560067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894281950067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT3xLJkln4LTxuY0mma-O7TFWFwXVqkJ7LQbSBkWcU_xgdj5_760N2f9n32kEb4s2J0Kdsp3vxUZWA8gDh6IrdLcOdQkeTmNiRWE7ZyuVBan08UWWYCvyprgjakE2j4X3jT0ow8MPMA\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530115211,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36320622_467306670358234_6875629289501360128_n.jpg?_nc_cat=0&oh=f95df30b2a701c38b7e631bbc318860d&oe=5C108EB4",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36245625_467306673691567_2890602252513312768_n.jpg?_nc_cat=0&oh=3e0fa572b1cda4a7a318bdce5511e523&oe=5C0F8495",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=ca1e05a43d3ebc8735ad75fd7192fd74&oe=5B79D323",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36277120_467306683691566_4920214246811238400_n.jpg?_nc_cat=0&oh=db244b0b3c5ce9d03f27824c55d188c9&oe=5C0B41AB",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=2532179351f274ff988c76a74f52a9ac&oe=5B79CD9C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "283804622164133",
+                "adid": "23842894284330067",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530255600,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "149876501694908",
+                "pageName": "Apostol Guillermo Maldonado",
+                "snapshot": {
+                    "ad_creative_id": "23842894284240067",
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "[EN VIVO AHORA] \u00danete a miles de l\u00edderes que est\u00e1n recibiendo de lo que hemos aprendido en mas de 30 a\u00f1os de ministerio sobrenatural. La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.<br /> <br /> Ver ahora:<br /> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.kingjesus.org%2Ferjmiami%2Flive%2Fsms&amp;h=AT2M09AaI0H2r5vUvhvi5mEcili3Oqr2zzJTlbEiCd5vL0q-oSuZCCvBo5buqMrzOOniHHVr7N1VV2UucV7vO6Kgmv0xPAx3P1XD3PF-NQmBtUPxxszKTT3n-DDDjwf7eHPC0HzgLoM\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">https://secure.kingjesus.org/erjmiami/live/sms</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": "kingjesus.org",
+                    "cards": [],
+                    "creation_time": 1530113715,
+                    "cta_text": "Learn More",
+                    "cta_type": "Saiba mais",
+                    "current_page_name": "Apostol Guillermo Maldonado",
+                    "disclaimer_label": null,
+                    "display_format": "video",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [],
+                    "instagram_actor_name": "Guillermo Maldonado",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36328616_283804652164130_3053465887664242688_n.jpg?_nc_cat=0&oh=9148de35574c3942cec14e5dda18790d&oe=5C3877DF",
+                    "is_reshared": false,
+                    "link_description": "La Escuela del Ministerio Sobrenatural es una conferencia que le ayudar\u00e1 a aumentar su influencia y a expandir su llamado.",
+                    "link_url": "https://secure.kingjesus.org/erjmiami/live/sms",
+                    "page_categories": {
+                        "1602": "Person"
+                    },
+                    "page_id": 149876501694908,
+                    "page_is_deleted": false,
+                    "page_like_count": 2806176,
+                    "page_name": "Apostol Guillermo Maldonado",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36322778_283804655497463_4148496747859017728_n.jpg?_nc_cat=0&oh=70c355dc48049a95ac5941ab8572ce0e&oe=5C10376A",
+                    "page_profile_uri": "https://www.facebook.com/apostolgmaldonado/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": "EN VIVO | Conferencia de liderazgo | 27 - 29 de junio",
+                    "version": 3,
+                    "videos": [
+                        {
+                            "video_hd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/10000000_243112803131119_5095541666601762816_n.mp4?_nc_cat=0&oh=ca1e05a43d3ebc8735ad75fd7192fd74&oe=5B79D323",
+                            "video_preview_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36254333_283804665497462_7937340493493436416_n.jpg?_nc_cat=0&oh=4ee71821637721a5542aaedbfa9c501b&oe=5BF97E97",
+                            "video_sd_url": "https://video.fplu4-1.fna.fbcdn.net/v/t42.9040-2/35237112_637414043273228_1810124682842603520_n.mp4?_nc_cat=0&oh=2532179351f274ff988c76a74f52a9ac&oe=5B79CD9C"
+                        }
+                    ]
+                },
+                "startDate": 1530082800
+            },
+            {
+                "adArchiveID": "667925983554388",
+                "adid": "6098331322818",
+                "archiveTypes": [
+                    1
+                ],
+                "endDate": 1530082800,
+                "gatedType": "eligible",
+                "isActive": false,
+                "isPromotedNews": false,
+                "pageID": "161154460715395",
+                "pageName": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                "snapshot": {
+                    "ad_creative_id": 6098331275618,
+                    "body": {
+                        "context": [],
+                        "markup": {
+                            "__html": "Ateneos Interinstitucionales A\u00f1o 2018: &quot;A los 90...&quot;<br /> 27 de Junio de 2018<br /> Presentado por los Residentes del Instituto de Previsi\u00f3n Social.<br /> Local: Sal\u00f3n Auditorio del Centro Oftalmol\u00f3gico (Av. Brasilia 1155 - 2do. piso).<br /> V\u00e1lido para Certificaci\u00f3n y Recertificaci\u00f3n.<br /> El evento ser\u00e1 transmitido en la plataforma Adobe Connect en el siguiente enlace: \ud83d\udc49\ud83c\udffc<a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fmeet79792352.adobeconnect.com%2Fspopy%2F&amp;h=AT1tNPxWaifgSYRFGXo_95qRazm4g62O8bdGgrRvI7nECm-C18hWeAr83Nb1JgSHhUk-XmLmGkAzcAOaN7ENfu2EL0H-Lhheh0ncqDpZmuT_3-oddzJi27fJgnH6p737t8OKSxJEYzo\" rel=\"nofollow noopener\" target=\"_blank\" data-lynx-mode=\"origin\">http://meet79792352.adobeconnect.com/spopy/</a>"
+                        }
+                    },
+                    "body_translations": {},
+                    "branded_content": null,
+                    "brazil_tax_id": null,
+                    "byline": "",
+                    "caption": null,
+                    "cards": [],
+                    "creation_time": 1530085096,
+                    "cta_text": null,
+                    "cta_type": null,
+                    "current_page_name": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                    "disclaimer_label": null,
+                    "display_format": "image",
+                    "effective_authorization_category": "NONE",
+                    "event": {},
+                    "images": [
+                        {
+                            "original_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-9/35987462_940766666087500_9171232920587730944_n.jpg?_nc_cat=0&oh=9e5a0f55e6c72a71eac1b652cf2e6b17&oe=5BF03D91",
+                            "resized_image_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t1.6435-0/s600x600/36189346_940766662754167_2213750754244558848_n.jpg?_nc_cat=0&oh=448a55e24c5ae8ef30bc51c494a68d9f&oe=5C03E183"
+                        }
+                    ],
+                    "instagram_actor_name": "Pablo Cibils Farr\u00e9s",
+                    "instagram_profile_pic_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36332341_667926013554385_6457083828857995264_n.jpg?_nc_cat=0&oh=9157e77146447593f2ea013c10f3b356&oe=5BFA9C57",
+                    "is_reshared": false,
+                    "link_description": null,
+                    "link_url": "http://meet79792352.adobeconnect.com/spopy/",
+                    "page_categories": {
+                        "176831012360626": "Topic Professional Services"
+                    },
+                    "page_id": 161154460715395,
+                    "page_is_deleted": false,
+                    "page_like_count": 3987,
+                    "page_name": "Sociedad Paraguaya de Oftalmolog\u00eda",
+                    "page_profile_picture_url": "https://scontent.fplu4-1.fna.fbcdn.net/v/t39.16868-6/36275650_667926016887718_862536961838022656_n.jpg?_nc_cat=0&oh=d90d2b418f48de4bd97570a8ab3bad89&oe=5BFA8D0F",
+                    "page_profile_uri": "https://www.facebook.com/SociedadParaguayaDeOftalmologia/",
+                    "page_welcome_message": null,
+                    "root_reshared_post": null,
+                    "title": null,
+                    "version": 3,
+                    "videos": []
+                },
+                "startDate": 1529996400
+            }
+        ],
+        "totalCount": 205,
+        "viewAllPageName": null
+    },
+    "qexData": {},
+    "resource_map": {
+        "+ClWy": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/0xhx3obSVLq.js",
+            "type": "js"
+        },
+        "17QGt": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iKR74/yh/l/pt_BR/J9akhmTuRJl.js",
+            "type": "js"
+        },
+        "3m+iq": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i0jd4/yw/l/pt_BR/TNx6CPIqAYv.js",
+            "type": "js"
+        },
+        "8ELCB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/4c56_sYLseJ.js",
+            "type": "js"
+        },
+        "99wy7": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iHck4/y3/l/pt_BR/C0xT3aZA78n.js",
+            "type": "js"
+        },
+        "GefKK": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iodhJ-EFFd0.js",
+            "type": "js"
+        },
+        "KwxK6": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i5VZ4/yO/l/pt_BR/lAEdDz_m3rK.js",
+            "type": "js"
+        },
+        "NDZ0t": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iAmK4/y2/l/pt_BR/7euMtjWmKIe.js",
+            "type": "js"
+        },
+        "SPnjx": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3iibY4/yJ/l/pt_BR/dLaVV5AAsLx.js",
+            "type": "js"
+        },
+        "W84PE": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y_/l/0,cross/u1_7xcvZbf1.css",
+            "type": "css"
+        },
+        "WwS8Y": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/6elOpcEjZcw.js",
+            "type": "js"
+        },
+        "ZN6iu": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/SZGEmabJgYn.js",
+            "type": "js"
+        },
+        "ZU1ro": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/QKWIqWeZBgJ.js",
+            "type": "js"
+        },
+        "kpjLg": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i8xr4/yv/l/pt_BR/lAsaLeNrywO.js",
+            "type": "js"
+        },
+        "oE4Do": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/eAdKAwutbmm.js",
+            "type": "js"
+        },
+        "swPXB": {
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3i3Tz4/yl/l/pt_BR/14kAs-HUIqC.js",
+            "type": "js"
+        },
+        "uF5ts": {
+            "permanent": 1,
+            "src": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/MhYAT45bC6Q.css",
+            "type": "css"
+        }
+    }
+}
