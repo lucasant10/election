@@ -144,7 +144,7 @@ if __name__ == "__main__":
         
         for input_ in inputs:
             
-            features = list(input_)
+            features = sorted(list(input_))
             
             file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
             file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
@@ -173,7 +173,11 @@ if __name__ == "__main__":
                 pro_publica_classifier (file_in_politics, file_in_non_politics)
 
             if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest'] or MODEL_TYPE == 'all':
-                bow_classifier (MODEL_TYPE, file_in_politics, file_in_non_politics)
+                if MODEL_TYPE != 'all':
+                    bow_classifier (MODEL_TYPE, file_in_politics, file_in_non_politics)
+                else:
+                    for model in ['svm', 'logistic', 'gradient_boosting', 'random_forest']:
+                        bow_classifier (model, file_in_politics, file_in_non_politics)
 
             if MODEL_TYPE == 'cnn' or MODEL_TYPE == 'all':
                 cnn_classifier (file_in_politics, file_in_non_politics)

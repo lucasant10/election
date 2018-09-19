@@ -15,14 +15,14 @@ import argparse
 import seaborn as sn
 import configparser
 import numpy as np
-from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix, roc_curve, auc
+from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix, roc_curve, auc, f1_score, recall_score, precision_score
 from sklearn.model_selection import cross_val_score, cross_val_predict, StratifiedKFold, train_test_split
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
 import gc
-from utils import save_report_to_csv
+from utils import save_report_to_csv,get_model_name_by_file
 from prop_classifier import get_vectorizer
 from scipy import interp
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
@@ -174,14 +174,31 @@ if __name__ == "__main__":
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
 
+    ff1 = f1_score (y_true, y_pred, average='weighted')
+    recall = recall_score (y_true, y_pred, average='weighted')
+    precision = precision_score (y_true, y_pred, average='weighted')
+
+    f1_macro = f1_score (y_true, y_pred, average='macro')
+    recall_macro = recall_score (y_true, y_pred, average='macro')
+    precision_macro = precision_score (y_true, y_pred, average='macro')
+
     save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_validation_report.csv', [
         'MultinomialNB', 
+        get_model_name_by_file(MODEL_FILE),
         p,
         r, 
         f1,
         s,
+        
+        f1_macro,
+        recall_macro,
+        precision_macro,
+
         mean_auc, 
-        std_auc
+        std_auc,
+        ff1,
+        recall,
+        precision
     ])
 
     print ('Confusion Matrix')

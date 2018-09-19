@@ -171,7 +171,10 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
     print(cv_object)
     p, r, f1 = [], [], []
     p1, r1, f11 = 0., 0., 0.
+    p_class, r_class, f1_class = [], [], []
     sentence_len = X.shape[1]
+
+    marcro_f1, macro_r, macro_p = [],[],[]
     
     precision_scores = []
     recall_scores = []
@@ -217,24 +220,48 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
         #print(y_pred)
         p.append (precision_score(y_test, y_pred, average='weighted'))
         p1 += precision_score(y_test, y_pred, average='micro')
+        p_class.append(precision_score(y_test, y_pred, average=None))
         r.append(recall_score(y_test, y_pred, average='weighted'))
         r1 += recall_score(y_test, y_pred, average='micro')
+        r_class.append(recall_score(y_test, y_pred, average=None))
         f1.append (f1_score(y_test, y_pred, average='weighted'))
         f11 += f1_score(y_test, y_pred, average='micro')
+        f1_class.append(f1_score(y_test, y_pred, average=None))
+
+        macro_p.append(precision_score(y_test, y_pred, average='macro'))
+        macro_r.append(recall_score(y_test, y_pred, average='macro'))
+        marcro_f1.append(f1_score(y_test, y_pred, average='macro'))
 
     print("macro results are")
     print("average precision is %f" % (np.array(p).mean()))
     print("average recall is %f" % (np.array(r).mean()))
     print("average f1 is %f" % (np.array(f1).mean()))
 
-    save_report_to_csv (REPORT_FOLDER  +'cnn_training_report.csv', [
+    save_report_to_csv (REPORT_FOLDER  +'CNN_training_report.csv', [
         'CNN', 
+        #weighted scores
         np.array(p).mean(),
         np.array(p).std() * 2,
         np.array(r).mean(),
         np.array(r).std() * 2,
         np.array(f1).mean(),
         np.array(f1).std() * 2,
+
+        #macro scores
+        np.array(macro_p).mean(),
+        np.array(macro_p).std() * 2,
+        np.array(macro_r).mean(),
+        np.array(macro_r).std() * 2,
+        np.array(marcro_f1).mean(),
+        np.array(marcro_f1).std() * 2,
+
+        #by class scores
+        np.array(p_class[:,0]).mean(),
+        np.array(p_class[:,1]).mean(),
+        np.array(r_class[:,0]).mean(),
+        np.array(r_class[:,1]).mean(),
+        np.array(f1_class[:,0]).mean(),
+        np.array(f1_class[:,1]).mean(),
     ])
 
     print("micro results are")
@@ -242,7 +269,7 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
     print("average recall is %f" % (r1 / NO_OF_FOLDS))
     print("average f1 is %f" % (f11 / NO_OF_FOLDS))
 
-    return ((p / NO_OF_FOLDS), (r / NO_OF_FOLDS), (f1 / NO_OF_FOLDS))
+    #return ((p / NO_OF_FOLDS), (r / NO_OF_FOLDS), (f1 / NO_OF_FOLDS))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='CNN based models for politics text')

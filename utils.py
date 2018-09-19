@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import csv
+from run import SKL_FOLDER, REPORT_FOLDER, H5_FOLDER, NPY_FOLDER, TMP_FOLDER
 
 def save_report_to_csv (file_name, features):
     print ('Saving %s' % (file_name))
@@ -26,3 +27,17 @@ def report2dict(cr):
     
     return D_class_data
         
+
+def get_model_name_by_file (file_name):
+
+    model = file_name.replace (SKL_FOLDER, '')
+    model = model.replace (REPORT_FOLDER, '')
+    model = model.replace (H5_FOLDER, '')
+    model = model.replace (NPY_FOLDER, '')
+    model = model.replace (TMP_FOLDER, '')
+    model = model.replace ('.politics', '')
+    model = model.replace ('_ben.skl', '')
+
+    model = ' '.join(model.split('_')).upper()
+
+    return model

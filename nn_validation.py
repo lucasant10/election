@@ -173,6 +173,15 @@ if __name__ == "__main__":
 
     print(classification_report(y_true, y_pred))
     p, r, f1, s = precision_recall_fscore_support(y_true, y_pred)
+
+    ff1 = f1_score (y_true, y_pred, average='weighted')
+    recall = recall_score (y_true, y_pred, average='weighted')
+    precision = precision_score (y_true, y_pred, average='weighted')
+
+    f1_macro = f1_score (y_true, y_pred, average='macro')
+    recall_macro = recall_score (y_true, y_pred, average='macro')
+    precision_macro = precision_score (y_true, y_pred, average='macro')
+
     
     generate_normal(X,y_true)
     mean_auc, std_auc = generate_roc_curve (X, y_true)
@@ -184,6 +193,12 @@ if __name__ == "__main__":
         r, 
         f1,
         s,
-        mean_auc,
-        std_auc
+        f1_macro,
+        recall_macro,
+        precision_macro,
+        mean_auc, 
+        std_auc,
+        ff1,
+        recall,
+        precision
     ])  

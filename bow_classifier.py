@@ -37,6 +37,7 @@ from utils import save_report_to_csv
 from time import gmtime, strftime
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 from scipy.stats import norm
+from sklearn.metrics.scorer import make_scorer
 import seaborn as sns
 
 def log (text):
@@ -216,21 +217,20 @@ def generate_roc_curve (classifier, X, y, model_name=None):
 def classification_model(X, Y, model_type=None):
     X, Y = shuffle(X, Y, random_state=SEED)
     print("Model Type:", model_type)
-    #predictions = cross_val_predict(logreg, X, Y, cv=NO_OF_FOLDS)
-    model = GridSearchCV(estimator=get_model(model_type),
-                         param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+    
+    model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+
+    predictions = cross_val_predict(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS)
 
     scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
-    print("Precision(avg): %0.3f (+/- %0.3f)" %
-          (scores1.mean(), scores1.std() * 2))
+    print("Precision(avg): %0.3f (+/- %0.3f)" %(scores1.mean(), scores1.std() * 2))
+
     precision_score_mean = scores1.mean()
     precision_score_std = scores1.std() * 2
 
-    scores2 = cross_val_score(
-        model, X, Y, cv=NO_OF_FOLDS, scoring='recall_weighted')
-    print("Recall(avg): %0.3f (+/- %0.3f)" %
-          (scores2.mean(), scores2.std() * 2))
+    scores2 = cross_val_score(model, X, Y, cv=NO_OF_FOLDS, scoring='recall_weighted')
+    print("Recall(avg): %0.3f (+/- %0.3f)" % (scores2.mean(), scores2.std() * 2))
 
     recall_score_mean = scores2.mean()
     recall_score_std = scores2.std() * 2
@@ -243,15 +243,44 @@ def classification_model(X, Y, model_type=None):
     f1_score_mean = scores3.mean()
     f1_score_std = scores3.std() * 2
 
+    # getting metrics by class
+    f1_class = f1_score(Y, predictions, average=None)
+    r_class = recall_score(Y, predictions, average=None)
+    p_class = precision_score(Y, predictions, average=None)
+
+    f1_macro = cross_val_score(model, X, Y, cv=NO_OF_FOLDS, scoring='f1_macro')
+    r_macro = cross_val_score(model, X, Y, cv=NO_OF_FOLDS, scoring='recall_macro')
+    p_macro = cross_val_score(model, X, Y, cv=NO_OF_FOLDS, scoring='precision_macro')
+
+    print (f1_class, r_class, p_class)
+    
     save_report_to_csv (REPORT_FOLDER + model_type +'_training_report.csv', [
         model_type, 
-        POLITICS_FILE.replace(TMP_FOLDER, ''),
+        get_model_name_by_file(POLITICS_FILE),
+        
+        # weighted scores
         precision_score_mean,
         precision_score_std,
         recall_score_mean,
         recall_score_std,
         f1_score_mean,
         f1_score_std,
+
+        #macro scores
+        f1_macro.mean(),
+        f1_macro.std() * 2,
+        r_macro.mean(),
+        r_macro.std() * 2,
+        p_macro.mean(),
+        p_macro.std() * 2,
+
+        # by class
+        f1_class[0],
+        f1_class[1],
+        r_class[0],
+        r_class[1],
+        p_class[0],
+        p_class[1],
     ])
 
     return model
@@ -356,6 +385,8 @@ if __name__ == "__main__":
     model = classification_model(X, Y, MODEL_TYPE)
 
     input_file = POLITICS_FILE.replace(TMP_FOLDER, '')
+
+    print ('Dumping -> ' + SKL_FOLDER + MODEL_TYPE + '_'+ input_file+'_ben.skl')
 
     joblib.dump(model, SKL_FOLDER + MODEL_TYPE + '_'+ input_file+'_ben.skl')
 

@@ -10,15 +10,15 @@ import os
 from imblearn.over_sampling import SMOTE
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import HashingVectorizer
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.metrics import classification_report
+from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict
+from sklearn.metrics import classification_report, f1_score, recall_score, precision_score
 import gc
 from sklearn.externals import joblib
 import argparse
 import configparser
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 from bow_classifier import SEED, NO_OF_FOLDS, save_report_to_csv
-
+from utils import get_model_name_by_file
 POLITICS_FILE = 'politics.txt' 
 NON_POLITICS_FILE = 'non-politics.txt' 
 
@@ -54,6 +54,8 @@ def train_classifier(classifier, vectorizer, data):
 
     scores1 = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
+    predictions = cross_val_predict(classifier.fit(x_train, y_train), x_train, y_train, cv=NO_OF_FOLDS)
+
     print("Precision(avg): %0.3f (+/- %0.3f)" %
           (scores1.mean(), scores1.std() * 2))
     precision_score_mean = scores1.mean()
@@ -75,15 +77,39 @@ def train_classifier(classifier, vectorizer, data):
     f1_score_mean = scores3.mean()
     f1_score_std = scores3.std() * 2
 
+     # getting metrics by class
+    f1_class = f1_score(y_train, predictions, average=None)
+    r_class = recall_score(y_train, predictions, average=None)
+    p_class = precision_score(y_train, predictions, average=None)
+
+    f1_macro = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='f1_macro')
+    r_macro = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='recall_macro')
+    p_macro = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='precision_macro')
+
     save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_training_report.csv', [
         'MultinomialNB', 
-        POLITICS_FILE.replace(TMP_FOLDER, ''),
+        get_model_name_by_file(POLITICS_FILE),
         precision_score_mean,
         precision_score_std,
         recall_score_mean,
         recall_score_std,
         f1_score_mean,
         f1_score_std,
+
+         #macro scores
+        f1_macro.mean(),
+        f1_macro.std() * 2,
+        r_macro.mean(),
+        r_macro.std() * 2,
+        p_macro.mean(),
+        p_macro.std() * 2,
+
+        f1_class[0],
+        f1_class[1],
+        r_class[0],
+        r_class[1],
+        p_class[0],
+        p_class[1],
     ])
 
     return classifier
@@ -123,9 +149,6 @@ if __name__ == "__main__":
     input_file = POLITICS_FILE.replace(TMP_FOLDER, '').strip()
 
     joblib.dump(model, SKL_FOLDER + 'propublica_'+ input_file+'_ben.skl')
-
-
-    
 
     gc.collect()
     exit(0) 

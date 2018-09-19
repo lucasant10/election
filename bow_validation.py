@@ -10,14 +10,14 @@ import argparse
 import seaborn as sn
 import configparser
 import numpy as np
-from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix
+from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix, f1_score, recall_score, precision_score
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
 import gc
 from bow_classifier import generate_roc_curve, generate_normal
-from utils import save_report_to_csv
+from utils import save_report_to_csv, get_model_name_by_file
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 
 MODEL_FILE = ''
@@ -118,7 +118,6 @@ if __name__ == "__main__":
     X = gen_data(texts)
 
     mean_auc, std_auc = generate_roc_curve (model, X, y_true, MODEL_FILE)
-    generate_normal(model, X, y_true, MODEL_FILE)
     
     print ('Predicting...')
 
@@ -131,15 +130,31 @@ if __name__ == "__main__":
     model_name = MODEL_FILE.replace (SKL_FOLDER, '')
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace('_', ' ').upper()
+    
+    generate_normal(model, X, y_true, model_name)
+
+    ff1 = f1_score (y_true, y_pred, average='weighted')
+    recall = recall_score (y_true, y_pred, average='weighted')
+    precision = precision_score (y_true, y_pred, average='weighted')
+
+    f1_macro = f1_score (y_true, y_pred, average='macro')
+    recall_macro = recall_score (y_true, y_pred, average='macro')
+    precision_macro = precision_score (y_true, y_pred, average='macro')
 
     save_report_to_csv (REPORT_FOLDER + model_name +'_validation_report.csv', [
-        model_name, 
+        get_model_name_by_file(MODEL_FILE), 
         p,
         r, 
         f1,
         s,
+        f1_macro,
+        recall_macro,
+        precision_macro,
         mean_auc, 
-        std_auc
+        std_auc,
+        ff1,
+        recall,
+        precision
     ])
 
     print ('Confusion Matrix')
