@@ -141,17 +141,20 @@ if __name__ == "__main__":
     recall_macro = recall_score (y_true, y_pred, average='macro')
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
-    save_report_to_csv (REPORT_FOLDER + model_name +'_validation_report.csv', [
+    save_report_to_csv (REPORT_FOLDER  +'validation_report.csv', [
         get_model_name_by_file(MODEL_FILE), 
         p,
         r, 
         f1,
         s,
+
         f1_macro,
         recall_macro,
         precision_macro,
+        
         mean_auc, 
         std_auc,
+        
         ff1,
         recall,
         precision

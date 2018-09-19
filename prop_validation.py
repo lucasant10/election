@@ -182,7 +182,7 @@ if __name__ == "__main__":
     recall_macro = recall_score (y_true, y_pred, average='macro')
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
-    save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_validation_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         'MultinomialNB', 
         get_model_name_by_file(MODEL_FILE),
         p,
@@ -196,6 +196,7 @@ if __name__ == "__main__":
 
         mean_auc, 
         std_auc,
+
         ff1,
         recall,
         precision

@@ -86,9 +86,10 @@ def train_classifier(classifier, vectorizer, data):
     r_macro = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='recall_macro')
     p_macro = cross_val_score(classifier, x_train, y_train, cv=NO_OF_FOLDS, scoring='precision_macro')
 
-    save_report_to_csv (REPORT_FOLDER + 'MultinomialNB_training_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + 'training_report.csv', [
         'MultinomialNB', 
         get_model_name_by_file(POLITICS_FILE),
+
         precision_score_mean,
         precision_score_std,
         recall_score_mean,
@@ -96,7 +97,7 @@ def train_classifier(classifier, vectorizer, data):
         f1_score_mean,
         f1_score_std,
 
-         #macro scores
+        #macro scores
         f1_macro.mean(),
         f1_macro.std() * 2,
         r_macro.mean(),
@@ -104,6 +105,7 @@ def train_classifier(classifier, vectorizer, data):
         p_macro.mean(),
         p_macro.std() * 2,
 
+        #class scores
         f1_class[0],
         f1_class[1],
         r_class[0],

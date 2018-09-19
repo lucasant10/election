@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 import csv
 from run import SKL_FOLDER, REPORT_FOLDER, H5_FOLDER, NPY_FOLDER, TMP_FOLDER
+import datetime
 
 def save_report_to_csv (file_name, features):
     print ('Saving %s' % (file_name))
+    features.append (datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f"))
     with open(file_name, 'a') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(features)
@@ -39,5 +41,17 @@ def get_model_name_by_file (file_name):
     model = model.replace ('_ben.skl', '')
 
     model = ' '.join(model.split('_')).upper()
+
+    return model
+
+def get_model_unixname_by_file (file_name):
+
+    model = file_name.replace (SKL_FOLDER, '')
+    model = model.replace (REPORT_FOLDER, '')
+    model = model.replace (H5_FOLDER, '')
+    model = model.replace (NPY_FOLDER, '')
+    model = model.replace (TMP_FOLDER, '')
+    model = model.replace ('.politics', '')
+    model = model.replace ('_ben.skl', '')
 
     return model
