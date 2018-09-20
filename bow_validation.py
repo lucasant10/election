@@ -17,7 +17,7 @@ from sklearn.externals import joblib
 import gensim
 import gc
 from bow_classifier import generate_roc_curve, generate_normal
-from utils import save_report_to_csv, get_model_name_by_file
+from utils import save_report_to_csv, get_model_name_by_file, get_model_name
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 
 MODEL_FILE = ''
@@ -142,11 +142,16 @@ if __name__ == "__main__":
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
     save_report_to_csv (REPORT_FOLDER  +'validation_report.csv', [
+        get_model_name (MODEL_FILE),
         get_model_name_by_file(MODEL_FILE), 
-        p,
-        r, 
-        f1,
-        s,
+        p[0],
+        p[1],
+        r[0],
+        r[1], 
+        f1[0],
+        f1[1],
+        s[0],
+        s[1],
 
         f1_macro,
         recall_macro,

@@ -44,14 +44,11 @@ def get_model_name_by_file (file_name):
 
     return model
 
-def get_model_unixname_by_file (file_name):
+def get_model_name (file_name):
 
-    model = file_name.replace (SKL_FOLDER, '')
-    model = model.replace (REPORT_FOLDER, '')
-    model = model.replace (H5_FOLDER, '')
-    model = model.replace (NPY_FOLDER, '')
-    model = model.replace (TMP_FOLDER, '')
-    model = model.replace ('.politics', '')
-    model = model.replace ('_ben.skl', '')
+    if 'svm' in file_name: return 'svm'
+    if 'logistc' in file_name: return 'logistc'
+    if 'random_forest' in file_name: return 'random_forest'
+    if 'gradient_boosting' in file_name: return 'gradient_boosting'
 
-    return model
+    return 'ERROR'

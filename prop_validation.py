@@ -185,10 +185,14 @@ if __name__ == "__main__":
     save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         'MultinomialNB', 
         get_model_name_by_file(MODEL_FILE),
-        p,
-        r, 
-        f1,
-        s,
+        p[0],
+        p[1],
+        r[0],
+        r[1], 
+        f1[0],
+        f1[1],
+        s[0],
+        s[1],
         
         f1_macro,
         recall_macro,

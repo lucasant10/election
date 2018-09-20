@@ -261,7 +261,7 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
         np.array(r_class[:,0]).mean(),
         np.array(r_class[:,1]).mean(),
         np.array(f1_class[:,0]).mean(),
-        np.array(f1_class[:,1]).mean(),
+        np.array(f1_class[:,1]).mean()
     ])
 
     print("micro results are")

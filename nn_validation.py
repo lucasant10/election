@@ -16,7 +16,7 @@ from sklearn.metrics import roc_curve, auc, classification_report, precision_rec
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.model_selection import StratifiedKFold
-from utils import save_report_to_csv
+from utils import save_report_to_csv, get_model_name_by_file
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 import matplotlib
 matplotlib.use("agg")
@@ -24,9 +24,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER
 from bow_classifier import SEED
+from scipy.stats import norm
+
 H5_FILE = 'cnn_model.h5'
 NPY_FILE = 'cnn_model.npy'
-from scipy.stats import norm
+
+
 
 def load_file():
     texts = list()
@@ -188,16 +191,24 @@ if __name__ == "__main__":
 
     save_report_to_csv (REPORT_FOLDER + 'CNN_validation_report.csv', [ 
         'CNN',
-        H5_FILE,
-        p,
-        r, 
-        f1,
-        s,
+        get_model_name_by_file(H5_FILE),
+        
+        p[0],
+        p[1],
+        r[0],
+        r[1], 
+        f1[0],
+        f1[1],
+        s[0],
+        s[1],
+
         f1_macro,
         recall_macro,
         precision_macro,
+        
         mean_auc, 
         std_auc,
+        
         ff1,
         recall,
         precision
