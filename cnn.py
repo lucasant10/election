@@ -273,6 +273,7 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
     #return ((p / NO_OF_FOLDS), (r / NO_OF_FOLDS), (f1 / NO_OF_FOLDS))
 
 if __name__ == "__main__":
+    print ('Starting CNN...')
     parser = argparse.ArgumentParser(description='CNN based models for politics text')
     parser.add_argument('-f', '--embeddingfile', required=True)
     parser.add_argument('-d', '--dimension', required=True)
