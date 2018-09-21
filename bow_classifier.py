@@ -254,7 +254,7 @@ def classification_model(X, Y, model_type=None):
 
     print (f1_class, r_class, p_class)
     
-    save_report_to_csv (REPORT_FOLDER  +model_type+'training_report.csv', [
+    save_report_to_csv (REPORT_FOLDER  + model_type +'_training_report.csv', [
         model_type, 
         get_model_name_by_file(POLITICS_FILE),
         
