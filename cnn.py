@@ -308,7 +308,7 @@ if __name__ == "__main__":
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']
 
-    word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v+W2VEC_MODEL_FILE,
+    word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(W2VEC_MODEL_FILE,
                                                    binary=False,
                                                    unicode_errors="ignore")
 
