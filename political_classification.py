@@ -8,8 +8,12 @@ import h5py
 class PoliticalClassification:
 
     def __init__(self, arg_model, dictfile, maxlen):
+        cf = configparser.ConfigParser()
+        cf.read("file_path.properties")
+        path = dict(cf.items("file_path"))
+        self.dir_model = path['dir_model']
         self.maxlen = maxlen
-        self.model = load_model(arg_model)
+        self.model = load_model( arg_model)
         self.model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
         self.vocab = np.load( dictfile).item()
         
