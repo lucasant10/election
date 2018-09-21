@@ -113,7 +113,7 @@ if __name__ == "__main__":
         description='Probublica model for politics texts')
     parser.add_argument('--rootfolder', default=ROOT_FOLDER)
     parser.add_argument('-m', '--model', choices=[
-                        'logistic', 'gradient_boosting', 'random_forest', 'svm', 'svm_linear', 'cnn', 'propublica', 'all'], required=True)
+                        'logistic', 'gradient_boosting', 'random_forest', 'svm', 'svm_linear', 'cnn', 'propublica', 'bow', 'all'], required=True)
 
     args = parser.parse_args()
     
@@ -172,8 +172,8 @@ if __name__ == "__main__":
             if MODEL_TYPE == 'propublica' or MODEL_TYPE == 'all':
                 pro_publica_classifier (file_in_politics, file_in_non_politics)
 
-            if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest'] or MODEL_TYPE == 'all':
-                if MODEL_TYPE != 'all':
+            if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest', 'bow'] or MODEL_TYPE == 'all':
+                if MODEL_TYPE != 'all' and MODEL_TYPE != 'bow':
                     bow_classifier (MODEL_TYPE, file_in_politics, file_in_non_politics)
                 else:
                     for model in ['svm', 'logistic', 'gradient_boosting', 'random_forest']:

@@ -101,7 +101,7 @@ def gen_sequence(vocab, texts, tx_class):
     y_map = dict()
     for i, v in enumerate(sorted(set(tx_class))):
         y_map[v] = i
-    print(y_map)
+    
     X, y = [], []
     for i, text in enumerate(texts):
         seq = []
