@@ -47,8 +47,9 @@ def get_model_name_by_file (file_name):
 def get_model_name (file_name):
 
     if 'svm' in file_name: return 'svm'
-    if 'logistc' in file_name: return 'logistc'
+    if 'logistic' in file_name: return 'logistic'
     if 'random_forest' in file_name: return 'random_forest'
     if 'gradient_boosting' in file_name: return 'gradient_boosting'
+    if 'propublica' in file_name: return 'multinomialb'
 
     return 'ERROR'

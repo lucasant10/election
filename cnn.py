@@ -27,7 +27,7 @@ import json
 import h5py
 import math
 import os
-from utils import save_report_to_csv
+from utils import save_report_to_csv, get_model_name_by_file
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER, NPY_FOLDER
 
 from bow_classifier import generate_roc_curve
@@ -239,6 +239,7 @@ def train_CNN(X, y, inp_dim, model, weights, epochs=EPOCHS, batch_size=BATCH_SIZ
 
     save_report_to_csv (REPORT_FOLDER  +'CNN_training_report.csv', [
         'CNN', 
+        get_model_name_by_file (POLITICS_FILE),
         #weighted scores
         np.array(p).mean(),
         np.array(p).std() * 2,
