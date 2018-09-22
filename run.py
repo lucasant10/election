@@ -6,7 +6,7 @@ import os
 import argparse
 
 ROOT_FOLDER = '/Volumes/Data/eleicoes/'
-ROOT_FOLDER = '/scratch1/marcio/eleicoes/'
+#ROOT_FOLDER = '/scratch1/marcio/eleicoes/'
 INPUT_FOLDER = ROOT_FOLDER + 'input/'
 OUTPUT_FOLDER = ROOT_FOLDER + 'output/'
 PLOT_FOLDER =  OUTPUT_FOLDER +'plot/'
