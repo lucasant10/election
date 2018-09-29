@@ -1,5 +1,5 @@
 import csv
-with open('/Volumes/Data/eleicoes/rsync/report/training_report.csv', 'r') as csvfile:
+with open('/Volumes/Data/eleicoes/report/validation_balanced.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
     for row in spamreader:
         model_name = row[0].replace ('_', ' ').capitalize()

@@ -126,11 +126,11 @@ if __name__ == "__main__":
 
     out = glob.glob(INPUT_FOLDER + "*.txt")
 
-    if os.path.isfile(REPORT_FOLDER + "training_report.csv"):
-        os.remove(REPORT_FOLDER + "training_report.csv")
+    #if os.path.isfile(REPORT_FOLDER + "training_report.csv"):
+     #   os.remove(REPORT_FOLDER + "training_report.csv")
 
-    if os.path.isfile(REPORT_FOLDER + "validation_report.csv"):
-        os.remove(REPORT_FOLDER + "validation_report.csv")
+    #if os.path.isfile(REPORT_FOLDER + "validation_report.csv"):
+    #    os.remove(REPORT_FOLDER + "validation_report.csv")
 
     print ('Reading input folder: {}'.format(INPUT_FOLDER))
 
@@ -145,6 +145,9 @@ if __name__ == "__main__":
         for input_ in inputs:
             
             features = sorted(list(input_))
+
+            if not ('_'.join(features) == 'S1' or '_'.join(features) == 'S1_S2' or '_'.join(features) == 'S1_S2_S3'):
+                continue
             
             file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
             file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'

@@ -15,14 +15,14 @@ import argparse
 import seaborn as sn
 import configparser
 import numpy as np
-from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix, roc_curve, auc, f1_score, recall_score, precision_score
+from sklearn.metrics import classification_report, accuracy_score, precision_recall_fscore_support, confusion_matrix, roc_curve, auc, f1_score, recall_score, precision_score
 from sklearn.model_selection import cross_val_score, cross_val_predict, StratifiedKFold, train_test_split
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
 import gc
-from utils import save_report_to_csv,get_model_name_by_file
+from utils import save_report_to_csv, get_model_name_by_file, load_validation_file_csv
 from prop_classifier import get_vectorizer
 from scipy import interp
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
@@ -34,7 +34,7 @@ MODEL_FILE = ''
 def load_file():
     texts = list()
     xl = pd.ExcelFile("Dados Rotulados.xlsx")
-    df = xl.parse("Sheet1")
+    df = xl.parse("Sheet2")
 
     texts = [tw for tw in df.iloc[:,1]]
     
@@ -152,8 +152,8 @@ if __name__ == "__main__":
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']
 
-    print ('Loading excel validation file...')
-    texts, y_true = load_file()
+    
+    texts, y_true = load_validation_file_csv()
 
     print ('Loading '+MODEL_FILE+' file...')
     model = joblib.load(MODEL_FILE)
@@ -182,9 +182,14 @@ if __name__ == "__main__":
     recall_macro = recall_score (y_true, y_pred, average='macro')
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
+    accuracy = accuracy_score (y_true, y_pred)
+
     save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         'MultinomialNB', 
         get_model_name_by_file(MODEL_FILE),
+
+        accuracy,
+
         p[0],
         p[1],
         r[0],

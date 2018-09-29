@@ -10,15 +10,16 @@ import argparse
 import seaborn as sn
 import configparser
 import numpy as np
-from sklearn.metrics import classification_report, precision_recall_fscore_support, confusion_matrix, f1_score, recall_score, precision_score
+from sklearn.metrics import classification_report, accuracy_score, precision_recall_fscore_support, confusion_matrix, f1_score, recall_score, precision_score
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.externals import joblib
 import gensim
 import gc
 from bow_classifier import generate_roc_curve, generate_normal
-from utils import save_report_to_csv, get_model_name_by_file, get_model_name
-from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
+from utils import save_report_to_csv, get_model_name_by_file, get_model_name, load_validation_file_csv
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER, INPUT_FOLDER
+import csv 
 
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
@@ -27,15 +28,20 @@ EMBEDDING_DIM = 300
 
 
 def load_file():
+    print ('Loading excel validation file...')
+
     texts = list()
     xl = pd.ExcelFile("Dados Rotulados.xlsx")
-    df = xl.parse("Sheet1")
+    df = xl.parse("Sheet2")
 
     texts = [tw for tw in df.iloc[:,1]]
     
     y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
     
     return texts, y_true
+
+
+
 def plot_confusion_matrix (confusion_matrix_array):
 
     df_cm = pd.DataFrame(confusion_matrix_array, range(2), range(2))
@@ -105,10 +111,11 @@ if __name__ == "__main__":
     word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v + W2VEC_MODEL_FILE,
                                                                      binary=False,
                                                                      unicode_errors="ignore")
-    print ('Loading excel validation file...')
-    texts, y_true = load_file()
+    
+    texts, y_true = load_validation_file_csv()
 
     print ('Loading ' + MODEL_FILE + ' file...')
+
     model = joblib.load( MODEL_FILE)
     pol = ''
     n_pol = ''
@@ -141,9 +148,14 @@ if __name__ == "__main__":
     recall_macro = recall_score (y_true, y_pred, average='macro')
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
+    accuracy = accuracy_score (y_true, y_pred)
+
     save_report_to_csv (REPORT_FOLDER  + get_model_name (MODEL_FILE) +'_validation_report.csv', [
         get_model_name (MODEL_FILE),
         get_model_name_by_file(MODEL_FILE), 
+
+        accuracy,
+        
         p[0],
         p[1],
         r[0],

@@ -12,11 +12,11 @@ import argparse
 import numpy as np
 from scipy import interp
 from political_classification import PoliticalClassification
-from sklearn.metrics import roc_curve, auc, classification_report, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score
+from sklearn.metrics import roc_curve, auc, classification_report, accuracy_score, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.model_selection import StratifiedKFold
-from utils import save_report_to_csv, get_model_name_by_file
+from utils import save_report_to_csv, get_model_name_by_file, load_validation_file_csv
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 import matplotlib
 matplotlib.use("agg")
@@ -34,7 +34,7 @@ NPY_FILE = 'cnn_model.npy'
 def load_file():
     texts = list()
     xl = pd.ExcelFile("Dados Rotulados.xlsx")
-    df = xl.parse("Sheet1")
+    df = xl.parse("Sheet2")
 
     texts = [tx for tx in df.iloc[:,1]]
     y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     path = dict(cf.items("file_path"))
     dir_in = path['dir_in']
 
-    X, y_true = load_file()
+    X, y_true = load_validation_file_csv()
     tp = TextProcessor()
 
     pc = PoliticalClassification(H5_FILE, NPY_FILE, 25)
@@ -185,6 +185,8 @@ if __name__ == "__main__":
     recall_macro = recall_score (y_true, y_pred, average='macro')
     precision_macro = precision_score (y_true, y_pred, average='macro')
 
+    accuracy = accuracy_score (y_true, y_pred)
+
     
     generate_normal(X,y_true)
     mean_auc, std_auc = generate_roc_curve (X, y_true)
@@ -192,6 +194,8 @@ if __name__ == "__main__":
     save_report_to_csv (REPORT_FOLDER + 'CNN_validation_report.csv', [ 
         'CNN',
         get_model_name_by_file(H5_FILE),
+
+        accuracy,
         
         p[0],
         p[1],

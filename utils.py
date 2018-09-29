@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import csv
-from run import SKL_FOLDER, REPORT_FOLDER, H5_FOLDER, NPY_FOLDER, TMP_FOLDER
+from run import SKL_FOLDER, REPORT_FOLDER, H5_FOLDER, NPY_FOLDER, TMP_FOLDER, INPUT_FOLDER
 import datetime
 
 def save_report_to_csv (file_name, features):
@@ -39,6 +39,9 @@ def get_model_name_by_file (file_name):
     model = model.replace (TMP_FOLDER, '')
     model = model.replace ('.politics', '')
     model = model.replace ('_ben.skl', '')
+    model = model.replace ('propublica', '')
+    model = model.replace ('H5', '')
+    model = model.replace ('CNN MODEL ', '')
 
     model = ' '.join(model.split('_')).upper()
 
@@ -53,3 +56,19 @@ def get_model_name (file_name):
     if 'propublica' in file_name: return 'multinomialb'
 
     return 'ERROR'
+
+def load_validation_file_csv():
+    print ('Loading CSV validation file...')
+    
+    texts = list()
+    y_true = list()
+
+    with open(INPUT_FOLDER + 'fold0.csv', 'r') as csvfile:
+    
+        spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
+        
+        for row in spamreader:
+            texts.append(row[0])
+            y_true.append (int(row[1]))
+    
+    return texts, y_true
