@@ -146,7 +146,7 @@ if __name__ == "__main__":
             
             features = sorted(list(input_))
 
-            if not ('_'.join(features) == 'S1' or '_'.join(features) == 'S1_S2' or '_'.join(features) == 'S1_S2_S3'):
+            if not ('_'.join(features) == 'S2' or '_'.join(features) == 'S1_S2_S3'):
                 continue
             
             file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
