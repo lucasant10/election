@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 import warnings
 
-warnings.simplefilter("ignore")
-def warn(*args, **kwargs):
+#warnings.simplefilter("ignore")
+#def warn(*args, **kwargs):
     pass
 
-warnings.warn = warn
+#warnings.warn = warn
 
 import sys
 import argparse
@@ -33,7 +33,7 @@ from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER, NPY_FOLDER
 from bow_classifier import generate_roc_curve
 from text_processor import TextProcessor
 #os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
-
+print ('import')
 ### Preparing the text data
 texts = []  # list of text samples
 labels_index = {}  # dictionary mapping label name to numeric id
