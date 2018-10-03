@@ -7,8 +7,10 @@ from subprocess import call
 import os
 import argparse
 
-ROOT_FOLDER = '/Volumes/Data/eleicoes/'
-ROOT_FOLDER = '/home/vod/marcio.inacio/results/'
+ROOT_FOLDER = os.environ.get('ROOT_FOLDER','/Volumes/Data/eleicoes/')
+
+#ROOT_FOLDER = '/Volumes/Data/eleicoes/'
+#ROOT_FOLDER = '/home/vod/marcio.inacio/results/'
 INPUT_FOLDER = ROOT_FOLDER + 'input/'
 OUTPUT_FOLDER = ROOT_FOLDER + 'output/'
 PLOT_FOLDER =  OUTPUT_FOLDER +'plot/'
