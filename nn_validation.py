@@ -41,7 +41,7 @@ def load_file():
     return texts, y_true
 
 
-def generate_roc_curve (X, y_true):
+def generate_roc_curve (X, y_true, fold='fold0'):
     cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
@@ -97,7 +97,7 @@ def generate_roc_curve (X, y_true):
     cnn_curve_plot = cnn_curve_plot.replace(H5_FOLDER, '')
     plt.title('ROC Curve: '+ cnn_curve_plot.replace('_', ' ').upper())
 
-    plt.savefig(PLOT_FOLDER + 'roc_curve_' + cnn_curve_plot + '.png')
+    plt.savefig(PLOT_FOLDER + 'roc_curve_' + cnn_curve_plot + '_' + fold + '.png')
     plt.clf()
 
     return mean_auc, std_auc
@@ -240,7 +240,7 @@ if __name__ == "__main__":
 
     generate_normal(X,y_true)
 
-    mean_auc, std_auc = generate_roc_curve (X, y_true)
+    mean_auc, std_auc = generate_roc_curve (X, y_true, get_model_name_by_file(VALIDATION_FILE))
 
     plot_confusion_matrix (confusion_matrix(y_true, y_pred))
 

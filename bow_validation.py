@@ -32,7 +32,7 @@ def plot_confusion_matrix (confusion_matrix_array):
 
     print (confusion_matrix_array)
 
-    save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE)+'_confusion_report.csv', [
+    save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE) + '_confusion_report.csv', [
         get_model_name (MODEL_FILE),
         get_model_name_by_file(MODEL_FILE), 
         confusion_matrix_array[0][0],
@@ -125,7 +125,7 @@ if __name__ == "__main__":
     texts = tp.text_process(texts, text_only=True)
     X = gen_data(texts)
 
-    mean_auc, std_auc = generate_roc_curve (model, X, y_true, MODEL_FILE)
+    mean_auc, std_auc = generate_roc_curve (model, X, y_true, MODEL_FILE, get_model_name_by_file(VALIDATION_FILE))
     
     print ('Predicting...')
 

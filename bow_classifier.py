@@ -139,7 +139,7 @@ def get_model(m_type=None):
 
     return logreg
 
-def generate_roc_curve (classifier, X, y, model_name=None):
+def generate_roc_curve (classifier, X, y, model_name=None, fold='fold0'):
     cv = StratifiedKFold(n_splits=NO_OF_FOLDS, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
@@ -204,11 +204,13 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
 
-    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper())
+    
+
+    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper() + ' ' + fold)
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig(PLOT_FOLDER + "roc_curve_" + model_name + ".png")
+    plt.savefig(PLOT_FOLDER + "roc_curve_" + model_name + '_' + fold + ".png")
     plt.clf()
 
     return mean_auc, std_auc

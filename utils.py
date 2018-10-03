@@ -44,8 +44,8 @@ def get_model_name_by_file (file_name):
     model = model.replace ('PROPUBLICA', '')
     model = model.replace ('h5', '')
     model = model.replace ('cnn model ', '')
-    model = model.replace ('.csv ', '')
-    model = model.replace ('.CSV ', '')
+    model = model.replace ('.csv', '')
+    model = model.replace ('.CSV', '')
 
     model = ' '.join(model.split('_')).upper()
 

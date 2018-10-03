@@ -91,7 +91,7 @@ def plot_confusion_matrix (confusion_matrix_array):
     fig.savefig(PLOT_FOLDER + 'confusion_matrix_publica_'+ model_name + '.png', dpi=400)
 
 
-def generate_roc_curve (classifier, X, y, model_name=None):
+def generate_roc_curve (classifier, X, y, model_name=None, fold='fold0'):
     cv = StratifiedKFold(n_splits=NO_OF_FOLDS, shuffle=True, random_state=SEED)
     tprs = []
     aucs = []
@@ -146,11 +146,11 @@ def generate_roc_curve (classifier, X, y, model_name=None):
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
 
-    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper())
+    plt.title('ROC Curve: '+ model_name.replace('_', ' ').upper() + ' ' + fold)
     plt.legend(loc="lower right")
 
     #plt.show()
-    plt.savefig(PLOT_FOLDER + "roc_curve_propublica_" + model_name + ".png")
+    plt.savefig(PLOT_FOLDER + "roc_curve_propublica_" + model_name + '_'+ fold + ".png")
     plt.clf()
 
     return mean_auc, std_auc
@@ -182,7 +182,7 @@ if __name__ == "__main__":
     y_pred = list()
 
    
-    mean_auc, std_auc = generate_roc_curve (model, texts, y_true, MODEL_FILE)
+    mean_auc, std_auc = generate_roc_curve (model, texts, y_true, MODEL_FILE, get_model_name_by_file(VALIDATION_FILE))
     
     print ('Predicting...')
 
