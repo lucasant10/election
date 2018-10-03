@@ -24,25 +24,24 @@ import csv
 MODEL_FILE = ''
 W2VEC_MODEL_FILE = ''
 EMBEDDING_DIM = 300
-
-
-
-def load_file():
-    print ('Loading excel validation file...')
-
-    texts = list()
-    xl = pd.ExcelFile("Dados Rotulados.xlsx")
-    df = xl.parse("Sheet2")
-
-    texts = [tw for tw in df.iloc[:,1]]
-    
-    y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
-    
-    return texts, y_true
-
-
+VALIDATION_FILE = ''
 
 def plot_confusion_matrix (confusion_matrix_array):
+
+    print ('###### Start Confusion Matrix ####')
+
+    print (confusion_matrix_array)
+
+    save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE)+'_confusion_report.csv', [
+        get_model_name (MODEL_FILE),
+        get_model_name_by_file(MODEL_FILE), 
+        confusion_matrix_array[0][0],
+        confusion_matrix_array[0][1],
+        confusion_matrix_array[1][0],
+        confusion_matrix_array[1][1]
+    ])
+
+    print ('###### End Confusion Matrix ####')
 
     df_cm = pd.DataFrame(confusion_matrix_array, range(2), range(2))
 
@@ -96,10 +95,12 @@ if __name__ == "__main__":
         description='Validation political BoW models')
     parser.add_argument('-m', '--model', required=True)
     parser.add_argument('-f', '--embeddingfile', required=True)
+    parser.add_argument('-vf', '--validationfile', required=True)
 
     args = parser.parse_args()
     W2VEC_MODEL_FILE = args.embeddingfile
     MODEL_FILE = args.model
+    VALIDATION_FILE = args.validationfile
     
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
@@ -112,7 +113,7 @@ if __name__ == "__main__":
                                                                      binary=False,
                                                                      unicode_errors="ignore")
     
-    texts, y_true = load_validation_file_csv()
+    texts, y_true = load_validation_file_csv(VALIDATION_FILE)
 
     print ('Loading ' + MODEL_FILE + ' file...')
 
@@ -152,8 +153,8 @@ if __name__ == "__main__":
 
     save_report_to_csv (REPORT_FOLDER  + get_model_name (MODEL_FILE) +'_validation_report.csv', [
         get_model_name (MODEL_FILE),
-        get_model_name_by_file(MODEL_FILE), 
-
+        get_model_name_by_file(MODEL_FILE),
+        get_model_name_by_file(VALIDATION_FILE), 
         accuracy,
         
         p[0],

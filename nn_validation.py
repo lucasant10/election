@@ -12,7 +12,7 @@ import argparse
 import numpy as np
 from scipy import interp
 from political_classification import PoliticalClassification
-from sklearn.metrics import roc_curve, auc, classification_report, accuracy_score, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score
+from sklearn.metrics import roc_curve, auc, classification_report, accuracy_score, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score, confusion_matrix
 from text_processor import TextProcessor
 import pandas as pd
 from sklearn.model_selection import StratifiedKFold
@@ -28,7 +28,7 @@ from scipy.stats import norm
 
 H5_FILE = 'cnn_model.h5'
 NPY_FILE = 'cnn_model.npy'
-
+VALIDATION_FILE = ''
 
 
 def load_file():
@@ -102,6 +102,55 @@ def generate_roc_curve (X, y_true):
 
     return mean_auc, std_auc
 
+def plot_confusion_matrix (confusion_matrix_array):
+
+    print ('###### Start Confusion Matrix ####')
+
+    print (confusion_matrix_array)
+
+    save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE) +'_confusion_report.csv', [
+        'MultinomialNB', 
+        get_model_name_by_file(MODEL_FILE),
+        confusion_matrix_array[0][0],
+        confusion_matrix_array[0][1],
+        confusion_matrix_array[1][0],
+        confusion_matrix_array[1][1]
+    ])
+
+
+    print ('###### End Confusion Matrix ####')
+
+
+    df_cm = pd.DataFrame(confusion_matrix_array, range(2), range(2))
+
+    #plt.figure(figsize = (10,7))
+
+    plot = df_cm.plot()
+    fig = plot.get_figure()
+    
+
+    ax = plt.subplot()
+    
+    sn.heatmap(df_cm, annot=True, fmt='g', ax = ax, annot_kws={"size": 16})# font size
+    
+    # labels, title and ticks
+    ax.set_xlabel('Predicted')
+    ax.set_ylabel('Real')
+    
+    ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
+    ax.xaxis.set_ticklabels(['Non Political', 'Political'])
+
+    model_name = MODEL_FILE
+    
+    model_name = model_name.replace ('.politics_ben.skl', '')
+    model_name = model_name.replace (SKL_FOLDER, '')
+    
+    ax.set_title(model_name.replace ('_', ' ').upper())
+
+    fig.add_subplot(ax)
+
+    fig.savefig(PLOT_FOLDER + 'cnn_confusion_matrix_publica_'+ model_name + '.png', dpi=400)
+
 
 def generate_normal(X, y_true):
     cv = StratifiedKFold(n_splits=10)
@@ -146,17 +195,19 @@ if __name__ == "__main__":
         description='Validation political CNN model')
     parser.add_argument('-h5',  default=H5_FILE)
     parser.add_argument('-npy', default=NPY_FILE)
+    parser.add_argument('-vf', '--validationfile', required=True)
 
     args = parser.parse_args()
     H5_FILE = args.h5
     NPY_FILE = args.npy
+    VALIDATION_FILE = args.validationfile
 
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
     path = dict(cf.items("file_path"))
     dir_in = path['dir_in']
 
-    X, y_true = load_validation_file_csv()
+    X, y_true = load_validation_file_csv(VALIDATION_FILE)
     tp = TextProcessor()
 
     pc = PoliticalClassification(H5_FILE, NPY_FILE, 25)
@@ -187,13 +238,16 @@ if __name__ == "__main__":
 
     accuracy = accuracy_score (y_true, y_pred)
 
-    
     generate_normal(X,y_true)
+
     mean_auc, std_auc = generate_roc_curve (X, y_true)
+
+    plot_confusion_matrix (confusion_matrix(y_true, y_pred))
 
     save_report_to_csv (REPORT_FOLDER + 'CNN_validation_report.csv', [ 
         'CNN',
         get_model_name_by_file(H5_FILE),
+        get_model_name_by_file(VALIDATION_FILE),
 
         accuracy,
         

@@ -7,8 +7,8 @@ from subprocess import call
 import os
 import argparse
 
-#ROOT_FOLDER = '/Volumes/Data/eleicoes/'
-ROOT_FOLDER = '/scratch1/marcio/eleicoes/'
+ROOT_FOLDER = '/Volumes/Data/eleicoes/'
+#ROOT_FOLDER = '/scratch1/marcio/eleicoes/'
 INPUT_FOLDER = ROOT_FOLDER + 'input/'
 OUTPUT_FOLDER = ROOT_FOLDER + 'output/'
 PLOT_FOLDER =  OUTPUT_FOLDER +'plot/'
@@ -20,7 +20,7 @@ TMP_FOLDER = ROOT_FOLDER + 'tmp/'
 
 MODEL_TYPE = 'all'
 
-def pro_publica_classifier (file_in_politics, file_in_non_politics):
+def pro_publica_classifier (file_in_politics, file_in_non_politics, validation_file):
     """
     " Pro Publica Classifier
     """
@@ -41,10 +41,11 @@ def pro_publica_classifier (file_in_politics, file_in_non_politics):
 
     call (["python", 
         "prop_validation.py", 
+        "-vf", validation_file,
         "-m", skl_file
     ])
     
-def bow_classifier (model, file_in_politics, file_in_non_politics):
+def bow_classifier (model, file_in_politics, file_in_non_politics, validation_file):
     print ('->>>> Running {} for {}'.format(model, ('_'.join(features))))
 
     skl_file = SKL_FOLDER + model + '_'+ file_in_politics.replace(TMP_FOLDER ,  '') +'_ben.skl'
@@ -67,11 +68,12 @@ def bow_classifier (model, file_in_politics, file_in_non_politics):
 
     call (["python", 
         "bow_validation.py", 
+        "-vf", validation_file,
         "-m", skl_file,
         "-f", "cbow_s300.txt"
     ])
 
-def cnn_classifier (file_in_politics, file_in_non_politics):
+def cnn_classifier (file_in_politics, file_in_non_politics, validation_file):
     print ('->>>> Running CNN for {}'.format(('_'.join(features))))
             
     h5_file = H5_FOLDER + 'cnn_model_' + file_in_politics.replace(TMP_FOLDER ,  '').strip() + ".h5"
@@ -99,6 +101,7 @@ def cnn_classifier (file_in_politics, file_in_non_politics):
     # python3 nn_validation.py -h5 h5_file_name -npy npy_file_name 
     call (["python", 
         "nn_validation.py", 
+        "-vf", validation_file,
         "-h5", h5_file,
         "-npy",npy_file
     ])
@@ -148,44 +151,51 @@ if __name__ == "__main__":
             
             features = sorted(list(input_))
 
-            if not ('_'.join(features) == 'S2' or '_'.join(features) == 'S1_S2_S3'):
-                continue
-            
-            file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
-            file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
+            for i in range (0, 5):
+                validation_file = INPUT_FOLDER + 'fold%s.csv' % (i)
 
-            # generate politics input file for model
-            with open(file_in_politics, 'w') as outfile:
-                for fname in features:
-                    politics_file = INPUT_FOLDER + fname + '_politics.txt'
-                    # combine multiples politics input files
-                    with open(politics_file) as infile:
-                        for line in infile:
-                            outfile.write(line)
+                print ('Validation file %s ' % (validation_file))
+                
+                
+                file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
 
-            # generate non politics input file for model
-            with open(file_in_non_politics, 'w') as outfile:
-                for fname in features:
-                    non_politics_file = INPUT_FOLDER + fname + '_non-politics.txt'
+                
+                file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
+                
+                # generate politics input file for model
+                with open(file_in_politics, 'w') as outfile:
+                    for fname in features:
+                        politics_file = INPUT_FOLDER + fname + '_politics.txt'
+                        # combine multiples politics input files
+                        with open(politics_file) as infile:
+                            for line in infile:
+                                outfile.write(line)
 
-                    # combine multiples non-politics input files
-                    with open(non_politics_file) as infile:
-                        for line in infile:
-                            outfile.write(line)
+                # generate non politics input file for model
+                with open(file_in_non_politics, 'w') as outfile:
+                    for fname in features:
+                        non_politics_file = INPUT_FOLDER + fname + '_non-politics.txt'
 
+                        # combine multiples non-politics input files
+                        with open(non_politics_file) as infile:
+                            for line in infile:
+                                outfile.write(line)
 
-            if MODEL_TYPE == 'propublica' or MODEL_TYPE == 'all':
-                pro_publica_classifier (file_in_politics, file_in_non_politics)
+                if 'S3' == ('_'.join(features)):
+                    file_in_non_politics = TMP_FOLDER +'S2.nonpolitics'
 
-            if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest', 'bow'] or MODEL_TYPE == 'all':
-                if MODEL_TYPE != 'all' and MODEL_TYPE != 'bow':
-                    bow_classifier (MODEL_TYPE, file_in_politics, file_in_non_politics)
-                else:
-                    for model in ['svm', 'logistic', 'gradient_boosting', 'random_forest']:
-                        bow_classifier (model, file_in_politics, file_in_non_politics)
+                if MODEL_TYPE == 'propublica' or MODEL_TYPE == 'all':
+                    pro_publica_classifier (file_in_politics, file_in_non_politics, validation_file)
 
-            if MODEL_TYPE == 'cnn' or MODEL_TYPE == 'all':
-                cnn_classifier (file_in_politics, file_in_non_politics)
+                if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest', 'bow'] or MODEL_TYPE == 'all':
+                    if MODEL_TYPE != 'all' and MODEL_TYPE != 'bow':
+                        bow_classifier (MODEL_TYPE, file_in_politics, file_in_non_politics, validation_file)
+                    else:
+                        for model in ['svm', 'logistic', 'gradient_boosting', 'random_forest']:
+                            bow_classifier (model, file_in_politics, file_in_non_politics, validation_file)
+
+                if MODEL_TYPE == 'cnn' or MODEL_TYPE == 'all':
+                    cnn_classifier (file_in_politics, file_in_non_politics, validation_file)
             
     # python3 run.py -m all
     # python3 run.py -m propublica

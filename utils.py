@@ -37,11 +37,15 @@ def get_model_name_by_file (file_name):
     model = model.replace (H5_FOLDER, '')
     model = model.replace (NPY_FOLDER, '')
     model = model.replace (TMP_FOLDER, '')
+    model = model.replace (INPUT_FOLDER, '')
     model = model.replace ('.politics', '')
     model = model.replace ('_ben.skl', '')
     model = model.replace ('propublica', '')
-    model = model.replace ('H5', '')
-    model = model.replace ('CNN MODEL ', '')
+    model = model.replace ('PROPUBLICA', '')
+    model = model.replace ('h5', '')
+    model = model.replace ('cnn model ', '')
+    model = model.replace ('.csv ', '')
+    model = model.replace ('.CSV ', '')
 
     model = ' '.join(model.split('_')).upper()
 
@@ -57,13 +61,26 @@ def get_model_name (file_name):
 
     return 'ERROR'
 
-def load_validation_file_csv():
+def load_file():
+    print ('Loading excel validation file...')
+
+    texts = list()
+    xl = pd.ExcelFile("Dados Rotulados.xlsx")
+    df = xl.parse("Sheet2")
+
+    texts = [tw for tw in df.iloc[:,1]]
+    
+    y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
+    
+    return texts, y_true
+
+def load_validation_file_csv(validation_file):
     print ('Loading CSV validation file...')
     
     texts = list()
     y_true = list()
 
-    with open(INPUT_FOLDER + 'fold0.csv', 'r') as csvfile:
+    with open(validation_file, 'r') as csvfile:
     
         spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
         

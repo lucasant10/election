@@ -29,7 +29,7 @@ from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 from bow_classifier import NO_OF_FOLDS, SEED
 
 MODEL_FILE = ''
-
+VALIDATION_FILE = ''
 
 def load_file():
     texts = list()
@@ -42,6 +42,23 @@ def load_file():
     
     return texts, y_true
 def plot_confusion_matrix (confusion_matrix_array):
+
+    print ('###### Start Confusion Matrix ####')
+
+    print (confusion_matrix_array)
+
+    save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE)+'_confusion_report.csv', [
+        'MultinomialNB', 
+        get_model_name_by_file(MODEL_FILE),
+        confusion_matrix_array[0][0],
+        confusion_matrix_array[0][1],
+        confusion_matrix_array[1][0],
+        confusion_matrix_array[1][1]
+    ])
+
+
+    print ('###### End Confusion Matrix ####')
+
 
     df_cm = pd.DataFrame(confusion_matrix_array, range(2), range(2))
 
@@ -142,9 +159,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Validation political Propublica model')
     parser.add_argument('-m', '--model', required=True)
+    parser.add_argument('-vf', '--validationfile', required=True)
 
     args = parser.parse_args()
     MODEL_FILE = args.model
+    VALIDATION_FILE = args.validationfile
     
     cf = configparser.ConfigParser()
     cf.read("file_path.properties")
@@ -153,7 +172,7 @@ if __name__ == "__main__":
     dir_in = path['dir_in']
 
     
-    texts, y_true = load_validation_file_csv()
+    texts, y_true = load_validation_file_csv(VALIDATION_FILE)
 
     print ('Loading '+MODEL_FILE+' file...')
     model = joblib.load(MODEL_FILE)
@@ -187,6 +206,7 @@ if __name__ == "__main__":
     save_report_to_csv (REPORT_FOLDER + 'validation_report.csv', [
         'MultinomialNB', 
         get_model_name_by_file(MODEL_FILE),
+        get_model_name_by_file(VALIDATION_FILE),
 
         accuracy,
 
