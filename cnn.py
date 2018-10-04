@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 import warnings
 
-#warnings.simplefilter("ignore")
-#def warn(*args, **kwargs):
-   # pass
+warnings.simplefilter("ignore")
+def warn(*args, **kwargs):
+    pass
 
-#warnings.warn = warn
+warnings.warn = warn
 
 import sys
 import argparse

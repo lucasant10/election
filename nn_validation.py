@@ -10,6 +10,7 @@ import configparser
 import os
 import argparse
 import numpy as np
+
 from scipy import interp
 from political_classification import PoliticalClassification
 from sklearn.metrics import roc_curve, auc, classification_report, accuracy_score, precision_recall_fscore_support, f1_score, accuracy_score, recall_score, precision_score, confusion_matrix
@@ -22,7 +23,7 @@ import matplotlib
 matplotlib.use("agg")
 import matplotlib.pyplot as plt
 import seaborn as sns
-from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER
+from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, H5_FOLDER,SKL_FOLDER
 from bow_classifier import SEED
 from scipy.stats import norm
 
@@ -109,8 +110,8 @@ def plot_confusion_matrix (confusion_matrix_array):
     print (confusion_matrix_array)
 
     save_report_to_csv (REPORT_FOLDER + get_model_name_by_file(VALIDATION_FILE) +'_confusion_report.csv', [
-        'MultinomialNB', 
-        get_model_name_by_file(MODEL_FILE),
+        'CNN', 
+        get_model_name_by_file(H5_FILE),
         confusion_matrix_array[0][0],
         confusion_matrix_array[0][1],
         confusion_matrix_array[1][0],
@@ -131,7 +132,7 @@ def plot_confusion_matrix (confusion_matrix_array):
 
     ax = plt.subplot()
     
-    sn.heatmap(df_cm, annot=True, fmt='g', ax = ax, annot_kws={"size": 16})# font size
+    sns.heatmap(df_cm, annot=True, fmt='g', ax = ax, annot_kws={"size": 16})# font size
     
     # labels, title and ticks
     ax.set_xlabel('Predicted')
@@ -140,7 +141,7 @@ def plot_confusion_matrix (confusion_matrix_array):
     ax.yaxis.set_ticklabels(['Non Political', 'Political']) 
     ax.xaxis.set_ticklabels(['Non Political', 'Political'])
 
-    model_name = MODEL_FILE
+    model_name = H5_FILE
     
     model_name = model_name.replace ('.politics_ben.skl', '')
     model_name = model_name.replace (SKL_FOLDER, '')
@@ -242,7 +243,7 @@ if __name__ == "__main__":
 
     mean_auc, std_auc = generate_roc_curve (X, y_true, get_model_name_by_file(VALIDATION_FILE))
 
-    plot_confusion_matrix (confusion_matrix(y_true, y_pred))
+    #plot_confusion_matrix (confusion_matrix(y_true, y_pred))
 
     save_report_to_csv (REPORT_FOLDER + 'CNN_validation_report.csv', [ 
         'CNN',

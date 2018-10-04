@@ -165,21 +165,21 @@ if __name__ == "__main__":
                 file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
                 
                 # generate politics input file for model
-                with open(file_in_politics, 'w') as outfile:
+                with open(file_in_politics, 'w', encoding="utf-8") as outfile:
                     for fname in features:
                         politics_file = INPUT_FOLDER + fname + '_politics.txt'
                         # combine multiples politics input files
-                        with open(politics_file) as infile:
+                        with open(politics_file, encoding="utf-8") as infile:
                             for line in infile:
                                 outfile.write(line)
 
                 # generate non politics input file for model
-                with open(file_in_non_politics, 'w') as outfile:
+                with open(file_in_non_politics, 'w', encoding="utf-8") as outfile:
                     for fname in features:
                         non_politics_file = INPUT_FOLDER + fname + '_non-politics.txt'
 
                         # combine multiples non-politics input files
-                        with open(non_politics_file) as infile:
+                        with open(non_politics_file, encoding="utf-8") as infile:
                             for line in infile:
                                 outfile.write(line)
 
