@@ -6,7 +6,7 @@ import datetime
 def save_report_to_csv (file_name, features):
     print ('Saving %s' % (file_name))
     features.append (datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f"))
-    with open(file_name, 'a') as csvfile:
+    with open(file_name, 'a', encoding="utf-8") as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(features)
 
@@ -84,7 +84,7 @@ def load_validation_file_csv(validation_file):
     texts = list()
     y_true = list()
 
-    with open(validation_file, 'r') as csvfile:
+    with open(validation_file, 'r', encoding="utf-8") as csvfile:
     
         spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
         
