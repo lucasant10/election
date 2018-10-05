@@ -135,11 +135,11 @@ if __name__ == "__main__":
 
     data = list()
 
-    with open(POLITICS_FILE) as l_file:
+    with open(POLITICS_FILE, encoding="utf-8") as l_file:
         for line in l_file:
             data.append((line, 1.0))
 
-    with open(NON_POLITICS_FILE) as l_file:
+    with open(NON_POLITICS_FILE, encoding="utf-8") as l_file:
         for line in l_file:
             data.append((line, 0.0))
 

@@ -365,7 +365,7 @@ if __name__ == "__main__":
     tx_class = list()
 
     tmp = list()
-    with open(POLITICS_FILE) as l_file:
+    with open(POLITICS_FILE, encoding="utf-8") as l_file:
         for line in l_file:
             tmp.append(line)
             tx_class.append('politics')
@@ -373,7 +373,7 @@ if __name__ == "__main__":
     texts += tp.text_process(tmp, text_only=True)
 
     tmp = list()
-    with open(NON_POLITICS_FILE) as l_file:
+    with open(NON_POLITICS_FILE, encoding="utf-8") as l_file:
         for line in l_file:
             tmp.append(line)
             tx_class.append('non-politics')
