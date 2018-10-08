@@ -6,6 +6,7 @@ import glob
 from subprocess import call
 import os
 import argparse
+import csv
 
 ROOT_FOLDER = os.environ.get('ROOT_FOLDER','/Volumes/Data/eleicoes/')
 
@@ -21,6 +22,28 @@ REPORT_FOLDER = ROOT_FOLDER + 'report/'
 TMP_FOLDER = ROOT_FOLDER + 'tmp/' 
 
 MODEL_TYPE = 'all'
+
+
+def alreadyRanValidation (model, feature, fold):
+    try:
+        with open(OUTPUT_FOLDER + 'runs.csv', 'r', encoding="utf-8") as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
+            for row in spamreader:
+                if row[0] == '_'.join([model, feature, fold]):
+                    print ('%s already done!' % ('_'.join([model, feature, fold]))) 
+                    return True
+    except Exception as e:
+        pass
+
+    return False
+
+def confirmValidation (model, feature, fold):
+    with open(OUTPUT_FOLDER + 'runs.csv', 'a', encoding="utf-8") as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        spamwriter.writerow(['_'.join([model, feature, fold])])
+        
+    return False
+
 
 def pro_publica_classifier (file_in_politics, file_in_non_politics, validation_file):
     """
@@ -154,14 +177,15 @@ if __name__ == "__main__":
             features = sorted(list(input_))
 
             for i in range (0, 5):
+
+                if alreadyRanValidation (MODEL_TYPE, '_'.join(features), 'fold' + str(i)):
+                    continue
+
                 validation_file = INPUT_FOLDER + 'fold%s.csv' % (i)
 
                 print ('Validation file %s ' % (validation_file))
                 
-                
                 file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
-
-                
                 file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
                 
                 # generate politics input file for model
@@ -186,7 +210,11 @@ if __name__ == "__main__":
                 if 'S3' == ('_'.join(features)):
                     file_in_non_politics = TMP_FOLDER +'S2.nonpolitics'
 
+                print (file_in_politics)
+                print (file_in_non_politics)
+
                 if MODEL_TYPE == 'propublica' or MODEL_TYPE == 'all':
+                    
                     pro_publica_classifier (file_in_politics, file_in_non_politics, validation_file)
 
                 if MODEL_TYPE in ['svm', 'logistic', 'gradient_boosting', 'random_forest', 'bow'] or MODEL_TYPE == 'all':
@@ -198,6 +226,8 @@ if __name__ == "__main__":
 
                 if MODEL_TYPE == 'cnn' or MODEL_TYPE == 'all':
                     cnn_classifier (file_in_politics, file_in_non_politics, validation_file)
+                
+                confirmValidation (MODEL_TYPE, '_'.join(features), 'fold' + str(i))
             
     # python3 run.py -m all
     # python3 run.py -m propublica
