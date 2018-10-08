@@ -337,6 +337,7 @@ if __name__ == "__main__":
     texts = select_texts(texts)
 
     vocab = gen_vocab(word2vec_model)
+    
     X, y = gen_sequence(vocab, texts, tx_class)
 
     data = pad_sequences(X, maxlen=MAX_SEQUENCE_LENGTH)
