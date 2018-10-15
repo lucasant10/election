@@ -97,6 +97,14 @@ def gen_data(texts, tx_class):
                 emb += word2vec_model[word]
             except:
                 pass
+        
+        if not len (text):
+            # only links 
+            
+            print (i, texts[i])
+
+            continue
+            
         emb /= len(text)
         X.append(emb)
         y.append(y_map[tx_class[i]])
