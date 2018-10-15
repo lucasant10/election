@@ -82,10 +82,11 @@ def gen_data(texts):
                 pass
         if not len (text):
             # only links 
-            
+
+            text = '1'
             print (i, texts[i])
 
-            continue
+            #continue
 
         i +=1
         emb /= len(text)
