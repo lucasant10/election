@@ -81,9 +81,12 @@ def gen_data(texts):
             except:
                 pass
         if not len (text):
-            print (texts[i-1])
-            print (i)
-            exit(0)
+            # only links 
+            
+            print (i, texts[i])
+
+            continue
+
         i +=1
         emb /= len(text)
         X.append(emb)
@@ -155,6 +158,7 @@ if __name__ == "__main__":
         get_model_name (MODEL_FILE),
         get_model_name_by_file(MODEL_FILE),
         get_model_name_by_file(VALIDATION_FILE), 
+
         accuracy,
         
         p[0],
