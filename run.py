@@ -98,6 +98,55 @@ def bow_classifier (model, file_in_politics, file_in_non_politics, validation_fi
         "-f", "cbow_s300.txt"
     ])
 
+def generate_tmp_files (file_in_politics, file_in_non_politics):
+    # generate politics input file for model
+    with open(file_in_politics, 'w', encoding="utf-8") as outfile:
+        for fname in features:
+            politics_file = INPUT_FOLDER + fname + '_politics.txt'
+            # combine multiples politics input files
+            with open(politics_file, encoding="utf-8") as infile:
+                for line in infile:
+                    outfile.write(line)
+
+    # generate non politics input file for model
+    with open(file_in_non_politics, 'w', encoding="utf-8") as outfile:
+        for fname in features:
+            non_politics_file = INPUT_FOLDER + fname + '_non-politics.txt'
+
+            # combine multiples non-politics input files
+            with open(non_politics_file, encoding="utf-8") as infile:
+                for line in infile:
+                    outfile.write(line)
+
+def remake_S2 (current_validation):
+    politics = list()
+    non_politics = list ()
+
+    print ('Removing %s from training!' % (current_validation))
+
+    for i in range (1, 5):
+        if current_validation == i: continue
+
+        with open(INPUT_FOLDER + 'fold%s.csv' % (i), 'r') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
+            for row in spamreader:
+                text = row[0]
+                is_political = row[1]
+
+                if int(is_political):
+                    politics.append (row)
+                else:
+                    non_politics.append (row)
+
+    with open(INPUT_FOLDER + 'S2_politics.txt', 'w') as txt_politics:
+        for item in politics:
+            txt_politics.write (item[0] + '\r\n')
+
+
+    with open(INPUT_FOLDER + 'S2_non-politics.txt', 'w') as txt_non_politics:
+        for item in non_politics:
+            txt_non_politics.write (item[0] + '\r\n')
+
 def cnn_classifier (file_in_politics, file_in_non_politics, validation_file):
     print ('->>>> Running CNN for {}'.format(('_'.join(features))))
             
@@ -187,28 +236,15 @@ if __name__ == "__main__":
                 
                 file_in_politics = TMP_FOLDER + ('_'.join(features))+'.politics'
                 file_in_non_politics = TMP_FOLDER + ('_'.join(features))+'.nonpolitics'
+
+                remake_S2 (i)
                 
-                # generate politics input file for model
-                with open(file_in_politics, 'w', encoding="utf-8") as outfile:
-                    for fname in features:
-                        politics_file = INPUT_FOLDER + fname + '_politics.txt'
-                        # combine multiples politics input files
-                        with open(politics_file, encoding="utf-8") as infile:
-                            for line in infile:
-                                outfile.write(line)
-
-                # generate non politics input file for model
-                with open(file_in_non_politics, 'w', encoding="utf-8") as outfile:
-                    for fname in features:
-                        non_politics_file = INPUT_FOLDER + fname + '_non-politics.txt'
-
-                        # combine multiples non-politics input files
-                        with open(non_politics_file, encoding="utf-8") as infile:
-                            for line in infile:
-                                outfile.write(line)
+                generate_tmp_files (file_in_politics, file_in_non_politics)
 
                 if 'S3' == ('_'.join(features)):
                     file_in_non_politics = TMP_FOLDER +'S2.nonpolitics'
+                
+                #if 'S2' in ('_'.join(features)):
 
                 print (file_in_politics)
                 print (file_in_non_politics)
