@@ -104,7 +104,7 @@ def gen_data(texts, tx_class):
             print (i, texts[i])
 
             continue
-            
+
         emb /= len(text)
         X.append(emb)
         y.append(y_map[tx_class[i]])
@@ -229,6 +229,13 @@ def classification_model(X, Y, model_type=None):
     print("Model Type:", model_type)
     
     model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+
+    print('\n Best estimator:')
+    print(model.best_estimator_)
+
+    print('\n Best hyperparameters:')
+    print(model.best_params_)
+
 
     predictions = cross_val_predict(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS)
 
