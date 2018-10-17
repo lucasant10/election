@@ -3,6 +3,7 @@ import csv
 from run import SKL_FOLDER, REPORT_FOLDER, H5_FOLDER, NPY_FOLDER, TMP_FOLDER, INPUT_FOLDER
 import datetime
 
+
 def save_report_to_csv (file_name, features):
     print ('Saving %s' % (file_name))
     features.append (datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f"))
@@ -80,6 +81,79 @@ def load_file():
     y_true = [1 if i==u'política' else 0 for i in df.iloc[:,2]]
     
     return texts, y_true
+
+def save_hiperparameters(file, hiper):
+    file = open(file + '.hiper','w') 
+ 
+    file.write(hiper) 
+
+    file.close() 
+
+def load_hiperparameters(file):
+
+    try:
+        file = open(file + '.hiper', 'r') 
+    except Exception as error:
+        return False
+
+    data = ''
+
+    for line in file: 
+        data = data + line
+
+    file.close()
+
+    for model in ['GradientBoostingClassifier', 'LogisticRegression', 'RandomForestClassifier', 'SVC', 'linearSVC' ]:
+        data = data.replace (model, '')
+
+    data = data.strip()
+    data = data.replace ('(', '')
+    data = data.replace ("'", '')
+    data = data.replace (")", '')
+    data = data.replace ("\n", '')
+    data = data.replace (" ", '')
+    data = data.split (',')
+
+    hiper_p = dict()
+    for hp in data:
+        parameter = hp.split('=')
+        hiper_p[parameter[0]] = parameter[1]
+    
+    if 'learning_rate' in hiper_p:
+        hiper_p['learning_rate'] = float(hiper_p['learning_rate'])
+
+    if 'max_depth' in hiper_p:
+        hiper_p['max_depth'] = int(hiper_p['max_depth'])
+    
+    if 'max_features' in hiper_p:
+        hiper_p['max_features'] = int(hiper_p['max_features'])
+    
+    if 'min_samples_leaf' in hiper_p:
+        hiper_p['min_samples_leaf'] = int(hiper_p['min_samples_leaf'])
+    
+    if 'min_samples_split' in hiper_p:
+        hiper_p['min_samples_split'] = int(hiper_p['min_samples_split'])
+
+    if 'n_estimators' in hiper_p:
+        hiper_p['n_estimators'] = int(hiper_p['n_estimators'])
+    
+    if 'random_state' in hiper_p:
+        hiper_p['random_state'] = 42
+    
+    if 'C' in hiper_p:
+        hiper_p['C'] = int(hiper_p['C'])
+
+    if 'gamma' in hiper_p:
+        hiper_p['gamma'] = int(hiper_p['gamma'])
+    
+    if 'probability' in hiper_p:
+        hiper_p['probability'] = bool(hiper_p['probability'])
+    
+    if 'bootstrap' in hiper_p:
+        hiper_p['bootstrap'] = bool(hiper_p['bootstrap'])
+
+    return (hiper_p)
+
 
 def load_validation_file_csv(validation_file):
     print ('Loading CSV validation file...')

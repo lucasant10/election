@@ -33,12 +33,13 @@ import sklearn
 from collections import defaultdict
 from text_processor import TextProcessor
 from sklearn.grid_search import GridSearchCV
-from utils import save_report_to_csv, get_model_name_by_file
+from utils import save_report_to_csv, get_model_name_by_file, load_hiperparameters, save_hiperparameters
 from time import gmtime, strftime
 from run import PLOT_FOLDER, REPORT_FOLDER, TMP_FOLDER, SKL_FOLDER
 from scipy.stats import norm
 from sklearn.metrics.scorer import make_scorer
 import seaborn as sns
+from xgboost import XGBClassifier
 
 def log (text):
     print('{} -> {}'.format(strftime("%Y-%m-%d %H:%M:%S", gmtime()), text) ) 
@@ -54,6 +55,7 @@ param_grid = {
     },
     'logistic': {},
     'gradient_boosting': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
+    'xgboost': { 'n_estimators': [16, 32], 'learning_rate': [0.8, 1.0] },
     'svm':{'kernel': ['rbf', 'linear'], 'C': [1, 10], 'gamma': [0.001, 0.0001], 'probability':[True, True]}
 }
 
@@ -128,6 +130,8 @@ def select_texts(texts):
 
 
 def get_model(m_type=None):
+
+    
     if not m_type:
         print("ERROR: Please specify a model type!")
         return None
@@ -135,6 +139,8 @@ def get_model(m_type=None):
         logreg = LogisticRegression()
     elif m_type == "gradient_boosting":
         logreg = GradientBoostingClassifier()
+    elif m_type == "xgboost":
+        logreg = XGBClassifier()
     elif m_type == "random_forest":
         logreg = RandomForestClassifier()
     elif m_type == "svm":
@@ -228,22 +234,32 @@ def classification_model(X, Y, model_type=None):
     X, Y = shuffle(X, Y, random_state=SEED)
     print("Model Type:", model_type)
     
-    model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+    params = load_hiperparameters (POLITICS_FILE)
 
-    predictions = cross_val_predict(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS)
+    if not params:
+        model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+    else:
+        model = get_model(model_type)
+        model.set_params (**params)
 
-    try:
-        print('\n Best estimator:')
-        print(model.best_estimator_.items())
+    model.fit(X, Y)
 
-        print('\n Best hyperparameters:')
-        print(model.best_params_)
-    except Exception as error:
-        print (error)
-        print ('Nothind to do!')
-        pass
+    predictions = cross_val_predict(model, X, Y, cv=NO_OF_FOLDS)
 
-    scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
+    if params is None:
+        try:
+            print('\n Best estimator:')
+            print(model.best_estimator_)
+            save_hiperparameters (POLITICS_FILE, model.best_estimator_)
+
+            print('\n Best hyperparameters:')
+            print(model.best_params_)
+        except Exception as error:
+            print (error)
+            print ('Nothind to do!')
+            pass
+
+    scores1 = cross_val_score(model, X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
     print("Precision(avg): %0.3f (+/- %0.3f)" %(scores1.mean(), scores1.std() * 2))
 
@@ -373,6 +389,8 @@ if __name__ == "__main__":
     path = dict(cf.items("file_path"))
     dir_w2v = path['dir_w2v']
     dir_in = path['dir_in']
+
+    
 
     word2vec_model = gensim.models.KeyedVectors.load_word2vec_format(dir_w2v + W2VEC_MODEL_FILE,
                                                                      binary=False,
