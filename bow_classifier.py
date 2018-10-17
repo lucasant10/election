@@ -234,7 +234,7 @@ def classification_model(X, Y, model_type=None):
 
     try:
         print('\n Best estimator:')
-        print(model.best_estimator_)
+        print(model.best_estimator_.items())
 
         print('\n Best hyperparameters:')
         print(model.best_params_)
@@ -242,7 +242,7 @@ def classification_model(X, Y, model_type=None):
         print (error)
         print ('Nothind to do!')
         pass
-        
+
     scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
     print("Precision(avg): %0.3f (+/- %0.3f)" %(scores1.mean(), scores1.std() * 2))
