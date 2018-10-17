@@ -237,7 +237,7 @@ def classification_model(X, Y, model_type=None):
     params = load_hiperparameters (POLITICS_FILE)
 
     if not params:
-        model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
+        model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=3)
     else:
         model = get_model(model_type)
         model.set_params (**params)
