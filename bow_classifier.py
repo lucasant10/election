@@ -230,15 +230,19 @@ def classification_model(X, Y, model_type=None):
     
     model = GridSearchCV(estimator=get_model(model_type), param_grid=param_grid[model_type], n_jobs=-1, verbose=0)
 
-    print('\n Best estimator:')
-    print(model.best_estimator_)
-
-    print('\n Best hyperparameters:')
-    print(model.best_params_)
-
-
     predictions = cross_val_predict(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS)
 
+    try:
+        print('\n Best estimator:')
+        print(model.best_estimator_)
+
+        print('\n Best hyperparameters:')
+        print(model.best_params_)
+    except Exception as error:
+        print (error)
+        print ('Nothind to do!')
+        pass
+        
     scores1 = cross_val_score(model.fit(X, Y), X, Y, cv=NO_OF_FOLDS, scoring='precision_weighted')
     
     print("Precision(avg): %0.3f (+/- %0.3f)" %(scores1.mean(), scores1.std() * 2))
